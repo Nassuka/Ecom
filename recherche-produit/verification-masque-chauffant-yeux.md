@@ -39,3 +39,29 @@
 - Le concurrent américain tient parce que son coût de départ est beaucoup plus bas (produit expédié de Chine, estimation).
 - Pour que ça marche : coût rendu ≤ 18-22 € (ROAS d'équilibre 2,1 à 2,5).
 - Pistes : prix de gros auprès d'un vendeur UE, entrepôt CJ en Europe, ou livraison depuis la Chine en express (délai ≤ 9 jours à vérifier sur la page produit CJ).
+
+## Mise à jour : 2e recherche AliExpress (filtre UE, « eye massager heat air pressure »)
+Annonces expédiées depuis l'UE, « Shipped locally, no extra duties », livraison gratuite :
+| Annonce | Prix | Ventes / note | Remarque |
+|---|---|---|---|
+| Heated Eye Mask USB (alvéoles rouges) | **14,19 €** | **152 vendus, 4,3/5** | Masque chauffant USB simple, sans massage ni Bluetooth ; le plus éprouvé |
+| Electric Eye Massager with Heat, « spa 2-en-1 NANOMIST + chaleur » | **22,39 €** | 1 vendu (« early bird, 4 restants ») | Équivalent sans marque du Renpho à brume ; visuels déjà en français ; non éprouvé |
+| Electric Eye Massager with… (bleu, notes de musique) | 31,85 € | 8 vendus, 5/5 | Type musique + massage |
+| USB Electric Heating 3D | 31,79 € | 4 vendus, 1/5 | À éviter |
+| Autres masques USB chauffants (3D, HailiCare avec vibration et minuteur…) | non lus | | À ouvrir |
+
+### Marge (mêmes formules : 3 % de frais de paiement, 12,3 % de cotisations, à vérifier)
+| Scénario | Prix | Coût rendu | Coefficient | Marge avant pub | ROAS d'équilibre |
+|---|---|---|---|---|---|
+| Masque USB simple | 29,90 € | 14,19 € | ×2,1 | 11,14 € | 2,7 |
+| Masque USB simple | 34,90 € | 14,19 € | ×2,5 | 15,37 € | 2,3 |
+| Coffret cadeau USB (+3 € d'accessoire) | 39,90 € | 17,20 € | ×2,3 | 16,60 € | 2,4 |
+| **Brume + chaleur** | **49,90 €** | 22,39 € | ×2,2 | 19,88 € | **2,5** |
+| Brume + chaleur | 54,90 € | 22,39 € | ×2,5 | 24,11 € | 2,3 |
+| Brume + chaleur | 59,90 € | 22,39 € | ×2,7 | 28,35 € | 2,1 |
+
+### Lecture
+- Le **masque USB simple** passe sur la marge mais c'est un produit courant (Amazon.fr 17,99 à 32,99 €) : peu de différenciation, marge avant pub de 11 à 15 €.
+- Le **modèle brume + chaleur à 22,39 €** est le plus intéressant : positionné sous Renpho (54,99 à 99,99 €), marge de 20 à 28 €. Mais une seule vente sur l'annonce : il faut un **échantillon** et un prix de gros.
+- Points à vérifier avec le vendeur : CE, batterie (UN38.3), réservoir de brume, manuel en français, délai réel, stock, prix pour 20 à 50 pièces.
+- Les allégations visibles sur les visuels (« soulage la fatigue oculaire », « hydratation profonde ») sont à ne pas reprendre : on vend « pause » et « cadeau ».
