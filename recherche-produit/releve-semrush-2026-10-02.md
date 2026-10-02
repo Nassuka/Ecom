@@ -18,12 +18,26 @@
 | digital camera y2k | 90 | 17 | 0,32 | irrégulière |
 | christmas tree light ring | 70 | 23 | 0,00 | pic marqué |
 
-## Base FR : NON EXPLOITABLE pour l'instant
-- Les métriques n'avaient pas été rafraîchies (« For metrics, refresh » ; KD « n/a ») et 4 lignes étaient vides (masseur yeux chauffant, anneau fascia, guirlande cascade sapin, protection pare-brise magnétique).
-- Les valeurs visibles (0 ou 20) sont peu crédibles pour des produits comme le chauffe-mains : il faut vérifier que le pays sélectionné est bien **France** puis cliquer sur **Update metrics**.
-- À refaire, puis tester des variantes de mots-clés français.
+## Base FR (relevé corrigé : la 1re capture était encore en base US)
 
-## Lecture provisoire (US seulement)
-- La demande de recherche sous-estime les produits « impulsion » vendus par la vidéo (masseur yeux, anneau fascia) : on ne conclut pas sur les petits volumes.
-- Mots-clés US faibles à reformuler : digital camera y2k, christmas tree light ring.
-- Aucune note de la short-list modifiée à ce stade.
+| Mot-clé FR | Volume | KD % | CPC (USD) | Courbe (miniature) | Rapport FR / US |
+|---|---|---|---|---|---|
+| kit crochet débutant | 2 900 | 13 | 0,16 | pic | 66 % |
+| collier lumineux chien | 2 400 | 23 | 0,13 | pic | 185 % |
+| lampe chauffe bougie | 2 400 | 20 | 0,15 | pic net | **5 %** |
+| chauffe-mains rechargeable | 260 | 27 | 0,27 | pic | 11 % |
+| peigne massage cuir chevelu | 110 | 6 | 0,20 | irrégulière, plutôt en hausse | 28 % |
+| anneau fascia | 50 | 27 | 0,12 | pic au début de la période puis retombée | 29 % |
+| appareil photo numérique rétro | 40 | non chargé | 1,01 (non fiable) | irrégulière | 44 % (provisoire) |
+| guirlande cascade sapin | 20 | non chargé | | pic | n/a |
+| protection pare-brise magnétique | 0 | non chargé | | plate | 0 % (provisoire) |
+| masseur yeux chauffant | non chargé | | | | |
+
+## Lecture (estimations)
+- Repère : la France compte environ 1/5 de la population des US. Si le volume FR est **nettement sous 20 % du volume US**, la tendance est en retard chez nous (c'est l'écart recherché). Si il est proche ou au-dessus, la demande est déjà installée en France.
+- **Lampe chauffe-bougie** : seul vrai écart net (5 %), avec 2 400 recherches/mois en France et une difficulté faible. À vérifier côté Meta et fournisseur.
+- **Chauffe-mains** : écart (11 %) mais volume FR faible (260) et produit déjà vendu en France.
+- **Kit crochet** et **collier LED chien** : demande FR déjà forte (2 900 et 2 400), pas d'écart. Marché installé, concurrence probable ; le collier LED pose en plus un problème de prix de vente (voir `fournisseurs/stock-ue-top5.md`).
+- **Anneau fascia, peigne de massage** : petits volumes des deux côtés, cohérents avec des produits d'impulsion vendus par la vidéo ; la recherche Google ne tranche pas, il faut la bibliothèque Meta et TrendTrack.
+- CPC Google Ads FR très bas (0,12 à 0,27 $) : peu d'annonceurs, donc un test Google Shopping futur coûterait peu (à confirmer).
+- Aucune note de la short-list modifiée à ce stade. Reste à charger : masseur yeux, guirlande cascade, pare-brise, appareil photo.
