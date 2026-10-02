@@ -45,6 +45,17 @@ Sources dans `formation/synthese.md` §5.
 - Noms de boutique : `docs/nom-boutique.md`, top 5 Nidette, Douce Pause, Rubanie, Cocon Malin, Jolie Pioche. Domaines vérifiés par DNS, pas par RDAP : à confirmer à l'achat. INPI/EUIPO à vérifier par le porteur.
 - Le porteur fera demain les formalités (activité à la micro, Meta Business Manager).
 
+**Suite (SEMrush et niche 40+)**
+- Relevé SEMrush US/FR complet : `recherche-produit/releve-semrush-2026-10-02.md`.
+  - Vocabulaire à utiliser : « masque chauffant yeux » (1 600/mois), « anneau de fascia » (590).
+  - Lampe chauffe-bougie : seul vrai écart FR/US (5 %).
+  - Appareil photo rétro : demande déjà installée et marge faible, rétrogradé.
+- Idée du porteur : niche **40-50 ans et plus** (femmes d'abord, hommes si possible). Deux recherches : `recherche-produit/niche-femmes-40plus.md` et `niche-hommes-40plus.md`.
+  - Résultat : aucun produit nouveau au-dessus de 75/100, les gagnants sont déjà dans la short-list.
+  - Angle principal : **cadeau pour sa mère / son père** offert par l'enfant adulte. Meta interdit de s'adresser à la santé ou à l'âge.
+  - Recherches sans accès aux pages (proxy), donc estimations à vérifier.
+- Étape suivante du porteur : bibliothèque publicitaire Meta (6 produits prioritaires), puis Google Trends.
+
 **Prochaines étapes (urgentes vu le nouveau calendrier)**
 - **Porteur de projet** :
   - données SEMrush US/FR, avec le score de niche prix ÷ CPC ;

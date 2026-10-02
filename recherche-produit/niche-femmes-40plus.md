@@ -240,4 +240,107 @@
 - **Angles conformes [E]** : « La poche qui chauffe » ; « Le cadeau à glisser dans une poche de manteau » ; coffret « 1 pour toi, 1 pour elle ».
 - **Verdict** : **réserve** ; valeur sûre, marge basse, concurrent dominant.
 
-<!-- FIN -->
+## 5. Règles publicitaires Meta pour cette niche
+
+**Ce qui est sourcé [S, extraits de résultats de recherche ; la page officielle `transparency.meta.com` n'a pas pu être ouverte]** :
+- Les annonces ne doivent pas affirmer ou **laisser entendre des attributs personnels** : âge, santé physique ou mentale (y compris maladies), handicap, etc. Meta recommande de se concentrer sur les bénéfices du produit ([Meta : attributs personnels](https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/)).
+- Exemples de Meta : « Dépression, ça va mal ? » est refusé ; « Diabète : nouveau traitement » est accepté.
+- Pour l'âge : on ne peut pas dire « Maintenant que vous avez la quarantaine, vous avez besoin de ce produit » ni « Rencontrez d'autres adolescents » ([adsuploader.com, résumé en français](https://adsuploader.com/fr/blog/meta-ad-guidelines)).
+- Meta a retiré en 2022 le ciblage détaillé par santé, handicap, religion et opinions politiques ([Usine Digitale](https://www.usine-digitale.fr/editorial/meta-met-fin-au-ciblage-publicitaire-lie-a-la-sante-a-la-religion-et-a-la-politique-sur-ses-reseaux-sociaux.N1158727)).
+- Les visuels « avant/après » qui insistent sur la transformation du corps sont restreints (même source adsuploader.com ; page officielle « Santé et bien-être » : [lien](https://transparency.meta.com/policies/ad-standards/restricted-goods-services/health-wellness/)).
+
+**Ce que je conseille [E], à confirmer à la soumission des annonces [V]** :
+
+| À éviter (refus probable) | Pourquoi | Formulation conforme |
+|---|---|---|
+| « Femmes de 40 ans et plus », « à votre âge », « après 50 ans » | Âge assumé | « Pour elle », « Pour maman », « Pour toi » (sans âge) |
+| « Vos bouffées de chaleur », « ménopause », « vos nuits blanches » | Santé assumée | « Une pause », « un moment pour soi » |
+| « Vos douleurs à la nuque », « arthrose », « vos mains qui fatiguent » | Santé assumée | « Chaleur sur les épaules, mains libres » |
+| « Vos cheveux qui tombent » | Santé / physique | (ne pas aborder) |
+| « Maman a mal aux mains, offrez-lui… » (cadeau) | **Laisse entendre des informations médicales sur un proche** | « Le petit cadeau pratique pour la cuisine » |
+| Photo « avant/après » du visage ou du corps | Restreint | Avant/après de **décor** (canapé nu / canapé cosy) ou de l'objet en action |
+| Interpeller le lecteur : « Tu as froid ? Tu es fatiguée ? » | Suppose un état | Décrire le produit : « La chaleur en 15 secondes » |
+
+**Ciblage [E]** : la tranche d'âge est un paramètre de ciblage, pas un contenu d'annonce ; rester sur des intérêts larges (cadeaux, décoration, loisirs créatifs). À vérifier dans le gestionnaire d'annonces. Les créas IA (Higgsfield, Seedance, Nano Banana) ne doivent pas montrer de fausses « avant/après » ni de faux témoignages.
+
+**Allégations santé à bannir sur toute la boutique (pages produit comprises)** : soulage, guérit, traite, douleur, arthrose, ménopause, bouffées de chaleur, yeux secs, circulation, repousse, minceur, anti-rides ([DGCCRF](https://www.economie.gouv.fr/dgccrf), à vérifier).
+
+---
+
+## 6. Angles publicitaires conformes par produit (résumé)
+
+| Produit | Hook 1 (démo) | Hook 2 (cadeau) | Hook 3 (ambiance) |
+|---|---|---|---|
+| P1 Masque yeux chauffant | « 15 minutes pour soi » | « Le cadeau qui dit : repose-toi » | « La pause du soir » |
+| P17 Châle chauffant | « Chaud en 15 secondes » (après test) | « Pour elle : un câlin qui chauffe » | « Le châle du canapé » |
+| P9 Ouvre-bocal | « Le bocal qui résiste n'a plus aucune chance » | « Le petit cadeau utile de la cuisine » | « Mains libres » |
+| P4 Lampe chauffe-bougie | « La bougie qui fond sans flamme » | Coffret « Soirée cocon » | « Allume la lampe, l'ambiance fait le reste » |
+| P5 Kit crochet | « Ton premier amigurumi » | « Un kit à crocheter ensemble » | « Un moment à soi » |
+| P2 Bouillotte nuque | « La chaleur sur les épaules, mains libres » | « Pour le télétravail » | « Le plaid qu'on porte » |
+| P3 Chauffe-mains | « La poche qui chauffe » | « 1 pour toi, 1 pour elle » | « Pour les marchés de Noël » |
+
+---
+
+## 7. Angles et offres « cadeau pour sa mère » (Noël)
+
+Tous parlent de **l'enfant adulte qui offre** (A2) et de la mère à la 3ᵉ personne, sans âge ni santé.
+
+1. **Coffret « Pour elle, pour une fois »** [E] : masque chauffant yeux + carte message + emballage cadeau. Accroche : « Le cadeau qui dit : repose-toi. » Prix 44,90 € ; la carte est imprimée **chez toi ou en carte numérique** (voir angle 2), car le fournisseur dropshipping ne l'ajoutera pas.
+2. **Carte message et message vocal** [E] : à la commande, l'acheteur écrit un mot ; il est imprimé en carte envoyée avec le colis (stock de cartes chez toi) **ou** livré par e-mail le 24/12 avec un QR code vers un message vocal. Coût quasi nul, pas de risque de conformité, forte valeur émotionnelle. Remarque : un produit **personnalisé** n'ouvre pas la rétractation [V] : ici la carte est un plus, pas le produit.
+3. **Duo « Soirée cocon »** [E] : châle chauffant + lampe chauffe-bougie. Prix bundle 69,90 € au lieu de 84,80 € (−18 %), coût rendu ~31 € [E], coefficient ×2,25 : à n'utiliser que si le coût réel le permet, **sinon livraison offerte seulement**. Accroche : « Une soirée entière de cocon, déjà emballée. »
+4. **Offre « Maman & moi » / participation à plusieurs** [E] : « Deuxième exemplaire à −15 % pour toi » et lien de **cagnotte à partager entre frères et sœurs** (A2 achète souvent à plusieurs). Une seule commande avec livraison chez la mère.
+5. **Garantie livraison avant Noël + emballage cadeau neutre** [E] : date limite de commande affichée (à calculer avec les délais Colissimo/transporteur, **à vérifier [V]**, vers le 15-17/12), emballage cadeau offert, facture et prix **non joints**, choix de la date d'arrivée. C'est ce qui rassure l'enfant adulte avec un dropshipping.
+
+**Pour A1 (« Offre-toi »)** [E] : même coffret avec l'accroche **Black Friday** « Offre-toi la pause que tu repousses depuis l'été » : attention, « que tu repousses » suppose un comportement ; préférer « Offre-toi une pause. ».
+
+**Calendrier [E]** : A1 pic au Black Friday (27/11) ; A2 du 1ᵉʳ au 15/12 ; budget pub plus faible en décembre pour les produits à livraison > 3 jours.
+
+## 8. Short-list actuelle : quoi garder, retirer, ajouter pour cette niche
+
+Note de la short-list (`produits-q4-historiques.md`) → note recalculée ici avec les prix FR et la présence en France constatés.
+
+| Produit de la short-list | Pré-note | Fit niche (A1 / A2 / hommes) | Décision | Raison |
+|---|---|---|---|---|
+| Masseur yeux chauffant (« masque chauffant yeux ») | 82 | 4 / 5 / 4 | **GARDER (n°1)** → 77 | Cadeau idéal ; utiliser le mot « masque chauffant yeux ». Amazon.fr à 17,99 € = pression sur le prix. |
+| Lampe chauffe-bougie | 66 | 4 / 4 / 1 | **GARDER** → 66 | Seul écart FR/US net (5 %) ; en coffret. |
+| Kit crochet débutant | 73 | 4 / 4 / 1 | **GARDER en réserve** → 66 | C6 revu à 2 (2 900 recherches FR, kits à 20-24 €). |
+| Chauffe-mains rechargeables | 67 | 4 / 3 / 4 | **GARDER en réserve** → 64 | Marge basse, Ocoopa domine ; utile en upsell. |
+| Peigne de massage cuir chevelu | 74 | 3 / 3 / 2 | **Réserve** → 61 | Cible plausible (cheveux fins) mais angle bloqué par les interdits ; preuve = tendance de recherche. |
+| Anneau fascia vibrant | 81 | 2 / 2 / 4 | **RETIRER de la niche** → 65 | Angle sport/minceur ; Amazon.fr 25-29 € ; risque Meta sur le corps. |
+| Collier LED chien | 77 | 1 / 1 / 2 | **RETIRER** | Hors cible ; Action le vend 2,99 € (`fournisseurs/stock-ue-top5.md`). |
+| Appareil photo Y2K (+ mini imprimante) | 75 | 1 / 2 / 2 | **RETIRER** | Cible ados ; déjà rétrogradé par SEMrush (marge ×1,8-2,5). La mini imprimante seule (64) reste un upsell cadeau petits-enfants. |
+| Cascade lumineuse sapin | 76 | 3 / 3 / 3 | **RETIRER de l'axe niche** | 230 V, fenêtre courte, présent en grande distribution FR. Neutre, pas spécifique 40+. |
+| Couvre-pare-brise magnétique | 73 | 1 / 1 / 4 | **RETIRER** | 0 recherche FR (SEMrush), orienté hommes ; garder uniquement pour un éventuel test hors-niche. |
+
+**À ajouter pour la niche** (non notés dans la short-list) :
+1. **Châle / écharpe chauffant(e) USB** (72) : à échantillonner d'abord (preuve US faible).
+2. **Ouvre-bocal électrique** (67) : produit « pratique + démo » ; à sourcer.
+3. **Bouillotte nuque sans fil** (64) : option si la ligne « chaleur » marche (sinon redondant avec le châle).
+4. **Masque de sommeil Bluetooth** (64) et **mini imprimante photo** (64) : upsells possibles, pas produits principaux.
+
+**Adaptation hommes 40-50+** : le masque yeux, le chauffe-mains et la bouillotte nuque fonctionnent sans changement de produit ; il suffit de varier les créas (même texte sans « pour elle »). Le châle, la lampe et le crochet sont peu adaptés.
+
+**Proposition de test [E]** (budget ~650 € de pub, ≈ 200-250 € par produit) : **P1 masque yeux** en coffret ; **P17 châle chauffant** (si échantillon concluant) ; **P4 lampe chauffe-bougie** en coffret. Ne pas lancer si aucun fournisseur UE ne permet un coefficient ≥ 3 : **la marge est déjà juste (ROAS d'équilibre ~2)**.
+
+---
+
+## 9. Non vérifié, limites et prochaines actions
+
+**Non vérifié (honnêtement)** :
+1. **Forums (Doctissimo, Magicmaman, Reddit) et leurs formulations exactes** : domaines inaccessibles ; les « mots » cités viennent d'extraits d'articles et de témoignages repris par des sites de santé, et **n'ont pas été relus sur leur page**. Plusieurs chiffres (80 % des femmes ménopausées, 23,5 % des télétravailleurs, 700 000 nouveaux presbytes par an, 30-40 % de cheveux fins, 72 % de préférence pour le personnalisé, 83 % de Facebook chez les 45-54 ans) sont des **extraits de recherche sans page source relue**, donc à considérer comme indicatifs.
+2. **Amazon.fr, Cdiscount, Kalodata, TheGoodList, QuickSync, Meta (`transparency.meta.com`) bloqués** : tous les prix FR (Amazon, Cdiscount, Leroy Merlin, Fnac, Maisons du Monde) et tous les volumes TikTok Shop viennent d'**extraits de moteur de recherche**, pas de pages ouvertes. Prix et stocks changent tous les jours.
+3. **Fournisseurs** : aucune fiche CJ, AliExpress, BigBuy ou VidaXL consultée pour les produits P17, P9, P4, P5, P2, P3 ; **aucun coût rendu ni stock UE n'est confirmé** (les coûts sont des estimations). Les pistes UE du dépôt ne concernent que P1 et P6.
+4. **Bibliothèque publicitaire Meta (pubs FR) et TrendTrack** : non consultés. La colonne C6 (écart US/FR) repose sur SEMrush et la présence en boutique, **pas sur le nombre d'annonceurs Meta**.
+5. **SEMrush** : aucun volume relevé pour P17, P9, P2, P8, P13 ; seuls les mots-clés du relevé du 02/10/2026 sont utilisés. À relever : « châle chauffant », « écharpe chauffante », « ouvre bocal électrique », « bouillotte nuque ».
+6. **Règles Meta** : lues dans des résumés ; seule la soumission réelle d'une annonce confirme. Les formulations proposées peuvent encore être refusées.
+7. **Conformité** : les exigences (CE, RED, LVD, UN38.3, DEEE, étiquetage textile, écoconception des ampoules, produits personnalisés) sont des **points à vérifier** auprès des sources officielles et des fournisseurs ; je n'ai lu aucune déclaration de conformité.
+8. **Notes C1 à C8** : estimations de ma part ; C5 est la plus fragile pour P17, P2, P7, P10, P11, P13 (aucun volume de ventes lu).
+9. **Avis réels de femmes 40+ sur Amazon.fr** : non lus (site bloqué) ; les « problèmes » reposent donc sur des articles et des titres, pas sur des avis clients.
+
+**Prochaines actions [E]** :
+1. Chercher des fournisseurs UE (CJ filtre entrepôt Germany/Poland/Spain, AliExpress « envoyé depuis ») pour **P1 masque yeux**, **P17 châle chauffant**, **P4 lampe chauffe-bougie** ; viser un coût rendu ≤ 15 €.
+2. Commander 1 échantillon par produit retenu ; mesurer délai, qualité, notice FR, surchauffe du châle.
+3. Relever dans SEMrush les mots-clés manquants (point 5) et dans la bibliothèque Meta (pays France) les annonceurs actifs pour « masque chauffant yeux », « lampe chauffe bougie », « châle chauffant ».
+4. Créer la carte message et la page « Date limite de commande Noël » (angle cadeau 5).
+5. Vérifier auprès de l'éco-organisme DEEE et de GPSR pour les produits électriques avant la mise en ligne.
+
