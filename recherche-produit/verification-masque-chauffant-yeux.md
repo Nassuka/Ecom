@@ -38,7 +38,7 @@
 - **Avec le stock UE visible (~31 €), le masque ne passe pas** : coefficient ×1,5 et seuil de rentabilité pub à 5, très au-dessus de ce qu'une pub à froid atteint en général (hypothèse ; les vidéos évoquent 1,5 à 3).
 - Le concurrent américain tient parce que son coût de départ est beaucoup plus bas (produit expédié de Chine, estimation).
 - Pour que ça marche : coût rendu ≤ 18-22 € (ROAS d'équilibre 2,1 à 2,5).
-- Pistes : prix de gros auprès d'un vendeur UE, entrepôt CJ en Europe, ou livraison depuis la Chine en express (délai ≤ 9 jours à vérifier sur la page produit CJ).
+- Pistes : prix dropshipping négocié avec un vendeur UE (remise selon le nombre de commandes par mois), entrepôt CJ en Europe, ou livraison depuis la Chine en express (délai ≤ 9 jours à vérifier sur la page produit CJ).
 
 ## Mise à jour : 2e recherche AliExpress (filtre UE, « eye massager heat air pressure »)
 Annonces expédiées depuis l'UE, « Shipped locally, no extra duties », livraison gratuite :
@@ -62,6 +62,6 @@ Annonces expédiées depuis l'UE, « Shipped locally, no extra duties », livrai
 
 ### Lecture
 - Le **masque USB simple** passe sur la marge mais c'est un produit courant (Amazon.fr 17,99 à 32,99 €) : peu de différenciation, marge avant pub de 11 à 15 €.
-- Le **modèle brume + chaleur à 22,39 €** est le plus intéressant : positionné sous Renpho (54,99 à 99,99 €), marge de 20 à 28 €. Mais une seule vente sur l'annonce : il faut un **échantillon** et un prix de gros.
-- Points à vérifier avec le vendeur : CE, batterie (UN38.3), réservoir de brume, manuel en français, délai réel, stock, prix pour 20 à 50 pièces.
+- Le **modèle brume + chaleur à 22,39 €** est le plus intéressant : positionné sous Renpho (54,99 à 99,99 €), marge de 20 à 28 €. Mais une seule vente sur l'annonce : il faut commander **un échantillon** (comme une commande normale) et demander un prix dropshipping.
+- Points à vérifier avec le vendeur : CE, batterie (UN38.3), réservoir de brume, manuel en français, délai réel, stock, prix dropshipping par commande (remise possible avec le volume).
 - Les allégations visibles sur les visuels (« soulage la fatigue oculaire », « hydratation profonde ») sont à ne pas reprendre : on vend « pause » et « cadeau ».

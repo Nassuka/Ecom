@@ -63,6 +63,6 @@ Recherche : "lampe chauffe-bougie" (phrase exacte), France, toutes les publicit�
 **Lecture**
 - Demande réelle (2 400 recherches/mois en France, 260 pubs actives aux US) et concurrence française naissante sur Meta (un annonceur qui teste), mais produit banal : 19,99 € sur Amazon.fr.
 - Warmora vend le même produit 2 à 2,5 fois plus cher grâce à la marque, aux visuels et au positionnement « rituel ».
-- À 31,42 € de coût la marge est nulle ; il faut un **coût rendu de 17 à 20 €** (grossiste UE).
+- À 31,42 € de coût la marge est nulle ; il faut un **coût rendu de 17 à 20 €** (fournisseur dropshipping UE).
 - Idée du porteur à retenir : **coffret lampe + bougie ou huile parfumée + carte** (panier plus élevé, angle cadeau).
 - À vérifier : lampe 230 V (CE, basse tension), ampoule remplaçable, verre, instructions en français.

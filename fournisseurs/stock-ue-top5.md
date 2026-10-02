@@ -1,5 +1,7 @@
 # Fournisseurs avec stock UE — top 5 de la short-list
 
+> **Correction du 02/10/2026 : le modèle est le dropshipping pur.** Les lignes « Plan B / stock propre » (achat de pièces à l'avance, envoi depuis chez soi) et les notions de MOQ ou de prix de gros sont **écartées**. Le coût de référence est le prix dropshipping par commande (produit + livraison vers le client) facturé par le fournisseur.
+
 > Recherche du **02/10/2026** (date de consultation de toutes les URL ci-dessous). Les prix et les stocks changent tous les jours : **tout est à reconfirmer** au moment de commander.
 >
 > **Méthode et limites (important)** : depuis l'environnement de recherche, les sites des fournisseurs (CJ Dropshipping, BigBuy, AliExpress, Alibaba, AutoDS, Spocket, Syncee, Zendrop, VidaXL, VEVOR) et des marketplaces (Amazon.fr, Cdiscount, eBay) étaient **bloqués** en accès direct (WebFetch et `curl` refusés par le proxy réseau, erreur 403). Les chiffres viennent donc des **extraits du moteur de recherche** (titre + extrait de la fiche) : ils sont sourcés par l'URL de la fiche, mais n'ont pas pu être vérifiés en ouvrant la page. Aucune page de catalogue CJ filtrée par entrepôt n'a pu être consultée.
@@ -315,24 +317,32 @@ Checklist :
 
 ---
 
-## Messages types à envoyer aux vendeurs AliExpress / CJ (ajout du 02/10/2026)
+## Messages types pour les fournisseurs (dropshipping, ajout du 02/10/2026)
 
-> Le message est à adapter à chaque produit. Ne jamais envoyer d'identifiants ni de coordonnées bancaires.
+> Adapter chaque message au produit. Ne jamais envoyer d'identifiants ni de coordonnées bancaires.
+> Principe : le client commande sur ma boutique, je transmets la commande au fournisseur, qui expédie directement au client. Aucun stock à acheter ; seul l'échantillon se commande comme une commande normale.
 
-**Pour la lampe chauffe-bougie** (à envoyer à 3 vendeurs)
-Hello, I am starting an online shop in France. I am interested in your candle warmer lamp (link: …). Could you please tell me:
-1. Do you have stock in an EU warehouse (which country)? Real delivery time to France?
-2. Price per unit for 20, 50 and 100 pieces, delivered to France?
-3. Is the lamp CE marked (LVD/EMC), 230 V EU plug, bulb included and replaceable? Can you send the certificates?
-4. Can I buy one sample first, and can you send it with plain packaging (no supplier invoice or logo)?
-5. Do you provide an instruction manual in French?
+**Lampe chauffe-bougie**
+Hello, I am starting an online shop in France and I would like to work with you as a dropshipping partner for your candle warmer lamp (link: …). Customers order on my shop, I forward each order to you, and you ship directly to the customer. Could you please tell me:
+1. Do you accept dropshipping orders (one unit per order, customer address, neutral packaging, no invoice or price list in the parcel)?
+2. Which warehouse ships to France (EU?), the processing time, the delivery time to France, and do you give a tracking number?
+3. Your dropshipping price per unit, delivered to France (shipping included)? Is there a discount when I send more orders per month (for example 10, 50, 100)?
+4. Is the lamp CE marked (LVD/EMC) with an EU plug, bulb included? Can you send the certificates and a French manual?
+5. What is your policy for defective or damaged items (replacement or refund)?
+6. Can I order one sample to test the quality?
 Thank you.
 
-**Pour le masseur yeux chaleur + brume** (annonce à 22,39 €)
-Hello, I am starting an online shop in France and I am interested in your eye massager with heat and mist (link: …). Could you please tell me:
-1. Is the stock in an EU warehouse? Real delivery time to France?
-2. Price per unit for 10, 30 and 50 pieces, delivered to France?
-3. Battery type and certificates (CE, UN38.3, MSDS)? Water tank safety information?
-4. Can I buy one sample first with plain packaging?
+**Masseur yeux chaleur + brume** (annonce à 22,39 €)
+Hello, I am starting an online shop in France and I would like to work with you as a dropshipping partner for your eye massager with heat and mist (link: …). Customers order on my shop, I forward each order to you, and you ship directly to the customer. Could you please tell me:
+1. Do you accept dropshipping orders (one unit per order, neutral packaging, no invoice in the parcel)?
+2. Is the stock in an EU warehouse? Processing time, delivery time to France, tracking number?
+3. Your dropshipping price per unit delivered to France? Is there a discount with more orders per month?
+4. Battery type and certificates (CE, UN38.3, MSDS)? Water tank safety information?
 5. Do you have a French manual, a warranty and a return policy for defective items?
+6. Can I order one sample first?
 Thank you.
+
+## Où trouver un meilleur prix dropshipping en Europe
+- **CJ Dropshipping** : filtre « Ship From » sur un entrepôt européen (Allemagne, puis « More »), ou **sourcing request** (CJ cherche le produit et le stocke dans son entrepôt).
+- **BigBuy** et **vidaXL / dropXL** : programmes de dropshipping avec stock en UE (abonnement éventuel, à vérifier).
+- **Vendeurs AliExpress** : leur prix affiché est un prix de détail ; demander un prix « dropshipping partner » après quelques commandes.
