@@ -312,3 +312,27 @@ Checklist :
 > Thank you, I look forward to your reply.
 > Best regards,
 > [Prénom Nom] – [nom de la boutique] – France
+
+---
+
+## Messages types à envoyer aux vendeurs AliExpress / CJ (ajout du 02/10/2026)
+
+> Le message est à adapter à chaque produit. Ne jamais envoyer d'identifiants ni de coordonnées bancaires.
+
+**Pour la lampe chauffe-bougie** (à envoyer à 3 vendeurs)
+Hello, I am starting an online shop in France. I am interested in your candle warmer lamp (link: …). Could you please tell me:
+1. Do you have stock in an EU warehouse (which country)? Real delivery time to France?
+2. Price per unit for 20, 50 and 100 pieces, delivered to France?
+3. Is the lamp CE marked (LVD/EMC), 230 V EU plug, bulb included and replaceable? Can you send the certificates?
+4. Can I buy one sample first, and can you send it with plain packaging (no supplier invoice or logo)?
+5. Do you provide an instruction manual in French?
+Thank you.
+
+**Pour le masseur yeux chaleur + brume** (annonce à 22,39 €)
+Hello, I am starting an online shop in France and I am interested in your eye massager with heat and mist (link: …). Could you please tell me:
+1. Is the stock in an EU warehouse? Real delivery time to France?
+2. Price per unit for 10, 30 and 50 pieces, delivered to France?
+3. Battery type and certificates (CE, UN38.3, MSDS)? Water tank safety information?
+4. Can I buy one sample first with plain packaging?
+5. Do you have a French manual, a warranty and a return policy for defective items?
+Thank you.
