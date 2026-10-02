@@ -85,3 +85,14 @@ Recherche : "lampe chauffe-bougie" (phrase exacte), France, toutes les publicit�
 
 **Marge cible** (3 % de frais de paiement, 12,3 % de cotisations, à vérifier) : vendu 44,90 €, coût par commande ≤ 20 € (seuil de rentabilité pub 2,5) ; vendu 39,90 €, coût ≤ 17 € environ.
 **Reste à faire** : prix de Middo et des annonceurs US, variantes FR, SEMrush FR/US, fournisseurs (AliExpress filtre UE, CJ entrepôt UE).
+
+**Prix constatés (porteur, 02/10/2026)** : Middo (France) **59,95 €** pour 1 châle ; Aloueta (États-Unis) **69,99 $**.
+
+**Coût par commande maximum (dropshipping, livraison comprise) pour un ROAS d'équilibre donné** (3 % de frais de paiement, 12,3 % de cotisations, à vérifier) :
+| Prix de vente | Coût max pour ROAS 2,5 | Coût max pour ROAS 2,0 |
+|---|---|---|
+| 59,95 € (prix Middo) | 26,8 € | 20,8 € |
+| 54,90 € | 24,5 € | 19,1 € |
+| 49,90 € | 22,3 € | 17,3 € |
+Exemples à 59,95 € : coût 20 € → marge 30,78 € (seuil de rentabilité pub 1,9) ; coût 25 € → 25,78 € (2,3) ; coût 30 € → 20,78 € (2,9).
+Lecture : le prix de marché (60 €) laisse de la marge si le coût fournisseur est de 20 à 25 € ; reste à trouver ce coût.
