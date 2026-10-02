@@ -27,3 +27,11 @@ Variantes françaises à tester (non faites) : "masque yeux chauffant", "masseur
 - Demande de masseur yeux **prouvée sur Meta aux US** (320 pubs, un annonceur qui tourne depuis février).
 - **Aucun annonceur français** sur la phrase exacte : écart US/FR, comme pour la lampe chauffe-bougie. À confirmer avec les variantes.
 - Reste à vérifier : fiche produit Sakerplus (prix, lots, livraison), fournisseur à stock UE, marge.
+
+## Lampe chauffe-bougie : France (capture du porteur)
+Recherche : "lampe chauffe-bougie" (phrase exacte), France, toutes les publicités, statut Actives. Nombre total de résultats non visible sur la capture (à relever).
+- **Warmora** (boutique warmora.me), pub active, **début le 01/10/2026, « Temps actif total : 23 heures »** : annonceur tout juste lancé, rien ne prouve encore que ça vend.
+- Texte : « Le jour, une jolie lampe. Le soir, un rituel : sa lumière chaude fait fondre la cire de votre bougie et libère son parfum, sans flamme. Minuterie 2 h, 4 h ou 8 h, elle s'éteint toute seule. »
+- Visuel : « Ce n'est pas une lampe. Enfin... pas seulement. Lampe + chauffe-bougie en un. » ; lien « Le jour une lampe, le soir un rituel », **44,90 € · livraison offerte**, bouton Acheter.
+- Lecture : un concurrent français vend exactement ce produit sur Meta depuis hier, à 44,90 € ; la fenêtre de lancement se referme (d'autres peuvent arriver). L'angle « lampe déco le jour + rituel le soir + sans flamme + minuterie » est à reprendre autrement (cadeau, coffret avec bougie et carte).
+- À faire : relever le nombre de résultats, ouvrir la page warmora.me (prix, lots, délai, avis), tester les variantes et la recherche US.
