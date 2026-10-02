@@ -42,3 +42,35 @@
 - **Masseur yeux chauffant, pare-brise magnétique, appareil photo rétro** : très peu ou pas de recherches avec ces mots exacts ; les Français utilisent peut-être d'autres termes (variantes à tester). Le CPC de 1,01 $ de l'appareil photo suggère des annonceurs qui enchérissent.
 - CPC Google Ads FR très bas (0,12 à 0,27 $ hors appareil photo) : peu d'annonceurs, donc un test Google Shopping futur coûterait peu (à confirmer).
 - Aucune note de la short-list modifiée à ce stade. Reste : variantes de mots-clés pour 4 produits, Google Trends, bibliothèque Meta.
+
+## Variantes testées (même jour, 22 puis 30 requêtes sur 1 000)
+
+**Base France**
+
+| Mot-clé FR | Volume | KD % | CPC (USD) | Remarque |
+|---|---|---|---|---|
+| appareil photo vintage | 3 600 | 12 | 1,29 | Gros volume, CPC élevé |
+| appareil photo numérique compact | 2 900 | 29 | 0,29 | |
+| **masque chauffant yeux** | **1 600** | 11 | 0,28 | Le mot que les Français utilisent (« masseur yeux chauffant » : aucun volume connu) |
+| **anneau de fascia** | **590** | 23 | 0,11 | 12 fois plus que « anneau fascia » (50) ; pic en début de période puis retombée |
+| masseur oculaire | 260 | 19 | 0,23 | |
+| masseur yeux | 140 | 14 | 0,21 | |
+| anneau lumineux sapin | 30 | 22 | 0,00 | |
+| guirlande lumineuse sapin cascade | 10 | 7 | 0,00 | |
+| couvre pare-brise | 0 | 15 | 0,10 | |
+| brosse massage crâne, bâche pare-brise antigel, ceinture fascia | n/a | 17-21 | n/a | Aucun volume connu |
+
+**Base US**
+
+| Mot-clé US | Volume | KD % | CPC (USD) |
+|---|---|---|---|
+| retro digital camera | 4 400 | 17 | 0,53 |
+| vintage digital camera | 4 400 (non rafraîchi) | | 0,53 |
+| christmas tree ring lights | 70 | 23 | 0,00 |
+| tree topper waterfall lights | n/a | | |
+
+## Conclusions SEMrush (estimations)
+- **Le vocabulaire compte** : pour les pages et les pubs, utiliser « masque chauffant yeux » (1 600) et « anneau de fascia » (590).
+- **Appareil photo rétro** : demande déjà installée en France (3 600 contre 4 400 aux US pour « vintage/retro »), donc pas d'écart, et marge faible chez les fournisseurs (×1,8 à ×2,5). Rétrogradé.
+- **Couvre pare-brise et guirlande/anneau sapin** : quasi aucune recherche, produits d'impulsion saisonniers. Passent après les autres.
+- Reste à faire : Google Trends (5 ans, France) et bibliothèque publicitaire Meta.
