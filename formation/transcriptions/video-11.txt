@@ -1,0 +1,1231 @@
+Vidéo 11: Nous sommes en train de vivre un des
+0:01
+plus gros basculements de l'histoire du
+0:03
+business en ligne et la plupart des gens
+0:05
+ne l'ont même pas encore remarqué. Il y
+0:06
+a 2 ans encore, se lancer dans
+0:08
+l'e-commerce quand on débutait, c'était
+0:10
+plusieurs semaines voire même plusieurs
+0:12
+mois de travail pour commencer à avir
+0:13
+les premiers résultats, souvent
+0:15
+malheureusement peu concluants. Mais en
+0:17
+2026, grâce à LIA, ce temps a été divisé
+0:19
+par 10 mais les résultats derrière
+0:21
+multipliés par 100. Et comme on vit dans
+0:23
+un monde plein de mensonges où la parole
+0:25
+seule ne compte plus, voici la preuve
+0:27
+réelle en live que ce que je dis est
+0:29
+vrai. Pour le prouver, j'ai lancer en
+0:31
+live 2 une marque de sel pour vélo il y
+0:33
+a 2 mois. Donc ce produit tout banal qui
+0:35
+apaise les fesses pendant des longues
+0:37
+sorties de vélo. Et ce produit et bien
+0:39
+je l'ai trouvé grâce à un prompte donné
+Connection Claude x Shopify
+0:41
+à Claud qui est allé chercher lui-même
+0:42
+sur AliExpress ce produit en question.
+0:44
+En plus de ça, il m'a également fait
+0:46
+toute une recherche approfondie de
+0:47
+marché de mon avatar client, de mon
+0:49
+positionnement idéal, de mon offre, de
+0:51
+mes prix. absolument tout ce que je
+0:52
+devais savoir sur ce produit, comment le
+0:54
+vendre, à qui et surtout de quelle
+0:56
+manière. Temps au total écoulé pour la
+0:58
+recherche produit 15 minutes. Et
+0:59
+ensuite, une fois que j'avais
+1:00
+sélectionné ce produit et bien je me
+1:02
+suis créé un compte Shopify comme
+1:04
+n'importe qui. Sachant que les trois
+1:05
+premiers mois sont à seulement 1 € par
+1:07
+mois, donc je ne prenais aucun risque.
+1:09
+Et j'ai ensuite connecté cette nouvelle
+1:10
+boutique Shopify à Claude via le MCP qui
+1:13
+est donc un connecteur qui permet à
+1:15
+Claude de travailler directement sur ma
+1:16
+boutique Shopify à ma place. À ce
+1:18
+moment-là, ça doit faire 20 minutes que
+1:20
+je travaille et je vais quand même pas
+1:21
+faire le site moi-même. Donc, je demande
+1:23
+poliment à Claude de le faire à ma place
+1:24
+en allant d'abord analyser le site de
+1:26
+tous mes concurrents et des best
+1:28
+practices en e-commerce. Il part donc au
+1:30
+travail et me propose trois maquettes
+1:31
+différentes dans des univers
+1:32
+complètement différents. Je sélectionne
+1:34
+celle que j'aime le plus et lui dit
+1:36
+"Construis-le sur Shopify à ma place,
+1:38
+s'il te plaît." Toujours rester très
+1:39
+poli. 10 minutes plus tard et quelques
+1:41
+petites modifications légères. Voici mon
+1:43
+site final cagespin.com. Il me reste
+1:45
+maintenant le marketing parce qu'un beau
+1:47
+site si personne ne vient dessus et bien
+1:49
+autant ne pas avoir de site du tout.
+1:50
+Alors pour cette étape, je connecte la
+1:52
+plateforme de génération d'images et
+1:54
+vidéos Xfield à mon cloud à nouveau via
+1:56
+le MCP et je lui demande donc de
+1:58
+retourner voir toutes les meilleures
+2:00
+publicités de mes concurrents et de
+2:01
+reproduire des publicités similaires. On
+2:03
+parle donc de 10 images statiques
+2:05
+générées avec Nano Banana et une vidéo
+2:07
+UGCIA avec VEO 3.1. Et ensuite tous ces
+2:10
+visuels et bien je vais les lancer en
+2:12
+publicité sur MTA avec un budget de 30 €
+2:14
+par jour. Et à partir de là et bien
+2:16
+j'attends patiemment les premiers
+2:17
+résultats et la première vente tombe
+2:19
+très rapidement. Ce n'est déjà pas
+2:20
+rentable évidemment. Les dépenses
+2:22
+publicitaires sont plus élevées que la
+2:23
+marge de mon produit mais les données
+2:25
+sont relativement bonnes. Alors, je
+2:27
+laisse simplement tourner encore
+2:28
+quelques jours et je fais de nouvelles
+2:29
+créatives avec la plateforme Xfilm.
+2:31
+Ouais, OK. C'est Claude qui l'ai fait à
+2:32
+ma place. Moi, je dis OK. Ensuite,
+2:34
+pendant les 20 premiers jours de test,
+2:36
+et bien je fais un petit peu plus de
+2:37
+2000 € de vente, mais je suis break
+2:39
+even, c'est-à-dire que j'ai autant gagné
+2:41
+que j'ai dépensé et donc je n'ai pas
+2:43
+véritablement gagné d'argent. Mais et
+2:45
+c'est un ma extrêmement important à
+2:47
+intégrer, je sais maintenant ce qui
+2:48
+fonctionne avec mes publicités. Je fais
+2:50
+des changements et des optimisations sur
+2:52
+mon site et je peux désormais passer à
+2:54
+la phase plus agressive de scaling. Et
+2:56
+le résultat seulement 13 jours plus
+2:58
+tard, soit le 33e jour, je passe la
+3:00
+barre des 10000 € de chiffre d'affaires.
+3:03
+Bien évidemment, ce qui nous intéresse
+3:04
+maintenant et bien c'est la rentabilité.
+3:06
+Alors là voici chiffre d'affaires généré
+3:08
+entre le 8 juin et le 16 juillet 2026
+3:10
+donc ce qui représente 38 jours. Chiffre
+3:12
+d'affaires TTC 13484
+3:15
+€ 2248 € de TVA coût produit 4088 € ma
+3:21
+3935 € abonnement et crédit Xfield 50 €
+3:25
+et Shopify Payments 33 € ce qui nous
+3:28
+donne donc une marge nette finale de
+3:29
+2830 € soit 20,9 % de marge et dans tout
+3:33
+ça un seul remboursement. Les chiffres
+3:35
+sont déjà extrêmement convaincants après
+3:37
+seulement un mois, mais objectif
+3:38
+maintenant du deuxème mois, venir
+3:40
+augmenter la marge à 30 % ou plus. Ce
+3:42
+qui nous amène donc à maintenant
+3:44
+aujourd'hui, au moment où je tourne
+3:45
+cette vidéo, nous sommes au 65e jour de
+3:47
+cette marque et nous sommes mesdames
+3:49
+messieurs à 43000 € en 65 jours de vente
+3:52
+et le Paris a été tenu 31 % de marge
+3:54
+nette sur juillet, soit 843 € de profit
+3:58
+uniquement sur ce mois. Toute cette
+3:59
+étude de cas, c'est pour vous montrer le
+4:01
+contraste et la rapidité à laquelle ça
+4:03
+peut aller. Parce que rendez-vous compte
+4:04
+qu'il y a à peine quelques mois, il
+4:06
+fallait trouver un produit à la main et
+4:07
+prier pour que ce soit le bon. Il
+4:09
+fallait apprendre à faire un site tout
+4:10
+seul. Il fallait ensuite galérer sur les
+4:12
+visuels sur Canva ou Photoshop,
+4:14
+comprendre comment faire une publicité
+4:16
+et évidemment la plupart des gens
+4:17
+abandonnaient avant même d'avoir fini.
+4:19
+Aujourd'hui, tout ça, je pèse mes mots,
+4:20
+ça a vraiment changé parce que chacune
+4:22
+de ces étapes et bien l'intelligence
+4:24
+artificielle peut en faire une énorme
+4:26
+partie à votre place, que ce soit la
+4:27
+recherche de produits, la boutique, les
+4:29
+visuels, les publicités. Alors dans
+4:30
+cette vidéo, je vais vous montrer tout
+4:32
+le processus de la recherche produit
+4:33
+jusqu'à la publicité en vous montrant
+4:35
+exactement où Lia intervient à chaque
+4:37
+étape. Et à la fin de cette vidéo, vous
+4:39
+saurez exactement comment vous lancerz
+4:40
+dans l'ecommercia, mais surtout avant
+4:42
+tout le monde. C'est parti.
+Trouver son produit gagnant avec l'IA
+4:47
+La recherche produit, c'est l'étape la
+4:48
+plus importante de tout le processus et
+4:50
+de loin parce que vous pouvez avoir la
+4:51
+plus belle boutique du monde, les
+4:53
+meilleure publicité. Si votre produit
+4:55
+est mauvais et bien vous ne vendrez
+4:56
+rien. Alors qu'à l'inverse, un bon
+4:57
+produit et bien ça pardonne énormément
+4:59
+d'erreur. Et donc c'est ici que tout
+5:00
+commence, c'est ici qu'il ne faut pas se
+5:02
+rater. Alors déjà avant de se lancer,
+5:04
+c'est quoi un bon produit ? Et bien un
+5:05
+bon produit, c'est un produit qui coche
+5:07
+trois cases. Premièrement, il règle un
+5:09
+vrai problème. Deuxièmement, il a ce
+5:11
+qu'on appelle un X factor. Donc c'est ce
+5:12
+petit truc qui fait qu'on s'arrête quand
+5:14
+on va scroller sur une publicité ou bien
+5:16
+une vidéo organique. Et finalement
+5:17
+troisème point, il peut se vendre assez
+5:19
+cher pour que vous puissiez gagner de
+5:20
+l'argent une fois la publicité payée. Je
+5:22
+vous donne un exemple concret. Ce petit
+5:24
+produit là et bien c'est un dilatateur
+5:26
+nasal magnétique. En gros, ça se fixe
+5:28
+sur le nez et ça vient ouvrir les
+5:30
+narines pour vous aider à mieux
+5:31
+respirer.
+5:33
+[grognement]
+5:38
+Ça a l'air tout bête comme ça, mais
+5:39
+regardez comment ça coche toutes les
+5:40
+cases. Un, ça règle un vrai problème.
+5:42
+Les gens qui respirent mal par le nez,
+5:44
+qui ronfl ou bien qui dorment mal à
+5:46
+cause de ça, et bien c'est énorme comme
+5:47
+marché. Numéro 2, le X Factor est là. On
+5:49
+n pas l'habitude de voir ça, ça
+5:51
+intrigue, ça arrête le scroll, mais
+5:53
+qu'est-ce qu'il a sur le nez ? Et numéro
+5:54
+3, et bien ça peut se vendre cher.
+5:56
+Regardez cet exemple, c'est donc un kit
+5:57
+qui se vend à 50 60 dollars. Et donc
+5:59
+voilà exactement le type de produit
+6:01
+qu'on recherche. Mais maintenant la
+6:02
+vraie question c'est comment est-ce
+6:03
+qu'on trouve ce genre de pépite avant
+6:05
+que tout le monde se mette à le ventre ?
+6:06
+Alors avant honnêtement et bien c'était
+6:08
+pas si évident que ça. Il fallait passer
+6:10
+des heures à scroller au feeling en
+6:11
+espérant tomber sur le bon. Vous ouvriez
+6:13
+des dizaines d'onglets AliExpress, vous
+6:15
+notiez des idées dans le coin, des des
+6:17
+inspirations de l'intuition et
+6:19
+malheureusement la plupart du temps,
+6:20
+vous ne saviez pas vraiment si le
+6:21
+produit allait se vendre avant de le
+6:23
+tester. Alors qu'aujourd'hui et bien Lia
+6:24
+change complètement la donne et je vais
+6:26
+vous montrer exactement comment. Mais
+6:27
+juste avant de parler à Lia, il faut
+6:29
+comprendre où est-ce qu'on va chercher
+6:30
+ces produits parce qu'il y a deux grands
+6:32
+endroits. Le premier, il est gratuit. Ça
+6:33
+s'appelle la Facebook Ads Library. C'est
+6:35
+donc une bibliothèque publique où vous
+6:37
+allez pouvoir voir toutes les publicités
+6:39
+actives de n'importe quelle marque sur
+6:41
+Facebook et Instagram. Et la logique
+6:42
+derrière c'est que savoir ça, ça va vous
+6:44
+permettre de trouver des produits à
+6:46
+vendre. Parce que si une marque dépense
+6:47
+de l'argent en publicité sur un produit
+6:49
+depuis plusieurs semaines avec plusieurs
+6:51
+publicités, et bien ça veut dire que ce
+6:53
+produit se vend et que la marque gagne
+6:54
+de l'argent parce que logiquement
+6:56
+derrière personne ne brûle du budget
+6:57
+publicitaire sur un produit qui ne
+6:59
+marche pas. Et donc au lieu de deviner,
+7:00
+vous regardez ce qui rapporte déjà de
+7:02
+l'argent là maintenant. Le deuxième
+7:04
+endroit où vous pouvez trouver des
+7:05
+produits et bien c'est tout simplement à
+7:06
+la source. C'est gratuit et c'est sur
+7:08
+AliExpress. Et donc maintenant voilà
+7:10
+pour la méthode. Il y a un outil qui
+7:11
+s'appelle Cloud Cowork. Pour faire très
+7:13
+simple, c'est Tunia Unia à qui vous
+7:14
+pouvez déléguer des tâches un peu comme
+7:16
+si vous aviez un assistant virtuel. Et
+7:18
+ce qui est complètement fou c'est que
+7:19
+cette IA peut littéralement prendre le
+7:21
+contrôle de votre ordinateur. Elle peut
+7:22
+ouvrir votre navigateur, elle peut
+7:24
+cliquer, elle peut naviguer sur les
+7:26
+sites exactement comme le ferait un
+7:27
+humain. Et donc vous pouvez simplement
+7:29
+lui demander d'aller sur la Facebook ad
+7:31
+Library ou bien sûr AliExpress et de
+7:33
+faire toute la recherche pour vous à
+7:34
+votre place. Vous lui parlez normalement
+7:36
+comme à quelqu'un, vous lui dites
+7:37
+quelque chose comme "Va sur la Facebook
+7:39
+AS Library et analyse les publicités qui
+7:42
+tournent dans la niche du bien-être et
+7:44
+du sommeil. Je cherche un produit qui
+7:46
+règle un vrai problème avec un facteur X
+7:48
+et qui pourrait se vendre assez cher au
+7:49
+moins 30 40 € avec une marge de X 3 ou X
+7:52
+4. Et rien qu'à partir de ça, LIA, elle
+7:54
+va naviguer, elle va analyser, elle va
+7:56
+vous faire un rapport avec des produits
+7:58
+qui cochent déjà vos cases et derrière
+8:00
+et bien le travail qui vous prenait un
+8:01
+après-midi entier et bien Li le fait
+8:03
+pendant que vous faites autre chose ou
+8:04
+bien simplement vous tournez les doigts
+8:05
+en attendant.
+Créer la boutique avec l'IA
+8:09
+Ensuite, maintenant qu'on a notre
+8:11
+produit et bien il faut une boutique
+8:12
+pour le vendre. Et là, jusqu'à
+8:13
+maintenant et bien c'était souvent le
+8:14
+moment où les débutants bloquaient parce
+8:16
+que dans leur tête et bien créer un
+8:17
+site, ça veut dire savoir coder ou bien
+8:19
+devoir payer un développeur une fortune.
+8:21
+Mais la bonne nouvelle c'est que tout ça
+8:23
+c'est terminé. Aujourd'hui, il y a de
+8:24
+construire votre boutique quasiment
+8:26
+entièrement à votre place, que ce soit
+8:27
+la structure du site, les fiches
+8:29
+produits, les descriptions, les
+8:30
+collections, absolument tout. Et pour
+8:32
+tout ça, il vous faut seulement deux
+8:33
+choses. La première, c'est la plateforme
+8:35
+sur laquelle votre boutique va vivre.
+8:36
+Nous on utilise Shopify, c'est le
+8:38
+standard et c'est ce que tout le monde
+8:39
+utilise. Et la deuxième chose et bien
+8:41
+c'est la qui va construire la boutique
+8:42
+en utilisant Shopify. Et c'est là que ça
+8:44
+devient très intéressant parce qu'on va
+8:45
+pouvoir venir brancher clos directement
+8:47
+sur Shopify. Et quand je dis brancher,
+8:49
+c'est littéralement brancher parce qu'il
+8:51
+existe une nouvelle technologie qui
+8:52
+s'appelle un connecteur. Et pour vous la
+8:54
+faire très simple, c'est donc un pont
+8:55
+entre Lia et votre boutique. Et une fois
+8:58
+que ce pont est construit et bien Claude
+8:59
+peut agir sur votre boutique à votre
+9:01
+place. Et là tout d'un coup, si vous
+9:02
+prenez des heures avant et bien vous le
+9:04
+demandez juste à Lia et il exécute que
+9:06
+ce soit créer une fiche produit et créer
+9:07
+une description qui donne envie
+9:08
+d'acheter et optimiser pour les moteurs
+9:10
+de recherche, créer vos collections,
+9:12
+ajouter des variantes de couleur ou bien
+9:13
+de taille, générer des codes promos,
+9:15
+vous ne touchez même plus à l'interface
+9:17
+Shopify, vous parlez à Cloud et il
+9:19
+exécute à votre place. Concrètement pour
+9:21
+notre exemple du dilatateur nasal, vous
+9:23
+lui diriez quelque chose comme créer la
+9:25
+fiche produit de notre dilatateur nasal
+9:27
+magnétique et créer une description qui
+9:28
+met en avant le fait qu'on respire mieux
+9:30
+et qu'on dort mieux avec les deux
+9:32
+variantes de couleur noir et transparent
+9:34
+et rangeela dans une collection sommeil
+9:36
+et bien-être. Et derrière et bien il
+9:37
+vous construit tout ça en quelques
+9:38
+secondes. Ce qui prenait des semaines
+9:40
+entières à un débutant il y a encore
+9:41
+quelques mois et bien se fait maintenant
+9:43
+en un après-midi si c'est votre première
+9:45
+fois et en seulement une quinzaine de
+9:46
+minutes si c'est déjà votre deuxième
+9:48
+fois. Et ensuite, pour ce qu'il en est
+9:49
+de votre site, vous lui demandez
+9:50
+simplement d'aller observer les sites de
+9:52
+vos concurrents, d'aller regarder les
+9:53
+best practice en e-commerce, de vous
+9:55
+proposer des maquettes avant de
+9:56
+développer véritablement le site. Vous
+9:58
+validez ensuite la maquette qui vous
+9:59
+plaît le plus et vous lui demandez
+10:00
+simplement "Go, je préfère la maquette
+10:02
+numéro 2, développe-moi" sur Shopify
+10:05
+directement. Et si quelque chose ne vous
+10:06
+convient pas, que ce soit le texte, le
+10:08
+titre, une image, quoi que ce soit, vous
+10:10
+lui demandez de le changer et il le fait
+10:12
+directement. Et maintenant, une fois que
+10:13
+votre site sera prêt, il vous manquera
+10:15
+encore quelque chose d'essentiel parce
+10:16
+que une boutique sans beau visuel et
+10:18
+bien ça ne vend pas. Alors, on passe
+10:19
+donc au visuel.
+Génération des images produit avec l'IA
+10:24
+Les visuels, c'est ce qui fait la
+10:25
+différence entre une boutique qui
+10:26
+inspire confiance et une boutique qui
+10:28
+fait fuir les clients. Parce que soyons
+10:29
+honnête, quand vous arrivez sur un site
+10:31
+avec des photos moches, floues, mal
+10:33
+cadrées, qu'est-ce que vous faites ? Et
+10:34
+bien, vous partez directement. Et bien
+10:35
+pour vos clients, c'est pareil. Et donc
+10:37
+avant, pour avoir de beaux visuels et
+10:38
+bien c'était un vrai problème quand on
+10:40
+débutait. Soit vous pouviez commander le
+10:41
+produit, vous attendiez de semaines
+10:43
+qu'il arrive et derrière vous allez
+10:44
+essayer de le prendre en photo vous-même
+10:46
+dans votre salon. Soit autre option,
+10:48
+vous pouviez payer un photographe en
+10:50
+studio et ça vous coûtait très cher.
+10:51
+Alors qu'aujourd'hui Lia peut faire ça à
+10:53
+votre place depuis votre canapé et le
+10:55
+résultat est complètement hallucinant.
+10:57
+Vous pouvez vraiment à l'heure actuelle
+10:58
+générer des visuels produits dignes des
+11:00
+plus grandes marques e-commerce sans
+11:02
+jamais avoir à toucher ni même voir le
+11:04
+produit sans studio, sans photographe,
+11:05
+sans budget. Et pour générer ces images
+11:07
+et bien il y a quelques outils qui
+11:09
+sortent vraiment du lot en ce moment.
+11:10
+Les deux meilleurs modèles aujourd'hui,
+11:11
+c'est Nano Banana Pro de Google et GPT
+11:14
+Image. Et le plus beau dans tout ça,
+11:15
+c'est qu'on peut rester dans le même
+11:17
+environnement que pour la boutique.
+11:18
+Parce que souvenez-vous à l'étape
+11:19
+d'avant, on avait branché Claude sur
+11:21
+notre Shopify. Et bien figurez-vous
+11:22
+qu'on peut aussi brancher Cloud sur un
+11:24
+outil de génération d'images qui
+11:25
+s'appelle Xfield avec le même principe
+11:27
+de connecteur. Et donc résultat, vous
+11:29
+demandez vos visuel, il les génère dans
+11:31
+Xfield et il peut même les envoyer
+11:33
+directement sur les fiches produits de
+11:34
+votre boutique Shopify. Le tout depuis
+11:36
+une seule conversation. Et donc, est-ce
+11:38
+que vous commencez à voir la logique une
+11:40
+fois que tous vos outils sont branchés à
+11:41
+l'IA ? Et bien, tout se pilote au même
+11:43
+endroit simplement en discutant avec une
+11:45
+mais à nouveau, tout ça ne sert pas
+11:47
+vraiment à grand-chose si personne ne
+11:48
+vient véritablement sur votre site avec
+11:50
+l'intention d'acheter. Et pour ça et
+11:52
+bien il vous faut du marketing, de la
+11:54
+publicité, ramener des gens sur votre
+11:56
+site. C'est le maire de la guerre et
+11:57
+c'est justement là que devient une arme
+11:59
+redoutable. On passe maintenant au
+12:01
+créative.
+Les créatives publicitaires
+12:05
+On arrive à l'étape la plus importante
+12:06
+de toutes, les créatives. Une créative,
+12:08
+c'est tout simplement le visuel ou bien
+12:10
+la vidéo qu'on va pouvoir mettre dans
+12:11
+une publicité. Et donc, c'est la
+12:13
+première chose que les clients vont voir
+12:14
+de vous, de votre marque, de votre
+12:16
+produit, avant même votre prix, avant
+12:17
+même votre site, avant même de savoir ce
+12:19
+que vous vendez. Et donc, je vais être
+12:21
+très clair avec vous. C'est la créative
+12:22
+qui décide à elle seule si votre
+12:24
+publicité marche ou pas, si vous allez
+12:26
+gagner de l'argent ou pas. Parce qu'à
+12:27
+nouveau, vous pouvez avoir le meilleur
+12:29
+produit et la meilleure boutique du
+12:30
+monde si votre créative n'arrête pas le
+12:32
+scroll. personne ne cliquera dessus,
+12:33
+personne ne viendra sur votre site. Et
+12:35
+donc c'est vraiment ici que tout se joue
+12:37
+et c'est là que l'A est redoutable parce
+12:39
+qu'avant et bien produire des publicités
+12:40
+c'était long et surtout cher. Alors
+12:42
+qu'aujourd'hui vous pouvez en générer
+12:43
+autant que vous voulez en une matinée et
+12:45
+pour seulement quelques euros. Il y a
+12:47
+deux grandes familles de créatives. Je
+12:48
+vais vous montrer les deux. La première
+12:50
+c'est les images. C'est ce qu'on appelle
+12:51
+des statiques. Donc des images
+12:53
+statiques. Et une statique c'est donc
+12:54
+une image fixe avec un visuel fort et un
+12:57
+texte court qui accroche. Et donc le
+12:58
+genre d'image qui va vous faire
+12:59
+comprendre le message en une seconde
+13:01
+même sans son. Et pour créer ces images,
+13:03
+et bien LIA peut faire tout le travail à
+13:05
+votre place. Il suffit d'utiliser Cloud
+13:06
+plus le connecteur Xfield pour générer
+13:08
+ses images. Pareil que pour la
+13:10
+génération de visuel dont on vient de
+13:11
+parler en étape 3. Donc par exemple pour
+13:13
+notre dilatateur nasal, il pourrait vous
+13:15
+sortir une image avant après. Quelqu'un
+13:17
+qui dort mal puis quelqu'un qui dort
+13:19
+paisiblement ou bien ça pourrait être
+13:20
+une image avec une grosse accroche du
+13:22
+type et si le problème c'était votre
+13:24
+respiration avec le produit à côté. En
+13:26
+littéralement quelques minutes top
+13:27
+chrono et quelques centimes d'euros
+13:29
+dépensés, vous aurez des dizaines de
+13:31
+visuels différents prêts à être testés
+13:33
+sans même avoir ouvert un seul logiciel
+13:35
+de design. Maintenant, la deuxième
+13:36
+famille et c'est celle qui impressionne
+13:37
+le plus les gens et bien c'est ce qu'on
+13:39
+appelle la vidéo UGC en i. En UGC c'est
+13:42
+quoi ? Et bien c'est le format de vidéo
+13:43
+où une personne parle face caméra et
+13:45
+vous recommande un produit. Donc c'est
+13:46
+comme si une copine ou bien un copain
+13:48
+vous disait "Franchement ce truc a
+13:49
+changé ma vie. Regarde comment il
+13:51
+fonctionne, c'est incroyable. Achète-le
+13:52
+aussi." C'est vraiment un des formats
+13:54
+les plus puissants en publicité.
+13:55
+aujourd'hui parce que ça ne fait
+13:56
+justement pas publicité, c'est
+13:58
+authentique, ça fait recommandation par
+14:00
+quelqu'un qui n'est pas payé
+14:01
+véritablement pour le faire. Mais à
+14:02
+nouveau, le problème c'est que avant et
+14:04
+bien il fallait trouver un EGC, il
+14:06
+fallait trouver un acteur, il fallait le
+14:07
+payer, lui envoyer le produit, le
+14:09
+filmer, monter la vidéo, lui faire des
+14:11
+retours et donc c'était des centaines
+14:12
+d'euros et facilement de tr semaines
+14:14
+d'attente pour une seule vidéo. Alors
+14:16
+que à nouveau aujourd'hui, on peut créer
+14:18
+exactement la même vidéo entièrement
+14:19
+avec Lia, avec une actrice qui n'existe
+14:21
+même pas, une personne qui est
+14:23
+totalement générée par l'intelligence
+14:24
+artificielle mais surtout tellement
+14:26
+réaliste qu'à l'écran et bien c'est
+14:27
+presque impossible de voir que ce n'est
+14:29
+pas une vraie personne derrière. À
+14:30
+nouveau pour tout ça, il y a quelques
+14:32
+outils qui sortent du lot en ce moment
+14:33
+comme Arcad qui est spécialisé dans les
+14:35
+acteurs IA ou bien Xfield qu'on connaît
+14:37
+déjà. Maintenant, faisons le point sur
+14:39
+le chemin parcouru. On a trouvé un
+14:40
+produit gagnant avec Lia. On a monté une
+14:43
+boutique professionnelle. On a généré
+14:44
+des visuels din des plus grandes marques
+14:46
+et on a créé nos premières publicités,
+14:48
+que ce soit des images et vidéos sans
+14:49
+acteurs, sans studio et sans caméra.
+14:51
+Tout ça c'est donc ceux qui prenaient
+14:53
+des semaines entières un débutant il y a
+14:54
+encore quelques mois et surtout qui
+14:56
+pouvaient coûter une fortune. Mais il
+14:57
+nous reste maintenant une toute dernière
+14:59
+étape la plus décisive de toutes si je
+15:01
+puis dire le lancement. Parce qu'encore
+Le Lancement
+15:02
+une fois créer tout ça c'est bien c'est
+15:04
+génial mais tant que vous n'avez pas
+15:05
+lancé vos publicités tester vos
+15:07
+créatives, analyser ce qui marche et
+15:09
+couper ce qui ne marche pas et bien vous
+15:11
+n'avez pas encore véritablement de
+15:12
+business qui tournent. Vous ayez juste
+15:14
+des munitions dans une arme. Il faut
+15:15
+maintenant tirer à balle réelle pardon.
+15:18
+Et cette étape-là, et bien c'est le
+15:19
+lancement, le test, le scale. C'est tout
+15:21
+un art à part entière et c'est là que se
+15:23
+joue la vraie différence entre ceux qui
+15:25
+gagnent de l'argent et ceux qui ne
+15:26
+gagnent rien du tout ou même en perdent.
+15:28
+Avant de terminer cette vidéo, je vais
+15:29
+vous dire une dernière chose, la plus
+15:31
+importante probablement de toute cette
+15:33
+vidéo. Nous vivons véritablement un
+15:35
+moment unique. Pendant des années, les
+15:37
+gros ont écrasé systématiquement les
+15:39
+petits, les marques établies avec leur
+15:41
+budget, leur équipe, leur avance.
+15:42
+C'était impossible de rivaliser. Mais
+15:44
+rendez-vous compte qu'aujourd'hui les
+15:45
+règles sont complètement inversées. Une
+15:47
+seule personne depuis chez elle avec les
+15:49
+bons outils et la bonne méthode peut
+15:50
+aller aussi vite qu'une équipe entière à
+15:52
+l'époque. Ce qui compte vraiment
+15:54
+maintenant, ce n'est plus l'argent ni
+15:55
+l'ancienneté, c'est simplement la
+15:57
+vitesse d'adaptation. Et la différence
+15:58
+entre ceux qui vont profiter de cette
+16:00
+vague et ceux qui vont la subir, et bien
+16:02
+ce n'est pas le talent, c'est simplement
+16:03
+le fait de passer à l'action, de tester,
+16:05
+de se lancer maintenant. Alors voilà ce
+16:07
+que je vous propose pour vous lancer.
+16:08
+Pour ceux qui veulent véritablement se
+16:10
+donner une chance, je vous ai préparé
+16:11
+tout un document récapitulatif
+16:13
+entièrement gratuit en description.
+16:15
+Cliquez dessus, c'est gratuit.
+16:16
+Profitez-en, servez-vous. Absolument
+16:18
+toutes les étapes qu'on vient de voir
+16:19
+sont détaillées avec tous les outils à
+16:21
+utiliser pour chacune. Le lien à nouveau
+16:23
+est en description. Servez-vous. Et
+16:24
+maintenant pour ceux qui veulent
+16:25
+maximiser leur réussite et surtout aller
+16:27
+beaucoup plus vite, j'ai quelque chose
+16:29
+de encore mieux pour vous parce que dans
+16:30
+cette vidéo, je vous ai montré le quoi,
+16:32
+la vue d'ensemble, les étapes, les
+16:33
+outils, mais le comment exact, les
+16:35
+démonstrations concrètes, tous les
+16:37
+promptes exacts, quel bouton cliquer, à
+16:39
+quel moment et bien c'est ce qu'on fait
+16:40
+à l'intérieur de mon accompagnement.
+16:42
+ECOM Accélérator, c'est un programme où
+16:44
+on vous guide de A à Z avec un coach
+16:46
+personnel à vos côtés, un coach
+16:47
+e-commerce qui a déjà généré plus d'un
+16:49
+million d'euros en e-commerce et on vous
+16:51
+suit jusqu'à vos premiers 10000 € de
+16:53
+vente ou plus en moins de 3 mois, sinon
+16:55
+vous êtes intégralement remboursé. On
+16:57
+vous aide à trouver votre produit, à
+16:58
+construire votre boutique, à créer vos
+17:00
+publicités et surtout à lancer tout ça
+17:02
+pour de vrai jusqu'au bout. À chaque
+17:03
+étape, vous êtes accompagné par des
+17:05
+experts qui l'ont déjà fait des
+17:06
+dizaines, des centaines de fois. Et donc
+17:08
+si ça vous intéresse, le lien est en
+17:10
+description. Vous réservez un appel
+17:11
+gratuit avec un membre de mon équipe en
+17:13
+regardant votre situation, ce que vous
+17:15
+voulez construire et si notre programme
+17:17
+est fait pour vous ou non. Absolument
+17:18
+aucune pression, c'est 100 % gratuit. Il
+17:20
+y a aucun engagement avec cet appel.
+17:22
+C'est juste un échange honnête pour voir
+17:23
+si on peut vous aider ou pas. Voilà pour
+17:25
+cette vidéo. J'espère sincèrement
+17:26
+qu'elle aura été le déclic pour certains
+17:28
+d'entre vous. Même une petite dizaine,
+17:30
+ça me va, ça me convient. Maintenant,
+17:32
+c'est à vous de jouer.

@@ -1,0 +1,1141 @@
+Vidéo 5 : Jour 3 et aujourd'hui, on touche au cœur de ce qui sépare une boutique qui génère 1000 € par mois d'une boutique qui en
+0:05
+fait 200 et c'est tout simplement l'offre. Mais avant ça, premier bloc, Vincent va finir la construction du site, design, page produit, éléments de
+0:12
+conversion et tout ce qui fait qu'un visiteur reste sur votre site ou bien ferme l'onglet en 3 secondes. Deuxième bloc, la mise en place de l'offre. Et
+0:18
+là, si vous prenez des notes, c'est maintenant qu'il faut sortir le crayon parce que ce que Vincent va vous expliquer, ce sont les mécaniques qui
+0:23
+font qu'un client n'achète pas simplement un produit à 30 € mais qu'il achète un panier à 80. Vincent, c'est à
+0:28
+toi. On se retrouve maintenant pour la partie
+0:34
+pratique de la page produit. Le site que je vais vous montrer est un vrai site qui a vraiment généré environ 100000 €
+0:42
+de chiffre d'affaires. C'est un produit saisonnier. Donc si vous vous rappelez de la théorie qu'on a fait dans la recherche produit, c'est un produit qui
+0:48
+se vend à certaines saisons. Sachez que le site que je vais vous montrer aujourd'hui, c'est un site qui peut être
+0:55
+lancé chaque année et chaque année, ce type de site fait des centaines et des centaines et des centaines de milliers
+1:02
+d'euros pour ne pas dire des millions d'euros. Donc c'est une première sur le marché français que quelqu'un va montrer
+1:08
+un vrai site avec les différentes choses positionnées là où il faut qu'elle soit positionnée pour générer de l'argent en
+1:14
+e-commerce en 2026. Donc prenez des notes, soyez attentifs, observez bien,
+1:19
+comprenez les mécanismes qui se cachent derrière les différentes choses, faites des liens avec la théorie. Juste avant,
+1:24
+on a eu la théorie sur la page produit. Vous avez pu voir en détail section après section et maintenant visuellement
+1:30
+vous allez pouvoir comprendre comment les choses se positionnent. Donc voilà, on se retrouve sur l'ordinateur pour aller profondément dans ce sujet. On se
+1:37
+rend maintenant sur l'ordinateur et simplement ce qu'on va voir ici, c'est un une interface de thème Shopify. Un
+1:44
+thème Shopify, c'est quoi pour commencer ? Un thème Shopify, c'est simplement un environnement qui a été mis en place pour que ça soit ultra facile pour nous
+1:51
+de créer un site. Donc là, vous allez pouvoir voir par exemple que les informations sur le produit, c'est
+1:56
+simplement en fait des titres, des textes, des différentes choses en fait qu'on peut venir ensuite modifier sans
+2:03
+aucune difficulté. Voilà, par exemple, une rangée réductible. Ici, vous allez pouvoir voir qu'ici qu' a c'est écrit
+2:08
+détail. Donc c'est le titre qui a là, détail. Et ensuite de ça, ici, vous avez à l'intérieur de la rangée euh
+2:13
+réductible. D'accord ? La même chose pour chaque section. On parlait dans la théorie de five reason why, donc les
+2:19
+cinq raisons d'acheter ce produit. Ici, on en a mis six. Voilà, vous êtes pas obligé d'en faire cin vous êtes pas obligé d'en faire six, vous êtes pas
+2:24
+obligé d'en faire quatre. Le but derrière, c'est de donner directement des bénéfices aux gens. Et là, il y a
+2:29
+rien de plus facile. Vous pouvez voir que cette section, c'est simplement une section. OK ? où ici on a simplement
+2:35
+rajouté des icônes et du texte qui est l'icône est là et le texte est ici. Donc
+2:40
+là c'est la partie technique, c'est très facile, c'est vraiment un thème. Vous allez juste à à faire étape par étape. Ce qui est intéressant ici, c'est qu'on
+2:47
+va voir en profondeur comment est-ce que cette page produit est construite et qu'on va faire des liens avec la théorie qu'on a vu juste avant. Donc
+2:53
+premièrement, vous pouvez voir ici qu'on vend un collant polaire. Les collants polaires, vous pouvez aller voir sur
+2:58
+Google Trend chaque année, ils reviennent. Chaque année, il y a des gens qui font des centaines et des centaines de milliers d'euros en vendant
+3:04
+des collants polaires. C'est les mêmes. La seule chose qui change, c'est leur façon de les mettre en avant et de les mettre en valeur. C'est la seule et
+3:10
+unique chose qui change. Donc là, on va déjà reprendre la théorie qu'on a vu par rapport au site, à la page produit. Là, on peut voir qu'on vend un collant
+3:16
+polaire et qu'on a appelé le site cosinest. Pourquoi est-ce qu'on appelle le site cosinest ? Simplement parce que
+3:22
+c'est l'hiver. L'hiver, tout le monde a envie d'être cosi. Nest, ça veut dire ni en anglais. cosest ni coszi et colle
+3:31
+divers. Donc c'est une des raisons pour laquelles on a choisi ce nom de marque. Je vous fais le lien avec la théorie où simplement je vous expliquais que ça
+3:37
+aurait servi à rien de faire un nom de site qui s'appelle collant-polaire.fr. FR, ça aurait été simplement nous tirer
+3:44
+une balle dans le pied parce que on n'est jamais sûr qu'un produit va marcher. Donc si c'était pas des collants polaires, potentiellement ça
+3:49
+aurait pu être des gants, potentiellement ça aurait pu être un mug, potentiellement ça aurait pu être plein de choses qui touchent à l'hiver et avec Cinest on venait cocher toutes
+3:55
+ces cases. Ensuite de ça, on peut voir au niveau du carousel produit, on va vraiment aller étape par étape qu'on a ici nos collants polaires avec l'offre
+4:02
+de Noël. Donc on met en avant l'offre, l'offre de Noël et ici une petite phrase en plus qui va mettre par exemple élu
+4:08
+collant polaire de l'année. Ça va directement nous différencier de la concurrence parce que directement les gens vont se dire "Ah ouais, j'ai
+4:13
+peut-être vu trois quatre euh collants polaires aujourd'hui sur MTA, mais ceux-là c'est les collants polaires élus. C'est ceux qui ont été euh
+4:20
+vraiment primés comme étant les meilleurs collants polaires de l'année. Donc directement dans le cerveau, ça fait OK, intéressant." Ensuite de ça, on
+4:25
+va avoir ici comme je disais un gif. Donc un gif très émotionnel. Là on voit la matière donc c'est dire qu'on se dit "Ah ça a l'air super doux, ça a l'air
+4:31
+trop cool à porter." Donc ça c'est important c'està dire que premièrement cerveau logique OK des colollants polaires. OK c'est une offre de Noël OK
+4:38
+ils ont essayé des super colons parce qu'ils ont été élu colon polaire de l'année. OK ça m'intéresse. Je clique. Oh la matière elle a l'air juste
+4:44
+incroyable. Donc le gif est parfait. C'est un court gif c'est un gif très simple réalisé avec Capcut. Vous avez
+4:49
+juste en fait à upload sur Capcut et ensuite de ça le sortir en gif et vous avez un gif. Ensuite de ça c'est une
+4:54
+image produit. Simplement l'image Alibaba. Deuxièmement aussi l'image Alibaba et ensuite de ça vous avez un
+5:00
+autre gif ici s'il veut bien s'afficher en grand qui montre simplement que c'est solide d'accord que c'est élastique.
+5:05
+Donc on peut voir parce que une des objections ça pourrait être oui mais c'est de la mauvaise qualité non ? On peut voir ici que c'est élastique. Et ensuite de ça on va voir les différentes
+5:12
+variantes. Noir, gris, beige, café et un autre qu'on a mis en rupture de stock
+5:18
+pour créer de l'urgence tout simplement. Ensuite de ça, ici on a un badge comme on disait. Donc offre spéciale Noël.
+5:23
+Pourquoi est-ce qu'on justifie l'offre ? parce qu'en fait les gens ils doivent avoir une raison et d'acheter. Ça veut dire que ça va soit être une offre
+5:29
+spéciale, soit une offre de lancement, soit l'offre de fin d'année, ce que vous voulez, mais vous devez justifier
+5:34
+l'offre. Une offre, elle tombe pas de nulle part. OK ? Les gens, ils doivent acheter parce que il y a une certaine raison. Pourquoi est-ce que vous partez
+5:39
+euh dans un magasin quand c'est les soldes et que vous achetez au moment des soldes ? Simplement parce que le magasin a décidé que c'était les soldes et vous savez que c'est les soldes et que si
+5:45
+vous revenez dans 2 mois, il y aura pas les mêmes prix. Donc, vous achetez à ce moment-là. Ensuite de ça, on met des étoiles avec la note des avis. Donc
+5:51
+évidemment, on met une bonne note des avis pour justement bah donner envie aux gens d'acheter le produit. Ensuite de ça, le nom du produit donc cosinest
+5:57
+colon polaire gainant. Vous voyez le petit détail ? On met un R à côté de notre marque. Pourquoi ? Parce qu'en fait ça directement ça fait
+6:03
+professionnel. Ici vous pouvez voir que sur le logo on l'a pas mis. Vous aurez pu aussi rajouter ici un petit R par
+6:08
+exemple pour créer encore plus de un aspect professionnel. Ensuite de ça, on a le bouton profiter de l'offre. OK ?
+6:14
+Donc c'est pas ajouté au panier, c'est profiter de l'offre. Ensuite de ça, on a mis un petit guide taille parce que vu que c'est du fashion et qu'il y a
+6:19
+différentes tailles, il faut que les gens puissent directement bah se dire "OK, c'est cette taille qu'il me faut, faut du S, faut du M." Ensuite de ça, on
+6:25
+a tous les moyens de paiement. C'est important parce que ça donne la confiance aux gens, ils savent qu'ils peuvent payer avec différents moyens de paiement. Et là, on a les fameux bullet
+6:32
+bullet point, donc élégance assurée, confort et style combiné sans compromis, émotionnel. Chaleur instantanée, plus
+6:38
+besoin de superposer, rester au chaud facilement. Donc chaleur instantanée, c'est dire qu' émotionnellement c'est c'est fort, c'est directement j'ai
+6:44
+chaud. Et en plus de ça, j'ai plus besoin de superposer parce que la première chose que les gens pourraient se dire "Ah, OK, c'est cool mais si j'ai
+6:51
+pas assez chose, je vais devoir mettre quoi dessous encore un pantalon ? Comment ça va comment ça va le faire ?" Donc là, ça peut poser des problèmes. Et
+6:56
+ensuite de ça, un troisième résistance et durable. Nos collants ne s'filent pas et sont lavables. Voilà une troisème objection qui était par rapport au fait
+7:02
+que potentiellement ça peut s'effiler. Donc là, vous voyez que pour ce produit, on a été sur trois bullet points, on aurait pu en rajouter. C'est ces trois
+7:08
+bull points qui fonctionnaient le mieux et on s'est dit qu'on partait directement là-dessus. Ensuite en stock prêtre expédié sur 24 heures. Vous avez
+7:14
+ensuite tout ce qui est les détails, donc simplement les guides détails, le retour en remboursement et cetera comme
+7:20
+on voyez ici five reason why donc simplement ça c'est des petits pict qui ont été cris sur Canva. On va voir après. Je vais vous expliquer très
+7:26
+rapidement comment utiliser Canva. Mais Canva juste un outil incroyable qui permet en fait de faire des designs
+7:32
+juste géniaux. Ensuite de ça, ça c'est toutes des images qui ont été trouvées sur TikTok. Donc c'est des personnes qui
+7:39
+ont montré euh les collants polaires et simplement qu'on vient mettre sur notre site. Donc là, vous pouvez voir simplement des vidéos.
+7:49
+Donc voilà, il y en a différentes. Ici, c'est très simple, hein, c'est-à dire que ici, c'est pas compliqué, hein, c'est juste du drag and drop. Ici, vous
+7:55
+avez simplement et vidéo slider. Et ensuite de ça, vous avez simplement à mettre les différentes vidéos. Voilà. et
+8:01
+vous uploadez les vidéos, les images que vous avez besoin et ensuite de ça, bah vous mettez simplement le lien de la vidéo. Donc voilà, rien de plus simple
+8:08
+en vrai. Ensuite de ça, mécanisation du problème. Donc la plupart des gens en fait ne savent pas pourquoi ils arrivent
+8:13
+pas à avoir de style en hiver. Donc ils ont pas de style pourquoi ? Parce que simplement euh ils ils doivent choisir entre le confort et et l'inconfort. Et
+8:19
+là, on leur explique que simplement avec notre produit, ils peuvent garder du style et en même temps avoir chaud.
+8:24
+Ensuite de ça, on va simplement montrer à quel point notre produit rend évidemment bah rapidement le corps
+8:31
+chaud. Ensuite de ça, on va avoir tester pour rester conçu pour durer vraiment mettre en avant le côté qui est
+8:38
+peut-être comment dire le fait que les gens pourraient avoir encore en fait une objection de se dire non mais ça va pas m'aller, c'est pas assez flexe, c'est
+8:44
+pas assez on va dire c'est pas assez élastique pour moi. Donc ça on vient casser ces objections avec cette image. Et ensuite de ça aussi collant gênant et
+8:50
+amincissant. Dit adio au colon cassant et cetera et cetera. Ici, on va rajouter un gif. On va rajouter des avis clients
+8:56
+comme on a vu dans la théorie. Simplement, ça c'est des images qui ont été trouvées sur internet. Et ensuite de
+9:01
+ça, on va rajouter une FAQ et notre site est terminé. Ici, on aurait pu rajouter une section qui disait qui parlait de
+9:08
+notre mission. potentiellement, on aurait pu être deux fashion designers, un groupe de fashion designers euh qui
+9:15
+lors d'un voyage en Suède s'est rendu compte qu'en fait c'était très dur d'allier style et et chaud et qu'en fait
+9:21
+ils ont décidé de créer des collants polaires qui donneraient la possibilité aux femmes d'avoir du style tout en en
+9:27
+ayant chaud. Ce qu'on aurait pu faire aussi pour améliorer, on aurait pu améliorer la mécanisation du problème et
+9:32
+la mécanisation de la solution. C'est quelque chose qui aurait pu être travaillé. Mais étant donné que c'est un produit fashion, c'est un produit
+9:38
+vraiment habit, on va dire de vendre des habits, des fois on a moins besoin d'aller en profondeur que par exemple si
+9:44
+on vend un produit bah comme on parlait avant par exemple de la crème antiride où là vraiment il va il va falloir aller en profondeur expliquer aux gens
+9:50
+pourquoi ils ont ce problème parce qu'on va dire que c'est des c'est des problèmes un peu plus complexes que simplement avoir chaud ou avoir froid.
+9:55
+Donc voilà pourquoi on a pris le postulat sur ce site, on va dire de rester quand même assez léger. sur d'autres produits, vous pouvez aller
+10:01
+vraiment en profondeur expliquer aux gens pourquoi ils ont un problème et pourquoi votre solution est vraiment la nouvelle solution. Ici, ce qu'on aurait
+10:06
+pu faire aussi simplement, c'est si on avait voulu pousser plus loin la mécanisation de la solution, on aurait pu aussi euh créer ce qu'on appelle un
+10:13
+nouveau mécanisme. Ça c'est important quand vous vendez un produit qui aurait été par exemple le Cinest Pro. Ça je
+10:19
+sais pas pourquoi il y a il y a le texte en anglais, c'est étonnant. Sûrement parce que j'ai fermé le store depuis un an, je l'ai réouvert dernièrement.
+10:24
+Peut-être il y a certaines sections qui se sont qui se sont mal euh réouvertes entre guillemets. Euh mais bref, tout ça
+10:30
+pour dire que vous auriez pu créer, on aurait pu créer un nouveau mécanisme qui disait par exemple Cosinux. OK ? Donc
+10:36
+euh la la technologie Cosinux euh permet en fait de ne pas avoir froid sous grand froid euh parce que les mailles euh de
+10:43
+couture ont été faites de cette façon ou de cette façon et ce qui nous permet en fait de vous proposer une chaleur beaucoup plus intense que d'autres
+10:48
+habits. Et ça c'est ce qu'on appelle la création d'un nouveau mécanisme. Et c'est quelque chose qui aurait pu aussi être fait, qui n'a pas été fait à cette époque-là. euh mais qui aurait aussi pu
+10:55
+être fait. Donc voilà, ça pour faire un lien avec la théorie, c'est un site qui a tourné pendant cet hiver euh 2024,
+11:00
+donc l'année passée. Là, on est en 2025 encore quand je tourne la vidéo. On va être en 2026 quand elle sort, mais en gros, ce site a 1 an. Et pour vous
+11:07
+expliquer vraiment, c'est un site ensuite sur lequel on a pu lancer aussi différentes choses. Donc là par exemple,
+11:12
+vous pouvez voir je vais vous montrer rapidement que on a lancé différents produits. Vous voyez, on a lancé des pantoufles, on a lancé aussi un tableau
+11:18
+euh à dessin LED qui a très bien fonctionné pour les fêtes et euh qui nous qui nous ont donné en fait simplement la possibilité d'aller scaler
+11:25
+ce store. Pourquoi ? Parce que sur un site comme Cousinest, mettre un cadeau d'enfant, ça allait très bien. Mettre
+11:30
+des plantoufles ça allait très bien aussi. Mettre un autre cadeau pour enfants, ça allait très bien. Donc voilà. Donc c'était ça un peu l'idée que
+11:36
+je vais vous montrer à travers on va dire un site e-commerce en fait qui convertit. C'est aussi pour vous montrer que c'est pas non plus compliqué, c'est
+11:41
+juste qu'il faut juste réussir à mettre les bonnes choses aux bons endroits et simplement en fait étape par étape faire
+11:47
+en sorte que la personne passe par ce que j'appelle un parcours hypnotique et qu'à la fin elle se dise "OK, let's go, je vais acheter." Ici, ce qui manque
+11:52
+c'est une offre aussi qui est alléchante, ce qu'on va voir simplement dans les prochaines vidéos théoriques.
+11:58
+L'offre est très importante pour faire pousser les gens à l'achat et ça, on le verra évidemment à ce moment-là. Donc voilà, dans l'idée c'est ce que je
+12:05
+voulais vous montrer principalement. Je vais vous montrer aussi une autre page produit par exemple qui avait bien marché sur ce site. C'est ici. Voilà,
+12:12
+vous pouvez voir aussi ici. Alors, faut juste que je sélectionne ici la bonne page produit. Vous voyez en fait, dès que vous faites un nouveau produit, vous
+12:18
+avez juste en fait à ensuite de ça créer des create template. Vous créez un template et ensuite de ça, vous avez en fait un template pour les différentes
+12:24
+choses. Et là, le template LED tableau c'était ici. Et en fait, on revient sur la même logique si vous voulez. C'est-à dire qu'on revient vraiment sur la même
+12:30
+logique de page produit et on va avoir bah le tableau ici. Ce tableau a encore très bien performé cet hiver. Je le
+12:36
+vendais pas cet hiver mais a très bien performé cet hiver. Nous on le vendait l'hiver d'avant donc 2024 et vous voyez que c'est la même logique hein. C'est
+12:42
+vraiment le produit. Ensuite de ça un gif. Ensuite de ça le produit et cetera. Ensuite de ça on va avoir des bullet
+12:48
+points. Ensuite de ça on va avoir simplement la mécanisation du problème, la mécanisation de la solution. et on va
+12:53
+simplement ensuite de ça bah décrire notre produit, mettre différentes fonctionnalités, mettre des avis et une
+12:59
+FAQ à la fin. Donc voilà, c'est pas compliqué. Ça c'est un produit qui a fait 2 3000 € par jour de chiffre d'affaires. Donc c'est un produit euh
+13:06
+vraiment et on aurait pu aller le pousser beaucoup plus loin si on voulait mais c'est juste pour vous expliquer tout ça. Donc en gros comme ça vous avez
+13:12
+vraiment une vision de la page produit. J'aimerais juste faire une petite aparté intéressante sur ce genre genre de
+13:17
+produit parce que j'aimerais vous montrer en fait sur Google Trend par exemple les collants polaires, comment vous pouvez analyser que euh en fait les
+13:24
+collants polaires sont actuellement en train de trender ou qu'il y a une trend comme ça vous allez le voir de vos yeux. Donc voilà, là on se retrouve sur Google
+13:30
+Trend. J'ai juste besoin que vous voyez de vos yeux en fait. Là fiss tight ça veut dire quoi ? Ça veut dire collant
+13:35
+polaire en anglais simplement. Et là on peut voir clairement quelque chose qui est juste bah incroyable. Ça veut dire
+13:42
+que chaque année à partir de fin septembre, on a une demande qui augmente pour les colonents polaires. Et ça, on
+13:47
+l'a eu en 2021, on l'a eu en 2022, en 2023, en 2024 et en 2025. OK ? Et en
+13:53
+2026, vous pouvez être sûr qu'il y aura exactement la même chose. Donc ça veut dire que si vous dès on va dire fin
+13:59
+septembre, début octobre, vous commencez à lancer des colons polaires et que vous avez des bonnes créas et que vous commencez à faire les choses bien, vous
+14:05
+avez un bon site, que tout est en place, tout ce qu'il faut, c'est obligatoire que vous allez faire de l'argent. Une simple obligation. Il y a aucun doute
+14:11
+là-dessus, d'accord ? Et je vais vous montrer ça simplement, étape par étape. C'était pas forcément le moment de la vidéo où je voulais le faire, mais je
+14:16
+vais quand même vous l'expliquer. Donc ça, on peut voir que c'est un site qui a généré 83000 € de chiffre d'affaires.
+14:22
+Euh qui a été lancé euh on peut voir qu'il a été lancé en septembre. Donc là, on va reprendre septembre 2024. Hop.
+14:27
+Donc en septembre, ici, on peut voir qu'il y a eu voilà 2000 € de vente. Donc là, il a pas été lancé, pas été lancé,
+14:33
+pas été lancé. Premier jour, on a fait des ventes. Après de ça, après ça, il a été arrêté pendant un moment. C'était sûrement un peu trop tôt. Ensuite de ça,
+14:39
+c'est ça, c'est là que ça devient intéressant. Les ventes d'avant, c'était un autre produit, un autre site. Ensuite, c'est devenu cosinest. Voilà.
+14:44
+Bref, tout ça pour vous dire que ici, on peut voir que le 6 octobre, on lance le produit. OK ? Donc, on lance les collants polaires et ensuite de ça, on
+14:51
+commence gentiment à faire des petites ventes. Gentiment, petit à petit, on fait des ventes et gentiment, on fait
+14:57
+des ventes pour un chiffre d'affaires total de 8900 € du 1 au 31 octobre.
+15:02
+Ensuite de ça, donc du 1 au 31 octobre, on est à peu près là. OK, donc on est jusque là, on est au début de la trend.
+15:08
+Donc là, on est entre rentable, on est break even un peu rentable. Donc on doit gagner un petit peu d'argent chaque
+15:13
+jour. Mais ce qui est intéressant, c'est ce qui se passe par la suite, c'est que dès que la demande commence à s'enflammer ici, et ben on peut voir que
+15:18
+directement le mois d'après, on fait beaucoup plus d'argent. On fait beaucoup plus d'argent parce qu'en fait la demande est là et qu'en fait, on passe
+15:23
+d'un chiffre d'affaires de 300, 400, 500 par jour à tout d'un coup passer à 1000 par jour, ensuite de ça passer à 1500,
+15:29
+ensuite de ça passer à 1800 et cetera et cetera. Et pendant le mois de décembre, la même chose, on peut voir que les
+15:35
+résultats augmentent encore et ensuite de ça, on peut voir qu'on fait des journées à 2000 et cetera et qu'ensuite de ça, simplement on avait coupé le
+15:41
+store parce qu'on s'est concentré sur d'autres d'autres projets et que c'est un site vraiment saisonnier pour nous à côté des autres brands qu'on a. Mais
+15:47
+c'est quand même intéressant de voir que lorsque la demande explose et ben en fait les chiffres explosent aussi. Et si je vous montre ça aujourd'hui, c'est
+15:53
+juste pour que vous compreniez vraiment les mécanismes qu'il y a derrière un site e-commerce qui est convertit. Donc voilà, en gros l'idée, on s'est un peu
+16:00
+écarté de la page produit, mais comme ça, vous pouvez vraiment voir de vos yeux qu'est-ce qui fait que tout d'un
+16:05
+coup il y a des ventes qui se dégagent ou pas. Ensuite de ça, ce qu'on va voir c'est qu'on va aller se rendre sur Canva
+16:10
+et je vais vous expliquer très rapidement comment Canva fonctionne. Vous verrez, c'est très simple. Et ensuite de ça, je vais vous montrer une
+16:16
+intelligence artificielle qui a juste révolutionné le fait de faire une page produit. Et on va je vais juste vous
+16:22
+montrer comment l'utiliser. C'est très très simple. Et comme ça, depuis chez vous, vous pouvez avoir le niveau d'un designer qui a fait une école de 3 ans
+16:27
+pour apprendre à Photoshop, apprendre à faire tout ce qu'il fallait faire pour être designer et que maintenant en deux clics, on peut avoir ce niveau-là posé
+16:33
+sur son canapé avec un petit chocolat chaud, l'ordinateur sur ses genoux, une série qui passe derrière et juste nous
+16:38
+tranquille en train de bosser pendant qu'il fait froid dehors et que certains doivent se lever pour aller bosser, pour
+16:43
+aller prendre le bus, pour aller prendre X, pour aller prendre Y pour aller retrouver un patron qui est qui qui
+16:49
+crise parce qu'on a 5 minutes de retard. Donc on va juste se rendre sur le site. On revient sur le thème. Et aussi une
+16:54
+chose importante pour moi de vous montrer simplement la homepage. La homepage elle doit être très très simple. Donc la homepage c'est très
+16:59
+simple. C'est juste une image. Ensuite de ça, on a deux trois comparaisons, deux trois vidéos et fini. OK ? Pas
+17:06
+besoin de vous prendre la tête pour la homepage. Comme j'ai dit dans la théorie, c'est que 5 % des gens qui viennent sur la homepage. Donc ne vous prenez pas la tête avec ça. Donc voilà,
+17:12
+on est de retour sur le site et maintenant je vais simplement vous expliquer comment Canva fonctionne et on
+17:18
+va se retrouver sur Canva. On va simplement prendre cette image ici pour que ça serve d'exemple. Voilà, on va
+17:24
+prendre une photo et on se retrouve sur Canva. OK, donc on se retrouve sur Canva. On a uploadé notre photo et
+17:29
+simplement ce qu'on va faire c'est qu'ici je vais vous expliquer rapidement des fonctionnalités. D'accord ? Donc là
+17:35
+simplement ce qu'on va faire ici c'est que hop, on va juste la recadrer un peu
+17:40
+si elle veut bien. Hop voilà. OK. Donc là le but ensuite c'est ensuite on peut aller dans edit. Là, vous avez plein de
+17:46
+choses qui vous permettent, par exemple ici, si on veut effacer du texte, on peut simplement aller hop et effacer du
+17:53
+texte. OK, comme ça, on va effacer le texte. Voilà. Hop, on efface le texte. Et ici, ensuite de ça, on peut effacer.
+18:05
+Donc là, des fois, ça marche pas du premier coup, mais bref, vous repassez dessus rapidement et à force de le faire une ou deux fois, vous allez voir que le
+18:12
+texte s'efface et que ça rend ultra propre. Donc ça c'est la méthode vraiment que vous compreniez. C'est la
+18:17
+la méthode assez lente mais c'est quand même intéressant de le savoir. Et ensuite de ça par exemple si vous voulez rajouter du texte là par exemple vous
+18:25
+allez rajouter euh offre de début d'année. OK ? Parce qu'il fait toujours froid en début d'année. Donc on va
+18:30
+totalement vendre un colon polaire en début d'année. Et là simplement vous allez le mettre comme ça. Hop. Si vous
+18:36
+voulez le mettre en en majuscule, vous pouvez simplement appuyer ici. Offre offre début d'année. Hop on a ça. Et
+18:42
+voilà. Si maintenant vous voulez par exemple rajouter autre chose ici, vous pouvez simplement ici rajouter hop un
+18:49
+petit carré. Hop, vous mettez un petit carré, vous mettez ça comme ça. Et ici, vous pouvez
+18:56
+mettre, imaginons, mon 60 % plus un poney offert jusqu'à
+19:05
+minuit. Voilà, par exemple. OK. Et là, on met ici. Là, on le voit pas bien. On
+19:10
+veut changer le texte. Donc on met en blanc. OK, ça c'est très très simple. Par exemple, ensuite de ça, imaginons
+19:17
+que on va reprendre, on va prendre imaginons l'image d'Alibaba, celle que vous trouveriez ici. Donc on va prendre
+19:22
+ici. Là, vous la téléchargez. Ensuite de ça, hop, nous on va prendre une photo parce que ça va plus vite. Hop, on prend
+19:27
+une photo. Ensuite de ça, on va la mettre dans Canva. Hop, on vient la mettre dans Canva. On va créer ça depuis
+19:33
+zéro. Comme ça, vous allez comprendre du début à la fin. Hop, on la met au format qu'il faut.
+19:40
+Ce qu'on va faire ici, c'est qu'on va venir hop là, on va venir enlever le fond. OK,
+19:47
+donc là on enlève le fond. Donc là, il y a plus de fond. Par exemple, là on va se dire "OK, on va rajouter un background."
+19:53
+Donc là, dans design, on va mettre background. OK ? Donc ça c'est les c'est le derrière mais je vais plus mettre sur
+19:59
+élément pardon. Donc je vais mettre back ground. Donc hop, background. Ça nous permet ensuite de ça, par exemple là il
+20:07
+y a pas trop de background qui sont cool mais on peut je vais juste faire une recherche. Background white. OK. OK, on
+20:16
+va voir ici. Ça ça peut être marrant. Ça peut être intéressant. Voilà, par exemple, on va prendre celui-là. OK.
+20:23
+Pour amener un peu de profondeur à l'image. Ça, simplement, on va le mettre comme ceci. Ensuite de ça, la position,
+20:29
+on va simplement la mettre devant. Et voilà. Par exemple, si on voulait mettre
+20:34
+un peu d'ombre, ce qu'on aurait pu faire, c'est simplement aller dans edit. On peut simplement mettre ici un peu d'ombre. OK ? Là, on peut voir que tout
+20:41
+d'un coup, bah il y a de l'ombre. Là, on peut entourer le produit si on veut, mettre de l'ombre un peu plus précise.
+20:47
+On peut ensuite régler l'intensité. Moi, je vais décider de la mettre comme ça. Euh ensuite de ça, simplement si on veut
+20:53
+mettre une bannière, on peut simplement mettre une bannière. Hop, on prend comme avant une bannière
+20:59
+ici. On la met dans la bonne forme. Hop. Et on peut mettre euh ici par exemple
+21:06
+nouveau élu collant polaire de l'année comme avant par exemple.
+21:11
+Excusez-moi pour l'orthographe, mais vous avez compris un peu l'idée et puis là, vous pouvez simplement, je sais pas,
+21:17
+par exemple, vous cherchez des éléments, vous allez mettre euh je sais pas en Noël par exemple et
+21:23
+par exemple on peut avoir une petite décoration, je sais pas, par exemple ça, imaginons qu'on a envie de mettre un
+21:30
+petit truc comme ça pour créer un effet fê. Donc on pourrait potentiellement venir le mettre un peu comme ça. Hop,
+21:37
+comme ça, c'est un effet fait, c'est sympathique. Et voilà, en gros, c'est comme ça un peu qu'on va travailler avec
+21:44
+Canva pour justement réussir à à avoir en fait des images de qualité. Donc ça
+21:49
+c'est la méthode, on va dire assez chronophage parce que bah c'est assez long, il faut créer les images par
+21:56
+soi-même et cetera. C'est important de connaître ces cette technique là parce que maintenant il y a l'intelligence artificielle mais l'intelligence
+22:01
+artificielle peut faire des erreurs. Et du coup maintenant ce qu'on va passer, on va passer à l'outil Nano Banana Pro
+22:07
+qui a un outil juste incroyable qui va vous permettre comme je disais avant en fait bah de simplement en fait créer des super images pour votre site et qui va
+22:14
+en fait faire passer votre branding à un autre niveau. Donc là par exemple ce qu'on va faire, on va simplement on va reprendre la même image. OK donc on
+22:20
+reprend cette image et hop là on va venir la mettre dans gemini.google.com Donc google.com qui est nanobanana outil
+22:27
+créer des images. Et là simplement on va lui dire peux-tu améliorer cette image ? C'est mon image
+22:36
+produit. J'aimerais qu'elle soit ultra professionnelle comme si Zara et de
+22:44
+grands designers avaient travaillé dessus. Donc on va tester comme ça, on
+22:50
+va voir ce qu'il peut nous créer. Et voilà, par exemple, on peut voir que là on a une image où il nous a refait le
+22:55
+produit avec un fond euh avec de la lumière. Enfin, tout a l'air méga pro. C'est juste incroyable. Et ça, vous
+23:01
+pouvez simplement le faire avec tout. OK ? Par exemple, là, on va lui demander euh "Peux-tu me faire un shooting
+23:09
+d'une femme de 40 ans qui porte ce produit ? Elle est avec sa fille de 16
+23:17
+ans qui emporte aussi elles sont méga contentes et ça donne envie à toutes les
+23:25
+mamans d'offrir ceci à leur fille pour Noël. On va un peu plus loin juste pour
+23:32
+vous expliquer en fait à quel point c'est incroyable. OK. Bon là malheureusement on peut pas parce que il
+23:37
+y a une restriction. On va mettre 18 ans. Voilà, ça changera pas grand-chose au final. Voilà, par exemple là on a un
+23:43
+shooting photo où les gens où les femmes portent notre produit à nous. Il y a l'image du sapin de Noël derrière, donc
+23:49
+directement les gens pensent à Noël et elle porte les deux. Voilà, donc c'est intéressant, c'est émotionnel et ça
+23:54
+c'est une image qu'on pourra mettre sur notre site. Donc voilà un peu euh pour vous expliquer les différentes choses qui sont possibles de faire et ça vous
+24:00
+allez pouvoir le faire à chaque étape. Par exemple, si on reprend le site, imaginons qu'on a envie de faire, on va
+24:06
+dire des pictau sympas. OK ? Donc on va simplement lui demander de faire cinq pict
+24:13
+au texte suivant. OK ? Donc on va voir ce que ça donne. Simplement pour mon site, j'ai besoin de pictogramme.
+24:21
+Peux-tu me faire un design minimaliste
+24:26
+dans les tons beiges qui mettent en avant ces bén
+24:33
+bénéfices ? Je lu dis on va les faire un par un. Le premier est voilà. Voilà par
+24:41
+exemple là il nous a mis tiens chaud. Intéressant. Le deuxième est tout l'hiver. Voilà. Et voilà. Style tout
+24:47
+l'hiver. On a des pictau qui sont totalement cohérents les uns avec les autres. On dirait que c'est un designer
+24:52
+qu'on a dû payer 500 € pour nous faire des pictogrammes personnalisés. Et non, c'est une intelligence artificielle et
+24:58
+c'est totalement gratuit. Donc voilà un peu l'idée. Évidemment que là si vous devez un peu améliorer, vous avez juste
+25:05
+à télécharger. Ensuite de ça, hop, vous allez ici, hop. Évidemment, je vous ai
+25:10
+montré de base Canva parce que l'un n'empêche pas l'autre, évidemment, qu'on s'entendente. C'estàd que quand vous avez une une image générée avec
+25:16
+l'intelligence artificielle, c'est aussi important après euh d'aller la l'améliorer s'il faut. Donc là, je vais vous montrer simplement comment
+25:21
+améliorer ce picto si on voulait le mettre sur notre site. On peut voir deux choses. Premièrement, c'est que ici, on
+25:26
+a le petit logo de Gemini. On va enlever. Donc, comme avant, ce qu'on fait simplement, c'est qu'on enlève ici. Hop. Ensuite de ça, ce qu'on va faire
+25:33
+simplement, c'est qu'on va prendre un outil qui s'appelle grab texte. Là, on va simplement venir sélectionner ce
+25:38
+texte. Canva va le sélectionner. Et là, on va simplement pouvoir venir l'éditer. Et style tout l'hiver. Voilà, comme ça,
+25:45
+on a notre picto. Si on veut le mettre dans un rond, on va juste mettre ici rond. On a ici pas des ronds. OK, tout
+25:51
+simplement. Donc on a un rond et on prend un rond en fait un rond simple. Voilà, on a ça
+25:58
+qui peut être intéressant. Sinon, on veut un simple rond. Tac tac. Qu'est-ce qu'on a qui est intéressant ? On va
+26:05
+prendre celui-là pour l'exemple pour pas perdre trop de temps. Mais je suis sûr qu'il y a moyen de trouver un rond 100 % rond sans cette petite chose à
+26:11
+l'intérieur. Mais là, ce que vous faites simplement, c'est que vous prenez hop, vous rentrez à l'intérieur et vous avez ici votre pict
+26:18
+aussi par-dessus. Ici, vous allez dans position, vous mettez simplement le texte au-dessus, vous gérez la taille et
+26:25
+vous mettez simplement ici, hop, le texte. Et du coup, style tout l'hiver. Et ça vous allez simplement l'agrandir
+26:31
+un peu. Hop, vous allez le mettre bien grand. Et ensuite de ça, vous allez simplement venir ici simplement changer
+26:37
+ici sélect sélectionner sur votre ordinateur, mettre le bon et vous allez avoir votre petit pictogramme. Donc voilà, le but de cette vidéo pour moi
+26:43
+c'était de vous expliquer premièrement à quel point une page produit est simple à faire, deuxièmement les différents
+26:48
+mécanismes qu'il faut mettre en place sur une page produit pour qu'elle fonctionne et troisièmement à quel point il est simple à notre époque de créer
+26:53
+des images produits. J'ai fait ça très rapidement mais vous pouvez passer un petit moment à tester, à essayer, à lui
+26:59
+demander plein de trucs, plein de styles, à faire plein de choses différentes et vous verrez, les résultats sont juste incroyables. Donc
+27:04
+un grand merci à vous pour votre attention et on se retrouve pour la prochaine vidéo qui va parler de l'offre. C'est une vidéo très
+27:10
+importante. L'offre, c'est souvent ce qui fait passer à l'action dès le moment où la personne est sur le site. Donc
+27:16
+voilà, merci pour votre attention et on se retrouve dans la prochaine vidéo. Allez, bye bye.
+27:24
+Dans cette vidéo, on va parler de la création d'une offre. Après avoir sélectionné votre produit, créé votre
+27:30
+site internet et surtout votre page produit, l'étape d'après, c'est de créer une offre irrésistible. Pourquoi est-ce
+27:37
+qu'une offre, c'est important ? Une offre, c'est ce qui va vous permettre de passer des fois de pas très rentable à
+27:43
+super rentable. Une offre, c'est ce qui va vous permettre de simplement détruire vos concurrents parce que on fait du
+27:49
+dropshipping, on fait du e-commerce, il y a des gens qui peuvent vendre le même produit que nous et des fois la seule chose qui va nous permettre de nous
+27:55
+différencier de la concurrence, c'est notre offre. Et si notre offre est plus alléchante que celle du concurrent,
+28:01
+simplement les clients vont acheter chez nous. Les clients, ils sont pas bêtes. Les clients, ils ont une bonne vision du marché. Les clients, ils savent quelle
+28:08
+marque vend quel produit et ils savent aussi où est la meilleure affaire. Et nous, le but c'est de leur proposer à un
+28:14
+moment la meilleure affaire possible sur le marché. Donc pour se faire, on va
+28:19
+commencer comme d'habitude avec de la théorie sur comment créer une offre irrésistible et qui va juste simplement
+28:25
+vous propulser au niveau supérieur et ensuite de ça pratiquement on verra comment le faire et le mettre en place
+28:30
+sur le site internet et plus précisément la page produit. Donc on se retrouve directement sur l'ordinateur et en gros
+28:37
+on va directement voir quel est le rôle de l'offre. Donc premièrement, l'élément
+28:42
+clé de la rentabilité c'est l'offre. Donc une offre peut transformer un produit ordinaire en une machine à
+28:49
+profit. C'est indispensable pour le trafic froid et aussi avoir une rentabilité immédiate. Les gens à qui on
+28:57
+fait nos publicités, à qui on montre nos publicités, c'est des gens la plupart du temps qui connaissent pas notre marque.
+29:02
+C'est des gens vraiment comme on disait, c'est des gens simplement ils sont sur les réseaux sociaux, ils sont en train de passer du bon temps et nous on vient
+29:08
+leur proposer un produit. Ces gens-là, ils sont tout froids. Ça veut dire que ils sont pas ils ont pas entendu parler
+29:13
+de nous quelque part. Ils ont pas eu des amis à eux qui ont parlé de ce produit. Ils sont froids. Donc c'està dire que
+29:18
+ces gens-là, il faut qu'à travers notre site, à travers nos créat et surtout à
+29:24
+travers notre offre que ça leur donne un déclic et qu'ils se disent "OK, je vais y aller." Ça c'est simple, des offres,
+29:30
+on en a vraiment autour de nous constamment. Ça veut dire que vous pouvez voir des offres à tous les niveaux. Ça veut dire que j'aime bien
+29:37
+prendre cet exemple, c'est par exemple un opérateur téléphonique qui va vous offrir une PlayStation contre 2 ans ou 3
+29:45
+ans de contrat avec eux. Vous allez payer chaque mois votre abonnement, par exemple pour internet, la télévision et
+29:50
+pour avoir votre abonnement téléphonique. Euh ça peut être simplement une fonctionnalité en plus
+29:56
+que vous allez recevoir seulement si vous contractez un abonnement à ce moment-là. Ça peut être par exemple le
+30:03
+petit paquet de chips avec la nouvelle saveur qui est collé sur votre paquet de chips préféré où vous vous dites "OK,
+30:09
+let's go, je prends ce paquet de chips parce queil y en a aussi un autre et je vais pouvoir goûter la saveur dessus." à l'entreprise, ça lui coûte pas
+30:15
+grand-chose parce qu'il met juste un petit échantillon mais au final ça pousse votre achat. Et nous le but en
+30:20
+créant une bonne offre c'est d'aller pousser l'achat du consommateur, pousser l'achat du client et qu'il se disent "OK, c'est le moment où j'amais
+30:26
+d'acheter, c'est ça qu'il me faut." D'accord ? Donc dans l'ordre d'importance, c'est premièrement le produit. Comme on discutait, le produit,
+30:33
+il y a rien de plus important. C'est ça la clé de tout. C'est le nerf de la guerre. C'est pour ça que votre recherche produit, elle est ultra
+30:38
+importante. En deuxième position, on a l'offre. Donc ça veut dire que votre offre est vraiment la deuxè chose la
+30:43
+plus importante en e-commerce, en dropshipping pour être rentable. La troisième, c'est les créatives qu'on verra dans la prochaine vidéo. Ensuite
+30:49
+de ça, on a la page produit qu'on a déjà vu et dernièrement la stratégie publicitaire qu'on verra un peu plus tard dans la vidéo. C'est juste pour que
+30:55
+vous compreniez l'ordre d'importance et à quel point ces skills vont être importantes pour votre réussite et pour déterminer si vous avez du succès ou
+31:01
+non. Et là, vous savez évidemment que dans cette formation gratuite, moi
+31:07
+j'essaie de vous apporter le maximum de valeur pour que chaque pilier vous vous ayez des informations pour vraiment
+31:14
+faire le meilleur résultat partout. Mais juste que vous sachiez que l'offre vient en deuxème position et que c'est très
+31:19
+très important que vous soyez très attentif pendant que cette vidéo, que vous preniez des notes et que vous compreniez que ça si vous le comprenez,
+31:26
+vous pouvez passer de avoir jamais eu de résultat en e-commerce à tout d'un coup devenir rentable. La décision dans la
+31:31
+tête du client, c'est simple. La question unique que votre client va se poser quand il arrive sur le site, c'est
+31:36
+est-ce une bonne offre ? Donc c'est une question qui vient intuitivement directement. Il va se poser poser la
+31:42
+question "Est-ce que c'est un bon deal pour moi ou c'est un mauvais deal pour moi ?" Si la réponse est oui, c'est j'achète. OK, j'achète, c'est un bon
+31:48
+deal. Si c'est pars. OK, donc la décision, il faut qu'elle soit simple,
+31:53
+instinctive et rapide. Ça veut dire que quand vous créez une offre, en 3 secondes, il faut que la personne elle la comprenne. Déjà si c'est trop
+32:00
+farfelu, qu'il y a trop d'information, la personne elle décroche, elle quitte, elle a pas le temps. Elle est de base comme je disais sur les réseaux sociaux
+32:06
+en train de scroller, elle a pas le temps de mettre trop d'attention pour comprendre ce que vous avez voulu créer. Donc faut qu'en 3 secondes c'est c'est
+32:11
+bon, c'est clair. Première chose. OK. Ensuite de ça, il faut que je vous parle d'un concept important qui est l'AOV,
+32:17
+average order value en anglais qui est le panier moyen. OK, donc en gros, quel est votre panier moyen sur votre site ?
+32:24
+Ça veut dire que sur 100 clients qui ont acheté, quelle est la valeur moyenne des achats de ces gens sur le site ? Par
+32:30
+exemple, si vous vendez trois variantes, vous avez une variante à 30 €, une autre variante à 70 € et une autre variante à
+32:35
+100 € et ben la moyenne de tout ça potentiellement ça va être à 70 € ou 80
+32:41
+€. Et ça ça prouve que votre AOV, donc votre panier moyen se situe à ce chiffre
+32:46
+là. Et ce chiffre là, il doit être toujours plus haut. Donc nous notre but c'est vraiment de pousser les gens à
+32:53
+acheter le maximum le maximum sur notre sur notre site. Et notre offre c'est quelque chose qui va ancrer le prix de
+33:00
+notre produit en fait l'envie d'acheter notre produit et en fait la jauge sur combien est-ce que je vais dépenser sur
+33:06
+ce site. Donc l'objectif c'est toujours d'augmenter l'AOV. Plus vous avez un AOV élevé, plus les gens dépendent sur votre
+33:11
+site, plus vous êtes le roi du marché. Le but évidemment c'est d'augmenter la marge, donc de gagner plus d'argent dans sa poche, ce qui nous permet d'investir
+33:18
+plus en publicité. Et je vais vous parler plus tard plus tard vraiment comme ça vous pourriez voir d'un exemple par exemple quand on vend des t-shirts.
+33:24
+Ce qu'il faut que vous compreniez vraiment c'est que plus vous allez avoir un AOV élevé plus vous allez vous permettre en fait de pouvoir dépenser en
+33:31
+publicité pour acquérir un client. Et ça je vais vous en parler plus en détail plus tard. Là on voit un peu en surface
+33:37
+et après je vous ai préparé tout un schéma pour que vous compreniez ça vraiment précisément. Ensuite de ça euh
+33:43
+créer l'urgence. Une raison d'acheter maintenant. OK. Euh donc évidemment les gens ils sont bassinés par des
+33:49
+publicités toute la journée, que ça soit dans le monde physique, dans le monde en ligne, il y a des pubs de partout, des
+33:54
+offres de partout et cetera. Nous ce qu'on doit faire, c'est leur donner une raison d'acheter maintenant, pas demain, pas dans une semaine, pas dans un mois,
+34:01
+maintenant. Et ça, comment est-ce que qu'on le fait ? C'est qu'on va créer des événements. OK ? On va se baser sur des
+34:06
+événements pour donner un trigger mental aux gens pour qu'ils comprennent que ça c'est pas pour toujours. L'offre qu'on fait aujourd'hui, c'est pas pour
+34:12
+toujours. L'offre, elle est maintenant. Si ça se trouve dans 2 heures, il y a plus parce qu'il y a un stock qui est limité, parce que c'est une offre de lancement, parce qu'il y a un
+34:17
+déstockage, parce que c'est Black Friday, parce que c'est la rentrée, parce que c'est Noël, et cetera et cetera et cetera. Vous pouvez être méga
+34:23
+créatif à ce niveau-là. OK ? L'objectif bon moment, bon endroit, action immédiate. Incroyable. Vous êtes au bon
+34:28
+endroit au bon moment. Là aujourd'hui, si vous achetez, vous avez trois cadeaux en plus, c'est incroyable. Les gens, ils se disent "OK, j'y vais. Je serais bête
+34:34
+de pas y aller comme on a vu dans la vidéo précédente. Évidemment que si les gens se sentent bêtes de refuser, c'est
+34:40
+qu'ils vont acheter. Parce que quand on se sent bête de refuser quelque chose, on se dit non mais j'achète quoi. Donc voilà un peu l'idée. Ensuite de ça,
+34:46
+c'est la mise en place et UX. Donc évidemment ça c'est des choses qu'on a pu voir sur le site. C'est simplement des bannières qu'on va mettre en place,
+34:52
+batch produit, pop-up, stock limité et cetera. Donc ça c'est important d'avoir ça en tête pour que vous compreniez.
+34:57
+Ensuite de ça, les offres. Donc là, on va discuter, comme je vous ai dit simplement d'un exemple de d'une personne de trois personnes différentes
+35:04
+qui vendent des t-shirts. On va avoir la personne une qui va vendre un t-shirt, deux t-shirts ou trois t-shirts,
+35:10
+d'accord ? Pour un certain prix. Imaginons que un t-shirt ça soit 2999,
+35:15
+deux t-shirts le double du prix et trois t-shirts simplement le triple du prix. D'accord ? Donc ça c'est une façon de faire une offre, c'est une offre, un
+35:22
+article, deux articles, trois d'articles. OK ? Personne numéro. Ensuite de ça, on a la personne numéro 2 qui simplement vend trois t-shirts, 5
+35:29
+t-shirts, 10 t-shirts. Donc là directement, en fait, la personne quand elle arrive sur notre site, le minimum
+35:35
+qu'elle peut acheter, c'est un pack de trois t-shirts. Et le client, il va pas inventer un scénario qui n'existe pas.
+35:41
+C'est-à-dire que lui, s'il arrive sur un site et que le minimum qu'on peut acheter c'est trois t-shirts, il va directement se dire "OK, là, j'ai le
+35:46
+choix entre 3, 5 et 10". Il va pas se dire "OK, mais j'aimerais en acheter un." OK, c'est soit j'en achète trois, soit j'en achète 5, soit j'en achète 10.
+35:52
+Donc si j'en ai trois, le prix il peut augmenter. Ça veut dire que par exemple 1 c'était 299, peut-être que 3 ça peut
+35:59
+être 89 99 ou 79 99. Et du coup en terme d'AOV, imaginons que vous vous êtes la
+36:05
+personne 1 et moi je suis la personne 2. Mon AOV, il va être obligatoirement plus haut parce qu'en fait je pousse directement les gens à acheter plus.
+36:11
+Donc ça veut dire que si vous vous dépensez de l'argent sur MTA et vous avez un AOV plus bas, vous pouvez vous
+36:16
+permettre seulement de dépenser un certain budget pour acquérir un client. Ce budget, il est corrélé avec combien
+36:23
+est-ce que ça vous coûte une vente. C'estàdire qu'à certain moment combien vous devez payer méta pour obtenir une
+36:29
+vente d'un consommateur. Si votre AOV il est par exemple à 40 et que mon AOV à moi, grâce à mes offres, il est à 70,
+36:37
+j'ai 30 € de plus que vous à dépenser en publicité jusqu'à ce que je sois en
+36:42
+perte. Donc ça veut dire que si on est vous et moi sur le marché, je vais gagner parce queà un certain moment sur le long terme vous allez vous épuiser.
+36:49
+Moi je vais pouvoir continuer à dépenser de l'argent publicité vous vous allez être de plus en plus euh on va dire en en perte et en perte de souffle et
+36:55
+ensuite de ça je vais simplement pouvoir venir prendre le marché gentiment. Donc ça c'est c'est une chose à comprendre. Une autre situation, c'est la personne 3
+37:02
+qui vend un t-shirt, deux t-shirts achetés égal un offert et trois trois t-shirts achetés ég trois offerts plus
+37:07
+un cadeau. Donc là, dans cette idée-là, au niveau des prix, ce qu'il faut comprendre, c'est que vous, en fait, c'est vous le maître des prix. C'est
+37:13
+vous qui avez simplement le contact pour avoir des t-shirts à un certain prix et c'est vous en fait après qui allez
+37:18
+empacer votre offre, euh créer votre offre et qui qui vous allez juste en fait faire en sorte d'être le plus
+37:24
+rentable possible. Alors, c'est pas pour autant qu'il faut être le plus gourmand possible parce qu'il faut rester compétitif sur le marché. Mais ce qui
+37:30
+est intéressant, c'est que par exemple, quand on va apporter de la gratuité comme 2 achet = un offert, c'est que il y a la notion de cadeau dedans. Ça veut
+37:36
+dire qu'en même temps, on va voir le côté OK, c'est intéressant, si j'achète aujourd'hui, je vais avoir quelque chose qui est offert. Par exemple ici, la 3è
+37:42
+variante trois t-shirts achetés, trois t-shirts offerts, c'est il y a un cadeau dedans. Donc en même temps, il pourrait
+37:47
+y avoir, je sais pas, un cadeau complémentaire au t-shirt ou alors un pull ou alors un bonnet ou alors je ne sais quoi, quelque chose qui qui est
+37:54
+dans le même monde en fait de ce que vous voulez vendre au client. Et simplement, c'est une offre qui peut être intéressante aussi. En général, ce
+38:00
+qu'on va faire, c'est que quand vous avez le prix de votre agent, vous allez avoir le prix du produit et le prix
+38:05
+d'envoi. C'est-à-dire que vous avez deux prix additionner pour savoir vous combien vous allez devoir payer en fait avant de faire la vente. Donc simplement
+38:12
+par exemple si le t-shirt il revient à 10 dollars on va dire parce que bah c'est 5 dollars le t-shirt et puis 5
+38:19
+dollars pour l'envoyer et ben vous vous devez prendre en compte dans vos calculs que ça va vous coûter un peu d'argent pour acquérir un client et que ça va
+38:25
+vous coûter donc en publicité et ça va vous coûter aussi pas simplement de l'argent pour acquérir le produit et pour l'envoyer. Le reste c'est dans
+38:31
+votre poche. Après, il y a deux trois frais par-ci parl mais en gros c'est ça l'idée. Donc en gros l'idée quand on lance un produit sur le marché c'est de
+38:37
+faire minimum un X 3. C'estàdire que si vous un t-shirt ça revient à 10 dollars, vous devez le vendre minimum à 30
+38:45
+minimum. D'accord ? Le mieux c'est de faire un X 4 x 5 mais quand on lance un produit, des fois c'est intéressant d'arriver avec un prix compétitif pour
+38:51
+commencer à se faire une base de client, faire en sorte que l'algorithme prenne de la data et ensuite de ça, dès qu'on a de la data, on peut faire des nouvelles
+38:57
+offres. Par exemple, je peux commencer avec un un t-shirt de acheter un offert trois acheter trois offerts et tant un coup passer à l'offre de la personne 2
+39:03
+qui va drastiquement augmenter mon AOV et qui va aussi me permettre peut-être de gagner 5 € de plus par t-shirt vu qu'ils sont compactés par pack de 3.
+39:09
+Voilà, donc ça c'est un peu l'idée au niveau des offres et et ça l'offre par exemple si on reprend le site que je vous ai montré dans la vidéo précédente
+39:16
+sur les les collants polaires, bah c'est totalement quelque chose qu'on pourrait faire. Ça veut dire qu'on peut faire un acheté à un certain prix, 2 achetés = un
+39:23
+offert, 3 achetés = 3 offert et ensuite de ça, on pourrait dire aux gens d'acheter minimum trois collants
+39:28
+polaires. C'està dire, c'est soit trois collants, soit 5, soit 10 collants polaires. Et après les gens, ils peuvent acheter pour eux, ils peuvent acheter pour offrir, ils peuvent acheter parce
+39:34
+qu'ils aiment bien avoir du stock, ils aiment bien avoir des couleurs différentes et cetera et cetera. Ensuite de ça, ce qui est intéressant de comprendre aussi c'est que en fait si
+39:41
+vous avez un AOV élevé, donc un panier moyen élevé, vous allez pouvoir vous permettre de dépenser plus en publicité.
+39:47
+Et pourquoi ça ? simplement parce que les gens vont dépenser plus sur votre site internet. Et du coup, si
+39:53
+maintenant, on va dire vous vendez les un t-shirt à 29 dollars ou si maintenant vous arrivez faire arriver à faire un
+39:59
+pack de 3 à 90 dollars en terme de valeur perçue, bah peut-être les gens vont plus aller vers un pack de trois
+40:05
+parce qu'ils vont se dire "Ah ouais, c'est intéressant, j'en ai trois." Au final à l'unité ça fait un prix intéressant et du coup cette offre là va
+40:11
+plus se convertir. Mais plus profondément derrière tout ça pour MTA si vous vous pouvez vous permettre de
+40:17
+dépenser plus d'argent en publicité que votre concurrent, ce qui va se passer que par exemple lui s'il vend les
+40:23
+t-shirts à 30 dollars, lui ce qu'il va pouvoir montrer comme pub, il va peut-être pouvoir montrer quatre pubs à
+40:29
+son audience. C'est-à-dire qu'il va seulement avoir la possibilité de faire mouche quatre fois. Peut-être il va avoir la possibilité, on verra ça dans
+40:35
+les créatifs plus tard, mais de montrer une vidéo, une statique, une autre vidéo et puis une statique et c'est fini.
+40:40
+L'autre personne qui a un AOV plus grand, il peut montrer jusqu'à 16 pubs à son audience si on en suit le schéma
+40:46
+ici. OK ? Donc ça veut dire que c'est comme si maintenant je vous disais vous avez 10 minutes pour convaincre une
+40:54
+personne de voter pour un certain nombre politique et de l'autre côté vous avez 1 heure pour le faire. En 10 minutes, ça
+41:01
+va être super compliqué de le faire. En une heure, vous allez pouvoir vous poser, vous allez pouvoir gentiment faire monter la sauce pour finalement
+41:08
+faire en sorte que la personne comprenne votre avis et soit potentiellement convaincu. En 10 minutes, ça va être très compliqué. Il va vraiment falloir
+41:14
+être très très bon. Donc ça ça c'est une simple image. Je parle un peu de politique, moi, c'est pas du tout mon domaine, mais pour vous faire comprendre
+41:20
+que c'est vraiment important que vous passiez du temps à créer votre offre et que votre offre en fait soit l'offre la plus alléchante du marché. Donc voilà,
+41:26
+merci pour votre attention. C'était la vidéo théorique sur la création d'offre. Maintenant, on va passer à la partie
+41:32
+pratique. Ce qui est important de comprendre ici, c'est que plus vous allez avancer dans votre parcours, dans
+41:38
+le e-commerce, plus vous allez améliorer en fait votre produit, améliorer par exemple le packaging, plus la valeur
+41:45
+perçue de votre produit va augmenter aux yeux du marché et plus vous allez pouvoir vous différencier de la
+41:51
+concurrence parce qu'en fait au début peut-être vous vous vendez un produit générique parce que vous devez aller tester le marché avec un produit Alibaba
+41:57
+mais ensuite de ça, vous allez rajouter votre packaging. Ensuite de ça, vous allez peut-être modifier un peu le produit pour qu'il soit unique, qu' soit
+42:02
+qu'à vous. Vous allez potentiellement envoyer le produit à des gens qui vont faire des photos avec Lia. Vous pouvez aussi faire plein de choses mais c'est
+42:08
+juste pour vous dire que ensuite de ça, dès que vous commencez, les gens voient, ils commencent à voir que votre produit il est utilisé par beaucoup de gens qui
+42:14
+a des photos, qui a des vidéos, qui a des explications, plus l'image perçu, elle augmente et plus on peut commencer
+42:19
+à s'adresser à d'autres personnes. Parce que ce qu'il faut savoir aussi, c'est que les clients qui dépensent moins
+42:26
+d'argent sur un site, OK, qui vont prendre par exemple l'option la plus safe ou la la moins chère, en fait des
+42:31
+fois c'est déjà des gens qui ont pas d'argent. C'est des gens qui ont pas beaucoup d'argent. C'est-à-dire que si vous vendez un t-shirt à 19 ou 29,99
+42:38
+peut-être votre clientèle ça va être quelqu'un qui va se dire "OK, bon, il me faut un t-shirt, je l'achète et puis il a peut-être, je sais pas 50 € sur son
+42:45
+compte, il dépense 29 € c'est énorme pour lui." Et là, il a des mégas attentes. C'està-dire qu'il est là, il se dit "Non, mais il faut que ça arrive
+42:52
+vite. Si c'est pas comme si c'est pas comme ça, je suis pas d'accord." OK ? Donc ça c'est une type un type de client que vous allez vous allez viser. Si
+42:59
+maintenant vous commencez à vendre des packs à 90 € de t-shirt et que vos t-shirts ils sont brandés et que vos
+43:04
+t-shirts bah ils arrivent dans un packaging et que vos t-shirts X et Y et ben tout d'un coup vous allez parler à
+43:09
+une autre audience de gens, des gens potentiellement qui ont plus d'argent et les gens qui ont un peu plus d'argent et ben ils ont souvent l'habitude de
+43:15
+beaucoup moins se plaindre. Ça veut dire que par exemple tout votre service client qu'on verra après comment gérer un bon service client, c'est quelque chose au final qui va être beaucoup plus
+43:21
+facile à gérer. C'est pas forcément instinctif à comprendre mais c'est juste pour vous dire que aussi augmenter votre panier moyen. C'est très bon pour la
+43:27
+concurrence pour vous installer sur le marché. C'est très bon pour votre marge à vous et votre bénéfice personnel. Et c'est aussi très bon pour aller
+43:34
+gentiment avoir de la marge et aller chercher des clients qui ont de plus en plus d'argent. Voilà, donc ça c'est un
+43:41
+peu on va un peu plus loin, c'est un peu un niveau un peu plus avancé. Là, on est, on va dire, dans la base. Donc dans
+43:46
+la pratique, on va aller vraiment dans des choses de base que vous allez pouvoir reproduire. La chose la plus importante à comprendre, c'est toutes
+43:51
+ces histoires au niveau des offres. Vous devez comprendre qu'il y a plein de façons de compacter des offres et de simplement amener différents éléments
+43:57
+qui vont faire en sorte que ça soit très alléchant. Et ça, vous pouvez le faire sur tous les produits, dans toutes les niches et vous avez juste un peu être
+44:03
+créatif, vous creuser la tête et aussi évidemment toujours discuter avec chat GPT, être constamment en discussion
+44:09
+avec, lui demander ce qu'il en pense comme un deuxième cerveau, un second brain. Donc voilà, un grand merci à vous pour votre attention. On se retrouve
+44:15
+pour la prochaine vidéo pour la partie pratique où on va vous montrer sur le site simplement comment venir mettre une
+44:20
+offre qui on jette et qui donne envie d'acheter directement. Merci à vous et je vous dis à tout bientôt. Bye bye.
+44:30
+Alors comme d'habitude, on se retrouve sur le site coininesses que je vous ai déjà montré lors des précédentes vidéos
+44:36
+et cette fois on va regarder ensemble en live comment simplement installer une offre. Pourquoi ? Parce que c'est vrai
+44:41
+que OK là la personne peut se dire qu'elle a envie d'acheter les colon polaire mais c'est vrai qu'il y a pas quelque chose qui directement donne
+44:48
+envie au niveau de l'offre. Alors, il y a un petit peu ici un petit badge qui dit "Ne laissez passer cette offre." C'est bien, ça met de l'urgence.
+44:54
+Inconsciemment dans la tête du consommateur, ça va ajouter quelque chose. Mais ce qu'il faut se dire, c'est qu'on a vraiment besoin d'avoir une
+45:00
+offre qui est unique et qui va directement faire passer le client d'intéressé à Super Show et lui donner
+45:06
+envie d'acheter tout de suite. Donc, ce qu'on va faire simplement, c'est qu'on va aller directement chercher cette application qui s'appelle Smart Bundle
+45:13
+Quantity Brex. C'est quelque chose, vous pourriez retrouver directement dans la description. Donc il faut savoir qu'avec le code to th EO, vous aurez 30 % de
+45:20
+réduction à vie sur l'application. Euh donc c'est un deal très très rentable et c'est simplement un no brainer qu'il
+45:27
+faut installer sur votre boutique si vous voulez convertir bien la plupart des clients qui vont venir sur votre
+45:32
+boutique. Donc simplement ce que vous avez à faire c'est que vous allez aller ici dans votre Shopify, vous allez aller ici dans application. Ici dans
+45:39
+application vous allez simplement taper ce nom-là donc Smart Bundle Quantity Break. Ensuite de ça, vous tapez le nom,
+45:45
+vous mettez recherche et ensuite de ça, vous allez tomber ici sur Smart Bundle
+45:50
+Quantity Break. Prenez bien avec cette affiche si vous voulez ce comment on appelle ça ? Un flavicon avec ce
+45:56
+flavicon s'il vous plaît. Et comme ça, vous aurez accès à la bonne application et au bon code promo. Donc voilà, simplement ce qu'on va faire c'est qu'on va installer maintenant. Voilà, on va
+46:02
+installer. Il faut savoir que cette application a aussi un support très bon. Donc si vous avez des questions, vous pouvez simplement écrire aussi au
+46:08
+support de cette application et simplement vous avez qu'à rentrer ici le code promo donc too. Et simplement
+46:16
+appliquer le code promo. Voilà. Et ici vous avez un essai gratuit de 7 jours. Donc ce qui est intéressant avec ces
+46:21
+applications, c'est que vous avez vraiment le temps de tester votre produit avant de payer. Et ça c'est quand même quelque chose de très intéressant. Donc en vrai, ça vous
+46:27
+rajoute pas des frais, ça vous donne une fonctionnalité en plus sur sur votre site. Mais par exemple ensuite de ça, si vous devez changer de produit parce que
+46:33
+c'est votre premier produit ou deuxième produit et vous êtes encore en train d'apprendre, bah simplement vous aurez pas payé. Voilà, donc on va simplement
+46:38
+mettre ici et c'est gratuit de 7 jours. Voilà, on approuve les frais. Voilà, ce que vous devez faire simplement, c'est
+46:43
+activer du coup Smart Bundle sur votre site. Donc là, c'est très très simple. Vous avez juste à cocher ça sera déjà
+46:49
+coché. Donc juste vous marquez enregistrer. Ensuite de ça, vous revenez simplement, vous cliquez sur vérifier.
+46:55
+Et là, la seule chose que vous allez faire, c'est créer un bundle. Et là, ensuite de ça, vous allez voir que vous avez des variantes euh qui vont
+47:01
+simplement apparaître. Donc là, on va simplement mettre euh bundle colon polaire test. On va prendre un produit
+47:08
+spécifique parce qu'on va pas faire la même offre sur tous les produits. Ici, on va aller sélectionner le colon polaire. Voilà. Ensuite de ça, on va
+47:14
+mettre ici, comme je vous disais, on va justifier l'offre. Donc là, vu qu'on est le 4 janvier, on va simplement mettre
+47:20
+offre début d'année. Hop. Et là, vous mettez stock t. Voilà. pour toujours rajouter un petit peu d'urgence, c'est
+47:26
+très important. Ici, vous pouvez mettre point 90. Ensuite de ça, OK. Ici, vous
+47:32
+pouvez simplement enlever pour l'instant. Voilà. Ici, vous pouvez simplement traduire. Donc ça, vous pouvez traduire en français ou dans la
+47:37
+langue de votre site. Et là, on va simplement configurer les offres. Et là, simplement, ce qu'on va faire, c'est qu'on va créer une offre, une offre très
+47:43
+très simple où on va donner la possibilité aux gens d'avoir un acheter et ensuite un offert. Donc ce qu'on va
+47:49
+faire simplement c'est qu'ici on va mettre le titre de l'offre qui va être un acheter ég un offert tac. OK. Alors
+47:57
+ici ce que vous pouvez faire c'est que vous pouvez mettre mon 40 % ici vous touchez pas. Voilà. Type de réduction
+48:04
+pourcentage. Le pourcentage ici il va être à 40 %. Voilà. Donc ça c'est l'offre numéro 1. Ensuite de ça, on a
+48:10
+l'offre numéro 2. Donc là simplement ce qu'on va faire c'est qu'on va mettre ici de acheter ég offert. Ici on va
+48:19
+simplement mettre on va rester dans la cohérence. Donc ici étiquette on a mis -
+48:24
+40 %. Ici ce qu'on va mettre c'est - 60 %. le badge ici, on peut mettre par
+48:29
+exemple recommander ou on peut mettre par exemple, on peut mettre quelque chose d'encore plus psychologique. Par
+48:36
+exemple, pour un hivers entier au chaud par exemple là, vous pouvez mettre un
+48:41
+emoji si si le produit s'y prête, par exemple, vous pouvez aller chercher un emoji de de flocon ou quelque chose qui
+48:46
+rappelle le froid pour justement bah pousser en fait psychologiquement, émotionnellement les gens à dire "Ah ouais, ça peut être intéressant d'en avoir deux ou quatre parce que je peux
+48:53
+aussi comme ça changer, avoir différentes couleurs et cetera." Donc ça c'est intéressant. Tac. quantité. Là, ce qu'on va faire, c'est qu'on va faire
+48:59
+simplement 3h = 3 offers. Voilà. Tac. Moi, ce que je vous conseille ici, c'est
+49:04
+de faire par exemple 30 % - 50 % ici - 60 %. Ici, au lieu de bon plan, on peut
+49:11
+mettre quelque chose d'un peu plus personnalisé par rapport au produit. On peut mettre par exemple meilleure vente
+49:17
+par exemple. Euh voilà, pourcentage nombre de pourcentages. Donc là, il faut que je mette ici, on va mettre le
+49:23
+pourcentage qui est à - 50 %, ici le pourcentage qui est à moins 60 %. Voilà.
+49:29
+OK. Intéressant. Donc là, on a un HT = un offert à euh 590,
+49:35
+2 HT = 2 offert à 990 et 3 HT = 3 offert à 1190. Voilà. Donc
+49:43
+vous comprenez que au niveau de l'AOV, ce qu'on discutait plus tôt dans la vidéo, ici en faisant un acheté un offer, on va directement augmenter notre
+49:49
+AOV parce qu'en fait si vous voulez les gens ils vont directement se dire si on avait un à 59,90, ça pourrait
+49:55
+potentiellement être un peu un choc pour eux selon le type de branding parce qu'il pourrai se dire c'est un peu cher. Par contre ici on a un acheté égale un
+50:01
+offert, donc c'està dire que normalement ce collant polaire est à 59,90 mais là pour le coup et pour l'offre et
+50:07
+seulement aujourd'hui pour un stock limité, on est à un acheté qui an offert. Donc on vous en offre un pour le prix normalement d'un tout seul. Et ça,
+50:13
+ça change totalement la perception parce que le premier argument, c'est pas assez cher, c'est Ah, intéressant, normalement j'aurais dû payer ça. Mais là, j'en ai
+50:18
+deux pour le même prix. Donc voilà un peu l'idée. Donc voilà. Et ensuite de ça, on peut aller travailler tout ce qui
+50:24
+est couleur. Euh donc ça veut dire que par exemple ici, on peut aller mettre, on va dire, des couleurs un peu comme le
+50:29
+comme le site. Donc là, simplement, on va regarder les couleurs qui ont été mises à la base. Et on peut euh ici, par
+50:35
+exemple, hop, aller mettre certaines couleurs. Par exemple, si on veut que l'arrière-plan soit beige, par exemple,
+50:41
+on pourrait mettre cette couleur et avoir ici un arrière-plan qui est beige. Donc, comme je vous disais, le support est très réactif. On peut voir ici bah
+50:47
+que vous avez simplement à discuter avec eux si vous avez des questions sur quoi que ce soit. Euh par exemple l'arrière-plan ici, on peut faire en
+50:52
+sorte qu'il soit un petit peu plus euh tamisé. Euh voilà, ce qu'on va faire, c'est plus simple, c'est qu'on va mettre ici l'arrière-plan sélectionné comme ça.
+50:59
+Et l'arrière-plan normal, on va le mettre en tout blanc. Voilà. Comme ça, en fait, dès qu'on sélectionne et ben, on sent que c'est la variante qui est
+51:05
+sélectionnée. C'est intéressant. Après, vous pouvez vraiment faire un peu comme vous vous la sentez. L'arrondi des bords, vous pouvez faire en sorte que ça soit plus arrondi. Voilà. Moi, je vous
+51:11
+conseillerai un peu comme ça. La largeur des bords aussi si vous voulez mettre plus, si vous voulez mettre moins. Voilà. euh largeur des bords
+51:17
+sélectionnés, on peut faire en sorte par exemple que bah il y en ait un qui soit sélectionné, bah les les bords soient beaucoup plus vifs. On va quand même
+51:22
+laisser ça. Voilà, comme ça un peu normal que ça soit un peu doux. Euh ensuite de ça, bah par exemple cette couleur là, on peut par exemple se poser
+51:29
+la question quelles sont les les couleurs du site, par exemple faire revenir le gris ici à la place et on va
+51:35
+simplement bah ici avoir par exemple au lieu d'avoir le orange, on peut avoir par exemple tac du gris. Ou alors si on
+51:41
+veut une couleur un peu plus pétante, potentiellement on est vers les fêtes, c'est un produit peut-être qui peut qui peut se vendre très très bien comme on
+51:47
+voyez vers les fêtes. On peut mettre sans autres un verre un peu un peu foncé pour rappeler l'idée des fêtes, aller
+51:52
+mettre un un emoji de sapin de Noël pour vraiment apporter cette ambiance de Noël et cetera ou même simplement rouge
+51:59
+simplement ça peut aller très très bien. Là ici pour l'exemple, je pense que je vais simplement laisser en noir. Voilà comme ça ça sort bien. C'est en noir,
+52:05
+c'est clean, c'est cool. Donc voilà les différentes choses qui sont possibles de faire. Euh par exemple ici, ce qui peut
+52:11
+être intéressant, comme vous voyez pour la troisème variante, c'est de rajouter un cadeau gratuit. Et là, simplement euh
+52:16
+le cadeau gratuit, on va venir par exemple sélectionner un cadeau gratuit. Donc là, vous allez venir créer un
+52:21
+produit et imaginons qu'on ait envie de d'offrir un bonnet ou des gants avec notre colon polaire, on aurait
+52:28
+simplement fait à venir créer des des gants et les ajouter en cadeau. Là, on va mettre les pantoufles, ces pantoufles
+52:33
+là. Hop. Et comme ça en fait simplement on va les ajouter. Et on peut voir que là il y a un cadeau mystère qui s'est
+52:40
+ajouté et que par exemple quand on prend cette variante là, on peut directement
+52:45
+aller choisir les pantoufles. Là on peut choisir sa taille, on peut choisir la couleur et commander simplement ce
+52:50
+produit. Ce qui donne directement plus envie d'en prendre. ou par exemple ici, vous voyez ça ça vient de me venir en
+52:55
+tête mais au lieu de mettre meilleure vente ce qui pourrait être intéressant c'est aussi par exemple ici mettre
+53:00
+penser pour offrir à vos proches par exemple pour offrir à vos proches. OK ça peut être très à vos proches. Voilà par
+53:07
+exemple ça c'est quelque chose aussi que vous pouvez simplement copier faire une photo, envoyer un chat GPT, lui demander ce qu'il en pense et améliorer
+53:14
+simplement avec lui. Donc voilà, en gros, ensuite de ça, par exemple ici ce qu'on pourrait faire simplement c'est
+53:20
+écrire au support simplement pour leur demander comment en fait faire pour que la personne puisse voyez s'il y a un
+53:25
+acheté un offert, comment est-ce que la personne pourrait faire pour justement commander le noir en XS par exemple et
+53:31
+par exemple un beige en XS aussi. Vous voyez ? parce que là, je vois pas actuellement la fonctionnalité pour le faire ici. Je pense ça doit être un
+53:38
+petit une petite chose qui doit juste être réglée pour que ça se fasse et qu'on puisse sélectionner deux variantes. Mais du coup, ça ça serait
+53:44
+totalement une voyez le support, ils sont très très réactifs. Ça serait directement quelque chose qu'on pourrait voir avec eux pour améliorer ceci pour
+53:50
+pas que forcément les gens ce qu'ils achètent ils l'aient le même. Par exemple là, pour offrir, vous voyez, ça serait bien que la personne elle puisse
+53:56
+en choisir trois quatre. Nous, ça nous change rien mais le client ça lui change tout. Donc voilà un peu pour l'idée, comme ça vous comprenez un peu comment ça fonctionne. Et puis je vais vous
+54:02
+montrer maintenant comment ça fonctionne euh simplement sur le site. Euh donc sur le site ici, on va se rendre simplement
+54:08
+sur euh le bon template. OK, on se retrouve simplement ici. Donc on peut voir que sur le site internet et sur la
+54:15
+page produit plus précisément, euh ce qu'on retrouve c'est directement qu'on a notre bundle qui s'est affiché. Après
+54:20
+une petite discussion rapide avec le support, j'ai pu faire en sorte que simplement la personne puisse choisir différentes tailles si elle achète un
+54:26
+acheté, un offert. 2 achet = 2 offert, il y en a 4 et 3 achet 3 offerts et il y en aura 6. Voilà. Donc là, les prix sont
+54:33
+CHF parce que je suis actuellement suisse donc la conversion se fait toute seule avec Shopify paiement mais les
+54:38
+prix sont bien en euros. Vous pouvez voir ici c'est la même chose et ensuite de ça si on veut affiner un peu et faire
+54:43
+en sorte que c'est un look différent, on peut changer toutes les couleurs ici. Donc vous pouvez vraiment vous êtes très très libre de changer toutes les
+54:49
+couleurs. Ici vous pouvez changer aussi tous les textes. Si vous voulez par exemple vous avez un produit qui s'y prête, vous pouvez aussi rajouter un
+54:54
+texte ici par exemple en en sous-titre. que vous pouvez mettre par exemple, imaginons que ça soit un produit, par
+55:00
+exemple une crème anti, on pourrait mettre 3 semaines de traitement par
+55:06
+exemple pour ajouter en fait des informations sur le produit. Donc ça ça peut être très intéressant à faire. Voilà, simplement si vous voulez rajouter un cadeau aussi pour les autres
+55:12
+variantes, vous avez simplement en fait à appuyer ici sur cadeau, sélectionner le le cadeau que vous voulez. Donc vraiment, c'est très facile à prendre en
+55:18
+main. C'est super intuitif. Il y a toujours le support qui est là qui est super réactif si vous avez la moindre question. Ici, vous pouvez changer aussi
+55:24
+la taille, c'està dire que si par exemple, vous voulez que ça soit euh, imaginons fin, bah on peut voir que l'écriture va changer. Si on veut que ça
+55:30
+soit normal, bah ça va être normal. Si on veut au contraire que ça soit super gras, ça peut être gras. Donc vraiment, il y a plein de choses qui sont
+55:36
+modulables. La taille aussi, on peut réduire la taille si on veut qu'elle soit plus petite. On peut on peut réduire le prix. On peut vraiment tout
+55:42
+changer, tout optimiser et c'est ça qui est qui est vraiment important. Et voilà, en gros, c'est ça, choisis le cadeau. Et le but que vous devez
+55:47
+comprendre là-dedans, c'est que avec ça, vous pouvez vraiment être créatif. C'est quelque chose qui peut évoluer, c'est quelque chose vous pouvez faire différents tests avec le temps, tester
+55:54
+une certaine offre pendant une ou deux semaines, ensuite ajouter, affiner, améliorer l'offre et cetera et cetera.
+55:59
+Donc voilà, j'espère que c'est clair pour vous, c'est vraiment quelque chose de très très simple à prendre en main mais qu'il faut absolument que vous
+56:05
+rajoutiez sur votre site et que vous créez des offres parce que c'est ça souvent qui va faire passer la personne l'action maintenant et tout de suite.
+56:10
+Ici, on peut voir par exemple qu'il y a un petit timer. Le timer, ça met ce qu'on appelle de la scaricity. C'est c'est la scarity. C'est vraiment ce qui
+56:16
+amène en fait vraiment de le fait que les gens agissent. maintenant et tout de suite et c'est ça qu'on va essayer d'aller chercher. Donc voilà, j'espère
+56:22
+que cette vidéo a été utile pour vous. Euh je vous rappelle que vous avez accès à l'application Smart Bundle avec moins
+56:27
+30 % à vie avec le code to O T H E O et euh ensuite de ça simplement vous avez qu'à l'installer comme on a vu dans
+56:33
+cette vidéo. Donc merci à tous pour votre attention et euh je vous retrouve pour euh le prochain euh module et euh
+56:39
+je vous dis à tout bientôt. Allez bye bye. OK alors j'interromps juste 2 secondes ce que j'étais en train de dire
+56:44
+pour vous expliquer que j'ai ouvert ma chaîne YouTube Vincent Gabor. Vous trouverez le lien juste en description
+56:49
+et ça serait vraiment un plaisir pour moi et une grande motivation de voir qu'il y a des gens qui attendent mes vidéos, qui suivent mes vidéos, qui commentent mes vidéos et pour se faire,
+56:55
+il faut que vous soyez abonnés pour que vous loupiez aucune de mes vidéos. Donc s'il vous plaît, prenez vraiment une minute, ça suffit. Juste vous allez
+57:02
+cliquer sur le lien en dessous dans la description, vous cliquez sur s'abonner et on se retrouve pour la suite. Merci en tout cas à vous et au plaisir de vous
+57:08
+retrouver sur ma chaîne YouTube. Fin du jour 3, vous avez maintenant une boutique complète avec une offre structurée sur le papier. Vous êtes prêt
+57:14
+à vous lancer. Demain, jour 4, on attaque le plus gros morceau de toute cette formation, les créatives publicitaires et notamment celles qui
+57:20
+ont fait les 2 millions d'euros de Vincent sur Meta en 2025. Comment les penser, comment les tourner, comment les scripter ? Alors ne ratez pas ça, c'est
+57:26
+le cœur du business en e-commerce. Et pour ceux que ça intéresse, j'ai créé un quiz basé sur la data réelle des membres de mon accompagnement lié à calcul votre
+57:33
+revenu potentiel complémentaire avec l'e-commerce selon votre profil. Alors, si ça vous intéresse, le lien sera en description. À demain.

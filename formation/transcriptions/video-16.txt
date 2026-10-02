@@ -1,0 +1,649 @@
+Vidéo 16 : Well, I'm sorry to tell you, but getting started with drop shipping and hitting your first $50,000 is getting
+0:05
+ridiculously [music] simple. And this is because of the power of artificial intelligence and things like Claude
+0:11
+releasing the new Opus 5.5. But you can see here, the 22nd of September, [music]
+0:16
+2026, and today's date is the 23rd of September. So, this was yesterday, and
+0:22
+we did $1,700. If I change this to the [music] 21st, you can see we've done $2,000.
+0:30
+And I'm going to be showing you how you can follow it step by step. I'm going to be giving you all the cheats, the prompts. [music] Now, if you guys want
+0:36
+to get access to the cheat sheets, the prompts, and the skills, we just need to hit 500 likes on this video, then
+0:41
+they'll be in the pin comment and in the description below. With that being said, guys, let me show you. These are the
+0:46
+landing pages that I'm able to build with Claude AI. Now, this is the product that I've got, the gym station bag,
+0:52
+where you can put it anywhere in the gym instead of leaving your bag on the floor. So, you guys can see this landing page looks absolutely amazing. Honestly,
+0:58
+a store like this, usually you have to pay for a theme that's really expensive or hire a web developer that usually
+1:04
+costs thousands of dollars, but like honestly guys, this store looks 10 out of 10. If I change it into mobile
+1:10
+version, you can also see it looks 10 out of 10 again, if not better on the mobile version. So, but the fact that we
+1:15
+can build things like this now with Claude is just stupidly good. And back in the day, like I said, I've been doing
+1:21
+this for almost, you know, 11 years. To be able to get this back in the day, it would have just took too long. Then, if
+1:26
+we look at an ad that I was able to make. So, this is a 35second ad that I'd launch on Facebook. Let me put the
+1:32
+volume up for their stuff. And the reason this one doesn't might surprise you. It's not just that it sticks to any machine in
+1:38
+here or how strong the magnet actually is. It's not just that a 40 oz bottle slides right in or that it fits your
+1:44
+straps, headphones, and keys or the little air tag slot so you never lose it and the stretchy side pockets for your
+1:49
+phone. And it's not the strap you carry it by between machines. It's because your stuff moves with you. Machine to
+1:54
+machine. Nothing on the nasty gym floor and no walking back for it. It's the no backtrack magnetic gym sling. Tap the
+2:00
+link on this video and grab yours today. Now, I oneshotted that whole video and
+2:06
+with sedance 2.5, but look at how realistic this looks. It doesn't look like an AI UGC ad and it converts
+2:12
+really, really well. All right, with all of that being said, let's get into the cheat sheet. But if we just scroll over to the left and focus on the winning
+2:19
+product criteria. So, this is how we find winning products. Now, we are going
+2:24
+to be using Claude to do all the product research, build the store. Claude's going to be essentially doing everything. But although we're going to
+2:31
+be using Claude to do all the work, we can't just leave it to do the work and not check the work it does. There's a
+2:36
+difference between getting AI to do the work and not checking the work. So, we still have to check it. Now, for us to
+2:42
+check it, we need to be in a position where we know what to check for. Now, what I want you guys to do is open up Claude. Now, the good news is Claude's
+2:48
+allowing co-work to be used on the web version, and they've migrated the co-work inside of chat. So, there's a
+2:54
+lot of UI changes inside of Claude. So, if you can't see the co-work here, don't worry. They've made it one place now.
+2:59
+Now, Opus 5.5 just dropped yesterday, guys. And it's a crazy model. It's the most powerful model. Well, it's even
+3:05
+better than Fable 5. So, I'd recommend that you guys use Opus 5.5. You're going to get really good results from it. I've
+3:12
+been trying it all day yesterday, and I got crazy results with it. Now, I'm going to skim through this, but I want you guys to read this in your own time.
+3:19
+Number one, it fixes annoying problem. Now, if we go back over to my product that I chose, it does fix an annoying
+3:25
+problem because people hate leaving their water bottles on the floor, getting them lost, getting them mixed
+3:30
+with other people's bottles. So, by having this where you can take it with you fixes a very annoying problem.
+3:35
+People can't just walk into a shop and buy it. Be honest with me guys, there's no gym that I know, and I've been to
+3:40
+loads of gyms at different price ranges that sell this, by the way. I've been to loads of fitness shops. I've never seen
+3:46
+this being sold in a shop. You can make good money on each sale. So, the markup that you can make, so you can see I got
+3:51
+it listed here for about $59. It's costing me $5 to buy it. So, the markup is really, really good. without fancy
+3:58
+video creations. Your product should be able to wow people or get people to understand it really easily. If you have
+4:05
+to really force people to understand it, it's a product. Then you want to make sure it's small and light. I mean, as in
+4:10
+like the package size because shipping becomes expensive and there's more risk. So, you want to make sure it's cheap and
+4:15
+small to ship. Other people already selling it and making money. Now, this is really important because you don't
+4:21
+want to be selling a product that no one else is selling and not making money. Now, a lot of beginners think, well, if other people are selling it and making
+4:27
+money, then that means it's oversaturated. It means that it's saturated in the market they're selling
+4:32
+it to. But there's always a new market you can sell it to. So, it's a good sign if there's people selling it and it's
+4:38
+saturated because it means guess what? They're making money, which means you can make money if you find a new market
+4:43
+to sell to. So, then how do we do product research? Claude is only as powerful as it can be depending on what
+4:50
+you give it. Now, for product research, if you were not to use a database like Winning Hunter, now I've been using
+4:55
+Winning Hunter for years and years, and I find it amazing. And the amount of updates they do to this thing is crazy.
+5:01
+This allows me to see how many ads are being run, how much money ads are making. It gives me everything that I
+5:07
+need. It's actually a cheat code because it shows me everything that I need by running Facebook ads. So, I get to see
+5:13
+Facebook ads on here, Google ads on here, I get to see Tik Tok ads on here. I get to see everything. Now, unless
+5:19
+Claude's got access to Winning Hunter, it will never be able to see this information. If you try and give Claude
+5:25
+product research tasks, it'll go on to Google, it will maybe go on the ad library, but the ad library doesn't have
+5:31
+much accessible data like when it was created, when did they start scaling, how long's it been running. The ad
+5:37
+library barely tells you anything. So, if we give Claude access to Winning Hunter that has all of this data, and by
+5:44
+the way, it's very overwhelming. I must admit, when I first started using Winning Hunter, I found it overwhelming.
+5:49
+So, if we give Claude access to something like this, which has everything it needs to find a winning product, we're giving Claude the best
+5:56
+chance to find us a winning product. But if you just get Claude and tell it a prompt like, "Can you find me a winning
+6:02
+product, please?" You're going to get the worst products possible. So, what you need to do is sign up to something like Winning Hunter, there'll be a link
+6:08
+in the description. Honestly, you can use Winning Hunter, any ad spy tool that gives you this data. You're going to
+6:14
+want to make sure it's just as good as Winning Hunter. The reason why is because the data here is insane. We call
+6:20
+this a database. Now, you can go over here to where it says connect to AI and you can go over to where it says MCP
+6:26
+tools, MCP setup. You copy this URL. You go back over to Claude. You come over
+6:31
+here to customize. You go to where it says connectors, add custom connector. You call this winning hunter. You paste
+6:36
+the MCP here. And then it will log you into your account. Then once you've done that, you can go over to connectors and
+6:42
+you can scroll through these and we can see Winning Hunter is now here, which
+6:47
+means now Claude can go on Winning Hunter and find me my winning product. So if we go back over to the cheat
+6:53
+sheet, you're then going to see the skill that we need. Now this skill tells Claude how to use Winning Hunter. So if
+7:02
+we open up the skill and we download this skill, it's called proven product hunt. You're then going
+7:09
+to go back to Claude. You're going to go plus skills, manage skills, add, upload,
+7:15
+and you're going to upload the skill that I gave you. You're then going to go to where it says plus skill. You're
+7:20
+going to add that skill in, which is the product hunt skill. Then once you've added this skill, you can see it here.
+7:27
+You're going to go back to the cheat sheet. You're going to go to where it says prompt used, and you're going to
+7:32
+copy this prompt. Now, what I'd recommend that you do is I'd recommend that you guys adjust this prompt
+7:38
+slightly. I'm not saying massively. I'm just saying slightly. So, what I want you guys to do is say, well, these are
+7:43
+the niches that I'm interested in. Beauty, pets, whatever it may be. Give give, you know, add to this prompt five
+7:49
+niches that you're interested in. Then also tell Claude the date you're
+7:54
+doing this because sometimes AIS don't realize what day you're on. So, today is
+7:59
+the 23rd. So, type I'm doing this on the 23rd of September. Then what you're
+8:05
+going to want to do is if you want to adjust the prompt anywhere you want, you can, but I'd recommend that you do those
+8:11
+two things. Add the date because like I said, AI sometimes doesn't even realize what day you're on. Then also add a few
+8:17
+niches that you're particularly interested in. And guess what? Depending
+8:23
+on the season you're in, whether cuz we're coming up to Christmas, Halloween, whatever it may be, you might want to
+8:28
+mention we're also coming up to Christmas time. So, is there some good Christmas products that I could also add
+8:33
+to this list? So, when you're using prompts that I give you guys, think, how can I make them better based on what
+8:40
+time of the year it is and any other information I may have. Once you've got the prompt, you're going to then click
+8:46
+send. Now, remember, make sure you're using Opus 5.5. You'll get really good results from using that model. Then the
+8:52
+product that Claude found me in the response was this one here, the magnetic bottle. So this is the original brand
+8:59
+selling it. And this is the exact store and product that it found me. Now, can I
+9:04
+sell it as a drop shipper? Well, guess what? Claude also found me the AliExpress product. And it's got 4,000
+9:11
+sold orders, meaning that it's definitely making a ton of money. And the competitor is selling it for $69 cuz
+9:18
+they've added a nice little fancy logo to it. Now, what we can do is once Claude's given you a file, it will give
+9:23
+you a file of like five or 10 products that it recommends. It found me this website selling the product. So, you're
+9:29
+going to want to take this product, for example, copy the URL on the homepage. Go back to Winning Hunter, go to stores.
+9:35
+You can then search for the store here by adding the URL. You can add it. And then by us adding this, we can see if
+9:42
+it's actually making money. So, we've now got the sales tracker out. And the sales track is saying that this store is
+9:48
+generating between $380 to $650,000. And the most important part is look at
+9:53
+the chart. Monthly visitors. It started really, really well. And it's now scaling again. Again, if we go to their
+10:00
+ads, they've got 249 active ads. And if we scroll down, guess what? We can see all of their top performing ads. It's
+10:07
+really important that once Claude's given you the list of products that we also look at it. Also, they give us the
+10:12
+Trust Pilot reviews and they've got really good reviews. That's really important because it means the product's good quality and we shouldn't have to
+10:18
+worry about getting chargebacks or refunds. So, that's a really good important metric as well. Because there's enough active ads being ran, the
+10:25
+store is clearly scaling. We can see that very clearly. They've got loads of ads that we can use as a reference. To
+10:31
+me, I don't need to overthink this or complicate this. I need to now start trying to sell this product till I don't
+10:36
+know which one to sell. Just sell whichever one looks the best based on guess what? The data. The data clearly
+10:43
+shows me this looks good. Now, if you're not sure about the data, ask Claude, "Out of all the ones you've chosen for
+10:48
+me, which one looks the best based on the store tracker information that Winning Hunter gives us." Then Claude
+10:54
+will go back to this, read the data for you if you're not sure, and tell you the answer. Then once we've done that, guys,
+11:00
+now this is the product that I'm going to be using. We can now simply move on. Now, we're going to be moving on to
+11:06
+avatar and competitor research. Now, this fixes the problem where most
+11:11
+beginners will say, "Well, these guys have saturated the product because look at how much money they're generating with the same product." Well, that's
+11:18
+only going to be the case if we just target the same people that they're trying to sell the product to. So, as
+11:24
+long as you do this section and you don't skip it, you won't have that problem. Now, what this allows you to do
+11:29
+as well is it allows you to stop guessing what to say in your ads and on your landing pages to get your customers
+11:35
+to want to buy the product. You get to use their words, not yours. Now, this is really empowerful. When you try and sell
+11:40
+to people, don't use your words. Use the words that they give to you. Now, what you're going to do is you're going to
+11:46
+use Claude and Winning Hunter. Again, it says here to use chat GBT. Now, you can either use GBT or Claude. I'm going to
+11:53
+be sticking with Claude. You're going to copy the prompt. And what you're going to do is you're going to copy this prompt. Now, you're going to need to
+11:59
+change this because it mentions my magnetic water bottle. So, what you can do is you can give this prompt to the AI
+12:05
+and say, "Remake this prompt, but for my product, then give it the link to your product." It's down to you. Or you can just manually change it. But you're
+12:12
+going to want to give this prompt back to that Claude Opus 5.5 chart that you use to find the product. Then what
+12:18
+Claude's going to do with this prompt is it's going to then find who your avatars are that you need to sell the product
+12:23
+to. So, the market gap/ avatar found for me in short, now obviously Claude gave
+12:29
+me way more information than this. So, I'm just giving you a quick summary is the gym floor minimalist, the gym goer
+12:34
+who brings only a bottle, phone, keys, and earbuds, refuses to carry a duffel around the gym, ends up putting all
+12:41
+three on the floor under each bench and shuffling them into the station. So, it goes over a very short version of who my
+12:49
+ideal person is. Now, when you guys do this, you're going to get a massive PDF
+12:55
+or file going over loads of different avatars, who they are, potential names, potentials, or examples of who they are.
+13:03
+Don't just get Claude to do the work, you don't read it. Because if you don't read it, you don't understand the context. So that when it then builds you
+13:09
+your landing pages and your ads, you're going to sit there and be like, "Well, I don't understand what this ad's about. Like, why is he talking about this?" Or,
+13:15
+"Why is she talking about this?" So, if you don't understand the work Claude's doing, you won't understand what it's
+13:20
+built for you later. And that's really, really important. Cool. So, once you've understanded who your avatars are and why you're selling to them, we're now
+13:27
+going to be building our drop shipping store. Now, building really good landing pages honestly has become really easy
+13:33
+because Winning Hunter has dropped something called landers. So, if you go back to Winning Hunter, you got something called landers. Now, landers
+13:39
+are basically the best landing pages being ran by some of the biggest e-commerce brands and drop shipping
+13:45
+stores. So instead of us trying to look through the ad library and find stores that have good landing pages, Landers
+13:51
+essentially shows us how good these landing pages really are. So this is a really good feature that Winning Hunter
+13:58
+gave us that honestly has made my life easy and it's a reason why my store looks just as good as this. All right,
+14:03
+so when you come to landers, you're going to want to do two things. Remember, you're going to need a homepage and a product page. So this is
+14:10
+the homepage of my store. I didn't show you this at the intro, but I should have. Essentially, the homepage looks
+14:15
+like this. And I'll be honest with you, it looks really, really good, right? It looks really professional, like an e-commerce, higher level brand. So, what
+14:22
+you're going to want to do is you're going to want to find two pages. You're going to want to find a competitor that you can use for your homepage or a
+14:29
+competitor that you can use for your product page. Now, the good news is you might find a page that has a really good
+14:34
+product page and homepage. Usually, it's either one has one really good one, let's say a homepage, and one has a
+14:40
+really good product page. It's hard to find one that has good both. What I've done, guys, is I've actually put in the Myro board the examples that I use. So,
+14:47
+I use this brand here for my homepage and then I used this brand here for my
+14:52
+product page. And if I scroll down, you can see where I got that section from. Now, if you guys want to, you can just
+14:58
+use the examples that I've got here. These examples that I've used would work well with any niche. So, beauty, travel,
+15:06
+whatever the niche may be. This design that I built would work well with either any niche that basically you're in. But
+15:11
+I'm just telling you, if you guys want more customization and you want to be a bit more pickier on the page that you want built, again, using landers by
+15:18
+Winning Hunter will be a really good option because you can get really any design you want. One thing I will
+15:23
+mention is don't go over the top with the craziness. Don't make it so crazy animated futuristic.
+15:30
+Now, I think mine is a good sweet spot with enough animations for it to be good enough. Like, if you go over the top,
+15:37
+you'll overengineer it and kill it. So just keep it to this level cuz I know what some people do. They think, "Oh, I've got AI now. I've got all these
+15:43
+resources and examples. I'm going to go over the top. You go over the top and it actually damages your site. So don't do
+15:48
+that." And now once you've got your competitors that you want to use as your examples or as your references, then we
+15:54
+can go to chat GBT. Now you are going to definitely want to use chat GBT for this one. I find it's better than Claude. And
+16:00
+then you're going to want to go to the work option. So you can see chat work. Now GBT launched something called Astra.
+16:06
+use Astra and put it on either high or max. Then what you're going to do is you're going to get this prompt that
+16:13
+I've given you. I've told it to use the product page example but recreate it for my product. So essentially how this
+16:19
+prompt works is I'm telling the open AAI chat GBT whatever you want to call it to use the example that I like as the
+16:26
+homepage but to recreate it for my actual product. And I gave it the link to the competitor selling my product and
+16:32
+said I want to recreate it. Now, the reason why I'm doing this is so it understands the context of what I'm trying to sell. Then you'll have an
+16:38
+output from GBT that looks something like this, which essentially is a prompt that you need to give Claude Design. And then you need to do the exact same thing
+16:44
+again, but for your product page. Go to chat GBT, give it the same prompt, but this time use your product page example.
+16:51
+Now, once you've got your two prompt outputs to create your pages, homepage and landing page, you're going to go back to Claude, and you can actually now
+16:58
+go here to where it says output, and you can click design. So now you can do claw
+17:03
+design within claude instead of going to claude design. I know it's a bit confusing but before you had to go back to claude design to do this but
+17:09
+essentially you can just choose here output design and then what you can do is you can paste the prompts it's given you here. Then once you've done that
+17:16
+claude design will create a HTML design of your landing page. Now do bear in
+17:21
+mind claude hasn't got any image tools so it can't create images but it will create placeholders. But what Claw
+17:28
+Design will do is it will use HTML to build your landing page. Now, you're going to want to make sure that the
+17:34
+copywriting, the text, the colors are all the way you want them to be before you export the HTML. You're also going
+17:41
+to want to make sure in the mobile version, so if you click inspect element on your browser, you check if the site
+17:47
+looks good on mobile, too. Because essentially, what we're going to be doing here is we're going to be getting HTML and getting Claude to convert it
+17:53
+into Shopify Liquid. And Shopify Liquid is what Shopify uses for their websites. So, we're going to get Claude to
+17:58
+transfer it over one to one so it matches identically. We're not just going to get it to change it over. We're
+18:03
+going to get it to change it over and allow us to edit it in Shopify. But I always say to people, if you want the
+18:08
+best results like I got, you want to make sure it's about 80 to 90% perfect in Claude Design. Now, remember, you
+18:15
+can't add images yet because Claude doesn't have an image model. So, we do that a little bit later on. Now, once
+18:21
+you've got your two HTML designs, then what we can do is we can then go back over to Claude. So, if you go back over
+18:28
+to Claude, you're then going to want to go over here to where it says customize. You're going to go over to where it says connectors. You're going to search for
+18:34
+Shopify, and you're going to see Shopify is here. We can add it as a connector. Now, this will allow Claude to actually
+18:40
+access our Shopify and build on it. If you haven't already signed up to Shopify or have a Shopify account, make sure you
+18:46
+use the link in the description, which is my exclusive link to Shopify. Now, once you've created your Shopify store and you've connected Shopify as a
+18:52
+connector to Claude, you can then go to a new discussion. Make sure you're still using Opus 5.5. You're then going to
+18:59
+make sure the connector Shopify is enabled. You're then going to install this skill that I've given you, which is
+19:06
+called the clone my Shopify store skill. You're then going to go and upload it. You're going to go to skills. You're
+19:11
+going to use the clone link to Shopify. [snorts] Now, this skill tells Claude how to build Shopify stores correctly.
+19:18
+Then what you're going to want to do is you're going to want to use the prompt. You're going to see the prompt here. You're going to copy this prompt, which
+19:24
+is the Claude Co Shop Shopify prompt. You're going to paste the prompt here. And you're going to see here you're a Shopify theme editor, and it talks about
+19:31
+building the store. Now, you're also going to want to upload those two HTML files that we got. So, your homepage and
+19:38
+your product page, you're going to want to add them here. That way, Claude knows to design your homepage and your product
+19:44
+page. It's important that you upload your HTML designs here. If you don't upload them, Claude won't know what to
+19:50
+design. Now, once you've done that, you're then going to click send. Claude's going to generate the task and
+19:55
+then within around about five minutes, it's going to ask you to go over to Shopify and to add or download the
+20:01
+Claude Connector app. So, this is an app that connects Claude and Shopify to be able to build on your store. Now, once
+20:06
+you've added the app, you'll get sent back to Claude chat and you'll see that it says, "We found your store. We're now going to be building it." It's extremely
+20:13
+important before you do this, by the way, that you have your product page or your product imported to your store. So,
+20:20
+it's really, really important, guys, that your product is imported to your store before you do this because Claude
+20:25
+will ask you, which product do you want me to build this for? And it will list the products that are on your store. So, talking about importing your product to
+20:31
+your Shopify store, the supplier that I'd recommend that we all use as drop shippers is a company called USA Drop.
+20:38
+There'll be a link in the description and the pin comment. completely free to sign up. And they're the supplier that I've been using now for the past 4
+20:44
+years. Now, once you come over to USA Drop, you're going to click sign up. You can come over here to where it says products, find products, and then you
+20:51
+can type in the product that you're after. So, you can see I've searched for magnetic bottle, and you can see the
+20:56
+product has come up here. So, I can select it, and then I can import the product to my store. Now, if you can't
+21:02
+find the product on USA Drop, then you can come over to sourcing, click source product, add the AliExpress link, add an
+21:08
+image, and click submit. Then they'll give you a sourcing request. Now, the benefit of using USA Drop is you're
+21:14
+going to get really fast sourcing times, really fast shipping times because they've partnered up with all of the
+21:20
+shipping lines in China. So, if you want a drop shipping partner that you can trust when scaling your store, then USA
+21:26
+drops really important. And once you just hit five daily orders, you're going to get access to private agents. So if you come over to private agent, you're
+21:32
+going to get access to what people usually have to pay a monthly subscription for or do huge volumes for
+21:38
+completely free. So there is tons and tons of benefits of using USA Drop. So make sure you check them out in the link
+21:44
+in the description and in the pin comment. All right. So once you've imported your product to your store using USA Drop and you've selected it,
+21:50
+you can tell Claude to use that product. It will then build the landing page and the homepage around that product. And
+21:56
+once you've done that, it will take about 30 to 40 minutes for Claude to do both of them. It might take a little bit longer. It's a massive task, by the way,
+22:03
+for Claude to do. So, it could take a little bit longer, but at the end of the day, Claude should knock it out of the park. Now, I'm not going to go too much
+22:09
+into this one, guys, cuz I've made independent videos about using Claude to build stores. So, I'll leave those
+22:14
+linked in the description if you have any issues. But, as long as you use my skill, you create the HTML design, and you use your common sense, you should
+22:21
+have no issues. So once you've created your Shopify store, your homepage and your product page, we can now officially
+22:27
+get it audited. All right. So if we come to this link here, which is photo room product page rator, we can get photo
+22:35
+room to take a look at how good our product page is and the images that we've created for our product page. So
+22:41
+if you're not sure if your product page is good, this will tell us. So, get practical recommendations on your
+22:47
+product page visuals to sell more based on the 100 best product pages. Best product page method created with over
+22:54
+1,500 leading brands. So, all we got to do is paste your Shopify URL in, click
+23:00
+optimize my page, and you can see now it's checking all of these seven key points. Visual consistency, product
+23:06
+fertility, image composition, image type coverage, conversion focus, brand distinctiveness, and product title and
+23:13
+description SEO. So, we're getting a score for all of these. By the way, there'll be a link to this in the
+23:18
+description and in the pin comment. All right. So, you can see here it's given my store here an 18 out of 35. So, 35 is
+23:24
+the best and it's given me an 18 score. And you can see it ranks them here. So, two out of five, two out of five, three
+23:30
+out of five. So, if we scroll down, it actually goes into depth what the issues are for each points and how they can be
+23:35
+improved. So, it's really important that you guys read these because if you're not sure whether or not your product
+23:41
+page was good or not, this will help you give you a guideline on what you guys can improve and fix. And if you scroll
+23:47
+down all the way to the bottom, you can see here it says fix it in photo room. So, we can click this. It takes us over
+23:53
+to photo room and we can go over to where it says Shopify products. We can connect our store and then when we
+24:00
+connect our store, it will load in all of the images that we've created and then we can start optimizing them based
+24:05
+on the feedback that we got here from the product page rator. So, this is a really good efficient way to improve
+24:12
+your store before we go live with it for images and the product page. Now guys, before we move on to creating the
+24:19
+winning ads, there is one more thing I would personally want set up before I start spending money on traffic and that
+24:26
+is the email and SMS marketing on the back end of the store. Omnisend allows
+24:32
+you to set up things like abandoned car emails, welcome flows, post purchase emails, campaigns, and SMS marketing.
+24:40
+But one of the biggest upgrades they have made recently is their new MCP feature. You can essentially connect on
+24:46
+this end directly to chat GBT or claude. So now instead of manually going through
+24:52
+loads of reports, you can ask the AI questions about the real data inside your Omnisend account. Which campaign
+24:59
+made the most money? Which automation is underperforming? Which customers should we target next? And what campaign should
+25:06
+we send this week? So you are basically adding an AI email and SMS marketing assistant into the back end of your
+25:13
+e-commerce store. And if you are already using another email provider, Omnisend can migrate your automations, segments,
+25:22
+forms, and templates within 5 days and you could end up paying up to 35% less.
+25:28
+So guys, I will leave the Omnisend link in the description and in the pinned comment below. So now we've created our
+25:34
+images for our landing pages and our homepage. You now need to create winning ads. Now, this is, in my opinion, one of
+25:41
+the most important parts of today's video because if your ad's not good, no
+25:46
+one's ever going to go on your website because if people don't watch your ad, don't take an action, then no one's ever going to buy your product. And the ad is
+25:52
+what's going to get people to want to buy your product. Imagine there's like a thermostat on hot buyer, cold buyer.
+25:59
+Depending on how good your ad is depends on the emotion somebody has after clicking off your ad. The best way to
+26:05
+put this is when you go and see a new car and you take it for a test drive. Your thermometer on emotion to want to
+26:11
+buy is extremely high because you're using it and you feel like, "Wow, I need this in my life." It's like when you go
+26:16
+to a new phone store, you try the new iPhone out, the new Samsung out, whatever it may be. Your emotions are
+26:21
+super high. And we're going to go back to stores again. We're going to go to your competitor's store. So, go to stores and track it. Then, you're going
+26:28
+to scroll down to top ads. You're going to click on the ad and then it's going to open up all of their ads. You're going to filter this here by highest
+26:35
+reach and spend. That way, it's showing you the best performing ads based on spend. Then, because we're doing video
+26:40
+ads, we're going to want to filter this by video. Then, you're going to see only video ads that are performing the best.
+26:46
+So, you can see these are the ads that are the are the top performers for them. So, these two are their top performers.
+26:52
+What you can then do is you can actually click where it says view details and you can go over to where it says transcript
+26:58
+and then you can copy full script with timestamps. Make sure you do this one because if you just do the script,
+27:03
+Claude doesn't understand the context between the time, which is really, really important. You're then going to
+27:09
+want to paste all the transcripts in your Claude chat. You can open up a new chat here and change it to again opus
+27:15
+5.5. And what you can do is you can paste the transcripts here. So, we can
+27:20
+click copy, go here. You're going to want to paste one. So, this is one of them that I've pasted. You can see the timestamps here. you you're then going
+27:27
+to want to download this Claude skill that I've given you in the cheat sheet. Now, this one's called ad tearown. So,
+27:34
+the skill that you're going to be using is called ad tearown. Now, make sure you put this at the start of the conversation. And then what you're also
+27:41
+going to want to do, guys, is you're actually going to want to download the ad. So, you're going to come over here to where it says the download button,
+27:46
+and you're going to simply download the ad. Now, once you've downloaded the ad, guess what you're going to do? You're going to upload the ad that you've
+27:52
+downloaded here because Claude can actually watch the ad, too. Then what you're going to want to do is you're going to want to use this prompt here
+27:59
+which says use my skill and it's called the ad tearown. So you're going to want to copy it from where it says use winning structure and you're going to
+28:05
+paste it. Then what you're going to do is you're going to send Claude this conversation. Then what Claude will do
+28:10
+is it will analyze the ad video that you uploaded and it will analyze the transcript that you gave it and it will
+28:16
+figure out what made that a winning ad and it will come up with a new idea to generate an ad. So, it'll give you
+28:22
+basically an idea of what made the ad do well and what you could do next. Now, you don't want to go off any of that
+28:28
+yet. You're just giving Claude the context on what made a good ad. We're not doing anything just yet. You're then
+28:33
+going to move over to the skill that creates hyperreal images or hyperreal
+28:38
+avatars. So, what you're going to want to do is you're going to want to download that skill I've given you, which helps you generate hyperreal
+28:43
+avatars. And you're going to come here and go to skill and you're going to select hyperreal avatar. Then what
+28:49
+you're going to do is you're going to take the prompt which is create a muscular gym man and you're going to
+28:54
+paste it here. Then what's going to happen is Claude's going to give you a prompt to give to an image model. Now
+28:59
+I'm using Higsfield in this example and you're going to want to come over to Higsfield or any AI image tool
+29:05
+generation or video tool generation. And you're going to use this new GBT image 2.5 Sunburst. You're then going to
+29:12
+change this to 9 to 16. You're going to change it to max quality and you're going to paste the prompt here. Now, if
+29:18
+you don't know what GBT Image 2.5 is, it's the latest and greatest image model, so it gives you really realistic
+29:23
+looking avatars. Now, to save credits for me, I've used Nano Banana Pro, but you guys need to make sure you're using
+29:28
+image 2.5. It is by far the best image model. Your avatars will look incredibly
+29:34
+realistic. Then, you'll have your avatar here, which is what you want. Then, once you've created your avatar, you're then
+29:39
+going to want to create a few images of what's going to be in the shot. Now, the best way to think about this is what's
+29:45
+going to be in the environment, where are you going to be in the environment, and what are you going to be using in
+29:51
+the environment? Now, I'm selling a gym product, right? So, I need an environment that looks like a gym. Now,
+29:57
+this might be confusing right now, but it'll make sense a little bit later on. So, if we go back over to Higsfield,
+30:02
+you're going to see that I've created an environment image of my product. You want to do around about 10 to 20 images
+30:08
+of this. Now, the reason why you want to do around about 10 to 20 images is because if you want the best results
+30:14
+from sedans 2.5, this is how you do it. Now, once you've got all of those images, again, you want between 10 and
+30:19
+30. If you want the best results possible, you're then going to want to ask Claude to give you a sedance 2.5
+30:26
+UGC video prompt based on the winning ad that you gave it. Then, what Claude will
+30:32
+do is you'll understand what sedans 2.5 is. It will give you a prompt that's 30 seconds long that will create a video.
+30:39
+Now, if you want to create a 60 long ad, tell Claude that I want it to be a 60 long video ad, but I need two prompts
+30:45
+because Sedance 2.5 accepts up to 30 seconds. Then it will give you a prompt for the first 30 seconds and then the
+30:51
+last 30 seconds. That's usually what I do for the best results. Then what you can do is you can go over to where it
+30:56
+says video. You're going to then use Sedance 2.5 reference and then you're able to upload 50 images as references.
+31:05
+Now, those reference images will help Sedance 2.5 make an ultra realistic
+31:10
+video of everything because if you give Sedance 2.5 the prompt without the images, it's going to try and generate
+31:16
+the scenes and the environments on itself and that's where it becomes a problem. So, it's really important that
+31:22
+you add the references in here, you add the prompt, and you make sure that voice is turned on. And then you're going to
+31:29
+want to make sure it's 30 seconds, 9 by 16, and then 1080p. And make sure the bit rate is high. And then you can click
+31:37
+generate. And that's essentially how you create your video ads. Honestly, with Sedance 2.5 and Claude 5.5, it's so easy
+31:45
+to do this now. And the results that you'll get will be really good. The only time your results will be bad is if you
+31:50
+skip creating the image references to create the scenes, the environments, and the product. If you skip that step out,
+31:56
+then your ads will look trash. Then once you've done that, guys, you're then going to want to make sure you have between three and five video ads that
+32:02
+you can run. Then we're going to move on to the Facebook ads. So I've got a Facebook ad strategy here. I'm not going
+32:07
+to go over it in this video, but I'll leave a link to my Facebook ads video in the description. But yeah, essentially
+32:12
+this is essentially the Facebook campaign structure that I use. But what we've essentially done here, guys, is
+32:18
+done the whole workflow of creating a drop shipping store, finding a winning product, and able to launch it. And you
+32:24
+should be able to do this all within one day or maybe two days. But essentially, you're doing highlevel drop shipping
+32:30
+without putting much effort in cuz Claude's doing all the work for you. And remember, don't forget to use my Shopify link if you want to support the channel.
+32:36
+With that being said, guys, I'll catch you in the next

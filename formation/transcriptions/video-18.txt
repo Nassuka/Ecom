@@ -1,0 +1,1619 @@
+Video 18 : o, you can see this brand new drop
+0:01
+shipping store is making $390,000
+0:04
+a month and it started in February this
+0:06
+year, just a few months ago. This is the
+0:08
+product they're selling and this is
+0:10
+their exact store layout. And the crazy
+0:12
+part is I clone this exact store as you
+0:16
+can see here with Clawude AI. So, this
+0:18
+is my version of their store and in my
+0:20
+opinion it's 10 times better and I was
+0:23
+able to clone it and replicate it with
+0:25
+Clawude AI. Now, that's the product
+0:28
+page. If we check out the homepage, you
+0:30
+can see the homepage as well is also
+0:32
+absolutely amazing. We've got these
+0:34
+animations. We got these really good
+0:35
+images. You can see here one of the
+0:37
+animations I built. And here's another
+0:39
+animation of the product. And that's why
+0:41
+in this video, I'm going to be showing
+0:43
+you step by step how you can clone any
+0:46
+drop shipping e-commerce store and build
+0:48
+landing pages and homepages that look
+0:50
+just like this using Clawude AI. Now, as
+0:53
+soon as we've hit 500 likes on this
+0:55
+video, I'll leave a link to all the
+0:56
+step-by-step guides, skills, and prompts
+0:58
+that I used throughout the video. Now,
+1:00
+Winning Hunter is the website that I use
+1:02
+for all my landing page inspirations
+1:04
+because it shows me how much money
+1:05
+they're also making. So, not just it's a
+1:08
+good landing page that it actually
+1:09
+converts and makes money, which is the
+1:10
+most important part. There's one called
+1:12
+Pages by Landing Deck. I'll leave a link
+1:14
+to that one in the description. It's
+1:16
+free, but you don't get to see the
+1:17
+revenue they're generating. So, they
+1:19
+might look good, but they might not
+1:20
+generate revenue. Now, once you come to
+1:22
+Winning Hunter and you come to landers,
+1:23
+you're going to see all these different
+1:25
+landing pages. Now, these landing pages,
+1:27
+in my opinion, are all great to
+1:29
+reference. Now, you can actually filter
+1:31
+this by a niche. So, you can come up to
+1:33
+here and see if you're in a certain
+1:34
+niche, you can filter it by that. Now,
+1:37
+for example, because my product is that
+1:39
+backpack, it's like a tech travel
+1:41
+backpack. I'm going to want to filter
+1:42
+this by phone and electronics. And it
+1:45
+also shows you the estimated store
+1:46
+revenue. So, you can see that they're
+1:48
+actually generating revenue. They don't
+1:50
+just look pretty. Because I filtered it
+1:51
+by the niches that I'm in. I can start
+1:53
+going through these. So, you get the
+1:54
+point, guys. You're going to use landis
+1:56
+to get inspiration. Now, one thing I
+1:58
+want to mention to you is you're going
+2:00
+to want to look for three things. And
+2:02
+these are the three key things that you
+2:04
+want to use to build a good landing
+2:05
+page. You don't want to just use one
+2:08
+company's landing page and be like,
+2:09
+"This is the whole page I'm going to
+2:10
+recreate." You're going to want to break
+2:12
+it down into three sections. Section
+2:14
+number one, the homepage. Now, not every
+2:17
+website inspiration are going to have
+2:19
+good landing pages, good homepages, and
+2:20
+good hero sections. It's very rare all
+2:22
+three are done. That's why I like to
+2:24
+look at different websites. Look at
+2:26
+which one has the best homepage, which
+2:27
+one has the best product page, and which
+2:29
+one has the best hero section. Now, if
+2:31
+you don't know what a hero section is, a
+2:33
+hero section is essentially this first
+2:35
+bit of the fold of the website. Now,
+2:37
+this is actually really crucial as it's
+2:39
+the most important part of your product
+2:40
+page. In my opinion, their hero section
+2:42
+is a bit weak, but if we go to their
+2:43
+homepage, it's actually really powerful.
+2:46
+So their homepage is actually really
+2:47
+really nice and their landing page is
+2:49
+mediocre. So it's very important that
+2:51
+you look for again homepage, landing
+2:53
+page and hero section. Now I'm using
+2:56
+this website as my hero section because
+2:58
+they've got this bundle and this bundle
+3:00
+is really good for converting people
+3:02
+because you can see it offers a free
+3:04
+gift. So this is going to help convert
+3:05
+my website visitors into customers. So
+3:08
+their hero section is really really
+3:10
+good. It's also important that you
+3:12
+rightclick and inspect it as you want to
+3:14
+see what it looks like on mobile version
+3:16
+as mobile version in my opinion is more
+3:18
+important than the desktop version and
+3:20
+the mobile version is also very good.
+3:23
+Then I've also got this website here.
+3:24
+This is the website I'm going to be
+3:26
+using for my landing page. This is the
+3:28
+landing page design that I'm going to be
+3:30
+using. Again, if we change it to the
+3:32
+mobile version, it looks really, really
+3:34
+good. Then the final website is the
+3:36
+original website and we're going to be
+3:37
+using these guys for the homepage. And I
+3:40
+want to make this very clear. You don't
+3:42
+have to look at landing pages based on
+3:44
+them being in the same niche as you. I
+3:46
+just like to do it because it shows me a
+3:48
+realistic expectation of what it would
+3:50
+look like for my product. But
+3:52
+essentially, you can use any landing
+3:53
+page from any brand. It could be beauty,
+3:56
+fitness, whatever it is. And we can
+3:58
+convert it into whatever we want it to
+4:00
+be for our product. So what you're going
+4:01
+to do is you're going to open up chat
+4:03
+GBT. And then you're going to go to the
+4:05
+Google doc sheet and you're gonna see
+4:06
+I've given you under step one this
+4:08
+prompt. So you're going to copy this
+4:10
+prompt. Now remember you need to change
+4:12
+the URL to the references that you guys
+4:15
+have got. So I've obviously got mine
+4:17
+here. You need to change it. If you
+4:19
+don't change it, it will come out wrong.
+4:20
+You're then going to go to chat GBT
+4:22
+work. You're going to change it to 5.6
+4:24
+salt extra high. Paste the prompt and
+4:26
+click send. If you don't have extra
+4:28
+high, high is fine or even medium is
+4:30
+fine. Then what you're going to want to
+4:31
+do whilst we're waiting is you're going
+4:32
+to want to open up a Claude design
+4:34
+browser. So you can go to Claude and
+4:36
+then open up Claude Design. If you don't
+4:38
+know how to do that, you just go to
+4:39
+Claude and then in the bottom left
+4:40
+you'll see design because we're going to
+4:41
+be using the prompt it gives us back for
+4:43
+Claude design. Then it'll create a
+4:45
+basically a demo HTML file that we will
+4:48
+use. Then once you've given it that
+4:50
+pasted file, you're going to see that
+4:51
+Claude can recreate it. And then on the
+4:54
+right hand side, you're going to see the
+4:55
+preview tab start to work. So you can
+4:58
+literally see now it is starting to
+4:59
+build the landing page in live time. Now
+5:02
+remember Claude design just builds the
+5:05
+concept page. So essentially what Claude
+5:07
+design is doing here if you don't
+5:09
+understand how this works is it builds
+5:11
+out a HTML version of what our Shopify
+5:14
+store will look like. Then what we will
+5:16
+do with the HTML file is we'll give it
+5:18
+to Claude Co-work to convert into
+5:20
+Shopify Liquid because essentially how
+5:23
+it works is Shopify builds their stores
+5:25
+or their pages on something called
+5:27
+Shopify Liquid. Now Claude builds these
+5:30
+design concepts in HTML. Now that won't
+5:33
+work on Shopify. The reason why we get
+5:35
+Claude Design to build it in HTML is to
+5:37
+get our concept made. Now remember guys,
+5:40
+this is the homepage. So this homepage
+5:43
+looks really, really good. and I am
+5:45
+happy with it. So then what we can do
+5:47
+when we duplicate the page is we can
+5:48
+open up another claude design tab and
+5:51
+this time we're going to build the
+5:53
+product page. So if we go back over to
+5:55
+the cheat sheet, you're then going to
+5:56
+see here how to build your product page.
+6:00
+So now what we're going to want to do is
+6:01
+we're going to want to go back to chat
+6:03
+GBT, the same GBT that we used to build
+6:05
+the homepage. And what we're going to
+6:06
+want to do is we're now going to give it
+6:08
+this prompt. So we're going to copy this
+6:11
+prompt over. We're then going to go back
+6:12
+to chat GBT. Paste the prompt in. Then
+6:15
+once GBT has given us the output. Now to
+6:18
+save a little bit of time, I've just
+6:19
+exported it here. You can see this is
+6:21
+the prompt chat GBT has given me. So now
+6:24
+what I can do is I can copy that prompt.
+6:26
+And this is quite a big prompt it will
+6:28
+give you. And then on the new claw
+6:30
+design tab, we can paste the prompt in.
+6:32
+And we can click send. Remember guys,
+6:34
+this is our homepage. We have to build
+6:37
+the homepage in claw design separately,
+6:39
+the product page separately and export
+6:41
+them as separate files. You can't do
+6:43
+both because it corrupts the file. I've
+6:45
+tried. So, this is the only way we can
+6:47
+do it. Now, once you're happy with the
+6:48
+homepage, which I am very happy with.
+6:51
+We're then going to click share and
+6:53
+we're going to go to where it says
+6:54
+project HTML. So, we're going to
+6:56
+download it as HTML. Then, you're going
+6:58
+to see project archive or standalone
+7:01
+HTML. So, what you're going to do is use
+7:03
+standalone HTML and click export.
+7:05
+exporting as HTML. You're actually going
+7:07
+to see the file in the chat section. You
+7:09
+won't get it downloaded to your
+7:11
+computer. You won't find it in the top
+7:12
+right. It's always in the chat section.
+7:14
+So, you're going to click download and
+7:15
+then you're going to see the HTML file.
+7:17
+If you open it up, it will open it up in
+7:19
+a browser for you like this. So, you can
+7:21
+see it's the browser version. Then, what
+7:23
+I'd recommend that you do is inspect it
+7:25
+because you're going to want to see what
+7:27
+this looks like on mobile. Now before we
+7:30
+end up giving it to Claude Co-work to
+7:31
+convert into Shopify liquid which is a
+7:33
+Shopify store, we have to verify what it
+7:36
+looks like in mobile version by inspect
+7:39
+element. Now I'm happy with this. Now
+7:41
+remember these little zigzag lines here
+7:43
+will be where the images are. So I'm
+7:45
+bearing this all in mind. So for me this
+7:48
+looks fine in mobile version. So I'm
+7:50
+happy with the HTML. So I can close that
+7:52
+down. So now it's building out the
+7:54
+product page here. So you can see it's
+7:56
+slowly building out this product page.
+7:57
+Now, whilst I wait for it to finish off
+8:00
+building the product page, we can go
+8:02
+back to Shopify. We can go to the app
+8:04
+store because we need to add the product
+8:06
+to our store. Now, this is a crucial
+8:09
+step in the process. And a lot of people
+8:11
+get this wrong. You need to make sure
+8:13
+your product is on your store before we
+8:15
+get Claude to create the page because if
+8:18
+Claude tries to create the page and it
+8:20
+can't find the product, it will then
+8:22
+have a freakout and it will stop
+8:23
+working. So, we need to have the product
+8:25
+on our store. Now, because I'm a drop
+8:27
+shipper, I need to add my drop shipping
+8:29
+product through my supplier. And I'm
+8:31
+going to download an app called USA
+8:33
+Drop, as that is the supplier that I use
+8:35
+for all of my drop shipping products.
+8:38
+Then, what you're going to do is you're
+8:39
+going to be greeted to the USA Drop
+8:41
+website. Now, there'll be a link to sign
+8:42
+up to USA Drop in the description and in
+8:44
+the pin comment. It's completely free to
+8:46
+sign up, and you're going to create
+8:47
+account. So, you're going to click sign
+8:48
+up here, but if you've already got an
+8:50
+account, you can just simply log in.
+8:52
+Then, once you've logged in, you're
+8:53
+going to see the USA Drop dashboard. And
+8:56
+because I've already got quite a few
+8:57
+stores with USA Drop, you're going to
+8:58
+see them all here. But if we go back to
+9:00
+our Shopify store and refresh the page,
+9:02
+you're going to see under apps now, we
+9:04
+have USA Drop. And if we open that now,
+9:06
+you can see it's added my store. And if
+9:09
+we go over to my stores in the top left,
+9:11
+you can see that our store URL is 914R.
+9:16
+And we can see here 914 RR. So this
+9:19
+store has successfully been connected.
+9:21
+So now I can go over to find products
+9:24
+and I can search for the name of the
+9:25
+product. And then if I go back to USA
+9:27
+drop, you can also use the image
+9:29
+reference search here. So you click
+9:30
+this, you upload the image of the
+9:32
+reference and it will find the product
+9:33
+for you. So you can see here I found the
+9:35
+product. So this is the exact one. So
+9:37
+I'm going to click on it and then what I
+9:39
+can do is I can click import, confirm,
+9:43
+and then I can import it to my store. I
+9:45
+can select the store and click confirm.
+9:47
+And now we've got the product on my
+9:49
+store. You can see now it's been
+9:51
+imported in and the vendor is USA Drop.
+9:54
+So, as soon as the product shows up and
+9:55
+we're happy, now if you're doing
+9:57
+e-commerce and not drop shipping, just
+9:58
+make sure your product is there ready.
+10:00
+You don't need to worry about the title
+10:01
+or the description. You just need to
+10:03
+make sure it's there because Claude will
+10:05
+override that product to build the
+10:07
+landing page on. Now, for the guys that
+10:09
+do in drop shipping, the reason why I'd
+10:10
+recommend USA Drop is because they've
+10:12
+been around for 11 years, over 500
+10:14
+employees, and I've been using them
+10:15
+since 2022, and it's completely free to
+10:18
+start using them, and they are like a
+10:20
+drop shipping partner that you've always
+10:22
+wished for. Super fast shipping times,
+10:24
+some of the biggest warehouses in China,
+10:27
+some of the fastest processing time, and
+10:29
+they have all of the shipping lines
+10:31
+available. And also, in your USA drop,
+10:33
+you're going to see private agent. And
+10:34
+as soon as you get five daily orders,
+10:36
+you qualify for a private agent. And
+10:39
+usually you have to pay a monthly
+10:40
+subscription for that with other brands.
+10:42
+But with USA Drop, it is free of charge.
+10:45
+They also have sourcing. So if you
+10:46
+didn't find the product that you wanted,
+10:48
+you can go to source products, add the
+10:50
+URL from AliExpress or Amazon, upload
+10:52
+the image, and they can get you a quote.
+10:54
+Now, if you're already doing quite a
+10:55
+decent amount of volume, I would
+10:57
+recommend being on the pro plan. Or if
+10:58
+you're a complete beginner, the free
+10:59
+plan is completely fine. Now, if we head
+11:02
+back over to Claude Design and look at
+11:04
+this, guys, it's done the magic for us.
+11:08
+So, it's built out our landing page.
+11:10
+Now, although it's added images to our
+11:12
+store, these are the images that it's
+11:14
+got from our competitor's website. So,
+11:17
+it's just basically embedded these into
+11:19
+ours, but these have just been ported in
+11:21
+from the competitor's website. We can
+11:22
+we're obviously going to be changing all
+11:24
+of these later on, but it's just using
+11:25
+them as placeholders. But as soon as
+11:27
+you're happy with the landing page, you
+11:30
+can have a good look at it. Right now, I
+11:32
+think the landing page looks really,
+11:33
+really good. You can do the same thing
+11:35
+again. Go to the top right, click share,
+11:37
+click project HTML, standalone HTML, and
+11:41
+then once you've got the HTML files for
+11:43
+your landing page and your product page,
+11:46
+we can now go over to Claude Co-work.
+11:48
+Soon as you've opened up Claude, you've
+11:50
+got Claude Co-work here. Make sure
+11:51
+you're on coowork and not chat. You're
+11:54
+then going to want to go over to where
+11:55
+it says customize top left. You're going
+11:56
+to want to go to connectors and you're
+11:58
+going to want to go to where it says add
+12:00
+and you're going to want to go over to
+12:01
+where it says connectors and then you're
+12:03
+going to see here the search bar and
+12:06
+you're going to search for Shopify. Now
+12:07
+Shopify is already available on Claude.
+12:10
+So you just need to connect it. So where
+12:12
+mine says disconnect, you're going to
+12:14
+click connect and it will take you to
+12:16
+your Shopify store. It will then ask you
+12:18
+to grant it access. And once it's
+12:20
+granted access, you're going to want to
+12:22
+go to where it says always allow. That
+12:24
+way, having these on always allow means
+12:26
+Claude can just build the store without
+12:27
+any hassle. So, I do recommend that you
+12:29
+always turn these on always allow. Then,
+12:31
+once these are on always allow, you've
+12:33
+got Shopify connected, which is the main
+12:36
+thing. We can then go back to the chat.
+12:38
+We can go to connectors, and we're going
+12:39
+to want to make sure Shopify is there,
+12:42
+which it is, and it's got a blue tick
+12:44
+there to say it's available. You're then
+12:46
+going to go back to that chat GBT chat
+12:48
+that we've used to get all the prompts
+12:50
+for Claude Design, and you're going to
+12:51
+go back to the step-by-step guide. And
+12:53
+what you're going to want to do is
+12:54
+you're going to want to upload both of
+12:56
+your files. Remember it says here upload
+12:58
+both HTML. So you're going to go to plus
+13:01
+add and you're going to upload the HTML
+13:04
+files. Remember you should have two. So
+13:06
+you're going to upload both. You're then
+13:07
+going to grab this prompt that I've
+13:09
+given you and you're going to copy it.
+13:11
+So we're going to copy this prompt. Go
+13:13
+back to chat GBT. Paste in the prompt
+13:15
+here. Then you're going to click send.
+13:18
+And then you're going to get the output.
+13:20
+So you're going to copy this whole
+13:21
+prompt. It will give you a huge prompt.
+13:24
+You're going to page that huge prompt in
+13:26
+here. Now, what this prompt does that
+13:28
+chat GBT's created for you is it's going
+13:30
+to help tell Claude Co-work to merge
+13:33
+both HTML files into one store. That
+13:36
+way, it'll build out the homepage and
+13:38
+the landing page together instead of you
+13:40
+having to do them separately. So, you're
+13:42
+going to want to upload those two HTML
+13:44
+files again, homepage and landing page.
+13:47
+You're then going to say at the bottom
+13:49
+of the prompt, use the Shopify connector
+13:53
+to do this. That way, you telling it to
+13:56
+use the Shopify connector, it will use
+13:58
+it to basically build the store. Then,
+14:01
+once you've uploaded both HTML files and
+14:03
+you've given it this exact prompt, the
+14:05
+one that chat GBT gave you, you're then
+14:08
+going to click send. Now, once you've
+14:10
+given Claude Co the prompt and the HTML
+14:12
+file and you've told it use the Shopify
+14:14
+connector, this is going to be the
+14:16
+longest part that Claude does. Now, for
+14:18
+it to build the landing page and the
+14:20
+homepage, you're looking at around about
+14:22
+25 to 35 minutes. So, essentially, it's
+14:25
+literally going to be building the
+14:27
+store, and it's going to take around
+14:28
+about 25 to 35 minutes. Now, when you go
+14:31
+to apps on your store, you should see
+14:33
+this app here, Shopify Clawude Connector
+14:36
+app. It should prompt you to download
+14:37
+the app. That way, this is the way
+14:39
+Shopify and Claude will talk to each
+14:41
+other because we've got around about 30
+14:43
+to 40 minutes to kill. Now, I've got my
+14:45
+finished version on the screen. We're
+14:47
+going to need to build the images. So,
+14:49
+see these beautiful looking images that
+14:50
+I've got here, here, and here, and all
+14:52
+these animations that I've been able to
+14:54
+build. This is what we're going to spend
+14:56
+the next 20 to 30 minutes on whilst we
+14:58
+wait for Claude to build the layout of
+15:00
+the store. But here's the thing. Most
+15:03
+people think having a high converting
+15:05
+landing page comes down to having one
+15:07
+beautiful hero image. But the best
+15:09
+e-commerce and drop shipping brands
+15:11
+don't rely on one image. They actually
+15:13
+rely on a visual system that helps
+15:16
+customers understand exactly what their
+15:18
+product is and does within all of the
+15:20
+imagery. Your hero image helps introduce
+15:23
+the product. But then you need to create
+15:25
+images that show different angles,
+15:26
+different materials, lifestyle mockups,
+15:30
+infographic images. And these are what
+15:32
+sells the product in the images. Now,
+15:35
+the AI software that we're going to be
+15:36
+using to build out all of our images is
+15:39
+Photo Room. And according to Photo
+15:41
+Room's own research, and they are the
+15:43
+leaders when it comes to imagery for
+15:45
+e-commerce and drop shipping, 63% of
+15:48
+shoppers say that inconsistent images
+15:51
+reduces their trust in the brand. 59% of
+15:54
+medium to small sellers online report
+15:56
+that they lose sales because of these
+15:59
+poor images. And that's why Photo Room
+16:01
+reviewed over a thousand American
+16:03
+e-commerce brands across fashion,
+16:06
+beauty, lifestyle, and created the first
+16:09
+list of 100 best product pages by
+16:12
+photos. This isn't a list where it's
+16:14
+assessed by the biggest brands or the
+16:16
+prettiest looking websites. Each product
+16:19
+page was assessed by six different
+16:21
+areas, including visual consistency,
+16:24
+product accuracy, image quality and
+16:26
+coverage, conversion focus, and brand
+16:29
+distinction. And brands didn't have to
+16:32
+use Photo Room to qualify being on this
+16:34
+list of 100 of the best examples. So,
+16:36
+the full Photo Room 100 list will be
+16:38
+linked in the description and in the pin
+16:40
+comment for you guys to check out. Also,
+16:42
+Photo Room is hosting an awards event in
+16:45
+New York City on the 15th of September.
+16:48
+And the best part is you guys can also
+16:50
+attend the New York event from Photo
+16:53
+Room on the 15th of September. So,
+16:55
+there'll be a link in the description,
+16:57
+which is a Luma link to get your ticket
+16:59
+to attend the event. So, make sure you
+17:01
+check that out in the description if
+17:03
+you're in New York or if you're close
+17:04
+by. You definitely don't want to miss
+17:06
+out on it. And the crazy news is I'm
+17:08
+also going to be there if you guys want
+17:10
+to meet me. So, make sure you check out
+17:11
+those two links in the description, the
+17:13
+100 example list and the RSVP if you're
+17:16
+in New York or you're close by. So, with
+17:18
+that being said, now let me show you
+17:19
+guys how to create these images using
+17:22
+Photo Room. Now, once you've created
+17:23
+your account on Photo Room, this is what
+17:25
+your dashboard should look like, and
+17:27
+you're going to want to go over to where
+17:28
+it says connect Shopify. Now, this will
+17:30
+make it really easy to import the photos
+17:32
+over to Shopify instead of manually
+17:34
+uploading them every time. So, there is
+17:36
+massive benefits of having this
+17:38
+connected to Shopify. So, you're going
+17:40
+to want to click connect to Shopify.
+17:41
+Connect to Shopify. Then you're going to
+17:43
+click install. Then you're going to see
+17:44
+here it says retrieving store info. And
+17:46
+you can see the backpack is showing up.
+17:48
+Then we can click maybe later because
+17:50
+I'm going to show you guys exactly what
+17:51
+we're going to do here. So now we've
+17:53
+added our Shopify store to photo room.
+17:55
+That makes everything else super easy to
+17:57
+do inside of here. We're then going to
+17:59
+want to go over to AI tools and we're
+18:00
+going to go over to logos because we're
+18:02
+going to want to generate a logo for our
+18:04
+website. Like I said to you before, we
+18:06
+don't need to worry about a logo cuz
+18:07
+we're going to build it here. So, where
+18:09
+it says style, you're going to do
+18:10
+random. Now, where it says size, you're
+18:13
+going to do square. And then where it
+18:14
+says what does your business do, you're
+18:16
+going to add in a prompt based on chat
+18:19
+GBT. Because that chat GBT conversations
+18:22
+already got the HTMLs, already got the
+18:24
+HTML files of our concept store. It
+18:27
+already knows the kind of design that we
+18:29
+need. So, we're going to copy the prompt
+18:30
+it's just given me. We're then going to
+18:32
+go back to photo room and paste it in
+18:34
+here. And then we're going to click
+18:36
+generate two images. Now, this logo here
+18:38
+is my favorite out of the two. So, we're
+18:40
+going to open it, and we're going to go
+18:42
+to where it says download, and we're
+18:44
+going to download that as our logo. So,
+18:46
+that's the logo done for the store. So,
+18:48
+now we go back to AI tools. We're going
+18:50
+to want to use this option here called
+18:52
+product staging. And then, what you're
+18:54
+going to want to do, guys, is you're
+18:56
+going to see where it says quality,
+18:57
+you're going to want it on advance.
+18:59
+Then, where it says size, you're going
+19:01
+to want it on one to one. So, this is
+19:03
+square. And then where it says brand
+19:05
+style, you can turn this off. And then
+19:07
+where it says select image, you can just
+19:09
+use your Shopify product. So we can just
+19:11
+select the Shopify product as our
+19:13
+reference image. And then where it says
+19:15
+describe the image that you want. This
+19:18
+is where we're going to have to give it
+19:19
+a second. We're going to go back to our
+19:21
+competitor's store and we're actually
+19:23
+going to open up their ads. So if we
+19:25
+scroll all the way down, we can go on to
+19:26
+their actual ad library. We're going to
+19:28
+then filter this to highest reach and
+19:31
+spend. We're then also going to filter
+19:34
+this by media type and we're going to
+19:37
+change it to images. And then these are
+19:39
+all the best images that they're using.
+19:41
+So, we're going to want to recreate the
+19:43
+same images for our product. Now, what
+19:46
+you can also do is you can duplicate
+19:48
+this window and you can go back to the
+19:50
+ad spy tool and you can just type in
+19:52
+backpack and you can search for that
+19:54
+phrase and then you can see all of these
+19:56
+other brands are coming up. But, you're
+19:58
+going to want to filter this by images
+20:00
+and highest spend. And now you're only
+20:02
+seeing the images that are performing
+20:04
+the best for all types of brands based
+20:07
+on images. So these are all the
+20:10
+different brands that are selling
+20:11
+backpacks. Now we're going to want to
+20:12
+look for the ones that match our style.
+20:15
+So this one here. So I can click on
+20:17
+this. And some of these images are
+20:18
+absolutely amazing. And then these are
+20:20
+all the type of images that I'm going to
+20:23
+want to create. So we've got different
+20:25
+brands here. We've got this brand, we've
+20:27
+got this brand, and we've got this brand
+20:30
+here. So, these are all the images that
+20:32
+I can download by going to where it says
+20:33
+view details, and I can simply just
+20:36
+download these ads by clicking the
+20:37
+download button. Then, what you're going
+20:39
+to want to do is you're going to want to
+20:40
+go back to that chat GBT conversation
+20:42
+that we had open, and then you're going
+20:43
+to want to upload all the downloaded
+20:46
+images that we created. So, you're then
+20:48
+going to give this prompt. I want you to
+20:49
+make image prompts based on these brands
+20:51
+for my backpack. You can actually send
+20:52
+it the link to the brand's website, all
+20:55
+the winning hunter links, or the ad
+20:56
+library links. ad library is probably
+20:58
+easier for chat GBT to understand. Then
+21:00
+you're going to put these off of my
+21:01
+homepage and landing page. And because
+21:03
+you've given chat GBT your HTML files,
+21:07
+it knows exactly what type of images it
+21:10
+needs to create. It knows where the
+21:11
+placeholders are, and it also knows the
+21:14
+image size. So, you're also going to
+21:15
+want to put at the end of the prompt,
+21:17
+I've previously uploaded my HTML files
+21:20
+for the website. You know, which type of
+21:22
+images that I need, make them based on
+21:24
+that. You're then you're going to send
+21:25
+it that prompt and then chat GBT is
+21:27
+going to make you those image prompts
+21:29
+based on knowing the placeholders and
+21:31
+knowing the brand references that you've
+21:33
+just given it. Now you can see that chat
+21:35
+GBT has given us mobile hero premium
+21:38
+product reveal. So it's given us all the
+21:40
+different types of images. So what we
+21:42
+can do is we can copy these prompts. I
+21:45
+also want luxury lifestyle photos of
+21:47
+models using it in action at work at
+21:50
+airports etc. So these are like
+21:52
+additional photos that we can use. But
+21:54
+if we go back over to the ones that
+21:56
+we've got, we can copy the prompt. Go to
+21:59
+photo room where it says describe image.
+22:01
+We can generate it there. Then we can
+22:03
+get the next prompt. We can go back to
+22:05
+photo room and we can paste it and click
+22:08
+generate images. Now what I'm going to
+22:09
+do is I'm going to go ahead and generate
+22:11
+all of those images and show you the
+22:13
+results. These are the results that
+22:15
+Photo Room has created for me. And these
+22:18
+look absolutely amazing. So you can see
+22:21
+this is one of the images generated.
+22:23
+This is another image. These are all the
+22:25
+lifestyle images of people using them at
+22:28
+airports and at work. So you can see all
+22:30
+of these are the images that it has
+22:33
+generated. Then once you've generated
+22:35
+those images, we can get out of product
+22:37
+staging and we can go to where it says
+22:39
+video generator. Now this is the feature
+22:42
+that I used to generate the animation.
+22:45
+So the animations that I showed you on
+22:46
+my website, I used this feature. You're
+22:49
+going to choose your Shopify product and
+22:51
+then you're going to see templates for
+22:53
+bags. You're going to click see all and
+22:55
+you're going to see all the templates
+22:57
+that it has generated. So for example, I
+23:00
+can use this option. I can do 9 by6 or
+23:03
+square. For this example, I'm going to
+23:04
+do square and I can click continue and I
+23:07
+can click generate. We can see what the
+23:09
+quick preview looks like and it looks
+23:11
+really really good. So then what I can
+23:13
+do is I can click looks good or we can
+23:15
+edit with AI. But for me I can click
+23:16
+looks good. I can then click generate
+23:18
+video and then it'll turn it into a full
+23:21
+video. Now to get these type of videos,
+23:24
+so these are like the 3D mockup videos,
+23:27
+these ones here. You can go back to chat
+23:29
+GBT and you can say I want to make video
+23:32
+animations, luxury animations for my
+23:35
+backpack. Come up with some prompts and
+23:37
+it will come up with a prompt. That's
+23:38
+exactly what I did. And then what I did
+23:40
+is I uploaded the same concept but
+23:43
+instead of using the mannequin option.
+23:44
+So, if we go back to video generator,
+23:46
+I'm going to upload the image again from
+23:48
+Shopify. And then what I'm going to do
+23:49
+is I'm going to use no template square.
+23:52
+I'm going to click continue. And then
+23:54
+this is where we're going to go to where
+23:56
+it says describe. And we're going to put
+23:58
+the prompt in that GBT gave us to
+24:00
+generate our own version. And then what
+24:02
+we're going to do is you can click
+24:03
+advance. And you can change the
+24:04
+background, the mood, and the framing.
+24:06
+But I don't do that. And then you can
+24:07
+click generate first frame. Then when it
+24:10
+generates the first frame once you're
+24:12
+happy with it, that was the first frame
+24:13
+that it generated. You can see it here.
+24:16
+It then turned it into this video. So
+24:18
+for example, these are the methods that
+24:20
+I used to generate these animated
+24:22
+videos. Now there is loads of other
+24:24
+really cool features inside of Photo
+24:25
+Room to generate images and animated
+24:27
+images for our Shopify store. I've only
+24:30
+gone over three, which is video
+24:31
+generator, logo, and photo staging. But
+24:34
+you've got all of these other ones like
+24:35
+product beautifier, ghost mannequin. So,
+24:37
+if you're doing fashion, flatlay,
+24:39
+ironing, and then you've got product
+24:41
+packaging. So, if you want to make a
+24:42
+packaging as well, it's really good. So,
+24:44
+there's so many really, really good AI
+24:47
+tools that you can use. You can see them
+24:49
+all here. I'd really recommend using as
+24:52
+many as you can depending on what you're
+24:53
+selling. Another thing that I'd want to
+24:55
+mention is batch. So, you can batch
+24:56
+edit. So, you can upload loads of images
+24:59
+and you can batch edit them in one go.
+25:02
+This is really good if you're a DTOC
+25:03
+brand. And then once you've done that
+25:05
+guys, that's all the images ready. We
+25:07
+can simply download all the images and
+25:09
+video animations it's generated and we
+25:11
+can save them. And now my store should
+25:13
+be ready and I can finish it off by
+25:15
+uploading the images. So now what we can
+25:17
+do is we can go over to Shopify. We can
+25:20
+go over to online store and then what
+25:22
+you should see is you should see a copy
+25:24
+of Horizon. So what Claude will do is it
+25:26
+will it will copy your theme. So it's
+25:30
+copied the theme and it's added it in.
+25:32
+Then what you're going to want to do is
+25:33
+you're going to want to go over to
+25:34
+products, the product that we built
+25:36
+together. And then this is where you're
+25:39
+going to want to add the images from
+25:40
+photo room that we created. So all the
+25:42
+images should be added here. We should
+25:44
+add a short description here. We should
+25:46
+also come up with a product title name.
+25:47
+Now you can get chat GBT to come up with
+25:49
+this and this very easily. Then you're
+25:52
+going to want to make sure the variants
+25:54
+are correct. Then once we've done all of
+25:56
+this guys, we can then head over to
+25:58
+online store.
+26:01
+We can then go over to the store and we
+26:03
+can click edit theme.
+26:07
+And then what you can do is you can add
+26:09
+in the images. Now to save a little bit
+26:11
+of time, I've already done this. So you
+26:13
+can just simply click on these sections
+26:15
+that Claude's built you. And you can
+26:18
+just go over to where it says image and
+26:20
+add in the images. But you can see that
+26:22
+this store is fully customizable. I can
+26:24
+literally edit every section of this
+26:26
+store because it's been converted from
+26:28
+HTML into fully liquid Shopify. So all
+26:31
+of this can be edited and I can upload
+26:34
+in the images that we downloaded from
+26:36
+photo room. You can also change any text
+26:38
+that you want. You can also come to the
+26:40
+head website banner and you can add in
+26:42
+the logo that we generated using photo
+26:44
+room. And then just like that guys,
+26:46
+we've got our homepage. And if we click
+26:49
+shop in the top, we've also got our
+26:53
+product page. So, we got the product
+26:55
+page and we've also got the homepage
+26:58
+built using Claude AI, which was super
+27:01
+easy to do. I'm going to be honest, the
+27:03
+only bits that are a little bit long and
+27:04
+fiddly is getting Claude to build the
+27:06
+store, which takes 30 to 40 minutes, and
+27:08
+then just going through it and adding in
+27:10
+the images. But once you've done that,
+27:12
+it's pretty much done. So, that being
+27:14
+said, guys, that's how you can build any
+27:16
+Shopify store that you want for landing
+27:18
+pages, homepages, and hero sections for
+27:20
+drop shipping or for ecommerce. And once
+27:23
+we've hit the like goal that I explained
+27:24
+in the intro, everything that I've used
+27:26
+throughout today's video, like the
+27:27
+skills and the prompts, will be
+27:29
+available in the pin comment and in the
+27:31
+description below. So, with that being
+27:33
+said, guys, I hope you've enjoyed this
+27:34
+video and I'll catch you on the next

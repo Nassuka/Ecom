@@ -1,0 +1,1271 @@
+Vidéo 17 : So, this new drop shipping store
+0:01
+generated over a million dollars last
+0:03
+month. And the craziest part is they're
+0:06
+using AI [music] ads to promote their
+0:09
+store. Now, what that means is they're
+0:10
+using AI video ads [music] and AI image
+0:13
+ads. And they've been able to generate
+0:15
+over a million dollars just leveraging
+0:17
+the [music] power of AI ads. Now, my
+0:19
+promise to you guys is by the end of
+0:21
+this video, you're going to be able to
+0:22
+scale your own [music] AI creatives for
+0:24
+your drop shipping or e-commerce brand
+0:26
+with a simple solution that I'm about to
+0:28
+show you. Now, what I've done is I've
+0:29
+created a myro board going over
+0:31
+everything in today's video with all the
+0:33
+prompts and all the examples. And all we
+0:35
+got to do to get access to [music] that,
+0:36
+which you do need to get access to if
+0:37
+you want to make this really easy, is
+0:39
+hit 500 likes on this video. Then it'll
+0:41
+be in the pin comment and in the
+0:43
+description below. So, what I want to do
+0:45
+is show you guys the proof. So, check
+0:46
+this out. This is the brand called One
+0:48
+Compress. Their bestselling product is
+0:51
+this bamboo knee sleeve. And I know it's
+0:53
+a drop shipping product because I found
+0:55
+it here on AliExpress. Now, they've just
+0:58
+simply white labeled the product and put
+1:00
+their logo on it, but it's still a drop
+1:02
+shipping product. And you can see that
+1:03
+in the last 30 days, they've generated
+1:05
+$5 million to $9 million. Now, more
+1:09
+accurately, it's around about $2 to $3
+1:11
+million. And you can see this store
+1:13
+started back of the end of last year in
+1:15
+December. And you can see they're now
+1:17
+scaling really aggressively. And they've
+1:19
+also got 579 active ads. Now, if I open
+1:23
+up their ads page and filter it by
+1:25
+highest reach and spend, and I filter it
+1:27
+by videos, you can see these are the
+1:29
+videos they're using. They're completely
+1:31
+AI generated. So, check this one out.
+1:33
+Says the real problem is happening while
+1:35
+they sleep. Here's what most people
+1:37
+never realize. [music] The fastest
+1:39
+recovery from knee osteoarthritis is not
+1:41
+about losing weight first, and it's
+1:44
+definitely not about pushing through the
+1:45
+pain to exercise more. It's about
+1:48
+reducing inflam. So yeah, I don't want
+1:49
+to show you the full ad and bore you,
+1:50
+but that was mostly AI generated and
+1:52
+it's their best performing ad. So again,
+1:55
+another AI ad. We call these cartoon
+1:57
+ads, but they're fully generated using
+1:59
+AI. Now, if I filter this from video to
+2:02
+image, these are their best performing
+2:04
+ads and they're image ads. Now, some of
+2:07
+the best ads from this drop shipping
+2:08
+brand are purely just images. And all of
+2:11
+these images here are all AI generated.
+2:13
+This is AI generated. This is AI
+2:15
+generated. Everything you see here is
+2:18
+all AI generated. And I'm going to be
+2:19
+showing you guys how you can generate
+2:22
+ads just like these that are absolutely
+2:24
+blowing up for this brand. So, it
+2:26
+doesn't matter what drop ship product
+2:27
+you're using, whatever e-commerce brand
+2:29
+you are. I'm going to be showing you how
+2:30
+you can re-engineer all of this now
+2:33
+using AI and for your store. And we're
+2:36
+going to be using one simple solution to
+2:38
+do all of the work. So, for us to be
+2:40
+able to do that, we're going to be using
+2:41
+a platform called zely.ai.
+2:44
+It allows you to create videos and
+2:46
+images and the platform is insane. So,
+2:49
+you'll find a link to it in the
+2:51
+description and in the pin comment. Once
+2:53
+you're inside of your Ziti.ai dashboard,
+2:56
+you're going to see under marketing tool
+2:57
+image ads. And you're going to see here
+2:59
+it gives you all of these examples that
+3:01
+we can use. Now, this in my opinion is
+3:03
+what makes Ziti AI better than any
+3:05
+platform, which is all the templates and
+3:07
+examples it gives you. These are all
+3:10
+winning ads that it gives you at your
+3:12
+fingertips. So this is basically a
+3:14
+complete gamecher. So we can reuse all
+3:16
+of these for our own brand. It doesn't
+3:18
+matter what we're selling. Then if we go
+3:19
+over to video ads, it does the exact
+3:21
+same thing again. It gives us templates
+3:23
+that we can use. So the first thing that
+3:25
+we do need to do guys is go over to
+3:27
+assets and we do need to add our
+3:29
+product. By adding our product as an
+3:31
+asset, it just means that when we
+3:33
+generate it through the video model and
+3:35
+the image model, it's super fast and
+3:37
+easy. Now all you got to do is click add
+3:39
+new product. You're going to add in your
+3:41
+website URL. Now, in this example, I'm
+3:44
+literally just going to use the
+3:45
+competitor's websites, which is one
+3:47
+compress. So, I'm literally just going
+3:48
+to go to their product page, which is
+3:50
+this knee brace, and I'm going to copy
+3:51
+this. Now, you'd obviously use your
+3:53
+website link. You then come over and you
+3:55
+just paste this in, and then you click
+3:57
+generate from link. Then, once that's
+4:00
+done, you're going to see it generates
+4:01
+it like this. So, everything has now
+4:03
+been added in as you can see, and we are
+4:06
+ready to go. So once you've added your
+4:08
+product in and it looks like this, that
+4:10
+means now we can start doing generations
+4:12
+without any fuss. Then what you're going
+4:14
+to want to do is go back to home and
+4:15
+you're going to go to where it says
+4:16
+playground where it says new. Then
+4:18
+you're going to see here you got the
+4:19
+image and video and you've also got all
+4:21
+the models. So now we're in the right
+4:23
+place to generate videos and images. We
+4:26
+now need to come up with the ideas on
+4:28
+what to generate. Now what you're going
+4:30
+to want to do is you're going to want to
+4:31
+find your competitors or a brand's ads
+4:34
+that you're going to use as inspiration.
+4:36
+So, as I'm selling a compression leg
+4:38
+press, you can either go to the ad
+4:40
+library or winning hunter like I'm using
+4:42
+as it gives me analytical data that I
+4:44
+prefer to look at, like what's the
+4:46
+performing ads, how long they've been
+4:47
+running for, how much money they're
+4:48
+making, so I know that I'm actually
+4:50
+making ads that are actually making
+4:52
+money instead of guessing. Now, you can
+4:54
+use the ad library. It's completely
+4:55
+free, but you're kind of guessing what's
+4:57
+doing the best. Now, what you can do is
+4:59
+you can either search for your product
+5:00
+in the search bar, like leg compression,
+5:03
+knee compression. basically use keywords
+5:05
+to find ads for your product. Then what
+5:07
+you can do is you can either remake the
+5:10
+same ads from a competitor, but you're
+5:11
+going to do a twist on it. Or what you
+5:13
+can do is you can just find any of the
+5:15
+top performing ads right now and you can
+5:17
+re-engineer it. Even if let's say it's
+5:19
+for a face mask or a gym set, let's say
+5:21
+it's for a keyboard. You can take any
+5:24
+winning concept from any ad and
+5:26
+re-engineer it for your product. So if
+5:28
+you're struggling to find any winning
+5:29
+concepts for your product from a direct
+5:31
+competitor, you can just take it from
+5:33
+any brand. So in this example, I am
+5:36
+going to be using one compress as my
+5:39
+example. Now, if I go over to their best
+5:40
+performing ads and I take off images,
+5:43
+I'm going to see their videos and their
+5:45
+images that are performing the best. But
+5:46
+for now, I'm going to be focusing just
+5:48
+on creating the video ads. I'm going to
+5:50
+want to regenerate a cartoon ad that
+5:52
+looks like this. So what I can do is I
+5:54
+can click view details and I can
+5:55
+download the videos and then I can also
+5:57
+go to transcript and I can copy the
+5:59
+transcript. Now if you're doing this in
+6:01
+the ad library you can use a Chrome
+6:02
+extension called video downloader. You
+6:04
+can download it then use a free
+6:06
+transcript tool online and then you can
+6:08
+get the transcript. It's just a little
+6:10
+bit longer and a bit more fussy. Then
+6:11
+once you've done that guys, you're going
+6:13
+to come over to this stepbystep
+6:15
+document. Now, once you've downloaded
+6:17
+the skill and you've got your video
+6:19
+references from your competitor, which
+6:21
+I've got here, these are all my
+6:22
+reference videos, you're then going to
+6:24
+give Claude Coowwork this exact prompt.
+6:27
+Now, once you've given Claude Co that
+6:29
+task, it should then give you a prompt
+6:32
+sheet. Now, this prompt sheet should
+6:34
+contain the images and then turning the
+6:36
+images into videos and then it should
+6:39
+also give you the sedans 2.5 prompt. So,
+6:42
+first we need to generate the images as
+6:44
+a storyboard and then we're going to get
+6:45
+Sedance 2.5 to turn this into a full
+6:49
+video tutorial. Now, the reason why
+6:51
+we're going to be doing this guys is
+6:53
+because Sedans 2.5 now allows you to
+6:56
+upload 50 image references. So, if we're
+6:59
+going to create a video ad and we want
+7:01
+to make sure it's consistent and the
+7:03
+characters look consistent, everything
+7:04
+looks consistent, we can generate 50
+7:07
+image references for Sedance 2.5. So,
+7:10
+we're going to create images first going
+7:11
+over the full story of the video ad. And
+7:13
+we're just going to upload all of those
+7:15
+image references technically as the
+7:17
+story board. That way, Sedance 2.5 has
+7:20
+no way of making a mistake. It literally
+7:22
+has the images as the storyboard. All
+7:24
+right. So, before we move on with this
+7:26
+crazy case study, there is one crucial
+7:28
+thing. You need a drop shipping supplier
+7:30
+that you can trust because when you're
+7:31
+doing thousands and thousands of orders,
+7:34
+there is a massive amount of risk. And
+7:36
+that's exactly why we use USA Drop. USA
+7:39
+Drop's been around for 11 years and it's
+7:41
+completely free for you guys to sign up
+7:43
+using the link in the description and in
+7:45
+the pin comment. You can go over to
+7:46
+where it says products on products. You
+7:48
+can reverse search for your product or
+7:50
+you can type in the name. So I might
+7:52
+want to type in Clipper and then you can
+7:54
+see here it comes up with all the
+7:55
+relevant products. Then what you can do
+7:57
+is you can click on the product and then
+7:58
+you can see here it says ships to you
+8:01
+can choose the country and then you can
+8:02
+go here to where it says check USA drop
+8:04
+quote and then what you can also do is
+8:06
+order a sample product and then you can
+8:08
+connect it straight to your Shopify
+8:10
+store. Now the amazing thing about USA
+8:12
+Drop is they have super fast shipping
+8:14
+lines because they have access to all
+8:16
+the different shipping vendors FedEx,
+8:18
+Union Express. So they can get your
+8:19
+product to your customer within 5 to 15
+8:22
+days. They also have an amazing refund
+8:24
+policy just in case things go wrong and
+8:27
+they have the best payment methods to
+8:29
+pay them as a supplier. Once you've
+8:30
+clicked check USA drop, you can go to
+8:32
+sourcing and then you can see here it
+8:34
+gives you the quotes. Once you've quoted
+8:36
+a product, you can click view details
+8:38
+and you can see all the information
+8:40
+about the quote. And then if you come
+8:41
+over to here where it says my store, you
+8:43
+can see all of your stores that are
+8:44
+connected through Shopify. So you can
+8:46
+see there's loads here and then you can
+8:48
+click add another store and you can add
+8:49
+it. And you can also add your Tik Tok
+8:52
+store as well. Then the other thing that
+8:53
+I really like is the private agent
+8:55
+feature. So as long as you get five plus
+8:57
+orders a day, you unlock a private
+9:00
+agent. Now you don't need to pay a
+9:02
+monthly subscription for this like most
+9:03
+companies try and do. The barrier to
+9:05
+entry for private agent with USA Drop is
+9:07
+very low. And that opens up to better
+9:10
+pricing, better shipping quotes. So you
+9:13
+basically get the best quality drop
+9:14
+shipping supplier service as a beginner.
+9:17
+If you're looking for the best partner
+9:18
+in your drop shipping business for
+9:20
+fulfillment, USA Drop is that. So you'll
+9:22
+find a link in the description and in
+9:24
+the pin comment now. All right guys, so
+9:26
+what you should have is Claude Co should
+9:28
+have gave you three image prompts. Image
+9:30
+one, image two, image three. So these
+9:32
+are characters. So this is character
+9:34
+number one, character number two. This
+9:36
+is essentially a product shot. So now
+9:38
+you've got these three images, two
+9:40
+characters, and then the product shot.
+9:42
+This is what we're going to be uploading
+9:44
+as the reference to Sedance 2.5. That
+9:47
+way it maintains the consistency of the
+9:49
+character number one, character number
+9:51
+two, and obviously the final product.
+9:53
+So, you're going to want to download all
+9:54
+of these images. So, we can download
+9:56
+this, we can download this, and we can
+9:58
+download this. We can then go over to
+10:00
+the video model and we can upload the
+10:03
+images. So, we can go to upload and we
+10:06
+can upload these images that we've just
+10:08
+downloaded and we can click continue
+10:09
+with images. So we're going to use this
+10:11
+as image one as this is the start frame.
+10:14
+This is the second frame and this is the
+10:16
+third frame. So now we add these in.
+10:18
+You're going to see image one, image two
+10:20
+and image three. All right. So once
+10:21
+we've uploaded these images, image one,
+10:23
+image two, image three, make sure you
+10:24
+upload these in correct order cuz then
+10:26
+once we've given it the prompt from
+10:28
+Claude Co, what you're going to see is
+10:30
+you're going to scroll down and you're
+10:31
+going to see image references. So image
+10:34
+one, stiff sleeping. So that's image one
+10:36
+there. Image two, exact sleeve of the
+10:38
+product. That's image two. Image three,
+10:41
+two real folded sleeves. Image three.
+10:43
+Now, if you get these in the wrong
+10:44
+order, then when it makes it into the
+10:46
+video, it's going to be completely
+10:47
+wrong. So, make sure that when you give
+10:49
+it the prompts, the reference images
+10:51
+match the image in the right order.
+10:53
+Then, once you've got the prompt, you've
+10:54
+uploaded the images, you've got sedans
+10:56
+2.5, 9x6, 720p, and 30 seconds long, and
+11:00
+the audio turned on, you can simply
+11:02
+click generate. Now, make sure guys
+11:05
+before you click generate cuz you don't
+11:06
+want to waste credits, you've done it
+11:08
+correctly. Then once it's done
+11:09
+correctly, as it is the new sedance
+11:11
+model, this can take a while. You're
+11:14
+looking at the video generation taking
+11:16
+for example between five and 10 minutes.
+11:18
+It's just a dance video model is very
+11:20
+long these days in terms of generations.
+11:22
+So you will be waiting a while. Now once
+11:25
+it's done, you're going to see the video
+11:26
+generation just here
+11:28
+in your knee. Here's what nobody
+11:30
+And this is exactly what it's generated
+11:32
+for us.
+11:32
+Your knee stays still. I settle in.
+11:36
+You'll feel me on that first stare.
+11:38
+Eight hours, all mine.
+11:41
+I'm your bamboo knee sleeve. I sit on
+11:44
+that knee all night supporting
+11:45
+circulation. So instead of stiffening
+11:47
+up, it's supported. You wake up looser,
+11:50
+easier on the stairs. Sco bamboo knee
+11:53
+sleeves. Wear them to bed. And just like
+11:55
+that, we've got our video ad. And it is
+11:57
+so, so good. That cartoon ad, one video
+12:00
+generation, and it comes out really,
+12:03
+really well. So that's exactly how I
+12:05
+made the cartoon ad from the
+12:07
+competitor's version and re-engineered
+12:08
+it into mine. Again, using Claude
+12:11
+Co-work to generate the prompts for the
+12:12
+images and the videos and the characters
+12:15
+and then using Zeli to generate the
+12:17
+image and the video. Claude Co does all
+12:19
+the prompting and we use Zeli to
+12:21
+generate the actual images and videos.
+12:23
+So with the cartoon ad done, I'm now
+12:25
+going to move on to creating a realistic
+12:27
+video ad. Now we're going to be using
+12:29
+the exact same formula again. We're
+12:31
+going to take a competitor's winning ad.
+12:33
+So if I go back to winning hunter, you
+12:35
+can see this is a real ad here. So this
+12:37
+is like a realistic ad from the
+12:39
+competitor
+12:40
+from.
+12:40
+So I can download this ad for example or
+12:43
+these ads, the realistic ones, not the
+12:45
+cartoon ones. I can then transcribe
+12:47
+them, give them to Claude Co, and get it
+12:50
+to do the exact same formula as the
+12:52
+first video we generated. It needs to
+12:53
+create an image prompt to generate the
+12:56
+image scenes between one and three
+12:58
+different scenes or if there's multiple
+12:59
+characters, character one, character
+13:01
+two. And then we're simply just going to
+13:02
+turn it into a video. We're using
+13:04
+sedans. So now what I've done just to
+13:06
+speed this up is I've already got the
+13:08
+prompt back from Claude Co. So this is
+13:10
+the image prompt that I need to create.
+13:12
+So I'm going to copy this prompt here.
+13:15
+This is from Claude Co. Go to image
+13:17
+changes to GBT image 2K
+13:20
+high resolution two output 9x6. Paste
+13:24
+the prompt in here. And then just like
+13:25
+that guys, we've got this image. It
+13:27
+shows an older woman here, a staircase,
+13:30
+a basket on the stair, and then this
+13:32
+younger lady, which is probably her
+13:34
+daughter, in the background. So now what
+13:37
+we can do is we can download this image.
+13:39
+We can then go back to the video model.
+13:41
+We can download these old reference
+13:43
+images. And what we can simply do is we
+13:46
+can upload that image of the older lady.
+13:49
+And we can add this one in. We're going
+13:50
+to use sedan settings, exact same 9x6,
+13:53
+720p, 30 seconds long in sound on. And
+13:56
+then we're going to get the video prompt
+13:58
+which is here. Sedance 2.5 prompt.
+14:01
+Again, this is from Claude Co. We're
+14:03
+going to copy this full prompt. And
+14:04
+we're simply just going to paste it
+14:06
+here. And then we're going to click
+14:07
+generate. And just to speed this up,
+14:09
+this was the generation that we got
+14:11
+back.
+14:12
+There's used to be nothing. Now I think
+14:14
+about them. You've still got that brace,
+14:16
+haven't you?
+14:17
+It's in a drawer. It got so hot and
+14:20
+itchy, I stopped wearing it. This one's
+14:22
+bamboo. It breathes. You can wear it all
+14:24
+day. Now, that ad is exceptionally good.
+14:28
+It gives me like TV ad style or like a
+14:31
+really high production ad, although it's
+14:34
+so so good. Now, that was a one shot
+14:36
+with Sedance 2.5. And that just shows
+14:38
+you how good this model is. Now, the
+14:40
+only thing that I would change with this
+14:41
+is I'd download it and where there is a
+14:43
+little bit of a pause where she's
+14:44
+putting the knee brace on, I'd probably
+14:46
+speed this section up because it's quite
+14:48
+boring. And I'd also speed up the
+14:50
+section of her going up the stairs. But
+14:52
+like, these reactions are perfect. So, I
+14:55
+would have to do very minimal changes to
+14:57
+this ad. I'd probably speed up the first
+14:58
+three seconds as well because it's quite
+15:00
+boring. But apart from these sections
+15:02
+where I need to speed them up in an
+15:03
+editor, the actual ad itself is bang on.
+15:06
+And that's literally how I generated
+15:08
+those two ads. Now, the final video ad
+15:11
+that we're going to create is a UGC
+15:13
+style ad. So, those two were one was
+15:15
+cartoon, one was more professional
+15:17
+looking ad, and they still convert
+15:19
+really well. And the last one is UGC.
+15:22
+UGC ad. I purposely need to find a UGC
+15:25
+ad to copy. I'm filtering the media type
+15:27
+back to video. And then I'm purposely
+15:29
+finding a UGC ad.
+15:31
+You sleep with.
+15:31
+So here's a UGC ad of a woman in the car
+15:34
+with a Starbucks cup.
+15:35
+I just canceled my knee surgery. So if
+15:37
+your knees are starting to slow you
+15:38
+down, this is your sign. Everyone keeps
+15:41
+asking how my knees still feel this.
+15:43
+Now that is complete AI, by the way. And
+15:44
+hers and their AI UGC is very AI. So,
+15:48
+I'm going to remake this as it's their
+15:50
+winning UGC concept, but I'm going to
+15:52
+make it way better. So, again, going to
+15:54
+download the video, give it to Claude
+15:56
+Coowwork, tell it to re-engineer the
+15:58
+video, but remake it for me. It's going
+15:59
+to give me an image prompt and the video
+16:01
+sedance 2.0 prompts. Just to speed this
+16:03
+up, this was the output that I got from
+16:05
+Claude Co-work. We got the image, and
+16:07
+we've also got image 2, and we've got
+16:09
+image 3, and then we've got the sedance
+16:11
+prompt. All I need to do is add these
+16:13
+image prompts into Zly AI. So, I'm going
+16:16
+to go back to image. I'm then going to
+16:18
+add the prompt. And here's the
+16:19
+generations that I got back. So, this is
+16:21
+the first shot of her in the car with
+16:23
+the coffee like the competitors ad. And
+16:25
+she's got the knee brace brace on. Then
+16:27
+we've got another shot of her in the car
+16:29
+with the knee brace on. And then we've
+16:31
+also got another shot of the avatar. So,
+16:34
+we've got all the shots that we
+16:35
+generated. Remember, we've got three
+16:36
+image prompts back. So, these are the
+16:38
+three image prompts. And now, all I need
+16:40
+to do is download these images. So,
+16:42
+download this image. Go back to video.
+16:45
+add the image reference. So we got image
+16:48
+one, image two, and image three. So
+16:50
+these are the images that we got
+16:51
+generated. And then I just need to add
+16:52
+the new prompt. So we're going to add
+16:54
+the Sedance 2.5 prompt, which is just
+16:58
+here. We're going to copy the full
+16:59
+prompt. Go back to Zel AI. Paste this
+17:02
+in. And then we can generate it. And in
+17:05
+return, guys, this is the video ad that
+17:08
+we got back.
+17:09
+I nearly quit my morning walks. People
+17:12
+keep asking how I'm still out there at
+17:13
+45. If your knees ache and every brace
+17:16
+slides down, start wearing these bamboo
+17:19
+sleeves.
+17:22
+The knit holds steady compression that
+17:23
+supports circulation instead of just
+17:25
+sitting there.
+17:27
+Mine feel lighter, steadier, and not
+17:29
+restricted all day long. These sleeves
+17:32
+are the ones I trust. 40% off.
+17:34
+And just like that, guys, again, there's
+17:36
+a few little parts where it needs to be
+17:38
+sped up or cropped because it just looks
+17:41
+a little bit fake. But apart from that,
+17:42
+the actual ad itself is topnotch. Now,
+17:45
+if I wanted to make this better, I could
+17:46
+just generate another clip, another
+17:48
+30-cond clip, and then just stitch both
+17:50
+together to make a really good ad. But
+17:52
+for a one-off clip, this is incredible.
+17:54
+So, those are the video ads. We just
+17:56
+made three there, and they were super
+17:58
+fast and easy to do. All right, guys.
+18:00
+So, now we've made the three video ads
+18:02
+using Sedance 2.5. We're now going to
+18:04
+create the image ads because remember to
+18:06
+scale a drop shipping store or an ecom
+18:08
+brand aggressively, we need images and
+18:11
+videos. Now to do this is even easier.
+18:14
+What we're going to do is we're going to
+18:15
+go back to our competitors ads. We're
+18:17
+now going to filter this from videos to
+18:19
+images and we're going to download their
+18:20
+best performing ad. So for example, what
+18:22
+I can now do is I can go here to where
+18:24
+it says view details and I can download
+18:26
+this. What I can do is I can click view
+18:28
+details and I can download the ad. Then
+18:31
+what I can do is I can go back to ZLI
+18:33
+AI, go to image GBT image 2. I can then
+18:36
+upload the reference. So the reference
+18:38
+is the product. So the reference is just
+18:41
+the product image. So that's going to be
+18:42
+image one. You're then going to go back
+18:44
+to Claude Co-work and you're going to
+18:45
+say, "I want to make viral image ads for
+18:47
+my product. I've added some of my
+18:48
+competitors best image ads. I want you
+18:50
+to come up with new ideas and make the
+18:51
+prompt for them." Also, make sure you
+18:53
+send it the link to your website. So for
+18:55
+example, this would be mine, but it
+18:56
+isn't. It's just the competitors.
+18:59
+Then we're going to copy it. We're going
+19:01
+to give it to Claude and we're going to
+19:02
+paste it here. Now, what we can do
+19:04
+whilst we're waiting for Claude to give
+19:06
+us the prompts to give to Zel AI is we
+19:08
+can open up another tab on Zeely, go to
+19:10
+home, then go to image ads, then we can
+19:12
+scroll to image ad gallery, and we can
+19:14
+filter this by the industries that we're
+19:16
+in. Clothing and imperial, health and
+19:18
+wellness, beauty and personal care. Then
+19:20
+you can change it to product only. And
+19:22
+then we've got these concepts that we
+19:24
+can reuse. So these are all winning
+19:26
+concepts that we can all use. So you can
+19:28
+go through all of these. For example,
+19:30
+this one here is really, really good. So
+19:32
+I might click on it. I might then click
+19:34
+recreate. I then will use the bamboo
+19:36
+knife sleeve. Click continue. And just
+19:39
+like that, guys, I can click generate.
+19:41
+Now, just like that, we've just got the
+19:43
+clawed prompts back. So we can open up
+19:45
+the artifact and we can see the formulas
+19:47
+and we can see the 12 concepts. So we
+19:49
+got concept number one. So we can go
+19:52
+back. We can click the prompt. Then we
+19:54
+can see here we've got 9x62K GBT image
+19:58
+2. We can click generate. And now we can
+19:59
+see that that's being generated. We can
+20:01
+then go back and copy the next prompts.
+20:03
+Copy all of these prompts and generate
+20:06
+them all at the same time. Then that way
+20:08
+they'll all be cued and ready to create.
+20:10
+And just like that guys, this is the
+20:13
+image that it made based on the
+20:14
+reference that we used. And you can see
+20:17
+it looks just like this. It's gone from
+20:20
+our image here to the reference image.
+20:22
+So that was the reference image that we
+20:24
+used and this is the image and it
+20:27
+generated this for us and this looks
+20:29
+really really good. Now what we can also
+20:32
+do is we can click on the text and we
+20:34
+can edit it. So if you ever want to edit
+20:35
+anything that it's created, we can
+20:37
+actually click on these and completely
+20:39
+edit them here. So that's why it is so
+20:42
+powerful using Z AI. And again the way I
+20:45
+did that guys is you go back to image
+20:47
+ads and you can use any of these
+20:48
+concepts and recreate them like I just
+20:51
+did. Now, just to show you guys some of
+20:52
+the other images that I generated using
+20:54
+this method, you can see them all here
+20:57
+and they look absolutely amazing. So,
+21:00
+these are all the images I generated
+21:01
+using that exact method. So just like
+21:04
+that guys, that is how you can create
+21:05
+viral video ads with all the concepts
+21:08
+that I just showed you which were three
+21:09
+and how to generate viral image ads all
+21:12
+using one simple platform ZLE AI which
+21:15
+you'll find linked in the description
+21:17
+and in the pin comment and by using
+21:19
+Claude Co-work to help us with the
+21:21
+prompting for the video ads. With that
+21:23
+being said, guys, I hope this helps you
+21:24
+scale your drop shipping store and your
+21:26
+e-commerce brand. And don't forget to
+21:28
+get this video to 500 likes so you can
+21:29
+get access to all the prompts and the
+21:31
+cheat sheets in the description and in
+21:33
+the pin comment.

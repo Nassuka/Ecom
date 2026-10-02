@@ -1,0 +1,1251 @@
+Vidéo 7 : Jour 5, il y a deux catégories de personnes qui font du dropshipping. Ceux qui font des publicités, vendent et rejouent le lendemain avec un budget
+0:06
+plus gros en espérant que ça suive. Et ceux qui mettent en place des systèmes qui multiplient chaque euroentré dans la boutique par deux, par trois et parfois
+0:12
+par quatre. Aujourd'hui, Vincent vous donne les trois systèmes de la deuxième catégorie. Numéro 1, l'email marketing. C'est souvent 20 à 30 % du chiffre
+0:19
+d'affaires d'une boutique qui scale. Numéro 2, les angles marketing. Comment vendre le même produit à trois profils différents avec trois accroches
+0:25
+différentes et multiplier ses audiences ? Numéro 3, l'optimisation ou comment récupérer de la marge, comment détecter
+0:31
+les fuites et comment ajuster en continu. Vincent, c'est à toi.
+0:38
+Alors maintenant, on a fait notre recherche produit, on a fait notre page produit, on a créé notre offre, on a
+0:44
+fait nos créat, on a lancé nos créas et il reste une dernière chose à faire, c'est juste de précéder un flow de email
+0:52
+marketing qui s'appelle le flow de panier abandonné. C'est un flow qui va faire que si une personne est au
+0:57
+checkout et qu'elle rentre ses informations et qu'au dernier moment elle se dit "Non, ça m'intéresse pas, finalement je quitte, j'ai pas envie
+1:02
+d'acheter." Et ben en fait, c'est un email qui va s'envoyer automatiquement pour lui faire une offre et lui dire "Bonjour, on a vu que vous étiez
+1:08
+intéressé par notre produit, on vous offre 10 % en plus pour que vous passiez à l'action." Voilà, en gros, donc nous simplement ce qu'on va voir aujourd'hui,
+1:14
+c'est que je vais vous expliquer comment précéder ça au mieux. C'est quelque chose qui est important à mettre en place. Ça se fait via l'application
+1:19
+Clavio, c'est la meilleure application pour envoyer des emails en e-commerce et on va simplement voir comment le faire. Donc on se retrouve comme d'habitude sur
+1:26
+l'ordinateur et là vous avez juste à prendre clavio et ensuite de ça vous téléchargez clavio donc dans les
+1:31
+applications de votre site vous avez juste à télécharger clavio et ensuite de ça vous allez vous retrouver ici sur cette plateforme. Dès que vous êtes sur
+1:37
+cette plateforme vous allez simplement aller dans flow. Ici vous allez marquer create flow. Ici vous allez simplement mettre abandoned carte. Et là vous allez
+1:44
+simplement cliquer sur celui-ci et vous allez voir un flow. Et là, vous allez mettre simplement ici this template. OK,
+1:51
+là je peux pas parce que le plan est annulé mais vous aurez simplement à mettre un plan que vous payerez pas du tout cher parce qu'au début vous
+1:56
+enverrez très peu d'email. Ensuite de ça, qu'est-ce que ça va donner ? Ça va donner quelque chose du genre. Vous aurez ici simplement un flow de email
+2:03
+qui aura le trigger when checkout started. Donc quand quelqu'un commence à remplir le checkout et vous allez lui
+2:08
+envoyer un email qui dit "Bonjour, merci d'avoir choisi le nom de la marque." Vous avez ajouté des articles à votre
+2:14
+panier mais vous n'avez pas terminé la commande. Nous avons sauvegardé votre canier pour vous afin que aucun de vos articles ne soit épuisé. Donc ça c'est
+2:20
+des quelque chose que vous pouvez faire facilement. C'est juste un simple éditeur ou vous allez simplement faire du drag and drop. C'est très très
+2:26
+simple. Et vous allez simplement ici bah mettre votre logo. Ici c'est un petit bouton à ajouter. Ici c'est simplement du texte à modifier et cetera et cetera.
+2:32
+Donc ça c'est des mails que vous devez mettre en place. Euh c'est très simple. Ensuite de ça après 17h encore un. Vous
+2:37
+pouvez envoyer des SMS et des mails. Je vous conseille au début de commencer que par les mails. Les SMS vous pourrez rajouter par la suite mais c'est pour
+2:44
+dire que voilà. Ensuite on offre 20 % rupture de stock imminente. C'est pour mettre la pression aux gens. Donc c'est toujours la même chose. Votre cadeau. On
+2:49
+offre ici un code promo de 20 % pour que la personne achète. Ensuite de ça, on attend encore 17h. La même chose, on lui
+2:55
+repropose 20 %, on attend encore 17h et là on est sur - 25 % et ensuite de ça, on attend encore 17h 3 jours et on fait
+3:02
+une offre finale à - 50 % si on veut être très agressif. Donc voilà un peu l'idée. Vous avez vraiment différents
+3:08
+types de messages. Ça se ressemble un peu toujours. C'est un peu toujours la même chose. Vous pouvez voir ici, merci de nous avoir choisi. Il reste que plus
+3:13
+que trois produits en stock. Nous avons bientôt atteint notre objectif de soldout en quelques jours pour notre première vente préhiver par exemple et
+3:20
+cetera. Vous trouvez en fait des arguments pour dire aux gens simplement qu'il faut acheter maintenant et qu'il reçoivent des mails et qui se disent
+3:25
+"OK, c'est intéressant d'acheter." Donc voilà, vous pouvez simplement copier ce flow ici, simplement copier les heures et l'intégrer sur votre site afin
+3:32
+d'avoir des emails qui sont bien faits. Ça vous faites évidemment avec chat GPT et simplement au niveau du texte, vous
+3:37
+lui demandez de vous générer des des emails qui vont faire en sorte que les gens achètent votre produit. Bon, ça
+3:42
+c'est aussi un SMS. Honnêtement, c'est c'est vraiment pas utile au début de mettre des SMS. C'est plutôt quelque chose qui est intéressant par la suite. Là, ensuite, on a une vente flash. Donc
+3:49
+là tout d'un coup, c'est la vente flash, 25 % de rabé en plus et vous voyez par exemple, vous avez été sélectionné parmi les 1000 clientes de ces cinq derniers
+3:55
+jours par exemple et vraiment vous pouvez trouver plein d'idées en fait pour pousser les gens à l'action et se sentir exceptionnel. Et là le dernier
+4:00
+c'est - 50 % supplémentaires sur votre commande. Et là on se dit que si la personne n'achète pas, bah c'est simplement qu'elle allait jamais
+4:06
+acheter. Et voilà un peu une technique un peu assez hard dans le sens où ça y va fort mais quand on lance notre site,
+4:13
+c'est mieux d'aller fort et de faire des ventes plutôt qu'être trop doux et de pas faire de vente et de pas être rentable. Donc voilà un peu l'idée. Je vous souhaite en tout cas beaucoup de
+4:19
+réussite justement pour vos testing. C'est intéressant à mettre en place ça. C'est vraiment quelque chose qui va vous prendre à peu près une heure à mettre en place. Tout est déjà précédé en fait si
+4:24
+vous voulez. Vous avez simplement en fait à à cliquer ici. Si vous voulez rajouter quelque chose, si vous voulez changer, si vous voulez rajouter une heure, c'est très très simple dans le
+4:30
+modèle que je vous ai envoyé. C'était très très simple. Donc voilà, un grand merci à vous et et en tout cas, comme je vous disais, beaucoup de chance pour vos
+4:36
+lancements et si vous appliquez tout ce qu'il y a ici, tout ce que je vous ai expliqué dans ce premier chapitre de 0 à 10k, c'est inévitable. Vous allez faire
+4:42
+votre premier 10K très rapidement. Alors merci à vous et on se retrouve pour la suite. Allez bye bye.
+4:51
+Choses promis choses du comme je vous l'ai dit dans l'intro à la fin de chaque chapitre, je vais vous faire un parallèle avec la marque que j'ai monté
+4:58
+de 0 à 2 millions d'euros de chiffre d'affaires en moins d'un an. Donc là, on
+5:04
+vient de finir le chapitre de 0 à 10 et je vais simplement vous faire un parallèle avec toute la théorie qu'on a
+5:10
+vu en vous montrant simplement cette brand qui est encore en train de tourner actuellement. C'est pour ça que
+5:15
+malheureusement je pourrais pas vous donner le produit, je pourrais pas vous montrer exactement ce que c'est. Mais sachez que c'est totalement un produit
+5:21
+comme tout ce qu'on a vu dans la première partie de cette formation. C'est juste que pour certaines raisons, je peux pas comme ça vous montrer le
+5:28
+produit et vous le donner sur un plateau étant donné que le site tourne toujours et qu'on est en train de scaler ça à fond et que pour 2026, on a vraiment
+5:34
+envie euh de le pousser, le pousser encore plus fort. Donc voilà, on va se retrouver sur l'ordinateur et on va simplement analyser comment on a fait
+5:41
+nos zéro à 10k sur cette brand. Donc on se retrouve sur l'ordinateur et on peut voir que là on est bientôt à 2 million
+5:46
+d'euros de chiffre d'affaires. Bon là on est le 31 décembre. Quand la vidéo sortira, on aura dépassé les 2 millions
+5:52
+d'euros de chiffre d'affaires en moins d'un an parce que euh le produit a été lancé en février 2025 et on est
+5:58
+aujourd'hui bah le 31 décembre 2025, donc ça fait moins d'un an. On va se retrouver du coup directement en février
+6:04
+pour analyser en fait comment on a fait le lancement simplement de ce produit et voir un peu les différentes choses. Donc
+6:10
+ici, hop, février 2025, hop, voilà. Donc on peut voir, qu'est-ce qu'on peut voir ici ? On peut voir que le 11 février, on
+6:17
+lance le produit. Donc exactement de la même façon que je vous ai montré, exactement la même méthodologie, la
+6:23
+recherche produit, le fait de créer une page produit avec un parcours hypnotique, les créat, l'offre, la
+6:29
+stratégie publicitaire, exactement la même chose. D'accord ? Ensuite de ça, donc on lance le premier jour, on fait
+6:35
+500 € de vente. Je me rappelle avoir mis un un testing de 200 dollars. Donc le dollar est beaucoup plus bas que l'euro.
+6:40
+Donc ça fait comme ça fait à peu près 120, 130 € peut-être 150 €. Ça dépend le change. Donc on lance le premier jour,
+6:46
+on est déjà rentable, on continue à faire tourner, on envoie un peu de publicité, des créas par rapport à
+6:52
+différents angles marketing. Ensuite de ça, on peut voir on a des jours un peu plus bas, des jours assez haut sympas, des jours qui sont un peu plus bas, des
+6:57
+jours qui sont un peu plus hauts. Et là, il faut vous dire que c'est l'algorithme qui commence à trouver un petit peu sa
+7:03
+place, à trouver nos acheteurs, à comprendre un peu notre produit, à comprendre qui peut être intéressé. Donc c'est normal des fois quand vous lancez
+7:08
+un produit que ça prend un peu de temps à démarrer, que des fois vous êtes un petit peu break even, vous gagnez un petit peu certains certains jours et
+7:14
+cetera et cetera. De toute façon, quand on fait du e-commerce, lorsqu'on lance un produit, il faut toujours se mettre un stop loss, faut toujours dire "OK,
+7:19
+sur ce produit, j'ai travaillé, j'ai mis mon cœur, j'ai trouvé ces angles marketing, j'ai vraiment envie de le tester parce que j'y crois, je suis prêt
+7:25
+à perdre. OK 100 € 200 € et tant qu'on est pas arrivé à ce stop los, on continue, on teste des nouvelles choses, des nouveaux angles, des nouvelles créat
+7:31
+et lorsqu'on on arrive à ce stop loss, on se dit "OK, je suis arrivé, soit je continue parce que j'ai un nouvel angle, j'ai une nouvelle idée et je vais tester
+7:36
+encore avec 100 € ou alors j'arrête parce que je pense que un meilleur un autre produit sera mieux." Voilà, c'est aussi simple que ça. Et là, c'est une
+7:41
+marque intéressante parce que si vous voulez, elle a mis un peu de temps à démarrer. C'estàdire que j'ai des personnes que je coach qui lancent des produits qui tout d'un coup enfin
+7:48
+montent directement très rapidement à 800, 1000, 1500 par jour. Et là en fait, c'est une marque qui a mis du temps à démarrer et qu'on a dû aller affiner
+7:54
+tous les tous les petits détails. Donc qu'est-ce fait ? Ça s'est fait dans l'offre, ça s'est fait dans les créas, ça s'est fait dans la recherche
+7:59
+marketing et on a amélioré amélioré amélioré. Donc le premier mois on fait 700, on fait 7700 € avec. D'accord ? Et
+8:06
+du coup, je vais vous montrer le deuxème mois. Du coup, c'était février mars. Donc on fait le mois de mars un total de 20000 € de chiffre d'affaires. Donc vous
+8:12
+pouvez voir que ça monte gentiment, qu'il y a des jours avec, des jours sans et cetera. Et petit à petit, petit à petit, on commence à trouver en fait un
+8:19
+rythme de croisière. Ça, je vous l'explique parce que ça veut dire que par exemple avec une marque avec une bonne stratégie, ça veut dire qu'on à
+8:24
+peu près ici on va reprendre le 11, ça veut dire qu'on à peu près 3 semaines, il y avait plus de 10000 € qui étaiit fait. Donc vraiment atteindre les 10000
+8:30
+€ en e-commerce quand on a les bonnes stratégies, c'est quelque chose de vraiment faisable et c'est pas sorcier,
+8:35
+faut juste le faire. Voilà. Donc mon but moi, c'est de faire une parallèle avec cette étude de cas à chaque fin de chapitre. Le prochain chapitre, ça va
+8:41
+être de 10 cas à 100 cas de chiffre d'affaires. Ça va être très intéressant. Je vais pouvoir vous montrer des différentes astuces à mettre en place
+8:47
+dès que vous avez validé un produit. Et tant que vous avez pas validé un produit, bah simplement cette étape de testing donc de 0 à 10, vous allez la
+8:53
+refaire et la refaire, vous améliorer, aller chercher des petits détail en plus que peut-être vous aviez pas pensé la
+8:59
+première fois. Il faut simplement vous dire que ça fait partie du process, qu'il faut essayer une fois, qu'il faut essayer deux fois. Des fois, on a des
+9:05
+résultats au deuxème produit, des fois au troisème produit, des fois au 4è produit. Le but, c'est de faire et de constamment s'améliorer et de comprendre
+9:10
+les erreurs. Toujours cette idée de input, output, analyse. Qu'est-ce que j'ai fait qui a marché ? Qu'est-ce que j'ai fait qui n'a pas marché ? Et on
+9:16
+s'améliore constamment dans cette boucle. Moi, j'ai des élèves que je coach qui vont simplement en fait dès le deuxème produit avoir des résultats et
+9:22
+d'autres personnes c'est dès le 5è produit. Donc ça dépend vraiment de chacun. Ça dépend de chacun. Ça dépend aussi de la force de travail de chacun. Ça dépend aussi du temps de chacun. Mais
+9:28
+une chose est sûre, c'est que des gens qui ont un travail et qui peuvent faire simplement 1 heure ou 2 heures par jour
+9:33
+peuvent réussir et des gens simplement bah qui sont dans une situation, ils ont plus de temps peuvent aussi réussir et que c'est vraiment une question de
+9:39
+mettre les bonnes stratégies en place au bon moment. Donc voilà, c'est la clôture de ce chapitre, ce premier chapitre de 0
+9:44
+à 10K et on va passer maintenant au deuxème chapitre de 10K à 100k. Allez, en tout cas au plaisir et on se retrouve
+9:51
+dans les prochaines vidéos. Allez, bye bye.
+9:57
+Bienvenue dans ce chapitre 2 de 10K à 100k. Donc pour se rappeler ce qu'on a
+10:02
+fait jusqu'ici, on a trouvé un produit winner. On a fait en sorte de créer un
+10:07
+site et une page produit qui convertit. Ensuite de ça, on a créé une offre irrésistible pour faire en sorte que nos
+10:13
+clients achètent directement et maintenant sur notre site. Ensuite de ça, on a créé des créatives qui font
+10:18
+venir les gens sur notre site et qui leur donnent envie d'acheter. Et ensuite de ça, on a lancé nos publicités, mis un flot de panier abandonné et on a lancé
+10:25
+nos pubs. Quelques ajustements ont dû être fait en cours de route, mais vous êtes arrivé à faire vos premiers 10000 €
+10:31
+en ligne. Et là maintenant, ce qui va se passer simplement, c'est que vous allez devoir juste optimiser et vous creuser
+10:37
+la tête pour aller chercher ce qu'on appelle des nouveaux angle marketing. Parce que lorsqu'on vendu, un produit,
+10:42
+on va pouvoir le vendre à différents types de personnes et différents types de personnes vont être intéressées par
+10:48
+notre produit. Et c'est exactement ça qu'on va voir aujourd'hui dans le chapitre 2, donc de 10K à 100k. Ensuite
+10:53
+de ça, on verra aussi des optimisations que vous devez faire pour passer de 10K à 100K sur votre site internet pour que
+11:00
+vous compreniez bien comment optimiser la rentabilité. Ça c'est quelque chose de très important. Des fois des tout
+11:05
+petits détails à à certains endroits peuvent simplement nous faire passer de middle rentable break even à très
+11:11
+rentable. Ensuite de ça, on va regarder aussi un peu au niveau de la délégation, comment de 10k à 100k, on peut commencer
+11:16
+à déléguer certaines tâches parce que comme vous le savez, on a tous seulement 24 heures dans une journée et le but c'est d'optimiser à fond et de faire
+11:23
+seulement des tâches qui sont vraiment utiles et qui sont optimales pour faire grandir notre business. Alors, au début, il faut commencer et il faut faire tout
+11:30
+pour vraiment tout voir chaque étape, bien comprendre tous les processus. Ça c'est très important. déléguer trop
+11:35
+vite, c'est une très grosse erreur. Par contre, à un moment donné, quand on a fait le tour des différentes choses, quand on les a fait une fois, deux fois,
+11:40
+trois fois, qu'on a compris les mécanismes qui se cache derrière, là c'est le moment de déléguer. Donc c'est quelque chose qu'on va aussi voir dans
+11:46
+ce chapitre 2. On va aussi parler aussi des créatives d'une autre façon. On va aller un peu plus profondément dans ce
+11:52
+que c'est des créatives, comment faire des vidéos vraiment qui convertissent, qu'on va pouvoir aller amener sur le long terme, aller amener vraiment pour
+11:58
+que la marque devienne vraiment une référence des statiques, des vidéos et cetera. Une chose qu'il faut savoir, c'est que cette vidéo, elle a été
+12:04
+vraiment divisée de 0 à 10K, de 10K à 100K et de 100K à 1 million. Mais dans
+12:09
+la réalité, vos premiers 10k en e-commerce, vous allez les faire assez vite. Et vous pouvez évidemment euh être
+12:15
+dans un mindset de vous dire "J'ai juste envie de gagner 1000 €, 1500 € 2000 € de plus par mois". Mais vous allez vite
+12:20
+voir qu'avec le temps, vous pouvez gagner beaucoup plus et vous allez vite avoir envie en fait de développer les choses pour justement atteindre ces
+12:27
+paliers qui sont des paliers très naturels en fait. Dès que vous avez trouvé un produit qui fonctionne bien, dès que vous avez trouvé, on va dire,
+12:32
+une situation dans laquelle votre produit se vend, en fait, vous pouvez créer d'autres situations où votre produit va se vendre aussi pour en fait
+12:39
+dupliquer simplement, multiplier vos ventes. Donc voilà, c'est ce qu'on va voir dans ce chapitre et on se retrouve directement sur l'ordinateur pour vous
+12:45
+faire comprendre la notion d'angle marketing. Donc voilà, on se retrouve sur l'ordinateur et ce qu'il faut
+12:51
+comprendre, c'est très simple au final, c'est que un produit va pouvoir se vendre à différents type de personnes et
+12:57
+il va y avoir des ongles marketing généraux, donc ce qu'on va appeler les ongles marketing macro et ensuite de ça,
+13:02
+on va appeler aussi les ongles marketing micro quand on va un peu plus dans les détails. Donc simplement pour vous faire
+13:09
+un exemple ici, c'est que par exemple, on va prendre un produit très connu, par exemple les pistolets de massage. Donc
+13:14
+les pistolets de massage, c'est un produit qui fonctionne très très bien. C'est un produit en fait si vous voulez qui qui marche très bien parce que il
+13:21
+peut parler à plein de types de personnes différentes. C'estàdire que par exemple un angle marketing macro ici
+13:27
+ça pourrait être premièrement les hommes. Ça veut dire que ce pistolet de massage on peut le vendre aux hommes et
+13:33
+on peut le vendre aux femmes. Donc déjà ça c'est deux façons de parler totalement différemment pour vendre
+13:39
+notre produit parce que les hommes on va leur vendre le produit d'une certaine façon parce que ils vont être intéressés
+13:44
+par ce produit par rapport à certaines problématiques qu'il rencontent ou simplement par rapport à certaines envies qu'ils ont. et de l'autre côté
+13:50
+les femmes, c'est la même chose. Donc par exemple, ça ça pourrait être un angle marketing macro déjà de prendre euh les hommes et les femmes. Ensuite de
+13:56
+ça, là vraiment on est tout en haut si vous voulez euh de la décortication des différents angles qu'on peut faire mais
+14:02
+après on peut aller encore plus profondément. Par exemple, si on se fixe sur les hommes, on peut se dire "OK, dans les hommes, qui sont les personnes
+14:09
+qui pourraient être intéressées par mon pistolet de massage ?" Donc premièrement, on va avoir évidemment bah toutes les personnes qui ont mal au dos.
+14:16
+Pourquoi ? parce que quand on a mal au dos, les massages c'est quelque chose qui peut aider. Donc on a énormément de
+14:21
+personnes qui ont mal au dos qui pourraient être intéressé en fait pour avoir un outil à la maison qui peut les soulager. Donc ça c'est la première
+14:27
+chose. Donc ça c'est la première chose, c'est les gens qui ont mal au dos. Ensuite de ça, on peut avoir par exemple euh les personnes qui font beaucoup de
+14:33
+sport et qui ont tendance à avoir des courbatures. Ça veut dire que on a euh des gens qui font 5 si fois par semaine
+14:39
+du fitness, une 2 3 heures par jour et qui vont avoir besoin en fait d'un outil pour simplement soulager leurs muscles
+14:45
+pour pouvoir le lendemain aller à l'entraînement et simplement continuer à s'entraîner. On peut trouver plein
+14:50
+d'angles marketing comme ça qu'on va aussi appeler cela les ongles marketing macro. Et pour que vous compreniez ce que c'est un angle marketing micro, donc
+14:56
+qui va venir ici euh juste après dans la hiérarchie, ça va être par exemple OK, on isole l'angle des gens qui ont mal au
+15:03
+dos. Et là, ce qui va devenir intéressant, c'est le travail de recherche qu'on va pouvoir faire derrière en fait les gens qui ont mal au
+15:08
+dos parce que il y a plein de types de mal de dos qui existent. Il y a les gens qui ont mal au dos parce qu'ils sont mal
+15:14
+assis. Il y a des gens qui ont mal au dos parce que simplement ils ont potentiellement un problème avec leur
+15:19
+colonne vertébrale qui fait que par exemple les disques sont pas très bien alignés. Euh, on peut avoir des gens qui ont euh mal de dos simplement parce que
+15:25
+c'est un mal de dos chronique, des gens qui ont mal à la ciatique, des gens qui ont un mal de dos suite à une chute. Enfin bref, on peut avoir vraiment plein
+15:32
+de types de de mal de dos. Je suis pas un expert en mal de dos, mais c'est là que ça devient intéressant d'aller par
+15:37
+exemple sur les forums comme Reddit. Redit, c'est un puit de connaissance incroyable parce que c'est ce qui va faire en sorte que vous connaissiez
+15:44
+votre client. Et en fait, si vous voulez pour passer passer de 10K à 100K, il va falloir que vous commenciez à vous
+15:50
+mettre à la place de la personne qui va acheter sur votre site. Et il y a plein de types différents de personnes qui vont être intéressées par votre produit
+15:57
+et à travers votre angle marketing, vous allez parler à une certaine personne. D'accord ? Par exemple, on va avoir
+16:02
+Roger 45 ans qui fait pas de sport mais qui a mal au dos parce que année après année, il s'ass mal sur sa sur son
+16:09
+siège. Il a pas forcément les moyens d'aller se faire des massages et cetera et il a mal au dos. il vit avec mais
+16:15
+c'est compliqué et nous on va aller parler à Roger et on va aller lui dire écoute Roger c'est pas normal que tu aim
+16:21
+mal au dos on a un outil qu'on a créé qui peut te soulager en 2 à 5 minutes par jour ou 2 à 5 minutes toutes les
+16:27
+tous les de jours ou tous les 3 jours. Ça peut vraiment faire un changement dans ton quotidien. Donc on te propose d'essayer ça et en plus aujourd'hui il y
+16:34
+a une offre et cetera et cetera avec tout ce qu'on a vu dans le chapitre 1. C'est juste pour que vous compreniez à quel point c'est important en fait de
+16:40
+comprendre Roger. Donc comment est-ce que vous allez comprendre Roger ? puisque vous potentiellement vous avez actuellement 20 25 30 vous arrivez pas
+16:46
+forcément en fait à imaginer ce que c'est d'avoir un mal au dos parce que simplement vous avez pas mal au dos, vous avez de la chance, vous avez peut-être pas quelqu'un de proche de
+16:52
+vous qui a mal au dos donc vous avez pas vécu cette situation de comprendre profondément ce que c'est d'avoir mal au dos. Donc là simplement ce que vous
+16:58
+allez faire c'est que vous allez faire des recherches comme un espèce de scientifique, comme un espèce de journaliste qui voudrait se mettre à la
+17:03
+place de de quelqu'un. Et là on est vraiment face à quelque chose d'humain. C'estàd on est face à quelque chose où on veut comprendre la psychologie
+17:09
+humaine qui se cache derrière une douleur par exemple. Et simplement ce qu'on va aller faire là, on va aller sur reddit et on va aller taper des mots-
+17:14
+clés. On va taper mal de dos. Vous pouvez aussi marquer en anglais back paint et cetera. Vous allez demander à chat GPT évidemment quels sont les bons
+17:21
+mots clés à taper. Et là vous allez tomber sur des forums avec des gens qui se plaignent simplement de leur mal de dos ou qui parlent de nouvelles
+17:27
+solutions pour le mal de dos choses qu'ils ont essayé que ça a pas marché et cetera et cetera. Et là, ce que vous allez faire, c'est que vous allez prendre un moment pour simplement lire,
+17:35
+lire, comprendre Roger, avoir une idée précise dans la tête de Roger de simplement comment il pense, qu'est-ce
+17:40
+qu'il a déjà essayé, est-ce qu'il est au courant en fait qu'il a mal au dos et que ça peut se soigner ? Est-ce que juste il a tellement l'habitude d'avoir
+17:46
+mal au dos qu'il se rend même plus compte qu'il a mal au dos, mais il y a quand même quelque chose qui le gêne mais il se rend pas compte. Et tout ça en fait, ça va être plein de petits
+17:52
+arguments qui vont pouvoir vous permettre de comprendre encore mieux rejet. Et en fait des reogs, il y en a
+17:59
+des milliers et des milliers et des milliers et des milliers dans chaque pays du monde. Donc c'està dire que si vous arrivez à parler aux personnes qui
+18:05
+ont entre 40 et 50 ans qui ont mal au dos, qui savent pas vraiment pourquoi, qui ont testé deux trois trucs ou même pas forcément et que vous arrivez à
+18:11
+aligner votre message, à parler à ces gens-là, vous allez viser un angle marketing par rapport à ces gens-là, par
+18:17
+rapport à cet avatar. Ensuite de ça, par exemple, nous pourrions aussi nous dire, "OK, un autre angle marketing
+18:22
+intéressant à tester, ça va être de tester l'angle marketing des sportifs." Donc c'està dire qu'on est des sportifs
+18:28
+de haut niveau qui ont besoin en fait d'avoir vraiment un suivi musculaire. Et ça, par exemple, simplement, on va se dire "OK, la même chose que pour Roger,
+18:35
+un sportif, il a quel âge ? Un sportif qu'est-ce qu'il vit dans sa vie ? Quel est son quotidien ? Comment est-ce que je peux m'informer sur lui ?" et
+18:41
+simplement on va aller sur les forums, on va discuter avec chat GPT, on va faire des recherches. Ça c'est quelque chose qui va prendre à peu près 1 heure,
+18:46
+2h, 3h. Maintenant, on a l'intelligence artificielle donc c'est juste exceptionnel. C'est des choses qui pouvaient prendre des jours et des
+18:52
+jours, voir des semaines avant. Les entreprises payaient des dizaines et des dizaines et des dizaines de milliers d'euros des agences marketing juste pour
+18:58
+faire une analyse en fait du personnat. Et maintenant nous en quelques clics, on a la possibilité de le faire très
+19:04
+facilement. Donc ça c'est quelque chose qu'il faut vraiment prendre en compte et qu'il faut en fait utiliser parce qu'en fait si vous utilisez pas simplement
+19:10
+vous passez à côté d'une énorme opportunité. Donc voilà. Ensuite de ça, bah par exemple, on pourrait faire la même chose par exemple imaginons pour
+19:16
+les femmes. OK ? Les femmes, il y a plein de de de de problématiques, par exemple que les femmes pourraient rencontrer à la ménopause. D'accord ?
+19:22
+Donc à la ménopause, on pourrait retrouver sur un forum que en fait il y a certaines femmes qui commencent à avoir des douleurs au dos à la
+19:28
+ménopause, que c'est des douleurs très aigues qui viennent tout d'un coup, qu'elles avaient pas du tout mal au dos depuis des années, des années, tout d'un
+19:33
+coup, elles ont mal au dos. Et là, ça nous donne une information intéressante. C'est-à-dire qu'on a tout un pan de la population qui arrive à un certain âge
+19:39
+et qui commence à avoir des douleurs au dos par rapport à x ou ou y raison. Et là, on va tester un marketing. Donc,
+19:44
+qu'est-ce qu'on va faire ? on va se renseigner sur son personnat et ensuite de ça simplement on va aller faire des
+19:50
+vidéos qui vont parler à ces personnes. On va aller faire des statiques qui vont parler à ces personnes. Et ensuite de ça, on va simplement comme on a vu dans
+19:55
+le chapitre 1, lancer simplement dans des adsets ces angles marketing et ensuite de ça, on va voir ce que ça
+20:01
+donne. Lorsque vous avez la réponse d'un angle marketing qui fonctionne bien, ce que vous allez faire simplement, c'est que vous allez continuer à optimiser.
+20:08
+Donc par exemple, vous pouvez faire une page produit exprès pour les femmes, une page produit exprès pour les hommes en
+20:13
+vendant le même produit. Par exemple, au début, vous mettez les hommes et les femmes sur la page produit et ensuite de ça, vous allez mettre les femmes sur une
+20:20
+page produit. Donc des photos de femmes, des femmes qui portent le produit, des femmes qui qui témoignent et sur l'autre des hommes. Et ça, vous pouvez le faire aussi même encore un cran plus
+20:26
+précisément. Par exemple, imaginons que votre pistolet de massage, vous vous le vendez pour Roger qui a mal au dos qui a
+20:31
+40 et 50 ans. Entre 40 et 50 ans, vous allez faire une page produit optimiser pour ce personn là et une autre page
+20:37
+produit où vous allez faire optimiser pour les sportifs avec totalement d'autres personnes dessus. Peut-être que les sportifs, ça va plus être des gens
+20:43
+entre 20 35 ans qui vont être dessus sur la page produit et les autres, ça va plus être en mode 40 60 ans qui sont sur
+20:48
+la page produit. Et ça, en fait, c'est de la psychologie. C'est-à-dire que quand vous vous êtes intéressé par un produit et qu'en fait vous arrivez sur
+20:54
+un site et que vous voyez que tout correspond à votre univers, tout vous parle personnellement comme en fait si
+20:59
+vous aviez un vendeur devant vous qui qui vous comprenait et qui voulait juste vous dire "écoute essaye ça parce que ça peut 100 % t'aider" et ben en fait ça va
+21:05
+changer toute la conversion. Donc voilà, c'est juste pour que vous compreniez bien les angles marketing. Ça c'est de la recherche et c'est quelque chose qui
+21:11
+va devenir vraiment important 10 et 100 cas de commencer à vous mettre dedans. Ça va devenir encore plus important de
+21:17
+100 cas à 1 million et encore plus si vous allez aller plus loin parce que tout le game se trouve ici. Tout le game
+21:23
+se trouve dans la psychologie du consommateur. Et ça quel que soit votre business. Ensuite de ça, comment est-ce
+21:29
+qu'on va trouver des nouveaux angles marketing ? On va trouver par exemple dans les commentaires de vos publicités.
+21:34
+C'est-à-dire que quelque chose de très important à analyser. C'est pour ça que c'est important au début que vous fassiez vous-même la SAV, vous-même que
+21:40
+vous répondiez aux commentaires parce que vous allez voir en fait, vous allez avoir un lien direct avec vos clients. Il y a des clients qui vont dire "Ah, euh est-ce que je suis la seule personne
+21:46
+à ressentir si ou ressentir ça ?" Des fois, il va avoir des discussions en dessous de de vos de vos vidéos publicitaires où il va y avoir en fait
+21:52
+des gens simplement qui disent "Ah moi je ressens ça, ah moi aussi j'ai essayé ça, mais ça a pas marché et cetera." Et ça vous donne beaucoup beaucoup
+21:58
+d'informations et c'est des informations qui va vraiment falloir les prendre pour les analyser. Et ça c'est super simple à faire parce que maintenant qu'on a chat
+22:04
+GPT, c'est comme si on avait un deuxième cerveau méga optimisé à qui on va simplement donner les détails par
+22:10
+exemple des commentaires. On va juste les copier, lui les donner, copier tout toute la discussion sur reddit d'un forum. On va tout lui donner, on va lui
+22:16
+dire voilà ce que j'ai trouvé. Qu'est-ce que tu peux me sortir un peu comme mon marketing ? Qu'est-ce qui est intéressant à les creuser ? Et c'est pas que chat GPT qui va tout faire, mais il
+22:23
+va faire 80 % du travail. Et nous, on va garder les 20 % d'analyses humaines qui sont ultra importants parce que vous
+22:29
+avez la sensibilité que lui n'a pas ou pas encore et vous allez pouvoir trouver des angles marketing très intéressants. Ensuite de ça, il va y avoir tous les
+22:36
+mails de la SAV. C'estàdire que vous même le jour où vous allez déléguer ça, on va on va voir ça dans les prochaines
+22:41
+vidéos parce que la SAV c'est la première chose qu'on va déléguer parce que c'est quelque chose qui prend des fois du temps et puis qui est assez répétitif. C'est pas quelque chose qui
+22:47
+demande vraiment du génie. vous, votre temps, il faut que vous le mettiez dans des actions qui rapportent le plus possible à votre business. Pas forcément
+22:53
+des choses un peu mécaniques comme ça, même si au début c'est très bien de le faire, mais à tous les niveaux, c'est important de rester proche de votre SAV
+22:59
+pour comprendre quelles sont les problématiques de votre audience, comment est-ce que votre produit marche, quelles sont les problématiques par rapport au produit. Des fois, on a des
+23:05
+retours, ça nous permet d'améliorer et cetera. Ça nous permet de trouver des nouveaux angles marketing parce que tout d'un coup, les gens vont nous parler de
+23:10
+problématiques qu'ils ont. On peut leur on peut discuter avec eux. Une autre chose à faire aussi lorsque vous arrivez arrivez à un certain niveau, ce qui peut
+23:16
+être très intéressant, c'est simplement d'écrire un mail à vos meilleurs clients commandé une fois, deux fois sur le site. Vous pouvez les appeler, vous
+23:22
+pouvez passer un coup de fil, "Bonjour, je suis le fondateur de telle ou telle marque, j'aimerais discuter avec vous pendant 10 minutes. Euh ensuite de ça,
+23:28
+je pourrais vous offrir un produit ou un code promo et cetera. Et vous avez une discussion de 10 minutes avec 5, 10, 15
+23:34
+clients et vous comprenez vraiment le panel des gens qui que vous avez autour de vous." Et ça va vous en fait ça va rendre la chose beaucoup plus réelle et
+23:40
+c'est quelque chose qui est très intéressant à faire pour trouver des nouvelles façons de parler aux gens. Ensuite de ça, comme je disais évidemment les forums, Reddit et cetera,
+23:46
+on va voir aussi l'analyse des concurrents. Ça c'est très important parce que si vous voulez, lorsque vous vendez un produit, peut-être ça va pas
+23:52
+être des concurrents exactement sur le même produit, mais ça va être des concurrents qui vendent un produit qui règle par exemple le même problème. Si
+23:57
+vous vendez un pistolet de massage, potentiellement il y a un concurrent qui va vendre un autre produit qui promet
+24:03
+des massages à la maison et qui permet en fait bah de régler plein de soucis liés au massage par rapport au corps humain et d'aller voir ce que votre
+24:10
+concurrent fait. Si des fois c'est des beaucoup plus grands concurrents qui sont aux États-Unis, des fois ils peuvent être dans plein de pays dans le monde, ça peut en fait vous donner des
+24:17
+inspirations pour comprendre OK eux comment est-ce qu'il la jouent, comment est-ce qu'il se positionnent par rapport au marché ? Et là ça peut ça peut donner
+24:24
+beaucoup d'inspiration. Donc voilà un peu l'idée. Et puis après aussi évidemment quand vous allez être en train de gérer votre business, vous
+24:29
+allez être tellement en fait en fait constamment en train de vendre votre produit, de réfléchir à votre produit que vous allez avoir envie de comprendre
+24:35
+et vous allez comprendre mieux en mieux en fait comment fonctionne votre produit, à qui en fait il correspond le mieux et vous allez avoir aussi des
+24:41
+inspirations par vous-même. Vous allez vous dire "Ah ouais, intéressant, j'ai pas pensé à ça." Vous allez faire des recherches et de fil en aigu, vous allez
+24:47
+créer vraiment un écosystème. Vous avez constamment des nouvelles idées. Et évidemment, lorsque vous avez trouvé ici
+24:53
+un angle marketing qui fonctionne très très bien, ce que vous allez faire, c'est que vous allez commencer à le traiter comme si c'était un peu un
+24:59
+nouveau produit. Imaginons que on a lancé nos publicités avec un certain nombre. Par exemple, on vendait le
+25:05
+produit pour les femmes pour faire très très simple et tout d'un coup, on se dit "OK, je vais tester de le vendre aussi pour les hommes". Et ben en fait, si
+25:10
+vous voulez, vous allez simplement créer une nouvelle campagne pour les hommes sur votre business manager et vous allez commencer à balancer des créat vidéos,
+25:17
+des créat statiques par rapport aux angles marketing que vous voulez cibler pour les hommes. Et lorsque vous avez du résultat et que vous voyez que ça
+25:22
+fonctionne bien, que l'angle marketing prend bien, vous allez simplement continuer à l'alimenter, continuer à faire des vidéos, continu continuer à
+25:28
+faire des statiques, continuer à comprendre vraiment les hommes qui ont ces problématiques et pourquoi ils les ont. et de fil en aiguille. Vous allez
+25:34
+pouvoir faire de plus en plus de pubs, être de de mieux en mieux, convaincre de plus en plus de gens et finalement avoir
+25:41
+de plus en plus de conversion pour passer à 100 cas 1 million et plus. Donc voilà. Donc ça c'est la vidéo sur les
+25:49
+ongles marketing. Important pour moi vraiment que vous compreniez cette notion parce que c'est une notion vraiment qui va changer en fait
+25:54
+totalement votre business parce que au lieu de voir si vous voulez le produit comme étant comme un tout qui va faire
+26:00
+tout le travail, le produit est important mais votre façon de le présenter à qui vous allez le présenter a énormément d'importance aussi et ce
+26:07
+qui c'est ce qui va vous différencier en fait de la concurrence parce que imaginez un concurrent en fait qui vend un pistolet de massage en parlant à tout
+26:12
+le monde en même temps et puis qui dit "Oui mais ça marche pour puis pour ça puis pour ça puis pour ça puis pour ça" et vous en fait qui vraiment cible un
+26:18
+angle marketing ensuite un autre ensuite un autre ensuite un autre et qu'en fait vous êtes expert dans tous les domaines
+26:23
+et que les gens se sentent totalement compris lorsqu'il a ils voient vos publicités quand ils arrivent sur votre site, ça va faire toute la différence.
+26:30
+Donc voilà, c'était la vidéo sur les ongles marketing. J'espère que ça vous a bien apporté, que ça vous a plu et en
+26:35
+tout cas, je vous souhaite d'appliquer ça chez vous, sur votre business dès que vous avez atteint les 10K de chiffres
+26:41
+d'affaires sur votre boutique. Et ensuite de ça, on passe à la prochaine notion du chapitre 2. Allez, à bientôt.
+26:47
+Bye bye. Alors, on se retrouve maintenant sur la bibliothèque publicitaire de Petlabco afin que vous puissiez comprendre un peu les
+26:52
+différentes choses et comment ils manageent un petit peu leur publicité, leur funel et cetera, juste pour amener
+26:59
+une petite contrepartie à la vidéo théorique d'avant. Donc c'est clair que c'est une immense marque. Le but c'est
+27:04
+de tendre vers ça. C'est de tendre vers le fait de créer la meilleure chose possible. On commence étape par étape,
+27:09
+on peut pas directement aller à cette étape-là, mais le but c'est de gentiment se rapprocher euh mois après mois, année
+27:15
+après année. Donc voilà, en gros, on peut voir simplement euh des publicités où
+27:25
+voilà, là c'est un angle marketing, je pense, par rapport aux dents, des chiens et cetera pour vendre des croquettes.
+27:32
+Voilà, vous voyez que là c'est un ongle marketing par rapport à ça.
+27:44
+Donc voilà, là on peut voir que c'est simplement un UGC créateur qui va parler en fait des bienfaits. Ici on parle
+27:50
+encore des dents. Donc on peut voir qu'il y a différents produits ici mais qu'il y a aussi différents angles marketing. On peut voir qu'ici il y a
+27:56
+des statiques et cetera et cetera. On peut voir qu'il joue avec les boutons. Des fois c'est en savoir plus, des fois c'est profiter de l'offre. il teste
+28:02
+plusieurs choses. Donc là, ensuite de ça, par exemple, si on arrive ici, on peut voir que ça amène directement à la page produit. Donc là, on peut on peut
+28:09
+voir comme on a vu dans les vidéos précédentes, différentes offres qu'on va avoir euh et cetera et cetera et euh
+28:14
+ensuite de ça, une simple page produit avec différentes choses, les ingrédients et cetera et cetera. Si on va aller voir
+28:20
+par exemple un autre une autre publicité qui va qui va mener directement bah vous voyez là c'est ce qu'on appelle une page
+28:25
+de prévente où on va avoir simplement en fait une page qui va expliquer différentes choses au clients sans forcément vouloir lui vendre tout de
+28:31
+suite. Là on peut voir le bouton continuer à lire. Donc on continue à lire et cetera et cetera et euh là tout
+28:36
+d'un coup on tombe sur un quiz. Donc vous voyez un quiz qui a l'air ultra personnalisé mais qui au final ne l'est
+28:42
+pas tant que ça. Donc est-ce que votre chien montre des signes saisonal d'allergie ? Oui, voilà, ça nous amène
+28:49
+ensuite de ça sur une page produit exprès en fait pour cette problématique et ensuite de ça, on a encore une fois
+28:54
+les offres et cetera, mais c'est pour vous expliquer que potentiellement un client s'il arrive sur cette sur ce
+29:00
+site, cette petite page avant la page produit et ben en fait ça peut potentiellement augmenter le taux de conversion parce qu'en fait il va
+29:06
+comprendre pourquoi il achète encore plus et on va pouvoir lui apporter différentes informations qui sont peut-être pas apportables facilement sur
+29:13
+une page produit. Donc voilà simplement. Et puis après si on met un quiz, bah un quiz directement ça fait plus personnalisé quand quelqu'un a fait une
+29:18
+action pour faire un quiz pour avoir une un résultat et qu'ensuite de ça on lui montre un produit avec une offre, il a beaucoup plus de chance de l'acheter que
+29:24
+s'il le fait pas. Donc c'est des choses à tester. Pour certains produits ça va très bien marcher, pour d'autres un peu moins, mais c'est juste pour que vous compreniez, vous ayez ça en tête. Ça
+29:31
+c'est des bibliothèques publicitaires par exemple qui sont très très très optimisées parce
+29:36
+que c'est des marques évidemment qui sont au top du top. Et vous pouvez voir le type de créa qu'ils font.
+29:53
+Vous voyez ici, c'est un simple mashup avec des images de chien et cetera et cetera où simplement bah ils ont montré
+29:59
+différentes choses, les pattes des chiens, si ils font si ou s'ils font ça, pourquoi c'est bien de leur donner ces croquettes là et cetera. Simplement une
+30:06
+des reviews pour que ça rassure et cetera et cetera et cetera des avis. Voilà, donc vous pouvez aller vous
+30:12
+rendre sur ce genre de bibliothèque publicitaire. Il y a beaucoup d'inspirations à prendre. Même si des fois c'est pas votre niche à vous, vous
+30:17
+pouvez toujours prendre des idées, des inspiration, des choses qui sont très intéressantes. Donc voilà un peu dans l'idée pour cette vidéo pratique pour
+30:23
+que vous compreniez les différentes choses qu'on peut mettre en place. Après honnêtement, entre 10 à 100 cas, vous pouvez rester que sur la page produit et
+30:29
+juste optimiser à l'intérieur de votre page produit, optimiser vos créat, aller chercher des nouveaux angles marketing. C'est vraiment là qui ça va être le plus
+30:35
+important. Ça c'est quand on veut aller chercher entre 100 cas 1 million 1 million plus qu'on va pouvoir aller mettre des des pages de vente entre la
+30:42
+page produit et les publicités, des quiz et cetera. Même si un quiz c'est très facile à faire. Vous avez par exemple l'application Octane A qui vous permet
+30:49
+de mettre un quiz en place qui est qui est vraiment un très bon quiz. Et ce qui est excellent c'est qu'après vous pouvez aussi analyser les réponses de vos
+30:54
+clients, ce qu'on acheté, ceux qu'on pas acheté et les différentes choses qu'ils ont déjà essayé et retrouver des patterns là-dedans. Toujours le but
+31:00
+c'est de connaître le mieux notre client, connaître notre avatar pour constamment améliorer notre boucle. Donc voilà, en espérant que ça vous a servi.
+31:06
+Je vous souhaite en tout cas beaucoup de réussite dans l'optimisation de votre site sur la route des 100K. Allez, à la
+31:11
+prochaine vidéo. Bye bye.
+31:17
+On va parler aujourd'hui de l'optimisation du site internet. Donc vous avez fait vos premiers 10K et
+31:23
+maintenant ça vous intéresse d'aller chercher les 100 cas. Donc pour se faire, on va devoir se voir comme des
+31:29
+scientifiques qui testont des choses. Ça c'est très très important. Quand vous avez un business, quel que soit votre
+31:34
+business, là on parle de e-commerce, mais ça peut être on peut faire un parallèle avec tous les business qui existent sur cette terre. Il faut
+31:39
+constamment que vous soyez dans l'idée de tester des des choses. Vous êtes comme un scientifique dans un laboratoire et vous testez, vous testez,
+31:47
+vous testez. On a pu voir ça juste avant dans toute l'idée d'angle marketing. On voit qu'il faut tester, se renouveler,
+31:52
+aller faire des recherches et c'est exactement la même chose pour le site et pour votre business en général. Donc ça
+31:58
+c'est important pour moi que vous compreniez parce que c'est un mindset à avoir et pas que vous vous dites "Ah c'est tout bon euh je suis à 10K et euh
+32:05
+et maintenant c'est bon, j'ai plus rien à faire." Non, justement vous êtes à 10K maintenant vous devez vraiment rester
+32:10
+humble, rester constamment dans ce que j'appelle la peau d'étudiant. C'est-à-dire que dès le moment où vous dites "J'ai plus besoin d'apprendre",
+32:17
+c'est le moment où vous allez courir à votre perte. Donc soyez toujours dans le mindset d'étudiant, toujours dans le
+32:23
+mindset d'écouter, toujours dans le mindset de faire en sorte de vous renouveler et de rester humble. Donc
+32:28
+voilà, ça c'était au niveau de l'état d'esprit, c'est le plus important évidemment. Et maintenant, on va se retrouver comme d'habitude sur
+32:34
+l'ordinateur pour que vous compreniez plus en profondeur les différentes optimisations à faire pour passer de 10K
+32:40
+à 100K. Et ça, c'est des choses que vous devriez encore continuer à faire pour passer de 100K à 1 million, 1 million plus. Donc, on se retrouve sur
+32:46
+l'ordinateur et on va se poser la question qu'est-ce que le scaling ? Au final, le scaling, c'est avoir un
+32:52
+produit, une boutique gagnante et rentable. On augmenté les dépenses publicitaires, on a généré plus de
+32:58
+revenus et on veut faire plus de profit. Donc c'est ça le scaling, c'est que vous êtes passé par toutes les étapes dont on
+33:05
+a parlé dans le chapitre 1. Et maintenant ce que vous voulez faire simplement, c'est augmenter votre budget
+33:10
+publicitaire, augmenter vos ventes et faire en sorte de gagner de plus en plus d'argent avec votre business. Donc une
+33:17
+chose à savoir avec le dropshipping, avec le e-commerce, comme je vous ai dit un peu dans dans la vidéo sur les angles
+33:23
+marketing, ça va être assez compliqué de de dire j'ai simplement envie de gagner
+33:30
+1000 € de plus par mois parce que des fois ça va vous prendre un petit peu de temps à trouver un produit qui fonctionne parce que on a vu qu'il y a
+33:36
+quand même pas mal de choses à apprendre dans le chapitre 1. C'est des étapes que vous devez bien comprendre, bien intérioriser, mais lorsqu'en fait vous
+33:42
+aurez fait ça une fois, deux fois, trois fois, vous allez comprendre certaines choses et vous allez vous rendre compte que simplement gagner 1000 € par mois,
+33:50
+c'est compliqué parce que vous allez très facilement faire plus. Dans le sens où gagner 1000 € par mois, ça représente seulement de gagner 30 € de bénéfice par
+33:57
+jour. Et lorsqu'on a en fait un produit qui fonctionne bien, simplement gagner 30 € de bénéfice, ça va être le minimum
+34:04
+du minimum du minimum. C'est-à- dire que vous allez très vite gagner 100 € par jour du bénéfice, 200 € par jour, 300 €
+34:09
+par jour, 500 € par jour. Ça peut aller vraiment très très loin, jusqu'à 1000, 2000, 5000, 10000 chaque chose en son
+34:15
+temps. Ça vient pas en claquant des doigts, mais c'est juste pour vous expliquer que quand vous serez dans le truc, à un certain moment, il faut
+34:21
+aussi, vous allez voir, ça va devenir un peu comme votre bébé, comme votre ça va être votre propre business en fait et
+34:27
+vous allez simplement avoir envie d'optimiser et de faire de plus en plus. Voilà, c'est un peu le virus qui nous attrape tous. Donc nous ce qu'on a vu
+34:32
+dans les les dernières vidéos et et surtout en fait dans le chapitre 1, c'était vraiment comment chercher un
+34:39
+produit qui a actuellement une traction, qui actuellement répond à une demande. Ensuite de ça, comment tester des
+34:45
+créatives et créer des créatifs qui vont parler à cette audience. On a parlé aussi d'une stratégie publicitaire. On a
+34:50
+parlé de comment créer sa landing page, donc comment créer sa page produit, comment créer un site qui convertit. On
+34:56
+a parlé de comment euh créer une offre et ensuite de ça bah évidemment le client achète ou non, mais nous on a
+35:01
+fait en sorte de tellement tout optimiser euh que le client finit par acheter. En gros, nous notre but à nous
+35:07
+euh c'est de contrôler le maximum de variables possies. C'est-à-dire que quand on fait un test comme un scientifique, comme on disait avant, on
+35:13
+doit constamment avoir cette boucle de input output analyse, input output
+35:19
+analyse. Donc par exemple, quand vous faites une action, imaginons que vous allez tester des créas et vous allez vous dire "OK, ce mois, je vais lancer
+35:26
+30 cré, une créa par jour, je vais tester des cré podcast, je vais tester des créas micro trottoirs, je vais
+35:33
+tester des mashup, je vais tester X, je vais tester des UGC et cetera et cetera. Après un mois, dans votre boucle, ce que
+35:39
+vous allez faire, c'est que OK, vous allez lancer pendant un mois toutes les cré qu'on vient de dire. Ça c'était le input. Le output, c'est le résultat.
+35:46
+C'est qu'est-ce que ça a donné, qu'est-ce qui a fonctionné, qu'est-ce qui a pas fonctionné. Et votre analyse, elle vous dit "OK, par exemple, vous allez voir que les podcast ils ont
+35:52
+explosé, que les micro trottoirs ils ont donné aucun résultat." Vous allez vous dire "OK, c'est intéressant." C'està dire que mon audience réagit assez
+35:58
+puissamment à tout ce qui est podcast. Donc je vais faire quoi ? Je vais lancer plus de podcasts pour le mois prochain. Et la même chose, input, output, plus de
+36:06
+podcasts, ça marche bien. OK ? Comment on peut optimiser ? OK, c'est des podcasts comme si ou des podcasts comme ça et cetera et cetera et vous améliorez
+36:12
+constamment. Ensuite de ça, tout ce qui est la stratégie publicitaire. Donc ça vraiment ce que je vous donne dans cette
+36:17
+vidéo, vous ne changez rien. C'est une une stratégie publicitaire qui fait gagner des millions et des millions et
+36:23
+des millions d'euros à moi-même et à beaucoup beaucoup d'autres personnes en e-commerce. Donc ça vraiment, c'est
+36:28
+quelque chose vous n'avez pas besoin de remettre en question. OK ? Ensuite de ça, tout ce qui est page produit, bah c'est ça aussi qu'on va voir aujourd'hui. Comment quand on a du
+36:34
+trafic qui vient sur notre site internet, comment faire en sorte en fait que ce trafic soit optimisé, que ce que ce trafic vraiment on arrive à à prendre
+36:42
+le jus de ce trafic et vraiment convertir le maximum de personnes. Et tout ce qui est par rapport à l'offre et ben évidemment c'est comment constamment
+36:48
+améliorer son offre. Donc vous devez vraiment, je répète he parce que c'est important, c'est important de vous voir comme un scientifique, vraiment comme un
+36:54
+scientifique qui va tester, tester, tester, tester, tester, tester, constamment tester des choses. D'accord ? Par exemple, vous devez optimiser en
+37:00
+continu, c'està dire qu'on a certaines data. Par exemple, on va avoir le CPC qu'on a pu voir dans une vidéo
+37:05
+précédente. Donc le CPC, c'est le coût par clic. C'est combien est-ce que vous devez payer méta pour que quelqu'un clique sur votre lien ? Et par exemple,
+37:12
+si votre coût par-lic n'est pas bon, donc c'est-à-dire que si vous avez pas un bon coup par-lic, c'est simplement que vos créas ne sont pas bonnes. Donc
+37:17
+ça veut dire que ça vous donne une information qui vous dit "OK, vos créas sont pas bonnes, donc il faut les changer. Dès que vous allez améliorer
+37:23
+vos créas, vous allez avoir d'autres résultats." Il peut y avoir aussi euh par exemple un un faible taux de conversion. Donc c'est le fait
+37:29
+simplement que si vous avez un un faible taux de conversion, c'est soit qu'il y a un problème au niveau du site, un problème au niveau de votre offre,
+37:35
+peut-être un problème au niveau que du produit que vous vendez, des explications et cetera. Et en fait, le but qu'on a, c'est de mettre le maximum
+37:42
+de variable de côté sur ce qui marche, ce qui marche pas pour constamment optimiser ce qui fonctionne. Et l'idée un peu, si vous voulez une métaphore,
+37:48
+c'est un peu l'idée des D. Nous, notre but, c'est comme si on avait des D et notre but, c'est de faire tout le temps
+37:53
+deux fois le chiffre 6. Donc, à chaque fois qu'on tire les D, qu'on tire les D, qu'on tire les D, ben en fait, on se rapproche constamment d'avoir le le le 6
+38:01
+et le 6 et d'être le plus parfait possible. Voilà. Et et en gros euh pour vraiment vous expliquer, il faut
+38:06
+vraiment que chacune de ces étapes que je vous ai expliqué euh dans le chapitre de Zé Adic soit vraiment optimale pour
+38:13
+ce qu'elle est. C'est-à-dire, il faut vraiment que votre recherche produit ayent été bien faite, que vos créatives, il y ait vraiment de la psychologie
+38:19
+derrière, que vous ayez compris les étapes par lesquelles une créative doit passer pour être performante. Tout ce
+38:24
+qui est euh euh la la page produit, vous devez comprendre les différents mécanismes à mettre en place et en fait
+38:30
+plus ça va être parfait, plus vous allez vous rapprocher du 12 sur vos 2D, du 6 et du 6. Et c'est ça qui est important
+38:35
+de comprendre, c'est que vous devez vraiment faire en sorte de tout optimiser constamment. Et c'est ça qui
+38:41
+est passionnant, c'est que ça change constamment. Et c'est ça aussi qui qui est excitant de se dire "OK, là je je vends ce produit, je suis à 10000 € je
+38:47
+veux passer à 100000 € OK améliorer les choses ?" Et ce qui est incroyable avec ce business, c'est que vous avez pas
+38:53
+besoin d'attendre des des semaines et des semaines et des et des mois et des mois avant d'avoir les résultats de vos
+38:58
+idées. C'estàdire que vous avez une idée, vous allez la tester, des fois on monte 24 heures et vous allez voir les résultats dans 48 he dans 48 he vous
+39:05
+savez si ce que vous pensez et votre hypothèse est juste ou simplement si elle est fausse et vous allez pouvoir
+39:11
+prendre des décisions par rapport à ces résultats. Et ça, honnêtement, il y a aucun business qui peut euh vous donner
+39:17
+autant de réponses que le e-commerce pour simplement en fait vous améliorer et faire en sorte d'optimiser d'optimiser pour évidemment à la fin
+39:23
+faire plus d'argent dans votre poche. Donc voilà un peu l'idée. Maintenant, je vais vous expliquer un petit peu plus en détail comment optimiser en fait votre
+39:29
+tunnel de vente. Donc comment faire en sorte que votre tunnel de vente soit vraiment optimisé. Donc là, comme on a
+39:35
+vu, donc j'ai repris un peu les mêmes couleurs. Donc là, comme on a vu, on a les créatifs. Donc les créatifs, c'est ce qui va faire en sorte que les gens
+39:40
+viennent sur votre site internet. On a la stratégie publicitaire. Donc on a vu ça aussi. Ça c'est quelque chose qu'on va pas trop toucher. Ensuite de ça, on a
+39:46
+le coût par clic qui est une information très importante qui va nous dire si nos créatifs sont bonnes ou mauvaises.
+39:51
+Ensuite de ça, on a le store, donc la boutique, la page produit et euh la page produit qui est ici. Donc le store, c'est plus la boutique, la page produit
+39:58
+qui est ici, l'offre. Donc page produit et offre sont au même niveau qui vont nous donner notre AOV comme on a vu dans
+40:03
+une précédente vidéo, donc notre panier moyen sur le site plus notre taux de conversion. Donc notre compte taux de conversion va nous montrer si notre site
+40:09
+convertit bien ou s'il convertit pas. Et ensuite de ça, on va avoir une conversion tout simplement. Donc une conversion, c'est quoi ? C'est juste
+40:15
+quelqu'un qui va acheter sur notre site. Donc ici, par rapport au CPC, le CPC, c'est donc comme j'expliqué combien
+40:21
+est-ce qu'on doit payer pour qu'une personne clique sur le lien. OK ? Plus le CPC est bas, mieux c'est. Plus le CPC
+40:27
+est haut, moins bien c'est et donc plus les créatifs sont à refaire, à revoir, à recomprendre et cetera. Donc là, j'ai
+40:32
+j'ai vraiment aussi envie de vous faire comprendre que là, on est face à de la data. C'est-à-dire qu'on on n'est pas en train d'inventer des choses. On est en
+40:38
+train simplement en fait de d'envoyer des choses sur le marché et d'avoir des retours du marché et qui nous disent "OK, c'est X ou c'est ou c'est Y ?" Et
+40:44
+nous simplement, on a juste à faire plus de X ou plus de Y selon les réponses. Il y a rien qui est inventé, il y a pas de génie. Il y a pas besoin d'être d'être
+40:51
+quelqu'un qui est illuminé par je ne sais quel quelle idée incroyable qui vient qui vient de je ne sais où. Vous
+40:57
+avez simplement en fait à vous baser sur les chiffres et ensuite de ça vous faites plus de ce que les chiffres vous disent de faire plus. C'est aussi simple
+41:03
+que ça. L'Aov, je vous le répète, mais c'est la moyenne de la valeur des achats sur votre site. Donc plus il est haut,
+41:08
+mieux c'est. Donc c'est comme on disait avant le panier moyen. Et le CVR, c'est le conversion rate, le taux de
+41:14
+conversion. Et un bon taux de conversion est entre 2 et 8 %. Donc voilà. Et là,
+41:19
+on va faire simplement, si vous voulez un peu trois situations dans lesquelles vous allez simplement donc là ça ça fait
+41:25
+un moment maintenant que vous tournez, vous avez vous faites 10k, vous avez trouvé votre produit. et on va faire trois situations pour que vous vous
+41:30
+puissiez comprendre en fait comment des toutes petites optimisations peuvent simplement tout changer. Euh donc voilà,
+41:35
+prenons la situation 1. Donc là, vous tournez depuis un petit moment avec votre boutique et euh vous dépensez, on
+41:40
+va dire, 1000 dollars de pub euh par jour. Vous avez un coût par clic, donc un CPC à 0.5,
+41:48
+OK ? Qui est un CPC qui pourrait être amélioré. Ensuite de ça, vous avez un nombre de visites sur votre site de 2000
+41:55
+par jour. Donc ça veut dire que vous payez euh 1000 dollars par jour méta pour que des gens viennent sur votre
+42:01
+site internet, des gens intéressés et cetera et MTA vous envoie 2000 personnes qui cliquent sur votre lien euh qui sont
+42:08
+intéressés et qui viennent sur votre site. Ensuite de ça, vous avez un taux de conversion à 2 % donc sur votre site et vous avez un panier moyen, donc un
+42:15
+AOV à 30 dollars. Je parle en dollars, on peut parler en euros, on peut parler en la monnaie que vous voulez. Oui,
+42:21
+commerce, on n'est pas bloqué sur un côté du monde. C'est pas que vous vivez dans une ville et que vous devez faire un business dans cette ville. Si demain
+42:27
+vous voulez lancer des pubs au Mexique, vous pouvez. Demain vous voulez vous lancer des pubs en France, vous pouvez. aux États-Unis, euh au UK, il y a pas de
+42:35
+limite en Suède, au Danemark et cetera, il y a pas de limite. Donc là, on va parler en dollar, mais sachez que ça peut être n'importe quel devise. Donc
+42:41
+avec ces différentes datas, on va dire que le résultat est que vous avez 40 ventes, d'accord, à 30 dollars et donc
+42:49
+vous générez un total par jour de 1200 dollars. Donc là, on a une situation où
+42:55
+on dépense 1000 dollars en publicité. On a un CPC, donc un coût par clic à 0.5 35
+43:01
+dollars. Ensuite de ça, on a 2000 visiteurs. Donc on a 2000 vraies personnes qui viennent sur notre site.
+43:06
+On a un taux de conversion à 2 % et un AOV à 30 dollars, ce qui nous fait 1200
+43:11
+dollars de chiffre d'affaires. Donc là, c'est une situation dans laquelle on est sûrement break even. Pourquoi ? parce
+43:17
+que sur ces 1200 dollars de de publicité, on doit déjà payer tout ce qui est au niveau des des pubs. C'està
+43:24
+dire que c'est 1000 dollars qu'on a payé en pub, bah il faut les les payer. Donc c'està dire qu'il nous reste que 200 dollars et à peu près 40 commandes a à
+43:31
+on va dire si votre produit coûte 5 dollars. Ça va faire en sorte que vous êtes h limite pas rentable voir break
+43:37
+even mais c'est assez compliqué selon le prix de votre produit et cetera. Vous allez vous arrivez à négocier avec votre agent. Donc c'est pas une situation
+43:42
+qu'on veut ça, c'est une situation qu'on veut optimiser. Donc qu'est-ce qu'on va faire pour optimiser ça ? On reste avec le même budget pub. Donc on dépense
+43:49
+toujours 1000 dollars par jour de publicité. Ensuite de ça, on va améliorer nos créatives. Ça veut dire
+43:55
+qu'on va faire en sorte de faire un effort sur les créatives, d'aller optimiser, d'aller tester un nouvel angle, d'aller faire des meilleurs hook
+44:02
+et cetera et cetera. Et on arrive d'avoir un coup par clic qui se réduit à 0.4 dollars. OK. Ensuite de ça, euh au
+44:10
+niveau euh des visites, vu qu'on paye moins cher le clic pour le même budget pub, on a plus de personnes qui viennent
+44:16
+sur notre site. Donc on passe de 2000 à 2500 visiteurs. Le taux de conversion, il bouge pas. Hop. Et notre AOV, il
+44:22
+bouge pas. Il est toujours à 30 dollars. OK ? Donc le 30 dollars, c'està dire notre AOV, c'est notre panier moyen. OK
+44:28
+? la moyenne des achats sur le site. Et du coup dans cette situation, on va avoir vu qu'on a plus de personnes qui viennent sur notre site, on a évidemment
+44:35
+plus de conversion étant donné que le taux de conversion reste le même. Donc on va avoir 50 conversions à avec un
+44:42
+panier moyen de 30 dollars, ce qui va nous donner 1500 dollars de revenu. Donc là, vous pouvez voir que juste avec une
+44:50
+petite optimisation, donc en optimisant les créatives, on va directement avoir
+44:55
+un impact sur notre business qui est que notre budget publicitaire nous rapporte plus de gens sur notre site internet
+45:00
+parce qu'il y a plus de gens qui cliquent parce que nos créas sont plus intéressantes. Donc les gens cliquent plus facilement sur nos créat. Donc vu que les gens cliquent plus facilement,
+45:06
+on a moins besoin de payer méta parce que c'est moins difficile de convaincre les gens de cliquer. Et avec un taux de conversion de 2 % ce qui est totalement
+45:12
+normal, un AOV à 30 dollars et ben on finit avec 1500 dollars de chiffre
+45:17
+d'affaires. Donc au final l'amélioration des créatives a permis de baisser le CPC et d'augmenter les visites entraînant
+45:23
+une une augmentation des revenus. Donc vous voyez que même avec une petite optimisation, on peut déjà passer de break even à tout d'un coup, on devient
+45:29
+rentable. OK, super. Et maintenant, on va aller voir la situation numéro 3. OK. Alors, on se retrouve pour la situation
+45:35
+numéro 3. Et là, ce qu'on va faire, c'est qu'on va augmenter l'AOV. Donc, on va aller travailler sur notre offre. On
+45:41
+va essayer de faire en sorte, comme j'expliquais dans le chapitre 1, de faire en sorte que les gens dépensent
+45:46
+plus d'argent sur notre site. Et vous allez voir que cette modification là va tout changer. Donc, on reste toujours
+45:51
+sur le même budget publicitaire. Donc, on est toujours à 1000 dollars de budget publicitaire. Ensuite de ça, euh on a
+45:57
+toujours euh nos créés. Donc on est à 0,4 de CPC. Euh ici bah ça nous met
+46:03
+toujours nos 2500 visites sur le site. Voilà. Ensuite de ça, ici on a un taux
+46:08
+de conversion à 4 % étant donné que notre offre est meilleure, notre taux de conversion va monter. Et du coup, un AOV
+46:14
+qui s'améliore parce que notre offre est meilleure à 45 dollars. Les gens ont plus envie d'acheter le produit, ont
+46:19
+envie d'en acheter plus de quantité, on envie de plus dépenser sur notre site. Et ensuite de ça, on va donc avoir 100
+46:24
+conversion parce que notre offre est meilleure, parce que notre taux de conversion est meilleur x 45 notre AOV qui va donner 4500 dollars de revenu.
+46:32
+Donc vous voyez qu'avec une optimisation de l'AOV, comme j'ai expliqué dans les vidéos précédentes, on peut passer d'un
+46:37
+site qui était breakeven un peu rentable à être très clairement rentable. Et là,
+46:42
+on peut voir l'amélioration du funnel et de l'offre a permis d'augmenter le taux de conversion et la valeur moyenne des
+46:48
+commandes entraînant une forte augmentation des revenus. Amélioration de l'AOV et du taux de conversion avec par exemple des AD vertoriales ou des
+46:55
+des listicales ou différentes choses, des améliorations sur la landing page et cetera et cetera. vous pouvez tester
+47:00
+plein de choses. Donc voilà un peu les différentes choses que vous pouvez tester, que vous pouvez améliorer. Et c'est pour ça, je le répète, que c'est
+47:06
+important que vous soyez comme un scientifique et constamment vous compreniez les différentes étapes, que vous amélioriez, que vous testez des
+47:12
+nouvelles choses. Et là, par exemple, avec un nouvel angle, c'est la même chose. Un nouvel angle peut augmenter votre taux de conversion, peut augmenter
+47:18
+en fait votre AOV parce que les gens se sentent directement touchés beaucoup plus dans votre façon de leur parler.
+47:24
+Ensuite de ça, j'ai récupéré un tweet d'un méia buer. Un médiaburer, c'est quoi ? C'est une personne en fait qui
+47:29
+s'occupe des publicités pour une marque. Donc c'est quelqu'un en fait son son sa zone de génie c'est de juste gérer méta
+47:37
+et ça on le verra après par la suite dans toute la partie de délégation. Mais si vous voulez en fait dans le e-commerce qui est très intéressant
+47:42
+c'est que nous on parle souvent de e-commerce, de dropshipping et cetera. Au début on gère tout nous-même mais après coup il y a vraiment énormément de
+47:49
+corps de métier dans le dropshipping et dans le e-commerce. Et le poste de méia buer c'est un poste clé, c'est la
+47:54
+personne qui va gérer vos publicités. Et là, j'ai pris un tweet d'un ancien méia buayer d'une marque qui s'appelle Pet
+48:00
+Labco qu'on ira voir juste après sur la bibliothèque publicitaire. C'est une marque qui vend des de la nourriture
+48:06
+pour chien et je vais vous lire cette traduction pour que vous compreniez
+48:11
+vraiment à quel point l'AOV est important et l'optimisation des tunnels aussi. Je suis un ancien médiyur de
+48:17
+Petlab et je peux confirmer lorsque j'y travaillais, tout le trafic Tofu, donc comme on a vu top of funel était dirigé
+48:23
+vers des pages de prévente. Nous dépensions environ 80 cas par jour sur Facebook Ads, plus de 25 à 40 cas
+48:29
+supplémentaires par jour sur d'autres plateformes comme Pinterest, Snap, TikTok. les publicités menant directement à la page produit ne
+48:35
+fonction ne fonctionnaient correctement qu'au niveau Mofu et Bof. OK ? Donc là, c'est pour vous dire que par exemple, on
+48:41
+ira le voir après directement sur la bibliothèque publicitaire de Petlabcour que eux ils envoient tout leur trafic
+48:47
+sur des pages de prévente. Des pages de prévente, ça va être des pages qui vont chauffer leur audience. Ça va être des pages par exemple date vertorial ou de
+48:53
+listical où on va avoir avant la page produit comme un article de journal qui va simplement en fait mettre en avant un
+48:59
+produit ou par exemple les cinq meilleurs produits par rapport à une problématique et qui va mettre en avant notre produit. Et ça ça va créer une
+49:06
+espèce de on va dire comme un espèce de pont entre vous et le consommateur où il va pas être agressé parce qu'il a
+49:11
+l'impression qu'on lui voit un truc direct mais il va être dans un mood où il va se dire intéressant j'ai envie de lire cet article comme si c'était
+49:16
+quelque chose d'organique. Il va lire cet article qui va le mener vers une page produit qui va lui donner une offre et qui va se dire ah ok intéressant j'ai
+49:22
+envie d'acheter maintenant. Donc je dirais que ce qui a permis à Petlab d'atteindre 100 millions USD de chiffre d'affaires annuels, donc là on est dans
+49:27
+quelque chose d'énorme qu'on s'entende mais c'est intéressant de comprendre ce qu'il y a derrière pour nous passer aussi de 10 à 100 cas de 100 cas à 1
+49:33
+million c'est des tunnels hautement optimisés depuis la prévente jusqu'au poste achat comme les upsell et les abonnements. Donc c'est vraiment une
+49:40
+optimisation globale du funnel. Petite précision le CPA donc le coût par acquisition c'est combien ce qu'il
+49:45
+devaient payer quelqu'un pour qu'ils achètent leurs produits. Donc le CPA acceptable pour Petlab était environ de
+49:51
+90 USD. Et cela signifie que nous pouvions dépenser jusqu'à 90 USD pour
+49:56
+acquérir un client tout en restant rentable. Gardez à l'esprit que le prix moyen du produit est probablement
+50:02
+d'environ 30 dollars. C'est fou ce que l'on peut faire avec des tunnels performants et un AOV LTV LV. Donc ça
+50:08
+pour vous expliquer plus en détail, c'est faire le lien avec avant, c'est juste pour vous expliquer à quel point
+50:13
+ils ont tellement tout optimisé leur funel, tellement ils ont fait d'angle marketing, tellement ils ont fait des pages produits exprès pour chaque
+50:19
+personne et cetera qu' en fait les gens dépensent beaucoup d'argent sur leur site. Les gens dépensent de l'argent
+50:26
+parce que ça leur parle, parce que ils ont envie de dépenser cet argent parce qu'il y a des offres qui font en sorte qu'ils dépensent cet argent parce qu'ils
+50:31
+sont chauffés et après quand ils arrivent sur le site, ils ont simplement envie d'acheter. Une autre chose ici intéressante, ça c'est quelque chose
+50:37
+pour aller plus loin, mais par exemple, c'est le fait de créer des abonnements sur son site si on a un produit récurrent. Ça peut être quelque chose de
+50:43
+très intéressant parce qu'on va pas forcément faire du bénéfice sur la première vente, mais on va en faire sur la deuxème, la 3è, la 4e, la 5e, vu que
+50:49
+la personne est abonnée et que chaque mois elle recommande, elle recommande et que pour ses prochaines ventes, on n pas besoin de payer de publicité. Je vous
+50:55
+mets ça en tête parce que c'est important pour moi que vous compreniez que même les énormes marques qui font des millions et des millions de chiffres
+51:01
+d'affaires par année testent constamment. Donc c'est-à- dire que vous à votre niveau, vous êtes passé de 0 à 10K, maintenant vous voulez passer de
+51:07
+10k à 100K et de 100k à 1 million. Vous devez être constamment dans une optique de tester des choses, essayer, tester,
+51:12
+essayer et cetera. Voilà. Donc ensuite de ça, toujours dans cette idée de vous faire comprendre en fait si vous voulez
+51:18
+l'idée de de de tester des choses constamment, d'optimiser, de faire des tests, d'avoir des réponses du marché et cetera, j'ai pris un tweet de Alex
+51:25
+Becker. Alex Becker, c'est un influenceur très connu maintenant pour tout ce qui est cryptomonnaie et cetera. C'est quelqu'un qui a créé un un SAS qui
+51:31
+s'appelle AOS. Et si vous voulez, j'avais envie de vous partager ce tweet parce que c'est quelque chose en fait qui fait comprendre que en fait il y a
+51:37
+personne qui est tombé dans la marmite du business. C'estàdire que des fois nous on voit le haut de l'iceberg, on se dit juste "Oh c'est incroyable, cette
+51:43
+personne est juste trop forte en business, oh c'est incroyable tout l'argent qui gagne" et cetera. Ou c'est juste fou de pouvoir gagner sa vie avec
+51:48
+le e-commerce. Mais ce que vous devez voir derrière c'est tout le travail qu'il y a, tout le le les tests, toutes
+51:53
+les les erreurs qu'il y a eu, tous les tous les toutes les fautes de la personne s'est relevé et cetera. Imaginez-moi simplement le nombre de
+51:59
+fois que j'ai dû tester des produits, faire des créatives, tester des stratégies publicitaires, lancer des
+52:04
+sites, faire des landing page, tester des offres et cetera pour pouvoir faire une vidéo comme aujourd'hui, vous dire "OK, ça ça marche, ça ça marche pas, ça
+52:10
+faut faire comme si, ça faut faire comme ça." C'est des tests et des tests et des tests. Donc simplement, on va lire ensemble ce texte. Je je vous conseille
+52:16
+vraiment de d'être vraiment attentif parce que c'est quelque chose qui peut vraiment changer en fait votre état d'esprit par rapport au business. Donc
+52:23
+je vais vous lire ça à haute voix et on en parle juste après. Voilà. Et hésitez pas évidemment à prendre des notes parce
+52:29
+que c'est vraiment important. Donc c'est un tweet que j'ai traduit. Donc peut-être il y a certaines choses qui vont sonner un peu moins bien mais c'est juste que vous compreniez vraiment la
+52:36
+profondeur derrière la chose. Donc les gars je veux juste clarifier une chose et je vais probablement faire une vidéo à ce sujet dans le programme. Rien que
+52:41
+dans le tunnel IOS. Donc IOS c'est le logiciel qu'il a développé. J'ai écrit et filmé cinq versions du webinaire de
+52:46
+vente. Tourner et tester plus de 25 publicités, dépenser plus de 100000 USD en publicité de test. Tester 153
+52:52
+audiences différentes. Fais des tests AB sur 22 versions de ma page de vente et trois CTA différents. Tester 16 versions de mon formulaire d'inscription et trois
+52:57
+formats de pages. Cela représente pas moins de 200 heures de travail uniquement sur ce tunnel. Pour mettre cela en perspective, cela représente 5 semaines de travail continu juste pour
+53:04
+ce tunnel du moment où vous commencez à travailler jusqu'au moment où vous arrivez pendant 8h chaque jour. Sérieusement, prenez du recul une seconde, sortez votre calendrier, prenez
+53:10
+votre surligneur et raturez chaque jour pendant 5 semaines et inscrivez simplement "travaillez sur mon tunnel". C'est la quantité de temps et de
+53:15
+concentration que cela demande. C'est la quantité de travail que j'ai dû fournir juste pour faire fonctionner mes publicités, même avec les bons scripts, le bon ciblage, la bonne stratégie et le
+53:22
+bon produit. Je ne dis pas cela pour me vanter. En fait, je pense que je pourrais faire encore plus de travail dessus. Je dis cela parce que je veux être extrêmement clair sur le temps que
+53:28
+je consacre à faire fonctionner mes tunnels publicité. Encore une fois, ce n'est pas un message de "Fais la queue, c'est un mec, ça craint, je sais, tu
+53:33
+dois continuer d'avancer". Certains d'entre vous semblent penser que je me contente de lancer quelques publicités, d'écrire quelques scripts et d'écraser
+53:39
+tout. Rien n'est plus éloigné de la vérité. Honnêtement, je dois passer par tout ce bordel comme vous mes 10. Franchement, c'est épuisant et hyper
+53:44
+frustrant. Et je pose cela pour vous dire ce que je fais quand je suis dans la M. La réponse 9 fois sur 10 est de continuer à creuser et d'y passer encore
+53:49
+plus de temps. Pourquoi ? Parce qu'il est tellement facile de chercher une la solution ailleurs. Ah, ça doit être le ciblage, le texte, le script. Non, vous
+53:55
+faites tout correctement. Vous êtes juste à 100 200 heures de travail en retard. Et à moins que vous ne soyez prêt à ça, vous chercherez constamment
+54:01
+le prochain coup rapide au lieu de retrousser vos manches et de gérer la ha. Faites-moi confiance, vous vous en sortez très bien. Si vous arrêtez de vous comparer à toutes les personnes qui
+54:07
+montent ouvertement sur le succès dans des groupes Facebook, vous vous rendrez compte que vous obtenez des résultats bien plus rapides que même les meilleurs organisateurs de webinaire au début. Je
+54:13
+veux être très clair que la plupart du temps mes publicités ne fonctionnent pas du tout. Mes publicités échouent plus souvent qu'elles ne fonctionnent. Environ 1 sur 5, environ une sur 5
+54:19
+fonctionnent et parmi elles seulement une sur 10 tient la distance et fonctionne à long terme. Il y a même des moments où je me demande est-ce que cette entreprise va fonctionner ? Rien
+54:24
+ne semble fonctionner correctement. Alors encore une fois, je ne vous dis pas de faire la queue. Je vous dis que lorsque les choses échouent et ne fonctionnent pas, continuez à pousser.
+54:30
+C'est OK, c'est censé être difficile. C'est censé vous rendre fou et vous faire croire que ça ne fonctionne pas du tout. La frustration et le défi sont les
+54:36
+signes qui indiquent que vous êtes sur la bonne voie. Réfléchissez à votre situation actuelle dans les affaires. Voici les le résultat que vous obtiendrez quand les choses deviendront
+54:41
+naturelles pour vous et fonctionneront. Si vous voulez un résultat différent, cela viendra en faisant des choses qui ne sont pas faciles pour vous. Il m'a
+54:46
+fallu des semaines juste pour obtenir un CPL décent. Donc un CPL, c'est un coût par lead. Donc lui il vend pas un produit mais en gros il vend un SAS.
+54:52
+Donc on va plus parler de coût par lead. C'est combien ça lui coûte d'avoir une personne qui s'abonne à son SAS. On va parler de coup par acquisition. Combien
+54:58
+ça nous coûte d'avoir de payer quelqu'un enfin combien ça nous coûte de payer MTA pour acquérir un client qui va acheter sur notre site euh et encore plus de
+55:03
+temps pour amener les gens à réellement convertir pour des appels. En fait dans les deux premières semaines chez HOS YouTube a dépensé des milliers de dollars pour obtenir 5 appels
+55:08
+téléphoniques. Aucun d'entre n'a converti. Encore une fois je le répète, après des semaines de travail, mes publicités n'ont même pas fonctionné un peu. Puis j'ai dû passer des heures à
+55:13
+prendre des appels téléphoniques un par un à conclure des appels AOS à 200 dollars par mois tout en essayant de trouver le bon prix. Il m'a fallu 2 mois
+55:19
+pour passer à la facturation annuelle et cela n'est même pas compté dans mon temps de travail. Maintenant, après des centaines d'heures de travail d'appel
+55:24
+téléphonique manuel de formation de mon équipe de vente de discussion avec des centaines de clients et d'écriture de script après script après script, maintenant les publicités fonctionnent.
+55:29
+Vous avez nous avons dépensé 7000 dollars pour faire 40000 dollars en espèce la semaine dernière avant que les plans de payement entrent en jeu. Je continue d'améliorer cela. Après 4 mois
+55:35
+de travail sur ce tunnel, je sens enfin qu'il est temps d'accélérer. Et puis je vois des gens ici depuis de semaines avec trois publicités diffusées et leur premier webinaire qui disent "Mec,
+55:40
+pourquoi ça ne prend pas plus d'ampleurs ?" Je vous aime les gars, mais quoi ? Trois publicités, un webinaire, ça fait 4 5 heures de travail. Il vous reste 195
+55:45
+he à travailler. Donc au cours des deux derniers mois, nous avons réalisé plus d'un demi million de ventes et un héroï massif sur les publicités. Mais pendant ces 2 mois de publicité, les publicités
+55:51
+ont monté puis descendu puis remonter et elles ont fait n'importe quoi et on même et ont même cessé de fonctionner complètement. Et quand cela arrive, la solution a toujours été plus de travail,
+55:56
+encore plus de travail. Même avec toute mon expérience, il faut beaucoup de temps pour bien faire les choses. HCOM était pareil. Si vous essayez de modéliser ce ce mode d'entreprise, ça
+56:01
+fonctionne. Mais qu'est-ce que vous pensez que je faisais toutes ces années ? Pourquoi pensez-vous que la deuxième fois que je suis passé complètement à EOS, j'ai dû atteindre le webinaire ?
+56:07
+Parce que cela prend des centaines d'heures pour que la publicité des tunnels fonctionne. Vous ne pouvez pas modéliser l'entreprise et passer à côté de la partie la plus importante, le
+56:13
+temps et l'effort. La gestion prend 3 4 heures. C'est 20 heures de travail de haute intensité, bien moins qu'une semaine de travail. En fait, nous
+56:18
+pouvons doubler cela à 40h. C'est encore une semaine de travail. Où va le temps ? Vous avez 60 heures de travail par semaine, où cela va-t-il ? Quand un webinaire prend un mois à produire, où
+56:24
+sont passés les 240 he ? À ce rythme, il vous faudra 480 à 720 he rien que pour passer les deux premiers cycles de test. Vous avez la bonne stratégie, les bons
+56:29
+scripts, le bon ciblage, vous avez tout. Mais le secret que vous recherchez est à 30 AB test, 15 campagnes public ratées et quatre autres versions de webinaire
+56:35
+de distance. Et c'est normal parce que quand vous y arriverez, vous gagnerez des millions de dollars. Je répète, l'Américain moyen gagne 40000 dollars par an. Si vous voulez gagner plus que
+56:41
+ce qu'il gagne en 30 ans, en un an, vous ferez mieux d'être prêt à faire quelque chose de spécial. Gardez votre objectif en tête et continuez à pousser. C'est normal de lutter, c'est bien que ce soit
+56:47
+difficile. C'est ce qui fait que ça paye sur le long terme. Votre quête de toute une vie, votre travail de vie, votre soi-disant maîtrise, la chose qui vous
+56:53
+rend spéciale, relevez vos manches et continuez à pousser jusqu'à que le travail soit très terminé. Le succès ne se rendra pas sans combat. Voilà, donc c'était assez long, mais c'était
+56:58
+important pour moi en fait de vous partager ce texte parce qu'en fait c'est un texte, alors lui, il a un vraiment un niveau de business énorme mais c'est
+57:05
+pour en fait que vous compreniez que même lui a son niveau de business. Ce qu'il dit, c'est simplement vous avez les bonnes stratégies, vous avez les
+57:10
+bonnes informations. La seule chose que vous devez faire maintenant, c'est vous poser, travailler, faire des tests, essayer, faire des tests, essayer, essayez, faire des tests et finalement,
+57:17
+vous allez simplement simplement trouver un rythme qui va faire que vous allez réussir. Donc ici, on a un peu le petit résumé. Donc il faut tester des choses.
+57:24
+Les gens ne sont pas des génies, juste les gens travaillent sur un projet et son focus et on a jamais fini d'améliorer. Donc comme je disais avant,
+57:30
+et en fait chaque chose a une importance. Et par exemple là, on on en est pas encore ici. Vous en êtes pas
+57:35
+encore ici. Peut-être vous aurez jamais envie d'arriver à ce niveau-là et vous avez pas besoin forcément d'y arriver. Mais c'est pour dire que certaines
+57:41
+certaines marques e-commerce plusieurs millions de personnes qui viennent sur leur site et c'est pas Amazon et c'est
+57:46
+pas AliExpress, c'est pas des énormes noms qu'on connaît, c'est des simples marques qui ont démarré comme vous et moi. Et si vous voulez, quand on a 1
+57:52
+million de personnes qui viennent sur notre site internet, si vous voulez, même la couleur d'un bouton peut changer de 0,023
+57:58
+% 04 % le taux de conversion et rien que ce petit changement peut faire plus d'argent à la fin du mois et même des
+58:04
+sommes astronomiques. Donc je je veux juste vous faire comprendre à travers ça en prenant la big picture. Vous comprenez qu'à chaque étape, qu'à chaque
+58:09
+niveau, les gens doivent tester tester tester constamment des choses. Ensuite de ça, c'est important pour moi aussi que vous compreniez que là par exemple,
+58:16
+vous avez une page produit qui fonctionne bien, vous avez des batchs créa qui fonctionnent bien et le but maintenant c'est d'aller tester
+58:21
+plusieurs batchs de créa comme on l'a vu dans le business manager de simplement créer un nouvel adset avec un avec des
+58:26
+nouveaux concepts, lancer des créas, lancer des créatas, lancer des créat, analyser les coups par clic, faire plus de ce qui marche, faire moins de ce qui
+58:32
+marche pas, et cetera et cetera. Même chose pour la landing page. Dans la landing page maintenant, imaginons que vous avez un nouvel angle marketing pour
+58:38
+les femmes que vous avez ouvert alors que vous vendiez que pour les hommes. Vous allez faire une page produit exprès pour les femmes et cetera et cetera.
+58:44
+Vous pouvez tester aussi des nouvelles offres. Tout d'un coup, bah comme on parlait par exemple de l'exemple des t-shirts, peut-être au début vous vendez
+58:49
+un t-shirt, un acheté égal un offert et deux achetés égal de offert. Mais par la suite, vous pouvez tester, OK, trois
+58:55
+t-shirts, 5 t-shirts, 10 t-shirts, tester pendant une semaine, faire des AB tests et cetera et cetera, jusqu'à
+59:00
+améliorer et vraiment faire en sorte euh d'avoir euh en fait les meilleurs résultats possibles à travers votre business. Donc on teste constamment des
+59:05
+nouvelles créatives. Une chose très importante aussi que vous devez savoir, c'est qu'il faut tester une variable à
+59:10
+la fois. Donc quand on fait un test, par exemple, sur une semaine, sur un mois, on fait un test, on change l'offre et on
+59:16
+analyse pendant une semaine et on touche à rien d'autre. Pourquoi ? Parce que si maintenant on commence à à changer l'image du produit, en même temps
+59:22
+changer l'offre et puis en même temps on change c et puis on change ça, on sait pas en fait si notre test a fonctionné ou pas parce que potentiellement c'est une des autres choses qu'on a changé.
+59:28
+Donc ce qui est important c'est d'isoler les tests. Donc voilà un peu ce qui est important pour moi, c'est que vous compreniez vraiment ce que c'est en fait
+59:34
+et la mentalité qui a derrière le fait de passer de de 10K à 100k et de 100k à 1 million. Ça c'est des choses qui
+59:39
+reviennent toujours et même après coup si vous voulez aller plus loin vous avez plus d'ambitions des gens vous voyez comme Alex Becker qui qui qui développe
+59:45
+des projets à plusieurs millions et centaines de millions, c'est des gens qui testent constamment les choses et il y a pas de secret face à la vie. Il y a
+59:51
+pas de secret. C'estàd que il y a personne qui a de la chance, il y a personne en fait qui qui en fait qui est né là-dedans et puis qui a on va dire
+59:56
+qui a plus de de compétences que vous. C'est simplement quelqu'un qui travaille plus, quelqu'un qui teste plus et quelqu'un qui est focus sur cette
+1:00:03
+chose-là. Aussi une autre chose que j'aimerais rajouter, c'est tout le rapport avec le syndrome de l'objet brillant. Ça veut dire que vous par
+1:00:09
+exemple là actuellement euh vous faites pas de business ou alors vous faites du e-commerce mais en même temps euh sur le côté vous regardez des vidéos euh par
+1:00:15
+rapport à X business ou X ou Yusiness et euh vous n'êtes pas focus sur un seul
+1:00:21
+business. D'accord ? Même lui dans son tweet ce qu'il explique c'est que quand il a lancé son nouveau business, il a dû mettre pause sur l'autre. Donc moi ce
+1:00:27
+que je vous conseille c'est quand vous êtes dans le e-commerce, vous dites "C'est le e-commerce, j'ai envie de réussir dans le e-commerce." Et vous
+1:00:33
+faites tout en sorte de réussir dans le e-commerce. Vous mangez e-commerce et vous consommez e-commerce. Vous rêvez
+1:00:39
+e-commerce, vous dormez e-commerce, vous entourez de personnes qui font du e-commerce et vous faites en sorte d'avoir des résultats en e-commerce.
+1:00:44
+Mais vous êtes pas happé par ce business et ce business et ce business et ce business parce qu'en fait maintenant sur les réseaux sociaux, tout le monde parle
+1:00:49
+de tous les business qui existent X ou Y. Chacun vous dit qu'il a la nouvelle stratégie facile pour faire de l'argent
+1:00:55
+en deux clics et ensuite de ça, c'est bon. Mais ça existe pas ça, d'accord ? C'estàd que si vous voulez faire du business, il va falloir vous focus, il
+1:01:01
+va falloir apprendre des choses. Dans cette vidéo, on apprend des vraies choses et il va falloir ensuite de ça mettre en place et vous activer dans cette direction. Mais c'est 100 %
+1:01:07
+possible mais il faut que vous le fassiez et que vous ayez vraiment le focus pour le faire. Donc voilà, j'espère que cette vidéo a été utile pour vous et là c'était juste en fait si
+1:01:13
+vous voulez un vraiment un schéma pour vous expliquer que vous pouvez tester des landing page, différentes landing page avec différents AOV par exemple,
+1:01:19
+avec différentes offres, vous pouvez tester différentes créat, bref, vous avez le le panel, vous avez le spectre énorme de tester tout ce que vous voulez
+1:01:25
+et c'est ça le plus important. Donc voilà, j'espère que cette vidéo vous a été utile. On va passer à la prochaine vidéo qui va parler de délégation parce
+1:01:32
+qu'il y a énormément de choses qu'on peut aussi déléguer pour justement passer son temps dans tout ce qui est optimisation, dans tout ce qui est
+1:01:37
+création, dans tout ce qui va vraiment rapporter de l'argent à notre business. Donc voilà, un grand merci à vous pour votre attention et euh je vous dis à
+1:01:44
+dans la prochaine vidéo. Fin du jour 5, vous avez maintenant les trois leviers qui séparent les boutiques qui survivent de 7 qui scale. Demain jour 6, on passe
+1:01:51
+derrière le décor ce que personne ne filme jamais, le SAV, la gestion d'équipe et la logistique, mais surtout
+1:01:56
+un gros bloc sur les créativ 2.0 et les outils que Vincent utilise aujourd'hui pour produire des créatives 10 fois plus
+1:02:02
+vite qu'il y a un an. Pour ceux que ça intéresse, j'ai créé un quiz basé sur la data réelle des membres de mon accompagnement lié à calcul votre revenu
+1:02:09
+potentiel complémentaire avec l'e-commerce selon votre profil. Alors si ça vous intéresse, le lien sera en description. à demain.

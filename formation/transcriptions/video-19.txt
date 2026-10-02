@@ -1,0 +1,1277 @@
+Video 19 : À la fin de cette vidéo, vous aurez construit la meilleure boutique Shopify possible avec l'aide de l'IA. À la fin
+0:05
+de cette vidéo, vous saurez exactement comment faire pour avoir une boutique qui soit prête à l'emploi, prête à recevoir du trafic, prête à recevoir des
+0:11
+ventes. J'avais déjà fait cette vidéo il y a plus d'un an et demi sur cette chaîne. C'est aujourd'hui la plus regardée de la chaîne. Je la refais
+0:17
+aujourd'hui parce que maintenant on peut utiliser LIA pour faire des choses à notre place en mieux. Vous allez écrire
+0:22
+une phrase à Cloud et le regarder remplir votre boutique pendant que vous ne touchez à rien. Je vais vous donner le prompt exact, vous n'aurez plus qu'à
+0:28
+le copier. On va voir ensemble comment créer votre compte Shopify gratuitement, comment régler tous les paramètres, comment ajouter les produits et les
+0:34
+collections et comment installer et personnaliser le thème gratuit que vous allez utiliser sur votre boutique. Moi,
+0:40
+c'est Louis, je suis professeur sur Shopify et si cette vidéo vous aide et je suis certain que ce sera le cas, n'hésitez pas à vous abonner. On a
+0:45
+beaucoup de vidéos sur Shopify et sur Lia qui vont vous aider. Juste avant de commencer, vous pouvez télécharger la checklist complète de toutes les étapes
+0:50
+à effectuer pour créer votre boutique Shopify. C'est complètement gratuit, c'est le premier lien en description et ça va énormément vous aider à suivre
+0:57
+cette vidéo. C'est parti. J'ai donc créé une MindMap et on va commencer directement par l'étape numéro 1.
+1:02
+L'étape numéro 1, ça va être celle de créer un compte Shopify à 1 €. Pour ça, c'est très simple. Vous allez pouvoir
+1:07
+vous rendre dans la description de cette vidéo juste en dessous et vous allez voir ici offre unique Shopify à 1 €
+1:13
+pendant 3 mois. Vous trouverez aussi évidemment ce lien dans la petite checklist que je vous ai recommandé de
+1:18
+télécharger. Donc vous avez un lien ici. Ça vous permet d'avoir Shopify à 1 € pendant 3 mois. Vous allez avoir 1 €
+1:23
+puis 1 € puis 1 €. Vous avez largement le temps de créer votre boutique et cetera. Donc on va cliquer dessus directement. On clique dessus et on va
+1:30
+voir qu'on va déjà pouvoir choisir notre forfait. Dans 99 % des cas, le forfait
+1:36
+qui est recommandé, c'est le forfait basique, OK ? Qui est juste là. Si vous êtes certain de votre projet, je vous recommande évidemment le paiement
+1:41
+annuel, hein, parce que ce sera beaucoup moins cher. Et si jamais vous voulez euh éventuellement tester un premier mois,
+1:47
+et ben vous faites le forfait basique en paiement mensuel. Je vous recommande quand même vivement le forfait annuel parce que c'est beaucoup moins cher. On
+1:54
+va donc directement cliquer ici sur démarrer gratuitement. Une fois que vous êtes là, bah vous allez tout simplement mettre votre adresse email. Mettez bien
+1:59
+une adresse mail que vous n'avez jamais utilisé sur Shopify. Hop, on la met juste ici et on clique sur continuer
+2:05
+avec un email. Ensuite, ça va vous demander de vérifier que vous êtes bien un humain. Donc, vous avez juste à cliquer ici sur vérifier que vous êtes
+2:10
+humain. Et une fois que la page aura chargée, vous n'aurez plus qu'à créer un mot de passe. Donc là, je vous invite à créer un mot de passe vraiment solide,
+2:16
+un mot de passe. Donc, vous allez vous rappeler, notez-le quelque part, mais c'est un mot de passe très important. Ensuite, vous recliquez sur je suis un
+2:22
+humain si vous avez cette petite case. Et une fois que c'est fait, vous pouvez cliquer sur créer un compte. Ensuite, juste ici, pour profiter de votre
+2:27
+abonnement à 1 € pendant 3 mois, hein, vous aurez donc 3 jours gratuits puis 1 € par mois pendant 3 mois. Euh, on va
+2:32
+construire la boutique directement ensemble. Donc, ça va vous coûter juste 1 € finalement. Vous pouvez rentrer toutes vos données de cartes juste là.
+2:39
+Moi, je le fais et on se retrouve juste après. Après avoir cliqué sur s'abonner pour 1 €. Il est aussi bon de savoir euh
+2:44
+juste avant ça que vous aurez une offre de domaine incluse. Ça veut dire que vous aurez 15 € de crédit d'abonnement
+2:49
+sur vos prochaines factures. Donc en fait en plus des 1 € par mois pendant 3 mois, vous allez avoir 15 € offerts sans
+2:56
+en en vraiment en supplément. Donc en fait ça va vraiment pas vous coûter avant longtemps et surtout pas vous
+3:01
+coûter cher du tout parce que ça va vous faire 3 premiers mois 1 € et puis le 4e
+3:06
+mois à moitié prix ou en tout cas à le tarif du mois- 15 € donc vraiment pas cher du tout. Donc ça c'est hyper
+3:13
+intéressant et on peut directement rentrer tout ça et avancer après avoir cliqué sur s'abonner pour 1 €. Vous
+3:19
+aurez peut-être comme moi un 3D sécure à remplir, donc faites-le bien, c'est très important le 3D sécure pour ceux qui
+3:24
+savent pas, c'est juste qu'il faut ouvrir l'application de votre téléphone et valider. Voilà, vous allez donc repouvoir ici choisir un forfait. Donc
+3:30
+nous, on clique bien sur forfait basique. C'est le forfait dont vous aurez besoin pour la majorité d'entre vous. Vous n'avez pas besoin de POS,
+3:36
+sauf si vous avez une boutique physique, mais ça on verra ça dans d'autres vidéos. Donc on clique sur pas besoin.
+3:41
+Ici, que pouvons-nous vous aider à faire ? Et ben nous, c'est vendre en ligne dont on a besoin. Ne cliquez pas sur
+3:47
+dropshipping, même si vous faites du dropshipping, parce que on en a pas besoin ici. OK, on clique ensuite sur
+3:52
+continuer et on va pouvoir directement entrer dans le vif du sujet de la boutique. Voilà, ça y est, ça vient de
+3:59
+s'ouvrir. Bienvenue sur Shopify. Par où souhaitez-vous commencer ? Et ben nous, on vient de faire notre première étape, créer un compte Shopify à 1 €. Ça c'est
+4:05
+fait. La deuxième étape de cette vidéo, ça va être de connecter Cloud et Shopify. Alors pour ça, il va vous falloir un compte sur Cloud. Donc vous
+4:12
+allez sur Google, globalement, vous tapez Cloud hein, et vous vous créez un compte. Une fois que c'est fait, moi ce que je ne peux que vous recommander,
+4:19
+c'est de évidemment télécharger l'application sur votre ordinateur. Ça va être très important. OK ? Et une fois
+4:24
+que vous avez téléchargé l'application sur votre ordinateur, on va venir cliquer en haut ici. OK ? Vous allez voir personnaliser juste là. Vous
+4:31
+cliquez sur personnaliser. Ensuite, on va descendre en bas dans connecteur. On
+4:37
+va venir chercher ici ajouter en haut à droite. On clique sur parcourir les connecteurs. Et là, on
+4:43
+va taper ensemble Shopify. Vous allez voir, c'est extrêmement simple. Hop, on clique dessus et on va cliquer ici sur
+4:50
+connecter. Ça va vous ouvrir une page instantanément et depuis cette page et bien vous allez pouvoir tout simplement
+4:57
+connecter votre compte. Donc là, c'est la boutique qu'on vient d'ouvrir effectivement, hein. On voit, elle est juste ici. Donc on clique dessus. Si
+5:04
+jamais vous avez un doute que ce soit bien la bonne boutique, hein, vous revenez sur votre boutique, vous allez
+5:10
+dans paramètres, vous allez trouver domaine qui se situe après au milieu en bas, donc domaine juste là. Et vous
+5:17
+vérifiez juste bien que voilà, le nom du domaine F0HBH
+5:22
+est le même. Et moi, on voit que c'est bien le même que celui sur lequel j'ai cliqué. Donc on clique juste ici sur
+5:28
+installer tout simplement. Une fois qu'on a cliqué sur installer, ça va charger un petit peu et ensuite ça va juste nous dire que ça y est, c'est connecté et c'est tout. Vous n'aurez
+5:35
+rien besoin de faire de plus pour connecter votre boutique et cloud en
+5:40
+tout cas pour ce qu'on va faire dans cette vidéo. Vous allez voir que ça va être très pratique. On clique sur ouvrir l'application de bureau, ça va nous
+5:46
+ouvrir cloud. Ensuite, on peut fermer cette page, cliquer sur relancer l'onglet et voilà. Une fois que vous
+5:53
+retournez sur cette page juste là, vous voyez ici déconnecter au lieu de connecter. Vous cliquez bien sur toujours autoriser ici parce que
+5:59
+globalement vous allez voir qu'il va falloir toujours tout autoriser. Et c'est tout. Maintenant que vous êtes ici, ne vous embêtez pas avec le modèle.
+6:05
+Si jamais vous n'avez pas beaucoup de budget, que vous avez le forfait gratuit, bah prenez sonnet. De toute façon, c'est pas bien compliqué ce qu'on
+6:10
+va lui demander. Mettez moyen ou juste hop élever si vous voulez vraiment des choses compliquées. Mais si vous voulez
+6:16
+du simple, vous restez sur moyen, ce sera très bien. Et on y revient plus tard. Première étape faite, deuxième étape faite, bravo à vous. N'oubliez pas
+6:23
+de vous abonner à cette chaîne parce que il y a plein de choses qu'on va faire ensemble. Alors, paramètre numéro 3,
+6:28
+enfin plutôt étape numéro 3, on va paramétrer la boutique ensemble. Ça tombe bien, on y est. Alors, je vous
+6:33
+remontre où on était. On était sur accueil, on descend tout en bas à gauche et on clique sur paramètres. Et là, on va paramétrer l'entièreté de la
+6:39
+boutique. Ça va être super efficace. Alors, la première chose, c'est que information sur l'entreprise ici évidemment il va falloir cliquer sur
+6:45
+modifier ici et juste vérifier que les informations sont les bonnes. Ça c'est
+6:51
+très important. Ça fait partie des choses euh qu'il faut absolument faire. Alors, quel est votre type d'entreprise ? Voilà, vous sélectionnez. La majorité
+6:57
+d'entre vous, vous serez en micro-entreprise et là, il va falloir juste remplir l'entièreté des
+7:02
+informations concernant votre et bien votre entreprise. Si jamais vous n'avez pas encore entreprise, il y a une vidéo qui s'affiche juste là. C'est
+7:08
+indispensable de créer une entreprise avant de commencer à faire sa boutique Shopify. Donc vous pouvez suivre ce
+7:14
+tutoriel en faisant tout, sauf la partie entreprise. OK ? Et ensuite, vous irez voir la vidéo entreprise. Ça prend 10 minutes à ouvrir. C'est super simple. Ça
+7:21
+ne vous engage à rien, franchement faites-le. Ensuite, coordonnées de la boutique. Ici, on clique sur coordonner.
+7:27
+Et là, il va falloir tout simplement entrer des informations. Donc là, vous allez mettre le nom de votre boutique. Moi, ma boutique, ça va s'appeler maison
+7:33
+le loup. OK ? Email de la boutique, c'est juste là. téléphone de la boutique. Je vous recommande vivement d'en mettre un parce que ça va vous
+7:40
+permettre euh vraiment d'avoir euh plus de légitimité auprès de vos clients.
+7:46
+Donc euh prenez votre numéro de téléphone perso. Si jamais vous n'avez pas encore numéro de téléphone pro, n'en mettez pas du tout pour l'instant, c'est
+7:52
+pas un problème. OK ? Donc on revient sur général et là on a adresse de la boutique. Ça c'est assez important. Donc
+7:57
+remettez bien votre nom d'entreprise et la domiciliation de votre boutique. Si vous savez pas ce que c'est la domiciliation, il y a une autre vidéo
+8:02
+qui s'affiche. Je vous recommande d'aller la voir. Ensuite, paramètres de la boutique. Alors bah là, il va bien falloir que c'est il va bien falloir
+8:08
+pardon vérifier que c'est en euro. Donc on va cliquer sur modifier la devise. On vérifie bien que c'est euros. OK. Et on
+8:14
+n pas besoin de cliquer sur toute la suite. Ensuite, on va faire modifier le format de la devise. Et là, on va juste
+8:20
+enlever tous les petits sigles euros qui sont avant. Pourquoi ? Parce que en français, les sigles y sont après. C'est
+8:27
+vraiment une un héritage canadien parce que Chopify est canadien. euh que les cycles soient après mais nous ils sont
+8:33
+bien à euh que les cycles soient avant pardon, mais nous ils sont bien après. Donc hop, on les met là derrière tous
+8:40
+pour les quatre et on clique sur enregistrer. OK. Ensuite, région de sauvegarde, bah du coup c'est France.
+8:45
+OK. Système métrique c'est les mètres. Donc ça c'est bon. Kilogramme pareil. Et le fuseau horaire, c'est bien pareil. Au
+8:51
+niveau de ce qu'il y a dans format de lait commande, on n pas besoin d'y toucher. Traitement de commande, exige une étape de confirmation surtout, on
+8:57
+l'enlève. Ça c'est très important. Une fois qu'une commande a été payée, ne traitez automatiquement aucune des rubriques de la commande, ça on le
+9:03
+laisse. Et une fois qu'une commande a été traitée et payée ou lorsque tous les article ont été remboursé, archiver automatiquement la commande. On le
+9:09
+laisse aussi. Ensuite, ici dans ressources de la boutique champ méta et marque, on en a pas du tout besoin. Et dans ressources tout en bas, on en a pas
+9:15
+du tout besoin. Donc on peut continuer. Au niveau du forfait, bah au niveau du forfait, on l'a déjà choisi, hein. On a pris le forfait basique. Donc ça c'est
+9:21
+très bien. Ici, c'est vraiment l'endroit où vous allez retrouver l'entièreté des informations liées à votre forfait. Dans
+9:27
+facturation, c'est pareil hein, c'est juste des informations de facturation, on a pas besoin. Utilisateur avec le forfait basique, vous pouvez pas en
+9:33
+ajouter. Donc on en a pas besoin non plus. Ici, il y a paiement, c'est tout simplement Shopify Payments. Je vous montre très simplement comment ça
+9:39
+fonctionne parce qu'en fait si vous êtes en France, c'est extrêmement simple. Si vous n'êtes pas en France, je vous recommande d'utiliser PayPal Business,
+9:45
+pardon. PayPal Business, ça vous permettra d'accepter les paiements par carte et cetera et vous pouvez et vous pourrez pardon l'utiliser dans
+9:51
+l'entièreté du monde. Donc pas de souci. Pour Shopify Payments, vous cliquez sur terminer la configuration. OK, vérifiez
+9:58
+votre email pour continuer. Vous aurez reçu un petit message par mail. Hop,
+10:03
+juste ici. Vous voyez ? Donc moi, je prends le petit code, je le mets juste
+10:08
+là et voilà. Comme ça, ça me dit que c'est bien fait et je peux terminer la configuration de Shopify Payments. Vous
+10:15
+allez voir, Shopify Payment, c'est extrêmement simple. Globalement, ça fait peur à plein de gens, sauf qu'en fait, ça fait pas peur du tout. Il vous faut une entreprise immatriculée. Donc si
+10:21
+jamais vous n'avez pas encore votre micro-entreprise, n'oubliez pas d'aller voir la vidéo que je vous ai conseillé tout à l'heure. On la mettra peut-être
+10:26
+en description aussi, mais vous pouvez taper micro-entreprise Shopify et vous trouverez tout de suite. Faudra mettre du coup une entreprise individuelle
+10:32
+ensuite suivant et après c'est globalement assez simple. Vous devez juste rentrer le nom de votre
+10:37
+entreprise, votre siret, les différentes informations, adresses et cetera. Une fois que c'est fait, ils vont vous demander de votre carte d'identité. Une
+10:44
+fois que c'est fait, vous aurez une petite vérification qui va durer quelques heures et ensuite ce sera bon. vous accepterez tous les paiements. Donc
+10:50
+ça, si jamais vous voulez pas le faire tout de suite et vous voulez vous poser et le faire après, faites-le après. On peut quand même faire tout le reste, ne
+10:55
+vous inquiétez pas. On va cliquer ensuite du coup sur paiement mais sans S cette fois. Paiement sans S dans le premier ici en car, on a rien besoin de
+11:02
+toucher. Ensuite, méthode de contact client, numéro de téléphone ou email. Bah, nous on va mettre juste email. Ça c'est important. Afficher un lien
+11:08
+permettant aux clients de suivre leur commande avec Shop. Ça, on le décoche, on en a pas besoin. Encore une fois, je vais vite dans cette vidéo parce que le
+11:14
+but, c'est de faire rapidement la création de boutique. Si jamais c'est trop rapide pour vous, il y a un petit bouton juste en dessous qui vous permet
+11:20
+de ralentir la vidéo. OK ? Vous allez dans paramètres, vous faites vitesse et vous baissez la vitesse. Et en plus, bah
+11:25
+vous avez quand même moyen de mettre pause. Donc si vous voulez aller plus lentement, mettez pause ou réduisez la
+11:31
+vitesse de la vidéo. Ensuite, juste ici, information sur le client. Nom complet, exiger le prénom et le nom de famille.
+11:36
+Oui, très important. Nom de l'entreprise, ne pas inclure en effet. Pourquoi ? parce que ceux qui veulent vraiment une facture d'entreprise seront
+11:42
+habitués à vous envoyer un mail, donc pas de souci. Numéro TVA de l'entreprise, ne pas inclure non plus. Ligne d'adresse de on laisse en
+11:48
+facultatif. Numéro de téléphone pour la livraison, on laisse soit en facultatif, soit en obligatoire. Moi, j'ai tendance à mettre obligatoire. Ça permet quand
+11:54
+même que ce soit plus simple pour la livraison. Consentement, marketing, paiement et connexion. Alors, ça va être
+12:01
+assez important. Regardez euh si vous voulez respecter le RGPD, OK, vous êtes
+12:06
+vraiment obligé de laisser ici paiement et connexion. Maintenant, on a quand
+12:11
+même plutôt tendance à aller vers paiement uniquement, mais je suis obligé de vous le dire. Pour euh évidemment le
+12:18
+consentement marketing niveau du RGPD, donc la la loi européenne, vous êtes obligé de mettre paiement et connexion. Donc je vous recommande de mettre
+12:23
+paiement et connexion. Et ici, bah ça vous devez le laisser parce que c'est tout simplement ce qui est obligatoire à
+12:29
+écrire lorsque on veut que les gens valident leur email. Il y a un petit texte à écrire et ce petit texte c'est
+12:35
+tout simplement du consentement. Euh donc vous connaissez tous ce sujet au niveau du RGPD évidemment et bah là il
+12:41
+faut laisser cette petite case. Donc voilà hein, dès que ça s'affiche ressemble à ça. Vous pouvez écrire autre chose si vous voulez. Globalement vous
+12:47
+faites bien comme vous voulez. ici États-Unis, bah non, nous on va changer quand même hein, région recommandée par
+12:52
+Shopify, non, on va mettre région de votre choix et là on va quand même venir chercher euh la France tout simplement.
+12:58
+Donc vous faites hop juste ici France et ensuite vous cliquez sur OK SMS ne pas afficher. Voilà, c'est un peu comme vous
+13:03
+voulez. Vous pouvez même faire ne pas afficher tout court hein en réalité. Mais encore une fois, si vous voulez respecter le AGPD, vous mettez sur
+13:10
+connexion et paiement. Ça va drastiquement réduire votre taux de conversion évidemment. Donc faites comme
+13:16
+vous voulez. Pour boire, c'est interdit en France. Donc ne les mettez pas et puis de toute façon, ce serait très bizarre de mettre ça sur une boutique en ligne classique. Langue du processus de
+13:24
+paiement. Là, on laisse bien français, ça c'est très important. OK. Collecte d'adresse. Gérer la manière. Donc là, on va cliquer sur enregistrer. Gérer la
+13:30
+manière dont vous collectez les adresses, hein. Autoriser une adresse d'expédition, une adresse de facturation différente. Oui. Valider l'adresse d'expédition ? Oui, ça c'est
+13:37
+effectivement important. Et hop, on peut cliquer sur annuler. Limite d'ajout au
+13:42
+panier, ça on avait pas besoin d'y toucher. Règle de paiement, pas besoin d'y toucher non plus. Donc on peut continuer au niveau des comptes clients.
+13:48
+Voà vous allez voir c'est assez bien fait. Vous n'avez rien à faire. Vous n'avez vraiment rien à faire. Tout est déjà bien configuré. L'authentification
+13:54
+et cetera et cetera. Expédition et livraison. Alors à ce niveau-là, il y a des choses assez intéressantes et assez
+13:59
+importantes à faire. En effet, là vous avez déjà un profil, vous voyez ? Donc on va cliquer sur profil général et on va faire un profil de base pour
+14:06
+quelqu'un qui souhaite livrer en France. OK ? L'international, on va le supprimer ou alors on peut le laisser comme c'est
+14:11
+le cas là à 29 €. OK ? international, il y a beaucoup beaucoup de pays. Il y a 11 régions. Si jamais vous voulez en mettre
+14:17
+plus, vous pouvez faire modifier la zone et ajouter tous les pays que vous voulez. OK ? Là, il y a déjà toute
+14:22
+l'Amérique du Nord, le Canada en fait. Là, il y a déjà quasiment le monde entier, hein, puisqu'il y a l'Europe en entier et cetera et cetera. Donc, en
+14:29
+réalité, vous pourriez laisser comme ça. Pour le monde entier, on a 3 à 5 jours ouvrés à 29 €. Ce sera sûrement pas 3 à
+14:36
+5 jours ouvrés pour la majorité d'entre vous. Donc vous pouvez cliquer comme je l'ai fait hein sur modifier, faire ici
+14:41
+personnaliser à droite et là utiliser une plage. Donc mettez la plage que vous souhaitez, ça dépend vraiment de vous.
+14:48
+Moi je vous recommande par exemple he pour les envois internationaux de mettre quelque chose comme je ne sais pas, vous
+14:55
+mettez ce que vous voulez en réalité hein, vous pouvez mettre 5 à 14 jours si jamais vous voulez livrer euh à
+15:01
+l'étranger. Et si jamais vous voulez livrer uniquement en France, bah vous cliquez ici et puis vous faites
+15:06
+supprimer. OK. Moi, c'est ce que je vais faire. Comme ça, c'est plus simple. Union européenne, pareil, si vous voulez absolument livrer en Union européenne,
+15:12
+bah vous laissez hein 3 5 jours ouvrés, vous faites la même chose. Vous cliquez ici, modifier l'option d'expédition et vous mettez ensuite le nombre de jours
+15:19
+que vous souhaitez. OK ? Donc moi, je vais fermer, je vais plutôt modifier ce qui se passe ici. Là, vous voyez, on a express 1 à 2 jours ouvrés. Ça ça peut
+15:25
+être intéressant si vous pouvez proposer ça. Moi, je vais plutôt aller sur quelque chose comme livraison, VIP,
+15:32
+assurance, perte, casse, vol. Et ça, vous aurez des gens qui le prendront. Et
+15:38
+vu que vous aurez des gens qui prendront ça, vous pouvez mettre par exemple 5,90 €. Euh, vu que vous aurez des personnes
+15:43
+qui vont prendre euh ce type de livraison, j'ai mis 3 5 jours ouvrables, ça mettez vraiment en fonction de vous hein. Vu que vous aurez des gens qui
+15:49
+vont prendre ça, bah ça va augmenter votre panier moyen tout simplement. Je vous recommande dans tous les cas de rembourser quiconque a un problème de
+15:55
+perte de casse ou de vol, mais le fait de l'ajouter en payant, ça vous permettra d'avoir un panier moyen plus
+16:01
+élevé. Ensuite, modifier l'expédition. Regardez là, moi je vous recommande vivement de mettre l'expédition
+16:07
+gratuite. C'est-à-dire que on va enlever ça, on va mettre hop gratuit. Ici, on va
+16:13
+mettre 0 € gratuit, vous le voyez ? Et là, vous mettez votre durée d'expédition. Pourquoi je vous
+16:19
+recommande ça ? Parce que c'est la raison numéro 1 euh des échecs de panier, des abandons de panier. Donc, je
+16:25
+vous recommande de mettre gratuit. Si vous pouvez pas vous le permettre évidemment au niveau de votre marge, et ben dans ce cas-là, vous mettez un prix
+16:31
+adéquat. Essayez de pas dépasser quand même 4 € à peu près hein. À partir de 5 € ça commence à être problématique. Hop,
+16:38
+ensuite on clique sur enregistrer et voilà, vous avez déjà configurer l'entièreté de ce qu'il faut pour vos livraisons. Vous voyez, c'est quand même très simple. Vous avez pas besoin de
+16:43
+vous prendre la tête à faire des trucs compliqués. Euh date de livraison estimée, hein, on les laisse en automatisé. Shop promise, on en a pas
+16:49
+besoin. Emballage, si jamais vous avez déjà vos tailles d'emballage, vous pouvez les ajouter. Si c'est pas le cas, laissez comme ça. Pas besoin de
+16:56
+s'embêter. Étiquet d'expédition. Bah ça ça sera généré à chaque fois hein. Si vous avez des transporteurs préférés,
+17:01
+vous pouvez les sélectionner ici. Colissimo Mondial Relais, Chronopost hein. On clique juste sur enregistrer et
+17:07
+vous verrez, ils seront ajoutés à chaque fois que vous aurez une commande tout simplement. Nickel. Ensuite, on descend.
+17:13
+Bahà, livraison locale, retrait en magasin, point de retrait. Si ça vous concerne, je vous invite à cliquer. Sinon, on peut continuer parce que ça
+17:19
+concernera pas du tout la majorité d'entre vous. On continue. Taxe et droit de douane. Bah, si vous êtes en micro-entreprise, ça ne vous concerne
+17:25
+pas. OK, ça c'est plutôt intéressant et je fais une vidéo juste ici qui vous explique que il faut se fournir en Union
+17:31
+européenne et que ça coûte tout aussi peu cher que de se fournir en Chine pour ceux qui se fournissent en Chine. Donc
+17:36
+hésitez pas à aller la voir. Vous n'aurez aucun problème de droit de douane. Au niveau des emplacements, bahà c'est très simple, euh il y a un seul
+17:42
+emplacement, c'est l'endroit de la boutique, c'est important de le faire mais du coup cet emplacement c'est juste l'adresse de votre boutique. Si vous
+17:48
+avez si vous avez pardon une adresse de domiciliation, je vous recommande de la mettre. L'adresse de domiciliation, c'est fait avec les Gallace. C'est une
+17:54
+adresse pour éviter d'avoir votre vraie adresse sur internet premièrement et deuxièmement pour éviter de payer la CFE. La CFE c'est la cotisation foncière
+18:01
+des entreprises. C'est une grosse euh charge hein qui peut être grosse quand on débute en tout cas pour les plus
+18:07
+petites bourses. Et donc autant éviter en se mettant à Paris, ça vous coûtera beaucoup moins cher. Donc une fois que
+18:13
+c'est fait pour emplacement, on peut continuer marcher, on en a pas besoin, hein. Hop, c'est maintenant juste ici. Donc nous ça nous intéresse pas.
+18:19
+Ensuite, on a ici application. Bah là, on va garder le minimum syndical. Donc là, on voit qu'on a Shopify, Cloud
+18:26
+Connector Up. Ça c'est tout bon. C'est ce qu'on a fait tout à l'heure. Et Messaging, on peut éventuellement la garder. Ça ça me pose pas de problème.
+18:31
+Pour ceux qui savent pas ce que c'est, si vous en avez pas besoin, enlevez-le. Hop, vous cliquez juste sur test de
+18:37
+plusieurs applis et vous faites désinstaller. Ensuite, on a ici canau de vente. Cau de vente juste à gauche là,
+18:42
+vous le voyez. Hop, on peut cliquer sur canau de vente. On va pouvoir enlever les canaux de vente qui ne nous concernent pas. Si vous n'avez pas de
+18:48
+point de vente de boutique physique, vous pouvez cliquer sur désinstaller ici. OK ? Hop, vous mettez n'importe
+18:53
+quoi, on s'en fiche. De toute façon, on on désinstalle. Même chose pour ce qui se passe juste en dessous. OK ? Si vous
+19:00
+n'avez pas, enfin si vous n'êtes pas au Canada ou aux États-Unis, l'application Shop, on n pas besoin, on ne s'en sert pas. Donc hop, vous pouvez mettre
+19:07
+n'importe quoi comme n'utilise plus l'application, en l'occurrence, c'est quand même plus pertinent. On clique sur désinstaller et on continue à avancer.
+19:15
+Hop. Ensuite juste ici, on a domaine. Sur domaine, vous allez voir, c'est extrêmement simple. Il vous faut un nom de domaine. Donc on va cliquer sur
+19:21
+acheter un nouveau domaine. Vous rappelez, vous avez 15 € gratuit en crédit d'abonnement. Donc ça c'est super. Donc moi, je vais juste écrire le
+19:27
+nom évidemment ici de la boutique hein. Moi, c'est maison le loup en
+19:32
+l'occurrence et on va voir les domaines qui sont disponibles. Voilà, j'ai écrit maison-loup.com. On va cliquer sur rechercher et on va voir ce que ça
+19:38
+donne. Maisont-leloup.com est bien disponible. Donc je clique sur acheter juste ici et vous allez voir que comme
+19:44
+vous avez 15 € et que ça coûte 16 dollars et qu'en fait vous avez du coup déjà les information enfin les les 1395
+19:51
+estimés donc en fait ce sera gratuit. C'est ça que je voulais vous dire. Donc ce sera gratuit. Donc vous remplissez juste les petites informations là. OK ?
+19:57
+Vous cliquez sur acheter le domaine et vous allez voir que ce sera directement intégré à votre boutique Shopify en
+20:02
+quelques minutes. Vous aurez un vrai nom de domaine, un vrai nom de marque et ça c'est extrêmement important. On peut donc passer directement à la suite dès
+20:08
+que vous aurez cliqué sur acheter le domaine. Donc une fois que ce sera fait, vous aurez ici le nom de votre domaine. Événement client, juste là, on en a pas
+20:15
+besoin, vous n'avez rien à voir. Notification, vous n'avez pas besoin de cliquer dessus, vous n'avez rien à y voir non plus. Champ méta méta objet, pareil. Langue, on va quand même cliquer
+20:21
+dessus pour vérifier que tout est bien en français. Mais donc français, publié, ça c'est tout bon. OK. Convidencialité
+20:26
+des clients, ça c'est un sujet assez important effectivement. Et là, il y a pas mal de choses mais je vous rassure,
+20:31
+tout est automatisé. Politique de confidentialité, c'est automatisé. bannière des cookies, c'est automatisé.
+20:37
+Page d'opposition, partage des années, tout ça est automatisé, activé. Vérifiez bien qu'ici c'est Union européenne si vous êtes en France et ce sera tout bon.
+20:44
+On va cliquer ici ensemble sur politique. Et là, vous voyez, pas mal de choses sont automatisées. Donc ce que vous pouvez faire, c'est qu'en fait vous
+20:50
+pouvez cliquer dessus. OK, là vous voyez par exemple, il y a rien. Et ben, il suffit de demander à Claude, hein, hop,
+20:55
+vous devez juste lui demander, j'ai besoin que tu me génères des conditions général de vente pour ma boutique.
+21:01
+Pose-moi des questions. Il fera le le la rédaction tout simplement de tout ce dont vous avez besoin. Pour les mentions légales et cetera, c'est pareil. Et si
+21:07
+jamais vous voulez le faire avec moi, et ben j'ai une vidéo qui s'affiche juste là. Vous remplissez l'entièreté de vos politiques, c'est tout. Ça, c'est
+21:12
+vraiment très très simple. Et voilà, vous voyez, on a déjà fait l'entièreté des paramètres de la boutique. Donc ça,
+21:19
+c'est quand même extrêmement efficace. on peut directement passer à l'étape numéro 4. Et l'étape numéro 4, c'est une des étapes les plus importantes, c'est
+21:25
+ajouter les produits et les collections. Donc on va voir tout de suite comment on fait ça. Alors la première chose, ça va
+21:30
+être de mettre toutes vos images produits dans un dossier. Donc sur votre ordinateur, vous créez un dossier. Moi,
+21:35
+je vais vous montrer comment j'ai fait ça, hein. C'est plutôt simple. Hop, juste ici, j'ai créé, regardez. Voilà,
+21:41
+produit et collection. Donc là, j'ai mis collection avec toutes mes images de collection et produit. J'ai mis toutes mes images produits avec donc tous les
+21:48
+produits. OK, ça c'est plutôt très simple. Et ici, j'ai thème. OK, avec toutes les images qui vont être bah mes
+21:54
+images d'accueil, mes mes mon éventuel vidéo si je voulais mettre une vidéo autre pour pouvoir habiller un petit peu
+22:01
+et cetera et cetera. OK ? Le Favicon est le logo de ma boutique. Donc une fois
+22:06
+que vous avez fait tout ça, demandez à Claude de les regarder. OK ? Vous pouvez demander à Claude. Tout à fait. Je vais vous montrer comment on fait. C'est très
+22:12
+très simple. Vous allez à l'intérieur de Cloud, vous allez cliquer ici sur le petit plus et vous allez cliquer sur ajouter des fichiers ou des photos. OK ?
+22:19
+On clique dessus. Ensuite, vous allez dans le dossier qui vous concerne, c'est-à-dire moi, c'est maison le loup propre. OK ? Euh vous allez sélectionner
+22:27
+euh les fichiers qui concernent ce que vous voulez faire. Vous allez cliquer sur le petit plus juste là et là vous
+22:32
+allez cliquer sur ajouter un dossier. Ensuite, une fois que vous êtes dans le dossier que vous voulez là, vous voyez moi c'est donc moi c'est maison le loup
+22:38
+propre avec toutes mes images ici vous allez sélectionner un dossier par exemple produit et collection hein. Moi
+22:44
+c'est ça que je veux qu'il aille voir. Et vous allez tout simplement lui demander de les regarder et de les
+22:51
+nommer. OK ? les organiser avant de les importer dans Shopify. Donc vous allez tout simplement lui dire regarde puis
+22:58
+nomme ses images pour qu'elle soit simple à identifier
+23:06
+et à organiser avant que je les importe
+23:12
+dans Shopify. Vous lui dites juste ça. Regarde Pom ses images pour qu'elles soient simple à identifier et organiser avant que les importe dans Shopify et
+23:18
+vous envoyez tout simplement. Donc là vous allez voir, il va réfléchir et à la fin de sa réflexion et ben vous allez
+23:23
+voir, il va avoir tout simplement tout mis vraiment bien en ordre. Ce sera bien nommé pour que l'a comprenne le mieux
+23:31
+possible. Donc c'est très simple, vous n'avez rien à faire. J'ai juste écrit en français littéralement quelque chose de très simple. Regarde pu nomme ces images
+23:36
+pour qu'elles soient simple à identifier et à organiser avant que je les importe dans Shopify. Là, on s'arrête un instant pendant sa réflexion. il a besoin de
+23:44
+réécrire certaines choses. Donc là, on va cliquer sur toujours autoriser. De manière générale, pour que ça ne rearrive pas, n'hésitez pas à cliquer
+23:50
+sur ici ignorer les permissions. Pour ceux à qui ça fait peur, ne le faites pas mais globalement, c'est mon métier.
+23:55
+J'utilise clot code tous les jours et j'ai fait ignorer les permissions sur toutes mes conversations. Pourquoi ? Parce que globalement, il sait faire. Il
+24:01
+vous demandera quand il y a vraiment quelque chose et n'hésitez pas à lui dire vous enregistre dans ta mémoire que quand il y a quelque chose de sensible,
+24:07
+j'ai besoin que tu me fasses valider. Comme ça quand c'est sensible, il vous fera valider tout simplement et ça vous évitera d'avoir tout le temps à cliquer
+24:13
+sur le fait d'accepter certaines permissions. Donc voilà, moi il vient de terminer à l'instant, il me dit que il y
+24:19
+a deux petits points sur lesquels trancher. Donc vous vous aurez peut-être ça aussi. Hésitez pas à lui dire bah voilà, par exemple le premier un 1 on
+24:28
+garde parce que moi il me demande si on garde parce que il est pas sûr que ce soit exactement le même type de produit. Et pour le 2, je vais lui dire tout
+24:34
+simplement que ce sont les mêmes produits. Hop, voilà. Comme ça, ça y est, il m'a tout organisé. Donc pour la
+24:40
+deuxème partie, c'est bon. Faites pareil avec les collections dans un autre dossier. OK ? Donc là, on reclique ici, on refait ajouter un dossier
+24:46
+téléchargement, on va ici et là vous allez tout simplement cliquer sur votre dossier collection. Vous faites
+24:51
+exactement pareil, fait pareil ici avec les collections. Et une fois que c'est
+24:57
+fait, et ben on peut enchaîner. OK ? Une fois que c'est fait, vous allez pouvoir importer les images et donner le prompt à cloud tout simplement. Donc on vient
+25:03
+ici dans notre boutique Shopify, on va venir à gauche dans contenu. Vous allez voir ça va vous emmener directement ici
+25:09
+dans métabjet. Nous, on va plutôt aller dans fichier, juste là. Dans fichier, vous allez pouvoir importer un maximum de fichiers et d'images. Donc on va
+25:16
+pouvoir cliquer ici sur charger des fichiers. Ça va ouvrir là où vous avez toutes vos images et tous vos fichiers
+25:21
+et vous allez tout simplement et bien prendre hein toutes vos images. Donc moi par exemple là, il m'a tout mis dans des
+25:27
+fichiers séparés. Donc je vais devoir aller chercher toutes mes images. Mais donc vous si c'est dans des choses qui
+25:33
+sont communes, n'hésitez pas à évidemment tout mettre d'un coup hein. Moi, je reclique sur charger des fichiers puis sur euh ensuite mes
+25:41
+produits. Hop, charger charger. Ça va très vite, hein. En réalité, c'est
+25:46
+vraiment très rapide. Si vous aviez tout dans le même dossier, effectivement, ce serait plus simple. Mais comme je lui ai
+25:51
+demandé de réorganiser, il a tout mis dans des dossiers différents. Donc on charge tout et on se retrouve juste
+25:57
+après. Voilà, j'ai ajouter tous mes fichiers. Donc là, ils vont tous charger à l'intérieur euh de notre euh et bien
+26:03
+de notre petit espace et vous allez voir qu'on va pas avoir besoin de euh créer nos produits nous-mêmes. Donc avant
+26:08
+hein, on allait ici dans produit. Voilà. Donc il faut surtout rester sur cette page pour que tout se télécharge bien.
+26:13
+Avant on allait dans produit, on faisait tout nous-même et cetera. C'était un peu long, laborieux et compliqué. Et là, vous allez voir qu'en fait on va pouvoir
+26:19
+du coup maintenant qu'on aé les images, on va donner un prompt à Cloud et il va s'occuper de créer l'entièreté de nos
+26:25
+produits. On va faire ça tout de suite. Donc pendant qu'il est en train de le faire, moi je viens de récupérer mon prompte. Le prompte vous l'aurez évidemment dans la petite checklist que
+26:31
+vous avez dans la description hein, comme je vous l'ai dit, il est juste là. Et moi, je vais mettre le prompt. votre prompte. Encore une fois, il est
+26:36
+accessible dans la description, hein. C'est un des premiers liens. C'est le lien où vous avez accès à la checklist de tout ce qu'on fait dans cette vidéo.
+26:43
+Donc, prenez vraiment le temps de regarder euh et prenez ce prompt, ce sera très clair. OK ? Étape numéro 3,
+26:49
+euh étape numéro 2, étape numéro 1. Donc là, on va juste mettre euh hop ce
+26:55
+prompt. Vous n'avez rien à faire en fait hein, vraiment vous avez juste à envoyer ce prompt. On va juste attendre que tout
+27:00
+soit bien chargé. Une fois que toutes les images sont chargées, et bien ça y est, on pourra directement envoyer le prompt. On attend bien que ce soit
+27:06
+chargé et on envoie. Tous mes fichiers sont téléversés. On peut donc envoyer le prompt. C'est parti. Là vous allez voir
+27:12
+quand on va envoyer ce promp tout simplement qu'est-ce qu'il va faire ? C'est un prom très très complet. On le review ensemble pendant que lui il
+27:17
+travaille. Tu as accès à ma boutique Shopify. J'ai déposé toutes mes images dans contenu fichier. Leur nom indique le produit ou la collection. Étape 1,
+27:23
+liste les fichiers de la boutique et affiche-moi les non trouvés. ne crée rien tant que je n'ai pas validé cette liste. Étape 2, créer mes collections.
+27:29
+Puis chaque produit a un seul appel avec sa description, ses variantes, ses images et sa collection. Tout en statut actif et ne suit pas le stock. OK ? Ne
+27:36
+crée jamais un produit pour lui ajouter une variante. Ensuite, propose-moi des prix, ne me les demande pas. Pour les exactement trois puces, une ligne
+27:41
+chacun, chaque ligne commençant par un emoji en rapport avec le bénéfice évoqué. tourner vers le bénéfice pour le chien et son maître plutôt que la
+27:47
+caractéristique technique. Ton chaleureux et concret, pas de superlatif creux, aucune promesse chiffrée. Dis-moi
+27:52
+ce que tu as créé et signale-moi explicitement toute image que tu n'as pas réussi à rattacher à un produit ou à une collection. Voilà, ce prompte
+27:58
+évidemment, il sera adapté à vous. Ça parlera pas de chien dans ce que vous vous aurez. Je vous rassure, ce sera un prompte générique mais globalement c'est
+28:04
+un prom qui va vous créer l'entièreté de vos produits et de vos collections en quelques secondes avec toutes les descriptions optimisées. Ça c'est
+28:10
+vraiment vraiment puissant. C'est Shopify qui le fait, enfin c'est Lia qui le fait via Shopify évidemment. Et vous
+28:16
+allez voir que là ça va réfléchir 5 minutes. Donc on se retrouve dans 5 minutes quand tout a bien été créé. Évidemment au préalable vous ça vous
+28:23
+demande de trouver vos images produites. Là vous avez un tuto qui s'affiche pour faire vos images produits avec Lia si
+28:28
+jamais vous n'avez pas d'imag euh et évidemment ça vous demande juste en fait de savoir quel produit vous allez vendre
+28:33
+et cetera, mais globalement vous mettez tout dans un fichier et vous suivez ce qu'on vient de voir. C'est très simple, vous n'avez pas grand-chose à faire.
+28:38
+Commencez pas à vous dire "Ah mais moi je dois tout organiser comme lui et cetera." C'est Lia qui a tout fait. On l'a fait sous vos yeux. OK ? On a rendu
+28:44
+toutes les images propres avec les titres et cetera et ensuite c'est Lia qui a tout fait. Vous n'avez rien à faire tout seul. Vous pouvez aller faire
+28:49
+autre chose pendant ce temps-là. Vous pouvez créer votre micro-entreprise par exemple. Bref, le but c'est vraiment que ce soit le plus simple possible. On se
+28:55
+retrouve quand c'est terminé. Donc là comme demandé, il a réfléchi pendant 2 minutes. He là il me fait la liste des produits, fichier trouvé non contenu.
+29:00
+Donc produit collier balto, collier Togo, Gamel Bo, Gamel Waf, les bolt de
+29:06
+coloris, les Laica. les trois collections hors catalogue, hein, des images qui n'ont rien à voir. Et ce que
+29:12
+je te propose sur l'étape de 1 euh trois collections, six produits, les fichiers catalog ne seront pas utilisés dans les
+29:17
+produits et collection. Donc là, il me demande mon feu vert. Je te donne mon
+29:22
+feu vert pour les étapes suivantes.
+29:28
+Vas-y. On lui parle en français, on lui parle de manière simple, on lui dit des choses simples et là il va s'occuper de tout. Vous pouvez retourner faire autre
+29:34
+chose. Moi, par exemple, entre les deux là, pendant 2 minutes, bah je suis allé me faire un café. Donc faites pareil. Franchement, le but hein de LIA, c'est
+29:40
+vraiment de pouvoir travailler en faisant autre chose d'agréable à côté. Je ferai sûrement des vidéos à ce sujet, c'est pas le sujet-là. On avance. Je
+29:46
+vous fais juste un petit update amis parcours pour vous montrer où on en est. Voilà, il a commencé à créer les produits. Vous allez voir hein, si on
+29:51
+clique dessus, c'est quand même assez dingue. Il a rédigé l'entièreté des textes, il a mis les photos absolument partout. Il a mis un prix qui est un
+29:58
+prix indicatif. Vous pouvez modifier le prix vous ensuite. Stock non suivi, hein. C'est bien ce que je lui ai
+30:04
+demandé, hein. Donc ça c'est très bien. Emballage, il a mis l'emballage par défaut. Et là, il y a pas de variante, donc pas besoin de variantes. Il a aussi
+30:09
+rempli ce qui se passe ici au niveau de l'aperçu sur les moteurs de recherche qui va concerner le SEO, le
+30:15
+référencement naturel, c'est-à-dire le fait que les gens trouvent vos produits en tapant les mots sur Google. Vous voyez he c'est quand même assez
+30:20
+impressionnant. Tout a été fait automatiquement par Lia. Euh voilà, il en est déjà à quatre. On se retrouve
+30:26
+quand il a terminé. Voilà, c'est entièrement terminé. On peut voir que les six produits ont bien été ajoutés là. Si vous cliquez sur collection ici,
+30:32
+et bien les collections ont elles aussi été créées. On a une collection page d'accueil qu'on peut hop venir ici et
+30:37
+cliquer sur supprimer la collection parce qu'on en a pas du tout besoin. Les produits ont bien été répartis, donc on a deux produits à chaque fois par
+30:44
+collection. Et là c'est tout simple hein. Ce que vous devez faire c'est que vous cliquez sur chaque produit. Vous aurez donc bien vos images. Vous
+30:50
+vérifiez que le texte vous va et correspond hein évidemment fait en fonction de vos produits. Et après vous
+30:55
+modifiez le prix. Vous modifiez éventuellement les variantes quand il y a des variantes. Ça c'est effectivement
+31:02
+assez important. Par exemple, moi il me semble que j'ai une variante sur la less bolt. Je vais venir vérifier que la
+31:08
+variante voilà, on a une variante beige, une variante grise. Je peux cliquer ici pour ajouter l'image beige. Donc l'image
+31:14
+beige, elle est juste là. Et ensuite l'autre, je clique et j'ajoute l'image grise. Vous voyez, c'est extrêmement simple. On clique sur la grosse photo et
+31:20
+puis on ajoute. Là, il reste plus qu'à cliquer sur enregistrer. Et voilà hein, pour la partie ajout produit, ajout
+31:25
+collection. Tout vient d'être fait. Rendez-vous compte, Lia a tout fait. Lia a tout ajouté. Ça c'est quand même
+31:31
+vraiment impressionnant. Euh ça a été fait en [grognement] quelques minutes, en tout hein, en tout et pour tout. Ça a
+31:36
+dû prendre 5 minutes pendant lequel euh pendant lesquelles pardon moi j'ai fait autre chose. Donc c'est plutôt euh
+31:42
+plutôt assez impressionnant et ça permet d'avoir des textes qui sont déjà rédigés. Et ça tombe bien puisqu'on passe à la dernière partie, étape numéro
+31:49
+5, installer et configurer le thème Shopify. Pour faire ça, c'est très simple. On descend en bas dans boutique en ligne. OK. Ensuite, on va aller à
+31:56
+droite et vous allez voir qu'on va pouvoir configurer le thème Horizon. C'est le thème que je vous recommande.
+32:02
+Pourquoi ? Parce que c'est le thème, enfin c'est pas vraiment le thème Horizon en réalité, mais je vais vous
+32:07
+expliquer exactement. Donc le thème Horizon, c'est tout simplement un nom pour parler du thème de base de Shopify,
+32:14
+hein, qui est en fait l'équivalent. On va visiter le thème store juste pour que je vous montre ça en deux petites secondes, mais c'est exactement le même
+32:21
+thème que les 15 thèmes suivants. Donc on va cliquer ici sur gratuit. Vous n'avez pas besoin d'acheter un thème payant sur Shopify, jamais de la vie
+32:28
+même. Hop, on va cliquer sur les plus récents et vous allez voir que tous ces thèmes sont en fait les mêmes. Donc si
+32:33
+on descend jusqu'à Horizon, voilà, Horizon, Horizon pardon et juste ici tous ceux qui sont ensuite. Donc
+32:39
+Horizon, Ritual, Heritage, Atelier, Peit, Tinker, Doel, vaisselle, Savor et Fabrique, ce sont les mêmes thèmes que
+32:46
+Horizon. OK ? Et tout ce qu'il y a avant, Rise, Trade, Spotlight, Publisher, Origin et cetera et cetera
+32:52
+jusqu'à D sont les mêmes thèmes que don. Donc de don jusqu'à rise, c'est le même thème et de horizon jusqu'à fabrique,
+33:00
+c'est le même thème aussi. OK ? Hein ? Quand vous triez par les plus récents, évidemment. Du coup, bah en fait, j'appelle tout ça horizon. He nous, on
+33:06
+va utiliser Tinker parce que c'est un thème qui je trouve a déjà des caractéristiques qu'on aime bien en terme de disposition mais on va pas se
+33:13
+mentir, c'est exactement pareil quoi que vous utilisiez comme thème tant que ça reste dans la gamme horizon. Donc nous,
+33:19
+on va utiliser Tinker, on va cliquer ici sur ajouter et puis on va pouvoir le configurer directement parce que vous allez voir, c'est très bien fait et très
+33:25
+rapide. Ça va donc s'installer juste ici. Là, on a le thème qui est actuellement euh sur notre boutique.
+33:31
+Vous avez le mot de passe, mais le mot de passe, beaucoup de gens se disent "Aon, je vais pas enlever mon mot de passe, sinon les gens vont pouvoir venir sur ma boutique." Non, si vous n'avez
+33:37
+pas donné votre boutique quelque part euh précis, euh et ben personne ne viendra sur votre boutique. Les gens
+33:42
+vont pas tomber miraculeusement sur votre boutique. Je vous rassure, vous pouvez travailler des semaines avec sans mot de passe. Tant que vous ne donnez
+33:47
+pas le lien quelque part comme sur Instagram ou que sais-je, peu importe, personne ne va tomber dessus. Euh voilà.
+33:53
+Donc moi, j'ai installé Tinker ici. On va cliquer sur publier parce que c'est exactement ce que je veux. OK, le thème
+34:00
+Horizon, on va pouvoir hop cliquer juste ici sur supprimer. Je vous rappelle que Horizon et Tinker sont exactement le même thème. C'est juste qu'ils sont
+34:05
+disposés différemment. Et puis on va pouvoir cliquer ensemble ici sur modifier le thème. Et là, on va s'occuper en premier lieu des paramètres
+34:12
+de thème. Alors, vous allez voir, c'est très simple les paramètres de thème. C'est juste en haut à gauche ici. Et là, on a logo et favicone. Bah, qu'est-ce
+34:18
+qu'on fait ? Et ben, on ajoute son logo. Donc, on clique sur sélectionner. Puis là, vous allez chercher votre logo. Moi, il est juste là. Hop, je l'ajoute et je
+34:25
+clique sur terminer. Logo inversé, j'en ai pas besoin. Et mon favicone, et bah j'ai aussi un favicone quelque part. Il
+34:31
+est juste là. Le favicone, globalement, vous pouvez aussi mettre votre logo ou alors juste mettre votre logo en rond, hein, tout simplement. Vous pouvez faire
+34:37
+ça avec Canas, c'est très simple. Vous laissez ça bien comme ça. OK ? Et voilà,
+34:42
+déjà vous aurez votre logo, voilà, moi qui s'affiche juste ici. Donc ça c'est positif. Ensuite, palette de couleurs.
+34:47
+Voà, vous allez pouvoir ajouter les couleurs qui concernent votre marque. Donc moi, les couleurs, elles sont ici. Donc je vais les ajouter une par une.
+34:52
+Hop, j'ai ma première couleur juste là. Donc je vais l'ajouter juste ici. Hop
+34:58
+là. Ça c'est ma première couleur. Ensuite ma deuxième couleur, je reprends
+35:04
+ici. Hop. C'est pas exactement du noir he c'est une couleur avec un peu plus de personnalité que juste du noir. Et c'est
+35:09
+super. On va mettre la troisième couleur qui va être globalement, je pense, la couleur de fond, même si je pense
+35:14
+qu'elle est encore trop forte. Donc on va la baisser. Regardez, on va prendre cette couleur, on va mettre en transparent. Hop, on va baisser comme
+35:21
+ça. On va mettre à à 30 30 % je pense. Je pense que c'est pas mal. On la voit à
+35:26
+peine. Et là, regardez ce qu'on va faire. On va hop dupliquer ce rond qu'on
+35:32
+va mettre juste là. Et pour sa couleur, on va venir chercher cette couleur là. Voilà. Comme ça, là, on a vraiment la
+35:37
+couleur qu'on veut. Et pour savoir ce qu'est le code de cette couleur, et ben on vient ici. Et là, on l'a. Voilà.
+35:44
+C'est aussi bête que ça. Si jamais la manipe a été trop rapide pour vous, hésitez pas à la revoir mais globalement, vous n'aurez pas vraiment
+35:49
+besoin de faire ça vous. OK, là on vient donc d'ajouter tout ça et donc on peut cliquer sur enregistrer. Voilà. Moi, je
+35:55
+viens d'ajouter les couleurs dont j'avais besoin. Il y a des couleurs là dont on a pas forcément besoin. Donc je peux la supprimer. Hop, ça remplacera la
+36:02
+couleur supprimée partout où elle est utilisée dans votre thème. Très bien. Hop, on va cliquer comme ça. Et voilà.
+36:08
+Comme ça, c'est clair, net, précis, bien fait. On a mes quelques couleurs. J'ai laissé du blanc et du noir parce que c'est toujours intéressant et important
+36:14
+d'avoir du blanc et du noir. Ensuite, dans typographie, ben moi je sais déjà quels sont mes polices. OK, j'ai titre
+36:20
+Cooper BT et texte, hein. Si jamais ce sont des polices qui n'y sont pas ou si jamais vous en voulez d'autres, et ben
+36:26
+vous pouvez choisir vos polices ici. N'hésitez pas à cliquer, à tester, à regarder. Moi, je vais laisser celles
+36:32
+qui sont actuellement sur la boutique parce que je les trouve très bien. Elles iront bien avec mon type de produit. Donc ça, on peut laisser comme ça. J'ai
+36:38
+mis instrument de sérif partout. Ce sera très bien ainsi. Au niveau de tout ce qui est en dessous, je vous recommande
+36:44
+de ne pas y toucher. Paragraphe, titre 1, titre 2, tout ça, on y touche absolument pas. On peut descendre directement jusqu'à page. Dans page,
+36:51
+hein, l'arrière-plan de la page, et ben on va pouvoir hop à chaque fois sélectionner la couleur de fond. Moi,
+36:56
+c'est une couleur qui a un peu plus de personnalité que du blanc, couleur qui va faire ressortir un peu le tout. Donc je suis content d'avoir choisi cette
+37:01
+couleur. On peut cliquer directement sur enregistrer. Si vous voulez désactiver l'inspecteur juste ici, c'est tout à
+37:06
+fait possible. Ça évitera, voilà hein, queil y ait tout ce qui euh en queil y ait tous ces ces sélecteurs bleus à
+37:12
+chaque fois qu'on passe sur quelque chose. Ensuite, animation, transition de la page, tout ça, on laisse effet de
+37:17
+survol de la carte, on laisse. Regardez comme c'est joli. Ça fait juste tout simplement que ça se soulève quand on passe. C'est très simple et c'est très
+37:24
+joli. Ajou au panier, tout ça, on laisse. Badge. Alors, les petits badges, qu'est-ce que c'est ? bah ça va être
+37:30
+quand il y a par exemple des produits qui sont épuisés ou des produits qui sont en promo. Et ben dans ce cas-là, ça
+37:36
+fera un petit badge ici sur la carte, hein. Position sur les cartes en haut à gauche. Donc on le mettra juste ici, c'est pas un problème. Rayon de bordure,
+37:42
+tout ça, on laisse 40 hein, ça c'est très bien. Ça veut dire que ça fera une pilule toute ronde. Arrière-plan du badge, on peut laisser comme ça. Ou
+37:48
+alors au contraire, on peut venir chercher du coup de la couleur et comme ça le texte, on va le mettre plutôt clair pour avoir quelque chose qui
+37:54
+ressort un petit peu. Ça ça sera très bien. Le badge épuisé, bah quand c'est épuisé, on va plutôt mettre du rouge, hein. Moi, c'est plutôt effectivement ça
+38:00
+que j'ai envie de mettre. Donc, je vais mettre du rouge quand c'est épuisé. Et du coup, le texte, on va le mettre en
+38:06
+noir pour que ça ressorte bien. Hop, typographie, on laisse, on a pas besoin. Ensuite, bouton. Bah là, on va pouvoir
+38:12
+faire exactement la couleur de nos boutons. Et ça va être très important parce que les boutons, c'est ce qui fait
+38:17
+partie intégrante de la boutique et de la conversion à la fin. Donc, arrière-plan du bouton principal. Je
+38:22
+vous recommande de laisser en doré. Effectivement, ça va laisser des boutons qui ressortent bien. Au niveau du texte
+38:28
+du bouton, on va laisser aussi en noir. Comme ça, encore une fois, ça ressortira bien. Les bordures, on va les laisser en noir. Pas de bordure, pas besoin. Au
+38:34
+niveau des rayons, moi j'aime bien avoir une bordure euh enfin plutôt un rayon de bordure. Donc c'est-à-dire un arrondi
+38:40
+hein qui n'est pas si arrondi que ça. Là, c'était très très arrondi pour moi. On va laisser comme ça en 20. Moi,
+38:46
+j'aime bien en 20. Police, on laisse la police de corps de texte. Et bouton secondaire, ça c'est si jamais vous voulez un bouton secondaire et c'est
+38:52
+vivement recommandé. Donc regardez, le bouton principal, il sera ici en doré, le bouton secondaire, il sera ici en
+38:57
+noir. Ce qu'on va juste faire, c'est qu'on va mettre le même rayon de bordure. Hop, on met en 20 pixels. Hop,
+39:04
+on actualise et vous voyez ça a modifié juste ici. Par exemple, on peut dire que 20 pixels, finalement, c'est un peu trop qu'on vient mettre jusqu'à 10 pour voir
+39:11
+ce que ça donne. Et on se dit là, hop, quand on actualise que 10 pixels, c'est super. Donc, on va pouvoir mettre 10 pixels ici aussi. Et vous voyez donc le
+39:18
+bouton sur la droite qui a été super bien fait. Si jamais vous voulez voir la vue mobile, vous cliquez là he en haut à
+39:24
+droite ici vue ordinateur, vue mobile. Vous aurez les deux vues et ça peut être intéressant effectivement puisque la
+39:30
+majorité de votre trafic vient bien du mobile mais une vente sur trois se fera sur ordinateur. Donc les deux sont très importants. Hop, tout le reste, on a pas
+39:37
+besoin d'y toucher. Ça qui est vachement bien en fait, c'est que tout est déjà bien fait. Pour les pilules qui va qui vont être pardon les pilules de
+39:43
+réduction, les pilules de variantes, je vous recommande de laisser 40. Au niveau du panier. Alors là, au niveau du panier, il va y avoir un truc important
+39:49
+à faire, c'est qu'on va effectivement laisser all product ici pour que les gens soient redirigés vers le panier.
+39:55
+OK. Ajouter au panier, ouvre automatiquement le tiroir. Ça c'est un oui, un vif oui. C'est très important.
+40:01
+Le panier tiroir sur la droite, on va le laisser. OK. Casse du titre du produit, on laisse. Autoriser les régulions dans
+40:06
+le panier, on le laisse aussi. Échéance, ça aussi on laisse. Bouton de paiement accéléré, ça vous pouvez éventuellement
+40:13
+l'enlever. OK. Euh ça peut améliorer la conversion mais ça dépend vachement quand même de ce que vous allez faire. Donc je vous recommande de l'enlever
+40:19
+dans un premier temps et de faire des tests plus tard. Ensuite, support multimédia du produit. Tout ça, on en a pas besoin. On met aucun et comme ça, on
+40:25
+peut passer à la suite. Au niveau des tiroirs, les tiroirs, couleur d'arrière-plan, bah vous pouvez mettre couleur de la page, hein. Vous pouvez
+40:31
+mettre couleur blanc. Voilà, il y a beaucoup de possibilités. C'est un peu vous qui voyez. Moi, je vais mettre la
+40:36
+couleur de fond comme ça. Et ce que je peux faire, c'est la couleur du texte comme ça. Là, vous pouvez mettre une petite bordure par exemple, hein. Vous
+40:43
+mettre une petite bordure donc par exemple du coup en noir. Hop, ça vous aurez une petite bordure icône. Au
+40:50
+niveau des icônes, je vous laisse, je vous je vous conseille de laisser par défaut. Champ de saisie, globalement, c'est assez bien fait. Vous n'avez pas
+40:55
+besoin de sélectionner quoi que ce soit ici. Je vous recommande de laisser. Vous pouvez éventuellement mettre une petite
+41:01
+bordure. Regardez, on va mettre une petite bordure en noir, le texte comme ceci. et ça fera vraiment que tout ce
+41:07
+qui va être champ de saisi va se démarquer et ressortir un petit peu. Hop, popup over et fenêtre modale. Bah
+41:14
+là, hop, on va mettre la même couleur que la couleur de fond puisque c'est ce qu'on veut, sauf si on voudrait que ça ressorte. Si on vouit que ça ressorte,
+41:20
+on laisserait blanc comme ça, on aurait vraiment quelque chose qui permet de ressortir un petit peu, d'être plus
+41:25
+visible. Rayon de bordure, on peut laisser un 6, ça me pose pas du tout de souci. On peut même mettre 10, hein, comme ça, on est cohérent partout. Et
+41:31
+là, on va pas mettre de bordure comme ça. On va plutôt mettre une bordure noire ou alors de votre couleur d'accentuation. Là, je le fais vite,
+41:37
+hein, mais c'est vous qui voyez en en réalité, pardon. Ombre portée, on laisse comme ça. Au niveau des prix, bah là, on
+41:43
+laisse code de devise. Ça c'est est-ce que vous voulez que ce soit marqué euros et cetera ? Moi, je vous recommande de
+41:49
+laisser comme ça, ce sera très bien. Carte de produit. Alors, est-ce que vous voulez l'ajou rapide ? Là joue rapide.
+41:55
+Là, il s'affiche pas mais globalement, ce sera un petit bouton qui s'affichera juste ici qui vous permettra d'ajouter
+42:00
+rapidement vos produits. Si on fait non, on le fera juste après. Donc ça, je vous recommande de le laisser he parce que ça
+42:06
+prend pas de place, c'est très bien fait. Ajour rapide sur mobile, on ne le met pas, pas besoin. Support multimédia, afficher la deuxième image au survol, ça
+42:13
+on laisse, c'est très important. Ça fera qu'il y aura une deuxième image ici. Vous verrez. Et afficher le garouel est important aussi. Recherche, hein, tout
+42:19
+ça, on en a pas besoin, on peut laisser. nuancier, ça c'est si jamais vous voulez des euh images de variantes pour vos euh
+42:27
+produits avec des variantes justement, est-ce que vous voulez des petites images sur les euh sur la partie et bien
+42:32
+où on choisit la variante ? Vous pouvez le mettre tout à fait. C'est toujours agréable et un peu plus orienté pour la
+42:39
+conversion. Ça c'est les petits tips de conversion que je vous donne qui sont importants. Sélecteur de variantes. Bah là ce qui est bien c'est que globalement
+42:44
+on a pas besoin de toucher à grand-chose hein. Laisser ça comme ça. On veut que ce soit le plus épuré possible. CSS
+42:49
+personnalisé c'est tout bon. et on peut cliquer du coup sur enregistrer. Là, vous avez l'impression qu'on a rien fait mais en fait, vous allez voir qu'à
+42:54
+partir de maintenant, quand on va modifier le thème et bien ça va très très bien se faire. Alors, la première
+43:00
+chose qu'on va faire, c'est qu'on va ensemble modifier cette grande image là. Donc, ça c'est ce qu'on appelle la bannière principale. Elle est juste là
+43:07
+cette bannière principale. On va cliquer dessus. On voit ici qu'on peut ajouter une image. Donc, on clique sur image. Et
+43:12
+là, on va tout simplement venir chercher une belle et grande image comme celle-ci. Regardez. Hop.
+43:19
+et on va voir tout de suite ce que ça donne. Ça va être joli immédiatement. Voilà, on a tout de suite une belle
+43:24
+image. Vous pouvez faire cette image avec I si vous voulez, ça rendra bien. Si vous voulez en mettre une deuxième
+43:30
+pour éventuellement avoir quelque chose de voilà où vous présentez d'autres
+43:35
+produits, je vous montre un peu comment ça rend parce que c'est très joli aussi. Hop, voilà. Ça vous permet d'avoir deux
+43:41
+images comme ça qui sont jolies et qui montrent différents produits que vous avez. Donc ça c'est quelque chose qui est tout à fait possible. Ensuite, on
+43:47
+descend. hein. Là, globalement, il y a rien à toucher, hein. C'est vraiment pas des choses qui me perturbent. Donc, je
+43:53
+ne vous recommande, enfin, je vous recommande plutôt de ne pas toucher à tout ça. Regardez là, ici, on a une petite superposition. Je pense que ça
+44:00
+peut être intéressant de l'augmenter un tout petit peu pour juste mieux voir le
+44:05
+texte qu'il y a derrière, qu'il y a dessus, pardon. [grognement] Vous verrez, hein, que ce texte-là est très important par rapport à l'image.
+44:10
+L'image, on la voit quand même très bien. C'est quand même très joli, vous le voyez. Donc là, moi, j'ai une belle image, hein. Donc, j'ai pas besoin de
+44:16
+venir faire plus. J'ai pas besoin de venir tout retravailler absolument pour que ce soit parfait. On va plutôt
+44:21
+cliquer ici et on va écrire nos petits textes. Découvrez nos produits pour et
+44:28
+on va venir hop utiliser inspecteur pour pouvoir cliquer ici pour vos meilleurs
+44:35
+amis. Alors, découvrez nos produits. On évite d'écrire ça, hein. Moi, je l'ai écris à la va vite. Écrivez plutôt quelque chose comme découvrir nos
+44:43
+accessoires. Et là, vous pouvez mettre un petit qualificatif, quelque chose qui va donner envie. Donc ça peut être nos
+44:49
+accessoires écho responsable pour vos meilleurs amis. OK
+44:54
+? Et on va mettre un A majuscule pour que ce soit cohérent. OK ? Puis là, on va écrire aussi un petit texte. Si jamais vous n'avez pas d'idée, vous
+45:00
+pouvez demander euh ici, hein. Vous voyez, vous cliquez sur générer du texte et vous dites euh un brief rapide en
+45:09
+deux lignes sur ma marque de produit
+45:14
+pour de produits écho responsable pour
+45:19
+chien. Encore une fois, c'est comme ça qu'on utilise li au quotidien quand on utilise Shopify. Parce que si vous
+45:25
+voulez pas rédiger vos textes, vous pouvez enfin vraiment si vous n'avez aucune idée et ben hop pour chiens l qualité responsabilité environnementale
+45:31
+chaque critique est conçu pour le bien-être de votre de votre compagnon et de la planète. Vous voyez c'est super. On clique sur enregistrer et on a déjà
+45:37
+quelque chose qui est très bien. Euh OK, on a fait du coup cette bannière principale. Maintenant on va remonter un
+45:43
+peu et on va faire la barre d'annonce. On va cliquer sur barre d'annonce sur l'annonce et puis là on va pouvoir écrire par exemple découvrir nos
+45:50
+collections. OK. Et là, au lieu de mettre all product, on va mettre toutes les collections. Voilà, comme ça, on a
+45:55
+un petit bouton qui va rediriger directement et ce sera hop très clair. Comme ça, on peut mettre une petite
+46:01
+flèche, c'est encore plus sympa. Découvrir nos collections. Pas besoin de toucher au reste. Si jamais on voulait vraiment mettre ça en avant, on
+46:06
+cliquerait ici sur barre d'annonce. Et là, en couleur d'arrière-plan, on irait chercher par exemple un peu plus de couleur avec notre petit doré, hein.
+46:13
+Voilà. Ensuite, on clique sur enregistrer. Ici, on va ajouter un petit bouton parce que c'est quand même assez important de pouvoir ajouter un bouton
+46:20
+dans notre bannière. Donc là, on va descendre. Vous voyez hein, on a nos produits là. Groupe, titre, texte, c'est
+46:25
+juste là. Donc on va survoler. On va cliquer ici. Et là, on va taper sur bouton. Ça va nous ajouter un petit
+46:31
+bouton directement. Vous allez voir comme c'est bien fait. Et ce bouton, on va tout simplement l'appeler
+46:37
+découvrir. Et là, bah vous pouvez mettre produits, collection. Voilà, vous mettez un peu ce que vous voulez. Euh moi, je
+46:44
+vais aussi mettre toutes les collections encore parce que ça reste euh un des boutons les plus importants, enfin un
+46:49
+des liens les plus importants. Hop, on clique sur enregistrer. On regarde un peu ce que ça donne. Et regardez comme
+46:54
+on a maintenant un beau header, une belle bannière quand on arrive. OK, on enchaîne directement. Ici, on va pouvoir
+47:01
+mettre les produits. Donc, on va pouvoir écrire découvrir nos best sell seller.
+47:07
+Et là, juste avant de pouvoir ajouter nos produits, et bien il y a un petit dernier truc à faire. On va revenir à
+47:13
+l'intérieur ici, on va aller dans produit et le prompt, moi le mi en tout cas n'a pas fait quelque chose. Vous je vous le mettrai dans le prompt, vous
+47:19
+inquiétez pas, mais ils n'ont pas été publiés sur la boutique en ligne. Donc on va cliquer ici à droite puis on clique sur boutique en ligne tout
+47:24
+simplement. OK ? Et après ça ben en fait on va le faire pour tous les produits et on va regarder si on peut le faire de
+47:30
+manière globale et générale hein. Hop on clique ici et on va cliquer ici sur inclure dans les canaux de vente. OK ?
+47:37
+Et comme ça sera ils sont tous inclus dans les canaux de Vance. On va faire la même chose avec les collections. Hop, les collections. On va faire inclure
+47:44
+dans les canaux de Vance. Hop, et on revient sur boutique en ligne directement. Et là, vous allez voir que
+47:49
+tout sera bien ajouté. Clique sur le petit le petit stylo juste là et ce sera
+47:54
+bon. Hop, voilà, nos produits sont bien affichés maintenant hein, puisqu'on a mis du coup nos différents produits.
+48:00
+Donc, on va cliquer sur collection en vedette. Et moi, j'aimerais bien euh laisser comme ça tout simplement parce que là, on a pas mal de produits, c'est
+48:06
+assez joli. On va plutôt s'arranger pour que le style continue de correspondre.
+48:12
+Alors, nombre de produits, bah du coup nous c'est plutôt 6. Nombre de colonnes, plutôt 3. Et regardez ce que ça va
+48:17
+donner. Paf ! Regardez comme c'est joli. Regardez comme c'est beau en quelques instants quoi. Grâce à Tinker et grâce à
+48:23
+ce qu'on a fait avant. Grâce à Lia, c'est vraiment très sympa. On peut faire un carousel sur mobile. Si vous vous demandez à quoi ça ressemble, hop. Et
+48:31
+ben ça ressemble à ça. C'est pas forcément ce que je vous recommande de faire surtout pour les premiers pro du B
+48:36
+au tout départ comme ça. Mais voilà, sachez quand même que c'est possible. OK. Espacement horizontal, tout ça, on
+48:42
+laisse, mise en page de la section, tout ça, on laisse, couleur d'arrière-plan, tout ça, on laisse. Vous pouvez éventuellement venir mettre votre couleur comme cela, mais regardez, ça
+48:49
+vient un peu perdre la dimension qu'on a ici avec les images. On va plutôt laisser comme ça et cliquer sur
+48:55
+enregistrer. Découvrir nos bestsellers. OK. Ensuite, ici, on va pouvoir mettre encore des images, hein. Ça ça va être
+49:01
+très intéressant. Donc, regardez, on reclique sur activer l'inspecteur. On va mettre découvrir nos colliers. Ici, on
+49:08
+va pouvoir mettre directement une image de collier. Donc là, on clique sur l'image et ensuite on clique à gauche sur sélectionner. Hop, les colliers, ils
+49:14
+sont là, par exemple. Ils sont très beaux. Impeccable. Ici, au lieu de mettre une vidéo, nous on va cliquer sur
+49:20
+image, puis on va sélectionner et on va mettre une image d'un chien avec un collier. Là, on en a un par exemple qui
+49:26
+est très bien. Hop. Et vous voyez he comme en quelques instants, ça rend bien
+49:31
+notre collection phare, celle qui habille vos toutou
+49:40
+comme si comme s'ils étaient sur leur
+49:45
+31. Voilà, c'est c'est du feeling, hein. J'écris vraiment ça au hasard. Mais vous voyez l'idée, le but ça reste d'avoir
+49:51
+quelque chose qui se lit bien. OK ? Si vous n'avez pas d'idée, comme d'habitude, vous cliquez juste là,
+49:57
+cliquez sur générer du texte et vous décrivez ce que vous voulez écrire ici. [grognement] Hop ! Au lieu de shop now,
+50:02
+on va mettre découvrir les colliers. Et là, on va mettre le lien du coup de la collection. On clique
+50:09
+sur all product et sur collection. Et là, on va pouvoir mettre du coup les colliers tout simplement. Et vous voyez
+50:14
+hein comme ça rend bien d'un coup. Le bouton c'est pas un bouton secondaire, c'est un bouton principal. C'est très important. C'est un bouton vers les
+50:20
+collections. Donc c'est un bouton principal. Hop, shop by collection. Bah là du coup, on va pouvoir mettre nos collections. Donc on vient juste là hein
+50:27
+sur un peu le le général carte de collection. On va même plutôt fermer ça et revenir plus haut. Regardez liste de
+50:34
+collection juste là à gauche. Et là les collections et ben on va les sélectionner hein. On en a une, on en a deux, on en a trois. Donc nous, on va
+50:40
+mettre nos trois collections et voilà comment ça va les afficher. Regardez comme c'est beau. Alors, on voit pas
+50:46
+bien là les textes. Ce qu'on va faire, c'est soit qu'on va les écrire en blanc, soit qu'on va mettre un petit fond. Je vais vous montrer comment on fait ça.
+50:51
+Regardez, on va cliquer juste [grognement] là. OK, titre de la collection. Et là, on voit que ça manque
+50:58
+d'un petit arrière-plan. On va ajouter un petit arrière-plan. Et vu que c'est aussi cliquable, on va pouvoir ajouter
+51:03
+un petit arrière-plan euh qui est tout simplement doré. Voilà, comme ça ça fait
+51:09
+une petite pilule. Regardez comme c'est joli. Si vous vouliez que ce soit
+51:15
+hop différent, hop voilà, c'est quand même vachement plus sympa d'un coup. On
+51:20
+enlève ça et regardez comment ça rend. Ça rend extrêmement bien. Donc ici, c'est écrit en anglais et évidemment enlever tout ce qui est anglais. Donc
+51:27
+découvrez toutes les collection. On clique sur enregistrer. Hop, ici en bas,
+51:34
+on traduit juste donc rejoignez notre newsletter. Si vous n'avez pas de
+51:39
+newsletter, évidemment supprimer cet encar, il ne sert du coup à rien. Ici, au lieu de shop, on va mettre boutique.
+51:47
+On créera les menus juste après, je vous rassure. Ici, au lieu de help, on va mettre autre. Et ici, au lieu de about,
+51:54
+et ben on va rien mettre du tout parce qu'en fait, on en a pas besoin. Donc ce troisème menu là, on va pouvoir le supprimer. Hop. Et ici, on va mettre
+52:01
+suivez-nous sur les réseaux. Suivez-nous. Et là, vous allez pouvoir mettre vos différents liens. OK ? Là, vous avez les liens de réseaux sociaux.
+52:07
+Donc vous mettez tout simplement vos petits liens à chaque fois hein. Donc là vous mettez le lien de votre Insta, le lien de votre Facebook et cetera. OK, on
+52:13
+va cliquer sur enregistrer et on va s'occuper de ces petits menus et de cette image. Regardez là, il manque une petite image. On clique juste dessus, on
+52:20
+sélectionne et vous mettez une image qui vous plaît, qui correspond vraiment à ce que vous voulez présenter de votre
+52:26
+marque et à quelque chose qui va parler aux gens. Moi, j'aime bien l'idée de
+52:32
+mettre cela. Donc, on va mettre hop une petite image de gamelle tout simplement.
+52:37
+On clique sur enregistrer, on vérifie et regardez comme on a une belle page. Regardez comme hop, si on ferme, hop,
+52:44
+regardez comme notre page d'un coup en quelques minutes à peine est belle et
+52:49
+comme elle donne envie, comme c'est professionnel. Alors certes, c'est beaucoup les images qui nous vent, mais c'est aussi la manière dont ça a été
+52:54
+agencé et dont c'est présenté. Vos images, vous pouvez les faire avec Lia, donc vous pouvez tout à fait avoir des images aussi belles que celle-ci. Euh,
+53:01
+on va juste faire les menus ensemble. OK, vous allez voir les menus, ça va être très très simple. On va ici tout en
+53:07
+bas dans pied de page. Là, on a menu. OK. Et là, il va falloir du coup choisir
+53:13
+le menu. Alors, on va cliquer sur modifier. Ça va nous emmener directement dans les menus de Shopify. On va faire
+53:19
+euh deux menus très simples. On va faire un menu boutique avec nos différentes collections et on va faire un menu euh
+53:24
+pied de page donc qu'on va appeler menu autre. Hop. Donc nous, on va l'appeler autre. On va mettre quoi ? On va mettre rechercher. On va mettre accueil.
+53:30
+Regardez, on va mettre le lien de la page d'accueil. Ensuite, on va aussi mettre par exemple les
+53:36
+politiques. Là, si vous avez un les politiques don on a parlé tout à l'heure, hop, on clique sur enregistrer.
+53:42
+Si jamais vous aviez autre chose comme une page à propos, par exemple, ce serait tout à fait ici qu'il faudrait le mettre. Ensuite, on revient juste là et
+53:48
+on voit que il y a un autre menu là, menu principal. Ce menu principal, du coup, on va pouvoir h supprimer.
+53:54
+Supprimer aussi, supprimer aussi. On va juste mettre nous nos collections. On va mettre les colliers. Collection.
+54:02
+collier. Ensuite les laisses, collection laiss et puis les gamelles. On va
+54:09
+cliquer ici sur collection et on va mettre les gamelles. Et là, on clique sur enregistrer. Pourquoi on fait ça ?
+54:15
+Tout simplement parce que quand quelqu'un arrive en bas de votre page, encore une petite astuce de conversion que je vous donne, quand quelqu'un arrive en bas de votre page, il veut
+54:22
+être redirigé parce que ça veut dire que en fait sil est en bas de votre page, c'est qu'il n'a rien trouvé qui l'a intéressé sur votre page. Regardez, au
+54:28
+lieu de la politique de confidentialité, ici on va mettre la page contact parce qu'elle est très importante et en réalité les politiques, elles seront
+54:34
+ailleurs. Donc on va cliquer ici sur page, hop, on trouve contact. La page contact est déjà faite par Shopify, donc tant mieux pour nous. Et on peut laisser
+54:40
+ainsi. OK, on va pouvoir revenir du coup sur la boutique. Hop, on vient ici, on actualise la page. Vous pouvez
+54:46
+actualiser la page avec le le petit icône qui est là. Vous vous devez savoir faire ça quand même. Et on va voir que
+54:51
+tout sera bien ajouté là où on le souhaite. Voilà, une fois que c'est actualisé, on descend et on voit qu'on a
+54:56
+bien du coup nos menus qui s'affichent juste là. Et hop, ici, on clique sur menu, sélectionner, autre et hop,
+55:04
+regardez, le menu s'affiche bien. Ici, on a encore le menu autre. Donc, on reclique dessus, on fait remplacer. On
+55:09
+choisit le menu principal et tout s'affiche comme on veut, juste là. OK,
+55:15
+écoutez, c'est impeccable pour cette page d'accueil. On enchaîne tout de suite avec la fiche produit. Hop, on clique ici, on va sur produit et là, on
+55:21
+va avoir produit par défaut. Impeccable. On clique dessus et on avance. Alors, regardez déjà à quoi ça ressemble.
+55:26
+Pardon, mais dès qu'on arrive, c'est quand même déjà quelque chose d'agréable. C'est quand même déjà quelque chose de tout à fait potable,
+55:33
+hein. Il va s'agir ensuite vous de ne pas tout détruire parce que c'est déjà très sympa. Alors, première chose qu'on
+55:39
+va faire, c'est que la partie description, on va la remonter. Regardez cette description là, hop là, on va
+55:46
+venir la mettre juste ici. OK ? Parce que c'est là qu'elle est le plus importante. Ensuite, les images là,
+55:52
+elles sont un peu grosses par rapport à la description et à tout ce qui se passe sur la route. Donc, on va cliquer ici sur information. OK ? Et là, on va
+55:58
+cliquer sur colonne égal. Hop ! Voilà. Regardez comme d'un coup, on a quelque chose qui est magnifique, hein. C'est
+56:04
+quand même vraiment super. On a déjà tout ce qu'on veut qui est rédigé ici. On a notre prix, on a tout ce qu'il faut
+56:09
+à ce niveau-là. Donc ça c'est très bien. Au niveau des boutons, hop, on va pouvoir enlever le paiement accéléré
+56:15
+parce que vous voyez en fait on nen veut pas du paiement accéléré, surtout pas avec shop hein. Si vous aviez autre
+56:20
+chose comme paiement accéléré, ça pourrait mais là c'est pas le cas. Ensuite du coup ce qu'on va faire, c'est ajouter des petites icônes de paiement là juste en dessous. Donc pour ça, on va
+56:26
+cliquer sur hop juste ici paiement accéléré, on vient de l'enlever. On clique là. Là on va taper paiement et on
+56:33
+clique sur icône de paiement. Alors évidemment, vous n'avez rien qui va ici se mettre si vous n'avez pas activé Shopify Payments, mais vous verrez quand
+56:39
+vous l'aurez activé, ça s'affichera. Vous pouvez déjà cliquer sur enregistrer, tout se mettra automatiquement ensuite, ne vous inquiétez pas à ce sujet. OK ? Ensuite,
+56:47
+bah là, on a déjà tout ce qu'il nous faut ici. On va pouvoir paramétrer ce qu'on a là. Donc, on va cliquer ici et
+56:52
+au lieu de made with care et ben on va traduire tout simplement. Donc, on va écrire
+56:58
+par exemple création artisanale. Ici, on va mettre matériaux. Euh
+57:05
+matériaux résistant. Ici, on va mettre design intemporel où on peut remettre
+57:11
+échoresponsable. Ça ira bien avec la petite avec le petit icône écoonsable.
+57:16
+Et là, on peut mettre design intemporel. Hop, voilà. Ensuite, ici dans détail,
+57:21
+qu'est-ce qu'on a ? Bah là, dans détail, on va pouvoir mettre des petites informations. Ça peut être des informations qui concernent le produit,
+57:27
+ça peut être des informations qui concernent tout ce que vous voulez. Ici, c'est des informations sur la livraison et les retours. OK. On va appeler ça
+57:34
+livraison et retour. Et vous hein tout simplement en fait vous n'aurez qu'à cliquer ici sur texte et à écrire le
+57:42
+texte. Hop regardez si on voilà là vous avez du texte et donc ce texte bah il
+57:47
+faut tout simplement mettre un petit message concernant la durée de livraison, les retours et cetera. Donc
+57:52
+nous livrons en 5 à 8 jours. Les retours
+57:59
+sont gratuit sous 14 jours. Contactez-nous
+58:06
+à contact@maisonlelou.com. Voilà, tout simplement, vous mettez
+58:11
+l'adresse mail de votre marque et c'est tout. Enregistrer et voilà. OK. Et
+58:17
+regardez là, regardez un peu ce qu'on a là quand même. On a quand même quelque chose de très très joli par rapport à la
+58:22
+majorité des boutiques que vous avez. Ensuite ici, on peut regarder un peu ce que ça donne sur mobile. C'est pareil.
+58:27
+Donc là, on a les images dès le début, hein. Ça c'est vraiment super. Euh des très belles images tout de suite. Et
+58:32
+regardez, en plus, on a directement les informations nécessaires. Donc ça, c'est très bien. Une très bonne nouvelle
+58:37
+encore une fois. Ensuite, ici, on a une grande vidéo. Ça, on en a pas besoin du tout. Donc regardez hein, la vidéo ici,
+58:44
+on va la supprimer tout simplement parce qu'on s'en fiche complètement. Euh
+58:49
+ensuite, on va continuer. Shop the full collection. Bah ça c'est en anglais. Donc nous on va voir, on va plutôt mettre acheter la collection
+58:57
+complète. OK. Et là, on va venir chercher du coup une collection tout simplement. Donc on remonte juste ici
+59:03
+dans collection en vedette et là vous mettez bah la collection que vous voulez. Moi, je vais laisser les produits comme ça parce que ça rend
+59:09
+plutôt très bien. Euh, si on regarde un peu ce que ça donne, hop, voilà. On a donc notre collier, nos images, la
+59:15
+collection complète. Rejoignez la newsletter et en bas, on a notre euh footer avec les informations qu'on veut.
+59:22
+Et voilà, globalement, c'est-à-dire que là, regardez, maintenant, si on va sur les la, je vous montre un peu à quoi ça ressemble, hein. On a donc maintenant
+59:27
+ici cela. Donc si jamais vous vouliez avoir, je vais vous montrer comment on fait, une image ici on va cliquer sur
+59:33
+les hop, on va voir la section. Et en fait, il y a tout simplement la
+59:38
+possibilité pardon euh de euh laisser une petite image. Je vais vous montrer
+59:44
+ça parce que c'est effectivement très important. Regardez, elle est ici. On va enlever hop ce qui se passe là. Cette
+59:50
+image, on va la laisser ainsi. On pourrait éventuellement mettre un petit rayon de bordure, hein, pour que soit au
+59:56
+maximum cohérent. Regardez d'un coup comme ça rend bien enregistré. On enlève
+1:00:01
+ce qui se passe là. On enlève ça. Et voilà. Regardez. Donc là, c'est vraiment une collection de la S. On a cela.
+1:00:07
+Ensuite, on arrive sur nos différents produits. Les lik, on peut aller voir à quoi ça ressemble. On a les mêmes
+1:00:12
+informations que sur la page d'avant. Donc tout ça, c'est très bien. Les bolts, il me semble que c'est celle avec une petite variance. Donc vous voyez
+1:00:18
+hein, beige ou gris hein. Quand on clique sur gris, on a l'image grise. Quand on clique sur beige, on a l'image
+1:00:23
+beige. Donc tout est très bien construit. Et voilà, globalement hein, là on peut cliquer sur ajouter au
+1:00:29
+panier. Ça va directement nous ouvrir le panier. Vous voyez, il y a les réductions. On peut cliquer sur payer. Et là évidemment et ben on arrive sur la
+1:00:36
+page de paiement tout simplement hein. Euh et là c'est le moment où euh on la
+1:00:41
+configure ensemble. Donc configuration de la boutique, c'est normal. Là on est sur la page de paiement. Vous allez
+1:00:46
+voir, on va pouvoir faire ça en deux petites secondes parce qu'il y a pas besoin de faire compliquer à ce
+1:00:51
+niveau-là. Hop, vous avez pas mal de choses. Regardez tout ce qui est là euh finalement vous n'avez pas vraiment de
+1:00:58
+quoi y toucher. C'est pas vraiment vous qui décidez. OK ? Euh le logo, vous pouvez le modifier dans les paramètres.
+1:01:03
+Donc ça, hop, vous cliquez ici, vous cliquez sur paramètres. Hop, on ajoute une image pour le logo. On va descendre
+1:01:10
+et ajouter son logo. Palette de couleur, bah c'est pas du tout ça notre palette de couleur. Donc là, il faut remettre vos différentes couleurs. Ça va être
+1:01:17
+assez important. hein, dans les couleurs par défaut, bah nous on va venir chercher nos couleurs tout simplement.
+1:01:23
+Ça c'est ma couleur de fond. Moi je la remets, hop là pour que ce soit joli. Ensuite, hop en tête, vous pouvez
+1:01:30
+laisser comme ça. Accentuation c'est pas ça. Notre accentuation c'est cela. On va
+1:01:36
+chercher notre couleur à nous, hein. Le but, c'est vraiment d'avoir vos couleurs, voilà, qui viennent
+1:01:43
+habiller l'entièreté de ce qui se passe ici. Le rouge, on le laisse surtout, c'est très très important. Et voilà, le
+1:01:48
+reste, vous n'avez rien à toucher. On laisse bien une page ici. Ça aussi c'est primordial pour la conversion, hein. Euh et voilà, regardez un peu ce que ça
+1:01:55
+donne. Ça c'est la fin de votre boutique, la page de paiement. OK ? Une fois que les gens auront ajouté leurs
+1:02:01
+produits au panier, ils arriveront sur cette page. Ils peuvent rentrer les euh différentes informations qu'ils ont. Ils cliquent sur passer la commande et voilà
+1:02:08
+hein. Euh ce sera directement euh une nouvelle commande pour vous. Et donc on va faire une dernière chose avec Lia,
+1:02:14
+c'est qu'on va créer un petit code promo. Hein je vous montre comment ça marche. On va juste lui dire "Crée-moi
+1:02:20
+un code promo euh de 10 % qui débute
+1:02:27
+aujourd'hui sans date de fin pour tous mes clients. Hop, on envoie juste ça et
+1:02:34
+vous allez voir que ça va ajouter directement un code promo dans la boutique. Vous voyez he là c'est assez dingue ce qu'on a fait quand même. On a
+1:02:40
+créé une boutique Shopify avec Lia en quelques minutes. Alors certes, c'est
+1:02:46
+beaucoup de minutes, mais ça reste des minutes, hein. Ça ne fait pas 5h qu'on est dessus. Regardez ce qu'on a fait.
+1:02:51
+C'est quand même vraiment dingue. Quand on clique sur les fiches produites, je trouve que c'est le plus impressionnant.
+1:02:56
+On a tout de suite quelque chose, enfin vraiment une impression de professionnalisme qui est très très
+1:03:02
+élevé. Donc là, lui, il va créer le petit code promo. On se retrouve dans 10 secondes. Voilà, au bout de environ 1
+1:03:07
+minute, il m'a créé le code promo, le Lou 10, hein, 10 % de réduction sur tous les produits euh à partir d'aujourd'hui
+1:03:13
+et pas de date d'expiration. Donc, si on va dans la boutique, on va ici à gauche sur la petite flèche, qu'on clique dans
+1:03:19
+réduction, et bien on voit tout de suite que notre code promo est bien affiché, il est là, bienvenue, - 10 %. Euh, tout
+1:03:26
+simplement. Voilà, donc c'est vraiment extrêmement bien fait. Euh merci à tous d'avoir suivi cette vidéo. Si vous
+1:03:33
+cliquez juste là, vous voyez une vidéo extrêmement intéressante sur Shopify et Cloud IA. Hésitez pas à aller la voir, ça va vous apprendre plein de trucs. Et
+1:03:39
+oubliez pas de télécharger la checklist entière de toute cette vidéo dans la description. À bientôt.

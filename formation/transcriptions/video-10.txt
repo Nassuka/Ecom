@@ -1,0 +1,919 @@
+Video 10: Et le matin, l'alarme vibre au poignet.
+0:01
+Du coup, je réveille plus personne à
+0:02
+côté de moi. Pour 9 € honnêtement, je
+0:05
+vois pas ce qu'on peut demander de plus.
+0:06
+Ce que vous venez de voir, ce ne sont
+0:08
+pas de vraies personnes, aucun acteur,
+0:10
+aucune caméra, aucun studio. Chaque
+0:12
+vidéo que vous venez de regarder a été
+0:14
+générée à 100 % par intelligence
+0:16
+artificielle en quelques minutes depuis
+0:18
+mon ordinateur. Et c'est grâce à cette
+0:19
+nouvelle façon de créer des vidéos
+0:21
+entièrement générées par l'AC que, j'ai
+0:23
+réussi à passer de 0 à 43000 € en 2 mois
+0:26
+avec un produit aussi banal qu'une salle
+0:28
+de vélo.
+0:31
+Donc, croyez-moi, si vous suivez la
+0:33
+bonne méthode de création, c'est
+0:34
+littéralement un hack. Jusqu'à
+0:36
+maintenant, si vous avez déjà testé
+0:37
+l'UGCIA en français, vous savez à quel
+0:39
+point ça pouvait dans 50 % du temps ne
+0:41
+pas être très réaliste. Les voix étaient
+0:43
+souvent robotique. L'accent partait
+0:45
+n'importe où, souvent avec un accent
+0:47
+québécois tabarnac. Sauf que là, ce que
+0:49
+je vais vous montrer, ça change
+0:50
+complètement la acteuria ultra réaliste,
+0:53
+une vraie voix française et un rendu
+0:55
+final qui fait qu'à aucun moment, on
+0:56
+peut se dire que c'est de li derrière.
+0:58
+Aujourd'hui, je vous montre exactement
+1:00
+comment j'ai fait étape par étape pour
+1:01
+que vous puissiez avoir une longueur
+1:03
+d'avance et créer des UGCIA en français
+1:05
+mieux que tout ce qui existe
+1:06
+actuellement sur le marché. C'est parti.
+1:08
+Pour cet exemple, on va prendre un vrai
+Lancement des créations UGC IA
+1:10
+produit, un bracelet connecté. Ce
+1:12
+bracelet, il peut faire plusieurs
+1:13
+choses. Il compte vos pas, il peut
+1:14
+compter vos calories, mais surtout il a
+1:16
+une fonctionnalité intéressante. Il peut
+1:18
+vous réveiller le matin en toute douceur
+1:20
+grâce à des vibrations sur le poignet.
+1:22
+Et donc c'est un produit qui peut
+1:23
+vraiment aider les gens qui ont du mal à
+1:25
+se lever le matin ou qui détestent les
+1:26
+réveils agressifs des sonneries
+1:28
+habituelles. Et c'est donc ce produit
+1:30
+qu'on va utiliser pendant tout le
+1:31
+tutoriel de cette vidéo. Pour avoir le
+1:33
+meilleur résultat possible pour nos
+1:35
+publicités UGCIA, on va utiliser une
+1:37
+plateforme qui s'appelle Arcads. Arcad,
+1:39
+si vous ne connaissez pas déjà, c'est
+1:41
+une plateforme qui permet de générer des
+1:42
+images et des vidéos IA. Le lien sera en
+1:45
+description. Et voilà rapidement à quoi
+1:46
+ça ressemble. Ici sur la gauche, vous
+1:48
+pouvez vous organiser en créant ce qu'on
+1:50
+appelle des projets. Donc nous, on va
+1:51
+cliquer sur nouveau projet et on va le
+1:53
+renommer bracelet intelligent.
+1:55
+Maintenant, je vous explique rapidement
+1:56
+comment la plateforme est construite.
+1:58
+Vous avez donc plusieurs
+1:59
+fonctionnalités. Ici, vous allez pouvoir
+2:01
+trouver l'onglet talking actors. Donc ça
+2:03
+va vous permettre d'utiliser des acteurs
+2:05
+déjà présents sur Arcad. Et donc
+2:06
+simplement, vous sélectionnez un acteur,
+2:08
+vous écrivez un script et ça vous crée
+2:10
+un UGC IA. Ça évidemment c'est pratique
+2:12
+si vous voulez aller vite, mais nous
+2:14
+aujourd'hui on va pas faire ça parce
+2:15
+qu'on va faire encore mieux. On va créer
+2:17
+nos propres acteurs surmesure pour notre
+2:19
+produit. Ensuite, prochaine
+2:20
+fonctionnalité, vous avez l'onglet
+2:21
+vidéo. Vous allez simplement décrire la
+2:23
+vidéo que vous voulez et ARCAS va
+2:25
+pouvoir la générer pour vous. C'est donc
+2:26
+pratique pour générer des brôles de
+2:28
+n'importe quel type de vidéo autre que
+2:30
+des acteurs qui parlent devant la
+2:32
+caméra. Même principe ici dans l'onglet
+2:34
+image. Vous décrivez l'image que vous
+2:35
+souhaitez avoir et arc vous la crée. Et
+2:38
+maintenant, si vous cliquez ici sur plus
+2:39
+et bien vous avez accès à toutes les
+2:41
+autres fonctionnalités de la plateforme.
+2:43
+Et nous en l'occurrence qui va nous
+2:44
+intéresser pour créer nos propres acteur
+2:46
+et bien c'est un modèle qui s'appelle
+2:48
+Nano Banana. Comme vous pouvez le voir,
+2:49
+il y a donc deux versions Nano Banana 2
+2:52
+et Nano Banana Pro. Honnêtement, les
+2:54
+résultats des deux sont très similaires
+2:56
+et nous on va prendre Nano Banana Pro.
+2:58
+Petit détail technique important, une
+2:59
+fois que vous avez sélectionné le
+3:01
+modèle, cliquez ici sur les paramètres
+3:03
+juste ici et vérifiez bien que vous êtes
+3:05
+en format 9 par 16, donc en format
+3:07
+vertical. Et vous pouvez aussi euh
+3:09
+choisir ici combien d'images vous voulez
+3:11
+générer en même temps dans la situation
+3:12
+où vous voulez avoir plus de variétés.
+3:14
+Voilà, donc ça c'est ce qui va nous
+3:15
+permettre de créer nos acteurs. Mais
+3:17
+avant de générer nos acteurs et bien il
+3:19
+nous faut les prompts pour générer ces
+3:20
+acteurs. Et pour ça, on va utiliser
+3:22
+Cloud. Donc je vais ici dans Claude et
+3:24
+je vais lui expliquer qu'il doit me
+Prompting des acteurs avec Claude
+3:26
+créer trois acteurs différents pour le
+3:28
+modèle Nano Banana Pro. Je lui donne
+3:29
+donc le contexte du produit qui est donc
+3:31
+un bracelet connecté noir et je lui
+3:33
+demande de me rédiger des promptes
+3:34
+textes tout image un par acteur. Et
+3:37
+surtout je précise un détail important,
+3:38
+je veux que les acteurs soient en format
+3:40
+selfie UGC donc exactement comme un vrai
+3:43
+créateur de contenu qui se filme
+3:45
+lui-même avec son téléphone. Et là
+3:46
+dernière petite chose, je fais un ajout
+3:48
+volontaire parce que pour cette étape,
+3:49
+je ne veux pas que l'acteur porte déjà
+3:51
+le bracelet. Tout simplement parce que
+3:53
+je vais d'abord générer et valider mes
+3:54
+acteurs et une fois qu'ils me
+3:56
+conviendront et bien je leur ajouterai
+3:57
+le bracelet au poignet dans un second
+3:59
+temps. Pour tous ceux qui s'intéressent,
+4:00
+je vous mettrai en description le
+4:01
+document qui contient tous les promptes
+4:03
+que je vais utiliser aujourd'hui dans
+4:05
+Claude dans cette vidéo. C'est gratuit,
+4:06
+servez-vous. Voilà. Donc là, Claude me
+4:07
+donne mes trois promptes. Maintenant, je
+4:09
+vais tous les copier par un dans Arcad
+Génération des acteurs IA
+4:11
+et on va voir ensemble ce que ça donne.
+4:12
+Donc, je retourne ici dans Arcads, je
+4:14
+colle mon premier prompt dans la
+4:15
+description et je lance la génération.
+4:17
+Je fais rapidement la même chose pour le
+4:19
+deuxème acteur et pour le 3è. Comme ça,
+4:21
+on aura de la variété et on aura
+4:22
+l'embarras du choix. Donc là, on a une
+4:24
+première femme de 22 ans avec un look un
+4:26
+petit peu sportif. On a ensuite un homme
+4:27
+de 35 ans plutôt style père de famille
+4:30
+jeune. Et ensuite, on a une femme de 45
+4:32
+ans avec un style un petit peu plus
+4:33
+classique. On attend donc quelques
+4:35
+secondes que les images se génèrent et
+4:37
+là on a déjà nos premiers résultats.
+4:39
+C'est pas mal mais il y a un tout petit
+4:40
+souci sur certaines images. On voit le
+4:42
+téléphone dans le cadre. Donc on est en
+4:43
+mode UGC selfie. on n'est pas censé voir
+4:46
+le téléphone. Et donc simplement je
+4:48
+retourne donc l'ad, je lui explique le
+4:50
+problème que je viens d'observer et je
+4:51
+lui demande de corriger les promptes
+4:52
+pour qu'on ne voit plus le téléphone. Je
+4:54
+relance maintenant la génération avec
+4:55
+les promptes mis à jour. Parfait. Voilà.
+4:57
+Donc là, c'est beaucoup mieux. Il y a
+4:59
+juste une image qui a buggé où on voit
+5:01
+encore un tout petit bout de téléphone
+5:02
+mais sinon on a plusieurs résultats
+5:04
+parfaits. Celle-ci par exemple là, elle
+5:06
+est parfaite. Celle-ci aussi. Et celle
+5:08
+de la femme dans la voiture, pour moi,
+5:09
+elle est excellente. Donc maintenant
+5:11
+qu'on a nos acteurs validés, on va
+5:13
+pouvoir leur ajouter le bracelet au
+5:14
+poignet pour qu'il puisse le montrer à
+5:16
+la caméra. Donc pour ça, je clique
+5:17
+simplement sur l'image de mon acteur et
+5:19
+je clique sur edit. Et ça va donc me
+5:21
+permettre d'ajouter une image de
+5:22
+référence supplémentaire, en
+5:23
+l'occurrence l'image de notre produit,
+5:25
+le bracelet. Donc je fais rapidement une
+5:27
+capture d'écran du bracelet noir sur la
+5:28
+fiche produit et je viens l'ajouter
+5:30
+directement ici dans le chat. Ensuite,
+5:32
+j'entre mon prompte où je vais dire en
+5:34
+gros, on va utiliser l'image de l'acteur
+5:36
+en référence et l'image du produit en
+5:38
+référence. Et je demande donc de générer
+5:40
+une photo de cette même personne en
+5:41
+train de porter le bracelet noir au
+5:43
+poignet bien visible à la caméra.
+5:46
+Et je précise aussi de garder le même
+5:47
+acteur et le même environnement. Donc je
+5:49
+fais ça pour la première actrice, puis
+5:51
+pareil pour le deuxième acteur et
+5:53
+finalement pour la dernière actrice. Et
+5:55
+voilà, les images sont générées, les
+5:57
+résultats sont très bons. Il y en a
+5:58
+juste une là qui a légèrement buggé mais
+6:01
+les autres sont exactement ce qu'on
+6:02
+voulait et ce que je cherchais. Celle-ci
+6:04
+par exemple, on va pouvoir l'utiliser.
+6:06
+Celle-ci aussi finalement ben celle-ci
+6:08
+également. Parfait. Donc là, on a
+6:09
+maintenant nos trois acteurs avec le
+6:11
+produit bien visible au poignet.
+6:12
+Maintenant, prochaine étape, avant de
+6:14
+transformer ces images en vidéo, il nous
+6:16
+faut donc un script UGC pour chacun de
+6:18
+nos acteurs. Donc je retourne dans Cloud
+Scripting du texte avec Claude
+6:20
+dans la même conversation que celle où
+6:21
+j'ai généré mes acteurs et je lui
+6:23
+demande maintenant de m'écrire un script
+6:24
+UGC entre 20 et 30 secondes à la
+6:27
+première personne sur un ton naturel et
+6:29
+spontané. En plus de ça, je lui précise
+6:31
+quelques éléments importants, notamment
+6:32
+qu'il faut un hook fort pendant les
+6:34
+trois premières secondes. Il faut aussi
+6:36
+mentionner au moins deux fonctionnalités
+6:38
+du bracelet et finalement il faut
+6:39
+terminer par un appel à l'action. Donc
+6:41
+une incitation à passer à l'action, à
+6:43
+cliquer sur ce bouton, à venir sur mon
+6:44
+site et à véritablement acheter ce
+6:46
+produit. Excusez-moi. Donc là, Claude me
+6:47
+rédige un premier script pour l'actrice
+6:49
+numéro 1. Ça me semble pas mal.
+6:51
+Maintenant, j'ai juste à faire la même
+6:53
+chose pour les scripts des acteurs 2 et
+6:55
+3. Bam, bam, bam. Parfait. Donc là, on a
+6:57
+nos trois scripts UGC prêt. Maintenant,
+6:59
+on va passer à la partie la plus
+7:00
+intéressante. On va pouvoir transformer
+7:02
+nos images d'acteur Iart en vraies vidéo
+7:04
+UGC qui parle complète. Donc, on
+7:06
+commence. Je sélectionne donc l'image de
+7:08
+mon actrice numéro 1 et je clique ici
+7:10
+sur le bouton vidéo en bas à droite. Et
+7:12
+donc là, je vais pouvoir aller dans les
+7:13
+paramètres pour choisir le modèle à
+7:15
+utiliser. On va utiliser Omniflash. Et
+7:18
+là donc petit détail important à
+7:19
+connaître avec Omniflash. La durée
+7:21
+maximum d'une génération et bien c'est
+7:23
+de 10 secondes. Donc pour avoir une
+7:24
+vidéo UGC complète de 20 à 30 secondes,
+7:27
+il va falloir procéder en deux ou trois
+7:28
+fois. Donc générer des clips séparés et
+7:30
+qu'on va ensuite assembler dans un
+7:32
+logiciel de montage que ce soit Capcode
+7:34
+ou autre. Donc pour découper ce script
+7:35
+correctement, je vais retourner dans
+7:37
+Claude et je vais définir trois segments
+7:39
+dans le texte. Et donc ça là par
+7:40
+exemple, ce sera le premier segment, ça
+7:42
+ce sera le deuxè et ça le troisème. Donc
+7:45
+là, une fois que j'ai décidé ça, je vais
+7:47
+entrer ce prompte d'animation dans Arcad
+7:49
+que j'ai préparé à l'avance et je
+7:51
+remplace ici le place holder du script
+7:53
+par donc mon premier segment de script
+7:55
+pour l'actrice numéro 1. Là par exemple,
+7:57
+pour ce premier segment, je vais mettre
+7:59
+une durée de 7 secondes et je lance la
+8:01
+génération. Je fais ensuite la même
+8:03
+chose pour le deuxème segment avec la
+8:05
+suite du script et pareil pour le
+8:07
+trisème avec le dernier segment.
+8:08
+Parfait. Donc là, mes trois clips sont
+8:10
+en cours de génération. On attend
+8:11
+maintenant quelques petites minutes et
+8:12
+on regarde le résultat ensemble dès que
+8:14
+c'est prêt. Alri, donc là, notre premier
+8:16
+clip est généré et là, je vois qu'il y a
+8:17
+un problème assez fréquent avec les
+8:19
+moden I sur les voies françaises.
+8:21
+Parfois, comme je vous le disais avant,
+8:22
+ils prennent un accent québécois au lieu
+8:24
+d'un vrai accent français de Nant ou de
+8:26
+poitou charrante. Donc, je vais
+8:28
+simplement régénérer ce clip une fois et
+8:30
+j'en profite aussi pour ajuster
+8:32
+légèrement la durée. Je vais passer à 9
+8:34
+secondes parce que je pense que 7
+8:35
+secondes c'était un tout petit peu trop
+8:36
+court. Pendant le temps de cette
+8:38
+régénération, on peut regarder les deux
+8:39
+autres clips qui viennent d'être généré.
+8:41
+Donc le clip numéro 2, il est parfait,
+8:43
+bon accent français. Et là, le clip
+8:45
+numéro 3 aussi, nickel, parfait. Donc
+8:47
+c'était bien seulement le premier clip
+8:49
+qui avait ce petit souci d'accent. Je
+8:50
+relance donc la génération du clip
+8:52
+numéro 1. Parfait. Notre premier clip
+8:54
+vient d'être régénéré avec un accent
+8:56
+parfaitement français cette fois-ci.
+8:57
+Maintenant, je vais faire exactement la
+8:59
+même opération pour le deuxième acteur.
+9:00
+Donc, je vais sélectionner son image. Je
+9:02
+clique ici sur vidéo. Je reprends mon
+9:04
+prompt. J'ajoute le premier segment de
+9:06
+son script. Je vérifie que le modèle
+9:08
+sélectionné est bien omniflash. Et je
+9:10
+lance. Je fais pareil ensuite pour les
+9:12
+segments 2 et 3. Et ensuite, je fais
+9:13
+pareil pour la troisème actrice. On
+9:15
+attend maintenant quelques instants.
+9:16
+Parfait. Donc là, tous nos clips sont
+9:18
+prêts pour le 1er, 2è et 3è actor. On
+9:20
+peut maintenant passer à la dernière
+9:21
+étape qui va être d'assembler nos trois
+9:23
+clips pour n'en faire qu'une seule vidéo
+9:25
+UGC fluide. Pour ça, direction CapCut
+Assemblage et montage sur CapCut
+9:27
+qui est un logiciel de montage super
+9:29
+simple à utiliser et gratuit surtout.
+9:31
+J'importe donc mes trois clips et je les
+9:34
+ajoute à la timeline dans le bon ordre
+9:36
+évidemment. Donc oui, vérifiez bien que
+9:37
+vos clips sont dans le bon ordre avant
+9:39
+de continuer. Ensuite, une fois que
+9:40
+c'est fait, vous allez pouvoir faire des
+9:42
+petits ajustements si nécessaire. Vous
+9:43
+pouvez par exemple couper le début et la
+9:45
+fin de chaque clip pour que le rythme
+9:47
+soit fluide et naturel sans en temps
+9:49
+mort ou temps perdu. Donc par exemple
+9:50
+ici, je peux couper pour que la vidéo
+9:52
+débarre un tout petit peu plus vite.
+9:54
+Parfait. Donc voilà, avec tous ces
+9:55
+petits ajustements, on obtient donc une
+9:57
+vidéo UGC de 22 secondes en un seul
+10:00
+bloc, fluide comme si c'était en une
+10:01
+seule prise. Et maintenant, si vous
+10:03
+voulez aller un tout petit peu plus
+10:04
+loin, vous pouvez venir ajouter des
+10:05
+sous-titres et aussi une petite musique
+10:07
+de fond. En l'occurrence, CapCod vous
+10:09
+propose une bibliothèque de musique
+10:11
+libre de droit directement intégrée.
+10:12
+Donc là, moi pour cet exemple, je vais
+10:14
+pas me prendre la tête avec ça, mais si
+10:15
+vous voulez le faire et bien sachez que
+10:17
+c'est disponible et c'est possible.
+10:18
+Ensuite, une fois que c'est fait, vous
+10:19
+avez bien pefiner votre vidéo et bien
+10:21
+vous cliquez ici sur importer. Et comme
+10:23
+ça, mesdames messieurs, votre vidéo UGC
+10:25
+est prête à être utiliser en publicité
+10:27
+ou bien de manière organique sur vos
+10:29
+réseaux sociaux. Je fais maintenant
+10:30
+rapidement la même chose pour les deux
+10:32
+autres acteurs et je vous montre le
+10:33
+résultat final. Magnifique. Regardez-moi
+10:35
+ça. Donc là, c'est le résultat pour le
+10:37
+premier UGC. Il est nickel. On a donc
+Résultat final
+10:39
+bien une autre actrice qui récite le
+10:41
+script du début à la fin. On a ses
+10:43
+mouvements qui sont naturels. Elle bouge
+10:44
+légèrement comme une vraie personne le
+10:46
+ferait en parlant devant sa caméra. Mais
+10:48
+surtout, et c'est là que c'est très
+10:49
+intéressant, la voix est parfaitement
+10:51
+synchronisée avec sa bouche. On ne voit
+10:52
+aucun décalage. Ensuite, vous pouvez
+10:54
+regarder, c'est exactement la même chose
+10:55
+pour les deux autres. Le deuxième UGC,
+10:57
+il est parfait aussi. Même chose des
+10:59
+mouvements naturels, voix bien
+11:01
+synchronisée. Et le troisème, pareil,
+11:03
+c'est parfait. Donc là, on vient de
+11:04
+faire en 10 minutes top chrono trois
+11:06
+acteurs différents, trois vidéos UGC
+11:08
+complètes généré de A à Z avec Lia sans
+11:10
+jamais sortir une seule caméra.
+11:12
+Maintenant, parlons chiffre parce que
+11:13
+c'est là que ça devient vraiment
+11:14
+intéressant pour vous. Normalement, pour
+11:16
+obtenir ce genre de vidéo, il faudrait
+11:17
+engager un vrai créateur UGC humain.
+11:20
+Vous pourriez compter entre 150 et 500 €
+11:22
+par vidéo et ensuite à ça, il faut
+11:24
+ajouter souvent plusieurs jours, voire
+11:25
+même plusieurs semaines d'aller-retour
+11:27
+pour les révisions. Il faut envoyer le
+11:29
+produit, envoyer le brief, s'accorder
+11:30
+sur un brief, s'accorder sur un style de
+11:32
+montage, c'est interminable. Alors que
+11:34
+là, avec cette méthode, vous pouvez
+11:35
+générer un nombre illimité de vidéos en
+11:38
+quelques minutes chacune. Et ça pour une
+11:39
+fraction du prix. Et donc de cette
+11:41
+manière, vous ne gagnez pas juste de
+11:42
+l'argent, vous gagnez aussi de la
+11:43
+vitesse, du volume et surtout un
+11:45
+contrôle créatif total qu'aucun tournage
+11:47
+classique ne pourrait vous offrir. Bon,
+11:49
+avant de conclure, je veux être honnête
+11:51
+avec vous. Ce que je vous ai montré,
+11:52
+c'est le résultat final. Mais comme vous
+11:53
+l'avez vu, il y a eu des itérations, des
+11:55
+images où on voyait encore le téléphone.
+11:57
+Le premier clip où il y avait un accent
+11:59
+québécois au lieu d'un accent français,
+12:01
+des générations qu'on a dû relancer. Li
+12:03
+c'est pas de la magie quoique mais c'est
+12:05
+surtout est véritablement un outil et
+12:07
+comme tout outil et bien il faut
+12:08
+apprendre à s'en servir ajuster ses
+12:09
+promptes régénérer quand ça ne colle pas
+12:11
+mais une fois qu'on l'a fait plusieurs
+12:12
+fois et qu'on maîtrise le processus
+12:14
+comme je viens de vous le montrer et
+12:15
+bien les résultats deviennent
+12:16
+complètement hallucinants. Trois acteurs
+12:18
+différents, trois vidéos UGC complète,
+12:20
+un bon accent français, tout ça en une
+12:22
+petite session de travail sans acteur,
+12:24
+sans caméras et sans dépenser des
+12:25
+centaines d'euros. Pour tous ceux que ça
+12:26
+intéresse, le lien Vercad est en
+12:28
+description. Crézez-vous un compte,
+12:29
+testez la plateforme de votre côté et
+12:31
+générez votre première vidéo GC dès ce
+12:33
+soir. Même si vous avez pas encore de
+12:34
+produit, faites avec n'importe quel
+12:36
+produit, une banane par exemple et
+12:37
+envoyez-le-moi sur Instagram. À nouveau,
+12:38
+je vous mets aussi en description tous
+12:40
+les prompts que j'ai utilisé dans cette
+12:41
+vidéo. La génération des acteurs,
+12:43
+l'ajout du produit, l'escrit,
+12:45
+l'animation. Comme ça, vous ne partez
+12:46
+pas de zéro. On est en train de vivre
+12:48
+une vraie révolution sur le contenu
+12:49
+publicitaire et la différence entre ceux
+12:51
+qui vont en profiter et ceux qui vont
+12:53
+continuer à payer des créateurs UGC à
+12:55
+prix fort. Bien, c'est simplement le
+12:56
+fait d'agir maintenant et d'essayer par
+12:58
+vous-même. Pas d'acteur, pas de studio,
+13:00
+pas de photos, rien que de
+13:02
+l'intelligence artificielle, moi et mon
+13:04
+ordi. Et c'est tout. J'espère que cette
+13:06
+vidéo vous ouvrira les yeux peut-être,
+13:08
+même si c'est que cinq personnes sur les
+13:10
+centaines, les milliers, les centaines
+13:11
+de milliers de vues qu'elle fera. Je
+13:13
+vous souhaite à tous le meilleur.

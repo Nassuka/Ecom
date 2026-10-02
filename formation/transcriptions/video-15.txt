@@ -1,0 +1,912 @@
+Vidéo 15 : Franchement, regardez-moi ce site internet. Vous pouvez faire exactement la même chose. Vous avez les promptes en description. Vous transmettez ces
+0:06
+promptes là à Claudia et peut vous faire exactement ce type de résultat. On a eu 82 visites et on a fait 84 € de
+0:13
+chiffre d'affaires. C'est la meilleure plateforme pour démarrer l'e-commerce. Il y a aucun sujet à ce niveau-là. Ils ont dépassé les limites en fait de la réalité, de ce
+0:19
+qui était possible et de ce qu'on pouvait imaginer. Dans cette vidéo, je vais mettre en place une boutique en e-commerce à 100 % avec l'intelligence
+0:26
+artificielle, que ce soit Cloud Code, field et toutes ces applications là, vous les connaissez déjà. Ça fait déjà plus de 8 ans maintenant que je fais du
+0:32
+e-commerce. J'ai tout vu, j'ai tout testé et il y a une chose que je peux vous garantir droit dans les yeux queon jamais eu autant d'opportunités pour
+0:38
+réussir en e-commerce, notamment grâce à l'intelligence artificielle. Mais malgré ça, il y a un petit problème parce que la plupart des personnes qui vont
+0:44
+utiliser l'intelligence artificielle, ils vont l'utiliser comme un assistant basique. Ils vont ouvrir Claudia par exemple et vont lui demander "Crée-moi
+0:49
+une boutique Shopify s"ans raisonnement, sans lui transmettre des informations nécessaires pour qu'il puisse faire ça correctement. Et au final, il voit que
+0:54
+la boutique, elle est mauvaise, ils sont déçus et ils abandonnent. Ça marche absolument pas comme ça et je vais vous le montrer dans cette vidéo. La toute
+Plan de la vidéo
+1:00
+nouvelle stratégie que j'ai mis en place, je vais vous la montrer dans cette vidéo. En première étape, je vais vous montrer comment je vais effectuer de la recherche de produit afin qu'on
+1:06
+puisse pas partir de zéro, même si on va utiliser Claudia. En deuxième étape, donc c'est Claude qui va analyser justement le produit que j'ai
+1:12
+sélectionné et va donner un score pour valider voilà tout simplement si le produit est qualitatif. En trois, je vais demander à ce même Claudia de
+1:18
+générer une boutique Shopify entièrement section par section prêt à coller. Il va tout faire de A à Z. En 4, je vais
+1:24
+connecterfield à Claudia via le MCP afin qu'on puisse créer donc des UGC directement sans créateur, sans tournage
+1:31
+en moins de 1 heure seulement. En 5e étape, je vais directement configurer mes publicités Facebook avec Cloud IA.
+1:36
+J'aurais juste à appuyer sur publier directement. Je précise que tous les prompts que je vais utiliser dans cette vidéo, je vais en utiliser pas mal, ils
+1:43
+sont disponibles gratuitement. Le lien, il est en dessous. Vous pouvez les télécharger maintenant pour suivre cette vidéo en même temps que moi. Il y a pas
+1:48
+besoin d'un minimum de lik et cetera. Likez si vous voulez liker. En tout cas, j'espère que vous allez kiffer cette vidéo et que surtout vous allez passer à
+1:54
+l'action. Maintenant, on est parti. La première étape de cette vidéo sera de effectuer de la recherche de produit. Pour ça, je vais utiliser la plateforme
+2:00
+de Auto DS et suite à ça, je vais transmettre un prompt à Claudia et je vais lui demander si j'ai fait le bon choix concernant le produit que je vais
+Étape 1 : Recherche de produit avec AutoDS
+2:06
+sélectionner. Donc là, on se retrouve exactement sur la marketplace de Auto DS où je peux avoir pas mal de produits différents. Là, j'ai des bestsellers.
+2:12
+OK, water bottle. Là, c'est les nounours Teddy Bears. Ça ça peut être pas mal. Là, vous avez une corde. Vous avez même
+2:18
+une ceinture. Ouais, là c'est le jouet là Sticks Game. J'avais déjà vendu ce produit là d'ailleurs avant.
+2:24
+Alors, quel produit je pourrais vendre ? Ça, c'est les les Rose Flower. Ça, je l'avais déjà vendu aussi par le passé.
+2:29
+Ça ça permet de évaluer si les diamants c'est des vrais. C'est pas mal ça. C'est pas mal. C'est pas mal. C'est pas mal
+2:35
+ça. OK, j'étais pas encore tombé sur un produit comme ça, mais je le trouve plutôt intéressant. Donc, je le mets de côté. OK, il y a des il y a pas mal de
+2:41
+trucs. Il y a des perruques aussi. Les perruques ça peut être pas mal. Euh ouais, après, il va falloir que je check quand même la qualité. Mais ouais, je
+2:46
+trouve qu'il y a des produits qui sont intéressants. Franchement euh là comme ça, je dirais que soit je me positionne
+2:52
+sur les perruques en vrai, ça peut être pas mal ou sinon sur le détecteur de diamant professionnel. Je sais qu'il y a beaucoup de personnes qui sont
+2:57
+intéressées aussi par ce produit-là euh même sur le marché français. Donc il y a peut-être quelque chose à faire. En vrai, je vais me positionner sur ces
+3:03
+deux produitsl et je vais tout simplement demander donc à Claudia maintenant en vrai quel est le plus intéressant et qu'est-ce qu'il en pense
+3:08
+au niveau de cette sélection de produits. La deuxième étape de cette vidéo sera de demander confirmation à Claudia concernant les deux produits que
+3:14
+j'ai sélectionné. Vous avez un prompt que j'ai mis en place. Vous pouvez faire exactement la même chose. Donc je vais mettre le prompt juste ici et je vais
+Étape 2 : Validation produit avec l'agent de scoring Claude Code
+3:21
+entrer le prompt. Et donc là, qu'est-ce qu'il va me dire ? Je vois que tu as un prompt d'agent de scoring produit. Tu veux que je te crée un artifice
+3:27
+interactif avec un agent intégré ou tu cherches autre chose de ce fichier. Je vais lui demander exécute ce prompt.
+3:32
+Donc là, c'est ce qu'il va faire. J'ai mis en place un agent de scoring de produits e-commerce. Ça veut dire que peu importe le produit que vous allez
+3:38
+sélectionner et peu importe la manière dont vous allez faire de la recherche de produit via le proms qui est en description, vous pouvez demander à Claudia si ça vaut le coup ou pas. Donc
+3:44
+là, c'est ce qu'il va mettre en place dès maintenant. L'agent a bien été lancé, donc il va nous poser différentes questions et à la fin, on va recevoir un
+3:50
+score global plus les scores par section et un plan d'action concret. Donc là, ce que je peux faire c'est que je vais lui
+3:55
+donner le lien Auto DS juste ici. Voici le produit. Je vais lui donner le titre et aussi prenez toujours un
+4:02
+enregistrement image bureau. Et je reviens sur Lia et je lui transmets ça des mains comme ça, il sait très bien de
+4:07
+quel produit je parle. Qu'est-ce qu'il va me dire ? Je vois ton produit. Donc c'est un testeur de diamant électronique. Laisse-moi remplir l'étape
+4:12
+1 directement toi. Produit identifié. OK. Bénéfice principal, savoir en quelques secondes un diamant ou une
+4:18
+pierre précieuse et authentique. Avatar, acheteur de bijoux et cetera. Colle ça dans l'agent et il partira sur l'étape
+4:23
+2. Ce que je vais faire, c'est que je vais copier la réponse pour l'étape 1 et je vais le transmettre directement à l'agent juste ici. Donc je vais envoyer.
+4:29
+OK, donc l'étape 1, elle été validée. Donc le nom, c'est ça. La description, le bénéfice principal, l'avatar client,
+4:34
+le top 3 des douleurs, peur d'acheter du faux, un coup d'une expertise pro, incertitude sur le bijou. Donc ça on est
+4:39
+bon. L'étape numéro 2. Donc sélection du marché. Voici les mass market pertinents pour ce produit. Je accessoires. Hobby
+4:45
+and collectible. N Ey. OK. Quel mass market tu choisis ? Moi je vais choisir le premier. C'est logique hein. Tout ce
+4:51
+qui est bijoux et accessoires. Donc ça c'est l'audience que je vais choisir. Voici les niches dansy et accessoir.
+4:56
+Donc niche tu veux sélectionner plus diamant. OK. Donc ça c'est validé. Voici les petites niches en dessous. Donc je
+5:02
+vais mettre ça. Au niveau du ciblage, on est bon. C'est exactement ceci. Donc l'étape 3, fais ces trois recherches Google Trend je diamond tester and
+5:09
+second hand diamond ring. Pour chaque terme 10 mois la tendance montante stable descendante ses pique à certaines
+5:16
+périodes ou l'intérêt actuel entre 0 et 100. Donc quel est ton marché principal ? Donc là le but c'est qu'il puisse regarder directement sur Google Trend
+5:21
+donc si le produit est tendance actuellement. Ça c'est très bien et en fonction justement du pays dans lequel on est parce que la tendance en France
+5:27
+c'est pas la même tendance que au UK. Vérifie pour la France. Et là il va aller directement sur Google Trend pour vérifier s'il y a une tendance à ce
+5:33
+sujet. Donc là, il regarde un petit peu partout sur Shopify, sur Google Trend. Donc qu'est-ce qu'il dit ? Qu'est-ce qu'il nous dit ? Bijou stable à
+5:40
+légèrement montant dans sur les 5 ans. Pas de forte saisonnalité, intérêt constant. OK. Euh diamant, testeur,
+5:45
+volume de recherche faible mais existant. OK. Second hand, croissance du marché. OK. Signal supplémentaire
+5:51
+intéressant. Les avis Amazon mentionnent des doutes sur la fiabilité. D'accord. Étape 4. Va sur Amazon. Recherche
+5:56
+diamond tester ou testeur de diamants. Donne-moi le top listing. Catégorie exclusive. OK. Je vais dire quoi ? He
+6:02
+hein. Moi c'est maintenant que l'autre c'est comme ça. C'est toi qui doit travailler là, c'est pas moi. Allez continue à bosser. Moi une petite gorgée
+6:08
+de montée vert là maintenant c'est comme ça qu'on cherche un produit hein. C'est vraiment comme ça. Parfait. Il a toutes les données nécessaires pour les étapes
+6:13
+4 5 et 6. Donc sur Amazon on est classé 5 sur 184 produits. D'accord. Amazon
+6:18
+France. OK. Signal qualité de produit. L'étape 5. Donc les fournisseurs, il y a déjà accès. Donc marge 65 % atteignable.
+6:26
+OK. Étape 6, concurrent identifié sur Amazon. Donc là, en fait, il y a différentes étapes et vu qu'il a accès à
+6:31
+tous les liens Amazon et qui fait lui-même ses recherches, donc en fait, il remplit lui-même les étapes. Mais si par exemple, vous donnez pas des liens Amazon ou Alexpress, ben vous devrez
+6:37
+remplir justement l'ensemble des étapes, on est bien d'accord. Donc l'étape 7, lach stratégie. Dernière étape, dis-moi trafic. Donc le trafic, moi je vais dire
+6:44
+avec Facebook Ads. La page, ça sera Shopify. Euh élément funel, je vais mettre une garantie. Et prix de vente
+6:50
+envisagé similaire définis définis toi-même. Parfait. Je définis moi-même la stratégie. Facebook, Instagram,
+6:57
+Shopify, élément principal. Donc le produit, on le vendra à 29,99 je crois. Il coûte 3 4 € je crois. Donc le calcul
+7:03
+des scores maintenant, qu'est-ce qu'il va nous dire ? Non, ça a l'air pas mal là. Du 8/10. OK, donc là le produit
+7:08
+Claudia, il lui donne 7,2/ 10. Donc c'est moyen haut basé justement sur toutes les informations que je lui ai
+7:14
+transmis. Et là, il va me donner un plan d'action par rapport à ça. Donc là, c'est un prompte que moi j'ai mis en place. Je peux vous donner rapidement le
+7:20
+résultat pour la perruque et on verra justement bah quel produit sélectionné sur la base de ce que Claudia va me dire. Je vais lui dire, fais-moi la même
+7:26
+chose pour ça. Et je demander de faire ça très rapidement comme ça, on voit directement le résultat. Donc là, ce qu'il est en train de me faire, top 3 des douleurs. Bon, on est quand même sur
+7:32
+des produits différents, mais voilà, là vous voyez que je peux le laisser faire aussi. Il y a un prompt, tu lui donnes juste le produit et c'est lui-même qui
+7:38
+va rechercher. Étape 1, étape 2, étape 3. Là, franchement, il y a il y a plus d'excuses. Là, l'étape 3, c'est tout ce qui est Google train. Voilà, recherche
+7:44
+toi-même. C'est pas c'est pas moi qui va faire ça maintenant. Étape 3, d'accord ? Étape 4, il regarde sur Amazon ce que ça donne. Étape 5, il regarde même les
+7:50
+fournisseurs. Kano, là où je suis, signal important. Étape 6, compétitive landscape. OK. Marché très compétitif.
+7:57
+Et étape 7, la stratégie. Les angles UGC, score fino. Ah, je pense que les perruques alors il donnent combien au
+8:04
+total ? Ouais. Ah, OK. C'est assez serré, hein. C'est assez serré mais ouais, les perruques ça passe devant. Donc, je pense que on va plus partir sur
+8:10
+les perruques. Il y avait le choix, il y avait le choix entre soit les perruques soit un décor de diamants. Donc les perruques passent un petit peu avant les
+8:16
+décor de diamant, même si ça reste un bon produit ceux qui veulent lancer. Donc on va passer tout simplement à l'étape suivante. L'étape numéro 3
+Étape 3 : Reproduction de la boutique concurrente
+8:21
+maintenant, ça sera de construire une boutique Shopify avec Claudia. Donc comment ça se passe ? Ce que vous devez faire, c'est par exemple retourner sur
+8:27
+AutoDS, aller sur la partie adpy et rechercher justement différents sites et publicités qui tournent bien par rapport
+8:33
+à la niche que vous avez sélectionné. Comme ça, vous allez voir donc quelles sont les boutiques qui tournent le mieux actuellement sur la niche que vous avez sélectionné et potentiellement vous
+8:39
+pouvez copiercoller exactement la boutique avec Claudia. Donc moi c'est exactement ce que j'ai fait. Donc vu que je vais lancer des perruques, je suis
+8:45
+allé regarder donc différents sites qui tournent bien au niveau des perruques. Là vous avez cette marque irrésistiblem.com. Peut-être il y a des
+8:51
+filles he qui connaissent he qui achète là-bas qui passent par là. Là j'ai trouvé ce site là c'est Arabeller. Voilà, donc ils vendent aussi des
+8:57
+perruques, pas mal de trucs. Et là, c'est que des sites qui fonctionnent bien. Et ce que vous devez faire systématiquement, c'est regarder donc au
+9:02
+niveau de la bibliothèque publicitaire Facebook, je vais regarder est-ce qu'il y a des publicités actives maintenant concernant ces produits. Donc là, je
+9:08
+vais mettre Ads librairie. Dès lors que j'arrive dans la bibliothèque publicitaire Facebook, je vais cliquer ici donc dans tout catégorie. Je vais
+9:14
+mettre toutes les publicités et je vais rechercher exactement ce site là. Voir s'il y a des publicités actives actuellement. Bien mettre le nom. Voilà.
+9:21
+93000. OK. Donc là, eux, ils ont actuellement 130 publicités actives comme on peut le voir juste ici.
+9:34
+Après là, je sais pas trop si c'est des perruques, c'est des extensions. Je suis pas un expert, hein, je m'excuse
+9:39
+mesdames et messieurs. Euh je suis pas expert dans ça, mais ce qui est sûr, c'est que c'est la même niche. OK, donc
+9:45
+ils ont différents produits. OK, donc je pense que je pourrais peut-être prendre en référence ce site là. Après, attends,
+9:50
+faut quand même que je vérifie leur page produit, elle est comment, si elle est bien ou pas. Euh, leur page produit, elle ressemble à quoi ? Ouais, c'est pas
+9:57
+mal. C'est pas mal. C'est pas mal. Je pense que je vais pouvoir prendre exemple de cette boutique, hein. Je vais la copiercoller et euh je vais pouvoir
+10:03
+baser donc mon site exactement sur ce siteel là qui a déjà des résultats. Donc, je vais vous montrer exactement bah comment je peux le copiercoller très
+10:10
+facilement de A à Z. Concernant la création de boutique, vous avez un prompt en description. Vous avez juste à
+10:15
+faire exactement ce que je vais vous montrer dans un instant pour pouvoir copiercoller une boutique de A à Z. OK, donc je vais lui donner directement la
+10:21
+fiche produit juste ici. Le prompt, il est déjà mis en place. Hop là. Donc voilà, je mets en place le prompt et
+10:27
+qu'est-ce qui va me faire ? Parfait, j'ai toutes les données. Je construis le wframe maintenant. OK, on est parti. C'est incroyable maintenant ce qui est
+10:33
+possible de faire vraiment avec Claudia, il y a il y a plus de mots, il y a plus d'excuses aussi pour les personnes, voilà, qui ne pouvaient pas se lancer en
+10:40
+e-commerce parce qu'ils ont du mal en informatique. Voilà, vous avez peut-être de la friction à ce niveau-là. C'est terminé. Copiercollé, je pense que tout
+10:45
+le monde sait le faire. Tout le monde l'a déjà fait. Et aujourd'hui pour créer une boutique, tu as juste à savoir copier et coller. Là, c'est ce que je vais faire avec vous en direct que vous
+10:52
+voyez exactement ce qui est possible de faire aujourd'hui. Regardez-moi ce que Claude I a fait dans les médias. Donc là, il m'a recopié toute la structure du
+10:59
+site, d'accord ? Donc il y a pas les images, c'est normal. Mais là, j'ai recopié toute la structure de A à Z
+11:04
+concernant le site. Donc là, les couleurs, elles sont aussi un petit peu différentes, mais c'est exactement la même chose. Je vais télécharger au format HTML pour que vous voyez un petit
+11:10
+peu la différence. Donc le site que j'ai copié, c'est celui-là. Et là, le site que j'ai, c'est celui-là. Donc là, c'est
+11:15
+exactement ce qui m'a fait. Il y a les images ici, au même titre qu' y a les images juste ici. Là, vous avez les différentes couleurs qu'on peut sélectionner. Même principe. Il y a les
+11:22
+tailles, l'ajouter au panier, le bouton achat comme ici. Donc eux là, ils ont des bundles. Là, je crois il les a pas
+11:27
+mis mais on peut les rajouter, c'est pas un souci. Là, il m'a mis en place. Donc il y a cette image, ces images là, il y
+11:32
+a ça là qui a ajouté aussi comment installer les clips. Là, il y a une première image, une deuxième image, les headlines, donc les différentes étapes.
+11:39
+Voilà. Donc ça c'est vraiment la structure du site. Franchement, c'est c'est propre. La FAQ, elle est là, franchement. Non, non, ils m'ont ils ont
+11:44
+fait un site qui est propre. Ils ont fait un site qui est propre. Euh juste attends, je vais lui demander quand même. Je vais lui demander quand même euh reprend exactement la même structure
+11:52
+que le site. Je vais lui demander vraiment quasiment la même structure. Et là, je vais lui envoyer aussi une photo. Donc vous avez l'application go full
+11:58
+page et je vais copier donc entièrement le site du concurrent. Et je vais envoyer ça aussi à Claude dire et même
+12:04
+les couleurs tout. Donc là, c'est ce qu'il va me faire. Je vois le screenshot complet. Laisse-moi analyser pixel par pixel et
+12:10
+reconstruire fidèlement. Voilà, fais-moi comme je veux. J'ai tout ce qu'il me faut. Screenshot structure complète, je construis maintenant le wiframe fidèle
+12:16
+pixel par pixel avec les vraies couleurs. Là maintenant, c'est ce qu'il va me faire que là il m'a il m'a repris un peu la structure à la volée. Mais
+12:21
+moi, je veux la structure quasi à l'identique. C'est c'est là, c'est actuellement une boutique sur ma niche qui a de très bons résultats. Cette
+12:26
+fois-ci, c'est exactement ce qu'il a fait. J'ai tout ce qu'il me faut, le screenshot. Voilà, section dans l'ordre exact. Et là, en principe, il m'a fait
+12:34
+exactement, en tout cas quasiment, ouais. Non, là, il m'a fait exactement la boutique du concurrent. Tout
+12:39
+simplement incroyable. Donc là, regarde, ça c'était ce qu'il m'avait fait juste avant. Donc ça, je peux l'enlever. Donc ça c'est la boutique du concurrent et ça
+12:44
+c'est ma boutique. OK. Donc l'annoncement il l'a mis juste ici. Là on a donc les différents onglets ici. Le
+12:50
+logo lui l'a mis là mais parce que là c'est format ordinateur. On a la première image principale ici avec les images juste en dessous. Là il m'a mis
+12:56
+en place un bundle aussi. Le bouton Autocart ajouté au panier. On a les petits logos juste en dessous là. OK
+13:01
+nickel. Là les la petite FAQ donc on l'a aussi ici. Donc là la description 1. OK
+13:06
+parfait. Là il y a l'image et la première description. L'image 2, description 2. Voilà, description image.
+13:12
+Ensuite là, est-ce qu'on a la même chose ? Exactement nickel. On a les photos là. Est-ce qu'on a les mêmes bulles ici ?
+13:18
+Bon, moi j'en ai quatre son trois. Et ça, qu'est-ce que c'est ? Voilà, c'est ça. What is the difference between ?
+13:23
+Donc voilà, il m'a fait exactement la même structure là, même jusqu'aux avis. Voilà, parce que même jusqu'aux avis he j'ai la même chose. Donc voilà, là ça ça
+13:29
+permet de reprendre exactement la même structure que le site. Après là, est-ce qu'il y a une FAQ ? Ouais, j'ai cru
+13:34
+qu'il y en avait pas. Si si, il y a bien une FAQ. Et là, il a remis aussi des produits similaires juste en dessous.
+13:39
+Exactement comme ceci. Vous voyez que je peux copier coller toute la structure d'une boutique très facilement, notamment via Claudia. Maintenant, ce
+13:45
+qu'il va falloir faire, c'est pas uniquement donc copier la structure, il va falloir qu'on puisse mettre en place du copywriting, c'est-à-dire mettre en place tout le texte concernant la
+Étape 4 : Copywriting complet avec Claude Code
+13:52
+boutique et concernant le produit que nous on a sélectionné. Parce que là, le copywriting n'est pas présent. Là, vous voyez qu'il y a pas de marketing là qui
+13:57
+est mis en place, c'est que description, title one, natural black hair et cetera et cetera. Donc nous là, le but sera de mettre en place du marketing. C'est pour
+14:04
+ça que l'étape 2 du prompt que j'ai mis en place, c'est le fait d'envoyer le nom de la marque, le nom du produit et le copie brief que je remplis tous les
+14:10
+place holder. Donc le nom de la marque, je vais demander à Claudia. Je vais lui dire euh alors juste copiercoller ça. Je
+14:16
+juste lui dire aide-moi tout. Aide-moi pour ça, aide-moi pour ça. Hop là. Et je vais reprendre donc l'image. OK, je lui envoie ça à Claudia comme ça après Claud
+14:23
+code, il va pouvoir faire le T. Je vois que tu es une image de perruque. C'est un projet. Donne-moi le nom de la marque. Je vais lui dire trouve-moi un
+14:28
+nom de marque et nom du produit. Devine toi-même la bonne cible pour ce produit. Donc là, il me fait une proposition.
+14:34
+Donc Velvara, le nom de la marque. Nom du produit Velvara Crimson God. OK. Et
+14:39
+le ciblage, c'est celui-ci. Bah OK, let's go. Je vais copier ça directement ici. Je reviens sur Cloud Code et je lui
+14:45
+envoie tout ça dès maintenant. Et là, ce qui va se passer, c'est que justement il va me mettre en place le copyhting de tout le site. OK ? Parce que là, pour
+14:51
+l'instant, il est pas encore fait. Là, il me dit je remplis tous les place holders avec le copie Velvara. Les place holders, c'est les parenthèses là que
+14:57
+vous voyez juste ici. Pour l'instant, il y a que des parenthèses mais rien n'est rempli. Donc là, c'est exactement ce qu'il va faire. Donc là, il m'a mis en
+15:02
+place le copywriting, exactement comme ceci. Laissez-moi vous montrer tout ça. De base, là, il y avait promo code,
+15:08
+voilà, c'était du texte qui n'était pas encore mis en place. Et là, il m'a changé un petit peu tout ça. Voilà, il m'a mis du texte là, sauf que c'est en
+15:13
+anglais. Je vais lui demander juste c'est pour le marché français s'il te plaît. Il va me traduire tout ça en
+15:19
+français et dès lors que ça c'est fait, il va falloir que je puisse générer des image. Donc ça ce sera le stage 3. J'attends juste qu'il traduise la
+15:25
+boutique et ensuite on passera à la partie mise en place des images. Donc c'est complètement normal. Vous avez juste à reprendre le prompt qui est en
+15:30
+description et vous allez avoir exactement la même chose. OK. Donc là on est good. Il m'a traduit ça en français.
+15:35
+Je vais télécharger à nouveau pour vous montrer ça. Donc voilà le site il est exactement comme ça en français. Offre de lancement ajouter au panier acheté
+15:42
+maintenant livraison offerte. Pas sûr de quelle longueur ou couleur choisir. Porte ta version la plus audacieuse sans
+15:47
+compromis. OK, on est good en vrai à ce niveau-là, je pense. Il a même mis en place des avis clients, les questions fréquente. Donc tout est bon de A à Z.
+Étape 5 : Génération et mapping des visuels produits
+15:54
+Pour finaliser le site correctement, il va falloir qu'on puisse mettre en place nos propres images. Pour ça, je vais demander à Lia, notamment field pour
+16:00
+mettre en place tout cela. À nouveau, vous allez avoir en description un prompt qui va vous permettre de pouvoir justement analyser l'ensemble des images
+16:06
+manquantes et on va demander tout simplement à Lia de nous donner des prompts pour les transmettre directement à Hfield et avoir justement des photos
+16:12
+personnalisées par rapport à notre produit. Donc là, il a bien déterminé donc les images identifiées. On a là les six images juste ici là de 1 à 6.
+16:19
+L'image principale donc c'est celle-ci. Ensuite il y a les descriptions. Je pense que les deux images euh je sais
+16:24
+pas là exactement il parle desquelles. Ouais, je pense ça doit être celle-là. Ensuite, il y a les avants. Après, il y a le how to comparaison avis client. des
+16:31
+UGC. Donc il me dit "J'attends le screen full page du site concurrent que tu veux utiliser comme référence." D'accord ? Donc pour ça, je vais aller sur go full
+16:37
+page et je vais copier entièrement le site. Comme ça, il va bien voir les images. Il va pouvoir justement aller un peu dans ce sens-là. Euh pas en copiant
+16:43
+parce que c'est pas le même produit mais au moins il saura un peu dans quelle direction faut aller. Là c'est exactement ce que je vais faire. Téléchargement, je lui transmets le site
+16:49
+du concurrent comme ça il l' il va pouvoir globalement comprendre ce que l'on souhaite. Donc là c'est ce qui me met en place. J'attends le zip
+16:55
+concernant toutes les images du site. Donc on va les récupérer rapidement. Pour récupérer toutes les images du site, ce que j'ai à faire, c'est avoir
+17:00
+l'application image y est. Ça c'est dit comme ça, hein, je crois. Et ça permet de pouvoir télécharger donc toutes les photos d'un seul et même site. Là, c'est
+17:07
+exactement ce qu'il va me faire. Il est en train de me télécharger. Bon, il y a plus de 2000 images sur ce site là. Il est en train de tout me télécharger très rapidement. Bon, on va laisser Claudia
+17:13
+se débrouiller et je vais vous montrer exactement ce que ça donne. Donc là, je télécharge toutes les images. OK, donc c'est bien téléchargé. Le fichier ZIP,
+17:19
+il est là et je peux lui donner ça juste ici. OK, donc là, il m'a bien traduit le site en français. Donc offre de
+17:25
+lancement, livraison offerte par France. Il manque encore les images mais c'est normal. Donc là, il m'a traduit le tout en français. Voilà, le site il commence
+17:31
+à être de plus en plus opérationnel. Maintenant, il va falloir qu'on puisse gérer donc toute la partie image. Pour ça, vous allez avoir un prompt en
+17:37
+description à nouveau. Et je vais juste lui transmettre donc le HTML de la boutique là. Je vais lui transmettre ça
+17:43
+juste ici. Et je vais lui transmettre aussi le prompt que j'ai mis en place. Exécute le prompt. Donc là, l'idée sera
+17:48
+qu'on puisse demander à Claudia de mettre en place des prompts pour qu'on puisse utiliser notamment Eastfield pour mettre en place nos propres photos
+17:54
+concernant notre produit perruque pour femme. Donc là, il m'a fait un petit audit concernant ma boutique. Il a vu
+17:59
+donc toutes les images qui manquaient. Image héros, vignette 1, vignette 2, vignette 3. Là, il a mis en place toutes
+18:05
+les images manquantes et là l'idée sera justement de pouvoir ben combler ce qui manque. Voilà, donc il y a 29 images manquantes, même le logo et cetera.
+18:11
+Maintenant, upload un screenshot sur pleine page du site concurrent dont tu t'inspires. Ça me permet de comprendre le style visuel, le traitement des
+18:17
+images et la hiérarchie visuelle. Donc là, ce que je vais faire, c'est revenir sur le site juste ici. Donc on est bien d'accord que moi je lance pas le même
+18:23
+produit que lui, mais voilà, au moins Claudia va pouvoir comprendre à peu près ce que je souhaite en terme d'image ou
+18:28
+en tout cas en terme de qualité. Voilà, donc ça c'est bon. Je mets ça à format PNG, cloud téléchargement et je lui
+18:33
+transmets tout ça. Ça c'est l'étape 2 pour réaliser mes images. Le screenshot est bon. Donc il voit un peu dans quel
+18:39
+moode je veux que le site il soit. Donc là voilà, il comprend bien. Maintenant upload le zip concernant toutes les images du site. Go je vais cataloguer
+18:46
+chaque fichier et map du place. OK pour comment récupérer les images. OK juste lui dire je précise que mon produit
+18:52
+c'est bien celui-là. Je vais quand même lui envoyer bien qu'il capte au cas où. Donc j'aimerais avoir des prompts pour
+18:59
+isfield pour remplacer les images m OK elle a bien compris mon produit. Il y a pas besoin de zip concurrent dans mon
+19:04
+cas parce que comme j'ai pas exactement le même produit que le concurrent, il y a pas besoin de reprendre toutes ces images. Maintenant qu'il a compris la structure, juste avance. Avant de
+19:10
+démarrer, comment veux-tu recevoir les promptes ? Un par un, je te donne image un, tu génères, je dire B tout tout d'un
+19:16
+coup et je veux vraiment des images de qualité et un peu dans le même sens que
+19:21
+le concurrent actuel. Voilà, parfait. Donc là, c'est exactement ce qui va me faire. Voici les 29 images à créer. Rationalisé en 20 promptes uniques. Donc
+19:28
+le héros principal, donc c'est exactement ceci. Maintenant, ce qui va se passer que pour remplir chacune
+19:33
+Maintenant, ce qui va se passer que Maintenant, ce qui va se passer, c'est que pour intégrer chacune des images du site, je vais utiliser un prompt comme
+19:39
+il le fait ici, un prompt bien détaillé et je vais envoyer ça directement à Isfield. Donc ich, j'ai déjà montré sur
+19:45
+ma chaîne YouTube, c'est un outil DIIA justement qui permet de pouvoir réaliser plein de vidéos, d'images, tout ce que vous voulez, tout est possible avec
+19:51
+cette plateforme. Donc là, je vais aller sur image juste ici et je vais aller sur chat GPT2. Donc là, vous voyez que j'ai déjà réalisé des images, même des
+19:57
+miniatures. La dernière miniature que j'ai faite, elle a été faite directement avec ça. Alors, je vais enlever ça juste ici et je vais coller le premier prompt.
+20:04
+Je vais lui donner le produit juste ici comme ça il a bien en tête. Et alors, qu'est-ce qu'il m'a dit ? En 4K auto ?
+20:10
+OK, donc là je vais générer et on va voir exactement donc qu'est-ce qu' va me faire pour la première photo avec le
+20:15
+prompt numéro 1. Voilà, ça le prompt il est quand même bien détaillé. Et après ensuite, il y aura l'image 2, l'image 3,
+20:21
+l'image 4, ainsi de suite et ainsi de suite. Donc là, il est toujours en train de me générer. Donc image 10, image 11,
+20:26
+image 12. Bon, on attend de voir ce que ça va donner. Impatient de voir le résultat. Moi, j'ai demandé quelque chose de qualitatif et que je puisse
+20:32
+mettre directement sur mon site. OK, donc voici la première image que Hfield m'a fait. Donc franchement, pas mal du
+20:38
+tout. Pas mal, pas mal du tout je voir télécharger la photo. Moi, j'aime bien. J'aime bien. Franchement, je la trouve très qualitative la photo et même la
+20:45
+femme ici présente. Donc non, non, non. Franchement euh merci Jeield. Franchement, c'est qualitatif. Donc ouais, c'est quand même bien différent
+20:50
+là de la première photo. Celle-là, elle était pas ultra qualitative mais celle-là, elle est bien différente. On le voit, c'est très visible. Donc OK.
+20:56
+Ben merci pour le premier prompt. Donc la photo là, je l'ai bien téléchargé. Et donc là, ce qui va se passer, c'est que
+21:01
+je vais faire la même chose pour tous les promptes que Claude m'a mis en place. Donc là, c'est l'image 1. L'image
+21:07
+2, il m'a dit quoi ? Même génération que l'image 1 utilise le fichier simplement recadrer. OK, donc là on va passer à l'image 3 directement dans ce cas-là.
+21:13
+Image 3, on est parti. Donc là, c'est la troisième photo qui a été faite par Hfield. À nouveau, en très belle photo,
+21:19
+très qualitative. Euh, je vais la télécharger directement ici. Et donc là, ainsi de suite et ainsi de suite. Je
+21:25
+vais faire la même chose. Donc pour l'image 4 5 6 7 jusqu'au bout. Donc après, il faut savoir que il y a
+21:30
+différentes versions. Là vous avez chat GPT image 2, donc ça me coûte 12 crédits et ça prend un petit peu de temps. Si je veux aller plus vite, par exemple, je
+21:36
+peux prendre Nano Banana Pro, ça me coûtait deux crédits et ça ira beaucoup plus vite. Pour le reste des images, je vais utiliser juste la partie de Nano
+21:42
+Banana Pro, ça va me coûter moins cher et aussi ça ira beaucoup plus vite. Pas envie de m'éterniser sur tout ça. Donc je vais générer ça. OK, donc là c'est la
+21:48
+troisème image avec Nano Banana Pro, bah c'est plus rapide donc c'est de moins bonne qualité entre grosse guillemets.
+21:53
+Ça reste très bien mais c'est pas comme ce que j'ai montré précédemment. Alors, je fais le même principe pour le reste et ensuite on se retrouve dans quelques
+22:00
+instants. Après avoir passé environ une bonne demi-heure, voici les images qui ont été mis en place. Donc comme j'ai
+22:06
+dit là, j'ai utilisé Nano Banana 2 parce que ça va plus vite mais en général, j'utilise déjà GPT image 2, c'est un
+22:11
+petit peu plus cher et ça prend aussi un petit peu plus de temps. Mais si vraiment je vais aller au bout des choses en mode ultra cali, je le ferai avec chat GPT2. Donc là, je vais
+22:17
+sélectionner toutes les photos qui m'ont mis en place sur la base du prompt. Franchement, ça va. C'est c'est pas mal du tout et encore parce que là, j'ai ué
+22:24
+comme je vous ai dit, c'était pas la meilleure version parce que je voulais aller un petit peu plus vite mais franchement, c'est pas mal du tout. Donc là, je vais copier toutes les photos.
+22:30
+Hop là. OK, donc on est bon. Là, je vais tout télécharger. Et ensuite, donc qu'est-ce qu'on va devoir faire ? C'est
+22:35
+aller donc sur imgb.com pour pouvoir justement envoyer le lien exact de ces images là. On est on est
+Upload des images sur imgbb et intégration
+22:42
+d'accord ? Donc là, c'est ce que je vais faire. Commencer l'envoi. Je viens sur la partie téléchargement. Je viens de télécharger à l'instant les images et
+22:47
+toutes les images, elles sont juste ici. Et là, je vais copier toutes les images comme ça et je vais commencer l'envoi. Donc là, j'ai 36 images qui sont en
+22:53
+cours. Cliquez sur envoyer, téléversement des 36 images. Et là, ensuite, le but sera de transmettre donc les liens directement à Claudia afin
+23:00
+qu'il puisse mettre donc les bonnes images aux bons emplacements au niveau de la boutique. Et dès que ça c'est fait, là je pourrais directement mettre
+23:06
+en place donc la boutique qui a été créée par Claudia directement sur ma boutique Shopify. Ensuite, ce que je vous invite à faire, c'est de mettre ici
+23:11
+le lien direct, d'accord ? parce que c'est de ce lienlà que Claudia a besoin. Donc là, c'est le lien direct de toutes
+23:16
+les images. Et là, je vais au niveau de Cloud et je vais tout copier exactement ici. Mais je suis pas sûr de l'ordre
+23:22
+mais tu peux vérifier par toi-même. Voilà, je lu envoie ça. Qu'est-ce qu'il va me dire ? Je vais fier les images pour voir ce que tu as généré et les
+23:28
+mapper intelligemment aux bons emplacements. Bon, normalement Claudia, il est assez intelligent pour savoir comment organiser les images, savoir
+23:34
+quelle image doit aller à telle place. Je vous invite à respecter exactement ce que je suis en train de vous montrer juste ici. Après en vrai là, les photos
+23:39
+que Hfield a fait, c'est des photos que je peux réutiliser en publicité, hein. Franchement, on va en rediscuter après.
+23:44
+Mais ouais. Là, par exemple, ça c'est une photo que je peux reprendre. Même cette photo là, elle est bien pour la publicité. Celle-là aussi. Celle-là
+23:50
+aussi. Pas juste, faut juste pas qu'il y ait des fonds blancs derrière en mode bizarre. Mais ça, tu vois, ça c'est des bonnes photos. De toute façon, pour un
+23:56
+produit comme une perruque, il y a pas besoin d'avoir des vidéos explosives. Voilà, des photos comme ça, ça rend bien et en vrai, ça peut être intéressant
+24:01
+mais on verra ça un petit peu après. OK, donc là en principe on est bon. Donc là, c'est normal, si on voit pas les images, c'est parce que quand je vais aller sur
+24:08
+télécharger au format HTML, normalement c'est ici qu'on devrait voir les images. Et c'est bien le cas, les images sont en
+24:14
+train de charger petit à petit, mais là, vous pouvez voir justement un aperçu du site qui a été mis en place au final
+24:19
+avec un seul prompt, des indications. Voici ce qu'on peut mettre en place sans avoir à mettre en place une seule ligne
+24:25
+de code, sans avoir à mettre en place des choses vraiment très compliquées. Euh vraiment, tout est possible. Franchement, regardez-moi ce site
+24:30
+internet. Vous pouvez faire exactement la même chose. Vous avez les prompts en description. Vous transmettez ces prompt là à Claudia et peut vous faire
+24:37
+exactement ce type de résultat. Je suis parti d'une base d'un produit que j'ai trouvé un peu à la volée et au final,
+24:42
+regardez-moi à quoi ressemble le site. C'est tout simplement incroyable. Voilà, le site ressemble exactement à ça. Bien évidemment, il y aura encore des
+24:48
+modifications que je peux faire pas sûr de quelle longueur ou couleur choisir, faire le quiz. Il a même un quiz qui est possible. Donc ça c'est les images qui
+24:53
+ont été faites avec Field. Comme j'ai dit, moi j'ai utilisé donc l'option la plus faible parce que voilà, je voulais avancer un peu plus vite. Je vous invite
+24:59
+à utiliser l'option chat GPT2 comme ça ça vous permettra d'avoir des images encore de plus grande qualité. avant de lancer la boutique bien évidemment je
+25:05
+ferai en sorte de pouvoir valider l'ensemble des images. Mais là comme je suis au studio, voilà, si je prends 3 heures à faire des images, c'est un peu
+25:11
+une perte de temps. Donc là par exemple, une wingch quatre moments. Donc là c'est avant, après la pause, après coiffage,
+25:17
+guide des longueurs. Donc là, va falloir que je explique à Claudia juste qu'il puisse inverser là les images parce que là il y a une petite erreur. Prête en
+25:23
+quatre étapes. Prépare ta base, positionne la wing, fond la et coiffe et rayonne. Là les filles, je pourrais pas
+25:29
+dire si c'est bon ou pas bon. Il va falloir que je vérifie quand même avant de lancer les publicités. Mais j'espère que c'est bien ça. Donc Calwin Velvara
+25:36
+est faite pour toi. D'accord. D'accord. D'accord. Et là on a les avis clients qui sont juste ici. Donc non franchement
+25:41
+voilà, on a la FAQ aussi. Là on a des images clients et tout le site. Franchement un débutant ne peut pas
+25:47
+faire ça. Ça veut dire que peu importe qui vous êtes, vous n'êtes pas en capacité de faire un site comme ça si vous démarrez tout juste l'e-commerce.
+25:54
+Si vous n'avez jamais fait de vente. Claudia 20 € par mois. Si ça permet de faire des sites qui au final euh vous auriez dépensé des milliers d'euros qui
+26:00
+n'ont aucun sens alors que au final voilà, vous mettez en place un site comme ça qualitatif. Et encore comme je répète le site là, je vais pas le lancer
+26:06
+à 100 % comme ça. Là pour moi là le site il est fini à 80 %. OK, il y a encore du 20 % que là je vais devoir faire des
+26:11
+modifications manuelles. Euh mais déjà je gagne un temps qui est énorme parce que j'aurais jamais eu un site comme ça en partant de zéro. Ça m'a pris des
+26:17
+heures et des heures et des heures alors que là c'est pas le cas. Franchement c'est un très bon site. Après comme vous le savez dans l'entrepreneuriat ce qui compte c'est le résultat. Donc on verra
+26:23
+bah le résultat qui va m'apporter ce site là. si j'arrive déjà à générer au moins une vente et qu'est-ce qui est possible de faire en 24 heur avec une
+26:29
+boutique comme ceci. Maintenant, ce qu'on va faire pour poursuivre ce challenge, il va falloir qu'on puisse mettre en place nos publicités, d'accord
+26:35
+? Le fait de créer donc de bonnes vidéos et de bonnes photos. Et c'est ces publicités là ensuite qu'on va pouvoir mettre en place, notamment sur la
+26:41
+plateforme de Facebook Ads. Déjà, l'idée c'est de pouvoir les créer. Pour mettre ça en place, je vais pas appeler une UGC créatrice qui va me demander 500 € pour
+26:48
+mettre en place une UGC de 20 secondes avec lequel j'auraiis zéro résultat ou je vais pas payer une agence marketing de 10000 20000 €. Non, tout ça c'est
+26:55
+terminé en tout cas encore plus au début. Ne partez pas dans des choses comme ça au début quand vous démarrez un projet en e-commerce. Ne dépensez pas
+27:01
+des sommes astronomique sur des publicités. Oui, les publicités, c'est important mais voilà, faites quand même attention à votre argent même si vous
+27:07
+pouvez en avoir mais vous pouvez mettre votre argent là dans d'autres choses. D'accord ? Donc là d'ailleurs, ce que je vous invite à faire au niveau des publicités, donc c'est mettre en place
+27:13
+les promptes que je vais vous donner. Les liens, ils sont à nouveau en description. Désolé, parfois il y en a, il me disent "Ouais, mais les promes, ils sont pas là." Si tous les promes
+27:19
+sont là. Vérifie bien. Je précise queavant de publier une vidéo, je vérifie quand même avec mes équipes que tous les prompt que je présente en vidéo
+27:25
+sont bien disponibles. Donc vérifiez bien et plusieurs fois pour être sûr. Donc là, ce qu'on peut faire, c'est que il y a différentes manières de faire des
+27:30
+vidéos. On peut faire des images, on peut faire des UGC, on peut faire des vidéos format carré. Ce que je vais faire pour ce challenge et c'est aussi
+27:36
+ce que je vous recommande quand vous vous lancez en e-commerce, c'est pas de faire une campagne et vous lancez trois qu créatives. Non, il faut que vous
+27:42
+puissiez en lancer entre 10 et 15 pour donner un maximum d'information à Facebook et voir exactement donc est-ce
+27:47
+que c'est le format vidéo carré qui fonctionne le mieux ou est-ce que c'est le format image ou est-ce que c'est le format UGC par exemple. On ne sait pas
+27:52
+tant qu'on a pas testé. Et pour tester, ben il faut pouvoir mettre ça en place notamment via les prompts que je vais vous montrer. Donc là je vais vous
+27:58
+présenter différents exemples. Notamment on peut commencer via les images. Là vous avez le prompt qui est en description. Et là, le but ça sera donc
+28:04
+de copier le prompt juste ici. Et on va pouvoir réaliser donc des images sur la base de ce prompt notamment pour les
+28:10
+publicités. Je lui ai transmis un prompt, je lis le PDF, c'est un framework concernant la mise en place de
+28:15
+visuel publicitaire scroll stopping avec chat GPT image 2.0 que c'est notamment ce que j'ai fait avec Isfield. Donc là,
+28:21
+il me demande face 1, qu'est-ce que tu vends, qu'est-ce que ça fait ? Quelle est la transformation, quel est le prix de vente ? Qu'est-ce qui te différencie
+28:27
+des alternatives ? Donc il va nous poser différentes questions. Je vous invite à y répondre calmement, prendre le temps de le faire. Tout simplement, ce que je
+28:32
+vais faire, c'est que je vais lui préciser que c'est bien pour cette boutique. Tu as déjà les informations, c'est ma boutique Valvara. Voilà, donc
+28:39
+parfait. J'ai tout ce qu'il me faut. Je te construis un Bri stratégie. Alors, qu'est-ce qu' va nous faire ? OK, image catalogue, target customers, love,
+28:46
+visual direction, emotion ters, ads, angle que je vois. Le moment où on ne voit pas le last before. OK. OK. Passons
+28:53
+à l'action. Je vais mettre yes. Comme ça, on va voir ce qu'il va me faire. Avant de générer les concepts, veux-tu m'éduquer sur ce qui marche déjà ? Donc
+28:59
+ça c'est bien que le probl nous demande ça. Comme ça on peut potentiellement donc lui transmettre des publicités qui tournent déjà bien auprès des
+29:05
+concurrents ou si vous avez pas du tout d'exemple à ce niveau-là, ben dans ce cas-là, vous mettrez nom génère fraîche. Donc je génère des concepts 100 %
+29:11
+originaux basés sur les principes du direct response et tombé. Donc moi ce que je vais faire c'est que je vous recommande quand même vivement de
+29:17
+partager des angles de pub concurrente comme ça vous êtes sûr d'aller dans la bonne direction. Donc là ce que je peux faire c'est aller dans la bibliothèque
+29:23
+publicitaire Facebook. Je vais juste ici je clique. Là je vais mettre toutes les publicités. Et là, je peux mettre par exemple bah perruque hein. J'espère que
+29:29
+ça serait bien comme ça. Et là, je vais regarder donc les publicités qui sont actives. Je vais regarder plus sur le marché français parce que bon, il y a beaucoup de publicités là. Alors, je
+29:34
+vais regarder marché français, perruque. Là, par exemple, c'est une boutique. Est-ce qu'elle tourne encore celle-là ? Donc eux, ils ont 25 résultats. OK.
+29:40
+Ouais, ils ont pas mal d'abonnés mais pas ouf. Et donc là, ce que je vais faire, c'est que je vais regarder. Donc toutes les boutiques sont actives
+29:46
+concernant mon produit, concernant ma niche et comme ça, je peux donner une direction à chat GPT. Donc eux, par exemple, ça a l'air d'être une marque
+29:51
+qui est beaucoup plus sérieuse au niveau des perruques. Est-ce qu'ils ont des images ou pas ? parce que là il me demande des images. OK, ça c'est bien.
+29:57
+Ouvrir l'image. OK, donc ça je peux lui donner. Eux ils ont pas tant d'images que ça. C'est beaucoup des vidéos. Mais ce qui est bien c'est que ces vidéo là
+30:03
+potentiellement avec ce que Lia va pouvoir nous faire c'est des choses que je vais pouvoir récupérer. Là je vais aller au niveau des filtres juste ici et
+30:10
+je vais mettre image comme ça je vais pouvoir voir uniquement les images de cette marque. OK donc ouais ils ont fait des images comme ça. OK c'est pas mal
+30:18
+ça. Je le garde. Il y a pas mal de photos clients aussi. Après, je pense qu'il faudra quand même essayer aussi les les vidéos, hein, parce que là, de
+30:24
+ce que je vois, je pense que cette marque-là actuellement, elle a l'air quand même de plus tourner euh via des vidéos. De ce que je vois, ils ont fait
+30:30
+plus de 11000 publicités. Donc là, c'est des publicités vidéos.
+30:38
+Non, franchement, niveau publicité, ils ont bien géré, hein, franchement. Voilà. Donc, OK, on va faire ça. Enregistrer l'image sous prends cette image. Je vais
+30:44
+prendre cette image aussi. cette image et cette image. Ensuite, on revient sur Cloud et je vais lui envoyer une
+30:51
+direction. OK, je vais lui envoyer une direction. Je vais lui mettre oui, je partage. Donc comme il a bien dit, je m'en inspire sans copier. OK. Allez,
+30:57
+qu'est-ce qu'il va nous faire ? J'analyse tes quatre références. Image une blonde, ce qui marche UGC authentique. OK. Image 2, image 3, image
+31:05
+4. Là, il est en train d'apprendre. Faut bien comprendre que Claudia, il faut l'éduquer. C'est par terre, va rien mes concepts. OK, donc go. C'est bon, man,
+31:12
+il a tout la data. Donc let's go, avançons. Et donc là ce qui se passe c'est qu'il me fait un premier ads concept. Wait, it is real. Il vous
+31:18
+explique exactement comment il voit justement cette première publicité. Le visual donc 4/5, Instagram feit, TikTok
+31:24
+ads. Voilà, il nous explique tout. Exemple d'exécution, l'image finale montre X Y Z. Je suis pas un expert non
+31:30
+plus des perruques mais en tout cas voilà, c'est exactement ce qu'il me propose. Je vais mettre approved et là il va me transmettre un prompt. OK, donc
+31:36
+voici le prompt. Copy col exactement après avoir uploadé tes deux images. OK, donc là, il me dit maintenant, ouvre le chat GPT, upload l'image 1 et l'image 2,
+31:43
+colle le prompt et génère. Donc c'est exactement ce que je vais faire. Alors, on va se retrouver sur ich field à nouveau. Donc, je vais aller au niveau
+31:50
+des images. Je vais aller sur donc chat GPT image 2. Hop là, donc on est bon. Je vais enlever cette image. Et donc,
+31:56
+attends, il m'a dit donc là, je dois reprendre quelle image ? Image 1. Mannequin face. OK, donc je pense qu'il y a cette image là que je dois
+32:02
+reprendre. Il m'a dit de faire ça. Et c'est quoi l'autre image ? Close up last fondu ring lins pau foncé ou là je sais
+32:08
+pas je sais pas c'est elle si c'est elle je pense que c'est elle j'espère faut pas se tromper parce que sinon ça change
+32:14
+un peu tout et là je vais pouvoir copier le prom juste ici et je vais copiercoller je commence à générer là ça va prendre quelques minutes à se mettre
+32:21
+en place et comme ça on va pouvoir voir donc la première photo qui a été mis en place via le prompt de Claudia et
+32:26
+potentiellement donc c'est une photo qu'on va pouvoir réutiliser en publicité. Là le but c'est pas de faire des photos pour le site comme on a fait
+32:31
+précédemment. Là le but c'est de faire des photos pour les publicités. Ce qu'on va faire, c'est qu'on va attendre que ça puisse se générer et ensuite il nous demande donc comment ça s'est passé. Euh
+32:38
+good refund this, variation, done for now. J'attends de voir et je vous fais un petit retour. OK, donc voici le
+32:43
+retour concernant ce que m'a fait Eachfield sur la base du prompt de Claudia. Euh les filles, je sais pas qu'est-ce que vous en pensez. Euh,
+32:49
+n'hésitez pas à me dire en commentaire. Moi là, comme ça, je pourrais pas trop dire parce que je je suis pas expert de perruque, mais bah l'idée c'est que je
+32:55
+puisse lancer cette boutique. Donc, je vais quand même plus me renseigner et ben voilà, voilà l'image. Tu vois la lass ? Moi non plus. OK, donc
+33:01
+franchement ça m'a l'air pas mal en vrai parce que oui, je comprends. Je crois là c'est le qui a devant à partir vers le front et tout donc ça fait sens. Je vais
+33:09
+enregistrer l'image sous OK et je vais mettre nouveau dossier publicité. Comme ça, ce qui est intéressant c'est qu'on
+33:14
+pourra voir donc quelles sont les publicités qui fonctionnent le mieux basé sur l'IA. Donc là, il y aura pas de publicités qui seront faites par uneC ou
+33:20
+des publicités cachées qui seront faites où je reprends c des concurrents. Zéro nada, je vais tout faire sur la base de
+33:25
+Claudia et comme ça, on va lancer exactement ses publicités et on verra donc est-ce que aussi les publicités I
+33:31
+fonctionnent parce que c'est souvent le sujet, on voit des vidéos YouTube partout. Oui, comment faire des UGC, comment faire X Y Z. On a vu personne
+33:37
+montrer "OK, j'ai eu tant de résultats avec ce UGC, tant de résultats avec ce qui a été généré avec Lia." C'est aussi
+33:43
+l'objectif de cette vidéo. Euh moi je lui qu'est-ce que je peux lui dire ? Je vais lui dire ben good he en vrai good next concept. Donc ça c'est pour vous
+33:49
+montrer un exemple au niveau des photos. Et après ben là tout ce que vous avez à faire c'est mettre good next concept. Il va vous expliquer exactement l'ads
+33:55
+numéro 2. OK le concept et vous avez juste à nouveau donc à copier le prompt avec les images qui vous a indiqué.
+34:00
+D'accord ? Donc ça c'est concernant les images que vous devez mettre en place. Le prompt il est en description à nouveau. Donc là je peux mettre
+34:05
+approved. Donc là c'est le même principe he si je veux encore avoir une nouvelle image juste à copier ce promte là mettre
+34:10
+les des images qui m'a dit juste ici et comme ça j'aurai une deuxième image pour la publicité. Donc ça c'est comme ça que vous devez procéder au niveau des
+34:16
+images. Maintenant concernant les vidéos, vous avez aussi un autre prompt qui est en description. C'est le même principe. Vous mettez en place le prompt
+34:22
+et va pouvoir donc vous indiquer toutes les étapes à respecter afin que vous puissiez avoir aussi des vidéos de qualité. Donc là l'idée pour moi, c'est
+34:27
+de pouvoir générer donc 15 créatives. Je pense que je vais faire en moyenne voilà sep photos, sep vidéos. Donc ça fait 14 plus je vais rajouter une ou deux photos
+34:34
+pour être à 15. Comme ça je vais lancer uniquement des créatives qui viennent de Lia et qui viennent de Isfield. comme ça on verra les résultats. Donc laissez-moi
+Étape 6 : Lancement des publicités Facebook via Claude Code
+34:40
+bosser sur ça et on se retrouve à l'étape suivante. Maintenant, la dernière étape sera de passer au lancement des publicités. Pour ça, on va
+34:46
+utiliser la plateforme de Facebook. C'est la meilleure plateforme pour démarrer l'e-commerce. Il y a aucun sujet à ce niveau-là. Et même pour
+34:52
+Facebook Ads, on peut demander à Claudia de nous aider. J'ai fait une vidéo YouTube là récemment où j'ai montré comment on peut connecter donc Clodia
+34:58
+directement à Facebook et on peut depuis Claudia lancer une campagne sur Facebook. Donc moi je n'ai jamais vu ça
+35:04
+depuis que ça fait 8 ans que je fais de l'e-commerce que je peux lancer une campagne publicitaire en dehors de la plateforme de Facebook. Mais aujourd'hui
+35:09
+c'est le cas. Donc je vous invite aussi à regarder donc cette vidéo où j'explique en détail comment faire ceci hein. Parfois moi-même des fois je
+35:14
+regarde mes vidéos quand j'ai besoin de créer une boutique ou faire quoi que ce soit. Donc là pour ça, vous allez sur Cloud à nouveau et ce qu'on va faire
+35:20
+c'est cliquer ici sur personnaliser pour pouvoir connecter donc à Facebook. Je vais cliquer juste ici. Et là on va aller sur connecteur. OK. Et là vous
+35:26
+voyez connecteur. Donc moi j'ai déjà euh validé Facebook. Ce qu'il va falloir faire c'est copier ce lien http 2 point-
+35:33
+mcp et cetera. Vous allez cliquer ici sur ajouter un connecteur personnalisé. Et là ça je pas nécessaire. Et là par
+35:38
+exemple je vais mettre Facebook et vous allez mettre l'URL que je viens d'indiquer à l'instant. et ensuite vous allez cliquer sur ajouter. Quand vous faites ça donc vous allez arriver donc
+35:45
+exactement sur l'interface comme ceci où vous avez Facebook qui est bien connecté. Donc moi c'est le cas. Maintenant je vais juste changer les
+35:50
+autorisations parce que là actuellement il a bloqué les autorisations et je vais mettre toujours autorisé. D'accord ? Donc Claudia a accès à Facebook à 100 %.
+35:57
+Il y a aucun sujet. Voilà comme ça il a bien accès à tout. Et maintenant on peut revenir ici et je vais lui dire euh je
+36:03
+souhaite lancer des publicités Facebook. À quel compte publicitaire as-tu accès ? Bon, je m'excuse pour les faux
+36:08
+d'orthographe hein. Je m'excuse, je m'excuse, je m'excuse. Donc, qu'est-ce qu'il me dit ? Je n'ai pas accès à ton compte publicitaire Facebook directement, mais je peux vérifier si tu
+36:14
+as un connecteur méta disponible. Alors, normalement, c'est le cas. Oui, tu as un connecteur méta. Donc, je vais mettre autoriser. Donc là, en gros, ce qui me
+36:20
+dit, ce qui existe pour MTA, option 1, Facebook MCP. Donc, il est déjà connecté. Maintenant, il y a une petite
+36:25
+spécificité auquelle faut attention. Donc, quand vous cliquez sur plus ici, donc là, je vais aller sur connecteur et vous voyez que Facebook n'était pas
+36:30
+activé. OK, faites bien attention. Donc je le laisse volontairement pour que fassiez pas cette erreur. Là, je vais lui demander à nouveau. Je vais copier
+36:37
+ça et cette fois-ci il devrait me répondre parce que Facebook est bien relié à Claudia. Tu as le connecteur Facebook. Voilà, il va regarder. Donc je
+36:43
+vais mettre toujours autorisé. J'ai accès à huit comptes publicitaires. OK, ce que je vais lui demander, c'est que sur le compte pub ecom, ce compte pub
+36:50
+là, je peux lui demander donc de lancer une publicité. D'accord ? Donc là, on va utiliser donc le compte publicitaire,
+36:55
+donc Pure Body Marketing. Donc il a bien accès à tout. Il m'a dit "Avant de créer quoi que ce soit, laisse-moi te poser
+37:00
+cinq questions rapides pour configurer la campagne parfaitement." Objectif : qu'est-ce que tu veux optimiser ? Est-ce que tu fais du trafic ? Est-ce que tu
+37:06
+faire des vente ? Est-ce que tu veux faire de l'engagement ? Donc moi, on est d'accord que je mette que je vais faire des ventes. Budget journalier. Combien veux-tu dépenser en un jour ? Faut
+37:12
+savoir que même si vous démarrez l'e-commerce et que vous souhaitez mettre 100 € par jour, si dès le premier jour vous voyez que c'est un peu bancal
+37:17
+et que voilà, c'est problématique et que vous voyez pas de résultat, ben dans ce cas-là, vous pouvez tout simplement couper la publicité. D'cord, c'est pas un engagement. Donc moi, je vais mettre
+37:24
+100 € par jour. Ensuite, quel est le lien de ta page produit VRA ? Donc, faudra donner la page produit, l'URL de
+37:30
+la page produit, le visuel. As-tu déjà généré les images avec le problème qu'on a créé ensemble ? Si oui, as-tu l'URL des images ? Sinon, on peut lancer en
+37:36
+trafic BR avec une image de ton produit en attendant. Donc là, je peux lui transmettre directement les images au niveau des publicités. Et en 5, quelle
+37:42
+page Facebook veux-tu utiliser pour diffuser les publicités ? Mettre la page Facebook disponible. Donc là, je mets sur entrer. Et là, ce qui va se passer,
+37:49
+c'est que Claudia peut littéralement me créer une publicité de A à Z. Et là, il va repartir donc sur Facebook. Il va
+37:55
+vérifier donc les pages parce que moi je lui ai dit va sur la page qui est disponible. Il m'a dit qu'il y a une seule page qui est disponible sur ce
+38:01
+compte. Il vérifie le pixel, il vérifie tout. Donc là, je vais dire lance quand même. OK, donc là il va me créer une campagne toujours autorisé. L'adset
+38:07
+ciblage femme France 18 ans 45 ans. La campagne donc là elle est bien créée. Là je précise que quand vous allez créer
+38:13
+une campagne avec Clodia, il va falloir que vous puissiez l'activer ensuite sur Facebook hein. Il va pas lancer des campagnes à la volée et après vous allez
+38:18
+vous plaindre auprès de Facebook qu'il y a eu du budget qui a été dépensé. Non, d'accord, il y aura jamais ça. Il va créer la campagne et ensuite c'est nous
+38:24
+qui allons l'activer. Et donc là, qu'est-ce qu'il me dit ? Je crée maintenant la créative image 4. OK, donc là je suis en train de lancer une
+38:29
+campagne Facebook en direct avec vous directement via Claudia. Donc je lance une campagne Facebook sans Facebook.
+38:35
+C'est Claudia en fait il ils ont dépassé les limites en fait de la réalité, de ce qui était possible et de ce qu'on pouvait imaginer. Je me suis jamais levé
+38:41
+le matin pour me dire que un jour je pourrais lancer une campagne Facebook en dehors de la plateforme de Facebook. C'est en fait de quel droit et de quelle
+38:47
+raison en fait. C'est c'est c'est de la folie. Donc là, c'est ce qu'il est en train de me faire. Et ensuite, quand on aura fini toutes ces chosesl, bah le but
+38:53
+tout simplement sera de lancer des publicités et d'avoir des résultats. Donc maintenant, ce qui nous dit, c'est que toute la structure a été créée en
+38:59
+pause. Maintenant, j'active tout de haut en bas. OK, toujours autorisé. Campagne live, tout est actif. Recap complet.
+39:05
+Donc, il m'a mis en place la campagne adsets, l'ads, budget 100 € par jour. Pours tes résultats, ads manager, il me
+39:11
+donne le lien direct carrément. OK, donc le lien direct là, ça m'emmène directement. Ouais bah oui hein. Voilà la puissance de feu je dirais même de
+39:18
+Claudia. Là par contre il me les a activé hein les campagnes. Il me l'a activé directement. Faut quand même faire gaffe. Ce qu'il m'a fait c'est
+39:24
+qu'il m'a lancé une campagne donc à 100 € par jour. Il m'a mis un adset. OK c'est les femmes de 18 ans à 45 ans.
+39:30
+Donc là broad ça signifie qu'on ne cible personne. On laisse Facebook faire son travail. Et il a même mis en place donc
+39:35
+une photo que j'ai transmise directement. OK. Donc ça c'est la publicité. C'est une des photos qu'on a vu ensemble. Et là donc c'est directement Claudia de manière
+39:41
+exceptionnelle qui importe la photo que je lui ai transmis et qui la met directement en publicité. Donc c'est tout simplement incroyable. Je vais
+39:47
+faire des modifications concernant la campagne, on est d'accord parce que là il m'a mis en place une campagne de trafic parce que j'ai pas encore de pixel et cetera. Il y a quand même des
+39:53
+choses qu'il faut paramétrer, mais tout ça pour dire c'est que bah c'est surpuissant et il y a pas mal de choses à faire. Maintenant que tout ça est dit,
+39:58
+laissez-moi paramétrer les publicités correctement à l'aide de Claudia et on se retrouve bah d'ici demain pour vous montrer le résultat donc de qu'est-ce
+40:04
+qui est possible de faire avec Claudia à 100 % en 2026.
+40:09
+Bon les gars, je fais un petit update juste pour vous dire que les publicités elles ont bien été lancées. Donc là pour l'instant, on n pas de vente. On a eu 72
+40:15
+visiteurs sur la boutique. Là, il est midi heure française. Bon, moi je suis en Chine là, donc il va être 20h
+40:21
+bientôt. Je vous ferai le résultat final bah d'ici demain parce que moi là, il est déjà 20h. Vous là, il est midi 13h
+40:26
+donc ça va. Donc il y a eu 72 visiteurs pour l'instant et bah l'idée c'est que je puisse laisser la boutique tourner
+40:32
+mais pendant 24 heure française pour voir un petit peu ce que ça va donner là. Voilà, on se retrouve en direct de la Chine. Vous voyez là, j'ai toutes mes
+40:37
+cartes fournisseurs juste ici. Et d'ailleurs, je vais vous transmettre là le contact du fournisseur avec lequel ben je vais envoyer les perruques là si
+40:44
+je commence à avoir des résultats. Et ce fournisseur là, il gère bien. Si vous avez un MoQ qui est assez faible, vous pouvez bosser directement avec lui. Donc
+40:50
+voilà, espérant qu'on puisse avoir des résultats. Pour l'instant, on a 72 visites et on verra ce que ça va donner.
+40:55
+Donc, je fais un update dès que tout ça est passé. Bon, les amis, je vous fais un petit retour concernant les résultats. On se
+Résultats finaux et analyse de rentabilité
+41:02
+retrouve 24 heures plus tard. Donc là, moi là en Chine il est 17h. On a pu générer donc une vente. Je sais pas si vous allez bien voir. Là, on a eu 82
+41:08
+visites et on a fait 84 € de chiffre d'affaires. On a réalisé une vente qui a été faite autour des 20 heures
+41:14
+françaises et donc on a un taux de conversion de 1.2 nor vous devriez bien le voir juste ici. Maintenant, c'est
+41:20
+bien de faire des ventes mais il faut calculer la rentabilité. Faut savoir que sur ce challenge là, j'ai dépensé 100 €. Donc ça fait 100 € de dépense plus là,
+41:27
+je vais devoir payer donc mon fournisseur d'ailleurs qui est en description. Si vous vendez par exemple des perruques ou des produits beauté ou
+41:32
+même plein de produits avec un faible, contactez-le directement sur WeChat. OK ? Les perruques, elles me coûtaient 45 €
+41:38
+chez ce fournisseur là. Donc ça veut dire que là, je vais devoir dépenser donc 145 €. OK ? Sans compter les frais FIFA et tout, donc je rajouté peut-être
+41:45
+5 € ça fait 150 € dépensé au total et bah j'ai récupéré 84 €. Donc ça me fait
+41:50
+ça me fait environ 66 € de perte sur ce challenge là. Donc je n'ai pas gagné d'argent en 24 heures, même si j'ai
+41:55
+utilisé Claudia et cetera. Bien évidemment, même si tu utilises Claudia de A à Z, c'est pas une formule magique
+42:00
+avec lequelle tu vas devenir millionnaire en l'espace de 24 heures. On est bien d'accord. Maintenant, pour vous donner un peu mon avis concernant Claudia, en vrai, pour moi, genre c'est
+42:07
+une révolution, genre c'est Game Changer, c'est complètement incroyable mais moi là ça me ça me donne trop envie
+42:12
+de me focus encore plus en e-com. Mais maintenant, faut savoir que sur différents aspects de l'e-commerce, ça peut être utile ou moins utile. C'est
+42:19
+bien si et seulement si tu utilises les bons promptes, d'accord ? parce qu'on va pas se mentir que il y a des outils de recherche de produits que j'ai pu
+42:24
+montrer dans cette vidéo, ben ils sont pas moins forts que Claudia. OK ? Quand je vous montre comment faire la recherche de produits avec certains outils que je vais pas citer, ils sont
+42:30
+ils ont ils ont rien env à Claudia dans l'immédiat. D'accord ? Donc la recherche de produit la recherche de produit, tu peux pas la faire full avec Claudia. Si
+42:36
+tu demandes à Claudia, oui, donne-moi le produit que je dois lancer dès maintenant, on est en juin ou en juillet, ça marchera pas. Tu vois la
+42:41
+recherche de produits, vous pouvez utiliser donc différents logiciels plus vous aider de Claudia euh notamment sur ce que je vous ai montré peut vous
+42:46
+conseiller sur quel produit choisir. Maintenant au niveau de la création de boutique, ben là c'est complètement Game Changer en vrai c'est incroyable. Moi ça
+42:52
+ça fait aujourd'hui plus de 8 ans que je fais du e-commerce. J'ai jamais pu copiercoller littéralement une boutique en partant de zéro et là juste avec des
+42:59
+promptes encore une fois en fait vraiment Claudia c'est vraiment question de prompt. C'est pour ça que j'insiste sur ça. C'est d'ailleurs pour ça que je vous ai tout mis en description parce
+43:05
+que même au niveau de la création de boutique tu peux pas dire "Oui crée-moi une boutique." Non, je transmets un prompt et derrière il me fait le travail. Donc là, ça devient trop facile
+43:11
+de pouvoir créer des boutiques. Euh moi franchement là, j'arrive à créer une boutique par jour limite euh tellement c'est facile. Après, je check quand même
+43:17
+parce que parfait pour avoir quelques bugs, quelques incompréhensions. Donc c'est quand même bien d'avoir euh de s'y connaître un minimum. Genre si un
+43:22
+débutant il copie tout de A à Z en partant de zéro sans rien maîtriser, il peut quand même avoir du mal. On est bien d'accord. Au niveau du copywriting,
+43:27
+Claudia n'a rien envié à n'importe quel outil de copywriting qui existe. Si tu lui transmets le bon prompt, il est plus
+43:33
+fort que tout le monde. Donc ça, on est bien d'accord. mon avis sur la partie publicité. En vrai, si tu fais un assemblage de Isfield plus cloud, ça
+43:39
+peut vraiment être Game Changer. Dans tous les cas, je vous l'ai montré dans cette vidéo. Au niveau des photos, ce qui est bien, c'est que je peux littéralement copiercoller les photos
+43:45
+d'un d'une personne, par exemple, qui a eu des résultats sur un marché étranger et je ramène exactement les mêmes photos sur le marché français. Et après au
+43:50
+niveau des vidéos, elles sont bien à 80 % mais je pense ça va pas tarder pour qu'elles soit à 100 %. Mais il y a déjà des vidéos qui peuvent déjà convertir et
+43:56
+avec lequel on peut avoir des résultats. Tout ça pour dire, c'est que oui, Claudia nous aide à avoir des meilleurs résultats seulement si vous l'utilisez
+44:01
+correctement. Si vous êtes fignant, ça va pas vous aider. Mais si vous êtes déjà une personne qui est dans l'action, ça vous permettra d'être encore plus
+44:07
+dans l'action. En tout cas, c'est ce qui est mon cas et j'espère ce qui est ce qui est votre cas aussi. Donc voilà, c'est tout concernant cette vidéo. Euh je vais bientôt préparer des challenges
+44:13
+où je vais tester dropshipping sur une semaine, tester avec un certain budget. N'hésitez pas à liker cette vidéo et me dire en commentaire quel type de
+44:18
+challenge vous voulez que je fasse parce que je pense que c'est la meilleure manière pour apprendre le e-commerce. Quand moi je vous montre de zéro que je teste une boutique, je vais vous montrer
+44:24
+les résultats, il y a pas d'autres meilleures manières d'apprendre. Donc c'est pour ça que là, je vais enchaîner ces concepts là. N'hésitez pas à me donner des défis et comme ça,
+44:30
+j'essaierai d'y répondre. On se dit à très vite pour une prochaine vidéo.

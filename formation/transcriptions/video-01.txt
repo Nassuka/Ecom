@@ -1,0 +1,1238 @@
+vidéo 1 : Cloud Code met fin définitivement à tous les business de thème payant Shopify et à SAS e-commerce qui mettaient en avant
+0:07
+la création de boutiques Shopify. Tout ça c'est terminé avec ce que je vais vous présenter dans cette vidéo. J'ai mis en place durant ces dernières
+0:13
+semaines des prompts qui sont personnalisés. Faut savoir que Claudia, c'est pas juste question de lui dire "Crée-moi une boutique, on est très loin
+0:19
+de ça. Il faut que on puisse tester des choses, voir comment les choses fonctionnent. Est-ce que si je mets un prome de cette manière-là, ça fonctionne ? Oui ou non ?" J'ai passé plusieurs
+0:26
+semaines à mettre ça en place. J'ai presque perdu des journaux entre grosses guillemets pour vous réaliser cette vidéo afin que vous puissiez avoir
+0:31
+plusieurs promptes qui vont vous permettre [musique] de pouvoir créer votre boutique Shopify sans passer par des thèmes, sans passer par des
+0:36
+applications, à 100 % avec Claudia et à 100 % avec d'autres outils d'intelligence artificielle. Je vous invite tout simplement à liker cette
+0:42
+vidéo. Voilà, elle m'a pris du temps, je l'ai mise en place pour vous aider au maximum. Et maintenant que tout ça est dit, on est parti. Premièrement, donc le
+0:48
+but, on est bien d'accord, c'est de créer une boutique Shopify à 100 % avec l'intelligence artificielle, notamment Claudia. La première étape de cette
+Plan de la vidéo
+0:54
+vidéo sera de faire de la recherche de produits, donc de trouver des marques qui tournent extrêmement bien, qui vont me servir de base, que je vais pouvoir
+1:00
+potentiellement recopier. Donc là, ce que je vais faire ensuite, donc je vais vous présenter une boutique de référence qui cartonne. Donc c'est l'idée
+1:05
+justement de l'étape 1 en trouvant des produits gagnants. Et c'est exactement cette boutique là que je vais copiercoller et vous montrer toutes les
+1:11
+étapes pour le faire. En trois, donc on va utiliser un premier prompt que j'ai mis en place afin de donner toutes les
+1:17
+informations à Cloud Code afin qu'il puisse structurer notre boutique en quatre. Donc je vais vous montrer et
+1:22
+valider le modèle qui a été créé par Cloude. En 4B, on va créer la boutique Shopify bien évidemment parce que le but
+1:27
+c'est de pouvoir mettre cette boutique directement sur Shopify. En 5, on va demander à Claude d'écrire donc tous les textes persuasifs de cette boutique.
+1:33
+Donc je suis désolé aussi les copyriturs, le business est terminé, la création des thèmes, c'est terminée. Il y a pas il y a pas mal de professions en
+1:38
+fait qui sont terminées à cause de cloud code et notamment avec cette vidéo. En 6 donc générer des visuels professionnels
+1:44
+avec Lia. Je vais vous montrer les outils et on va tout faire ensemble. On va héberger ces images afin de les relier sur notre boutique et en 8, on va
+1:50
+intégrer donc directement le contenu sur Shopify et publier le tout. Et enfin, la boutique sera en ligne. C'est clairement
+1:56
+l'objectif de cette vidéo et par cette vidéo, vous n'aurez plus besoin de web designer, vous n'aurez plus besoin de
+2:01
+copywritter, vous n'aurez plus besoin de thème payant, vous n'aurez plus besoin de beaucoup de sass e-commerce qui n'ont
+2:06
+aucun sens. Tout ça c'est terminé via tout ce que je vais vous montrer dans cette vidéo. Maintenant, on va chercher donc la marque sur lequelle on va
+Étape 1 : Recherche de produit gagnant avec AutoDS
+2:13
+pouvoir donc s'inspirer, même copier, notamment via la plateforme de Auto DS. Donc vous avez le lien directement en description. On se retrouve maintenant
+2:19
+sur la plateforme de Autods et l'idée c'est de pouvoir cliquer ici donc sur Adpy pour pouvoir commencer à faire de
+2:24
+la veille concurrentielle et de trouver des marques qui sont intéressantes sur lesquelles je pourrais me positionner.
+2:29
+Donc là par exemple, je peux cibler Facebook, Instagram ou TikTok si je dis plus une marque qui tourne bien sur Facebook. Et l'idée c'est pas seulement
+2:36
+que je prenne une marque au hasard, mais c'est que je puisse vérifier la data notamment via le nombre de publicités qui sont actives via cette marque. Donc
+2:42
+là c'est exactement ce que je vais faire. Donc là, je vais scroller et le but c'est de trouver donc une marque qui tourne très bien que je vais pouvoir directement copier. Donc on va scroller.
+2:49
+Donc la partie adpy, c'est une manière de pouvoir trouver des produits qui sont intéressants. Donc c'est quoi ce site ? OK, non, ça c'est truc d'abonnement même
+2:55
+si la boutique elle a l'air de tourner. Euh ça c'est quoi ? OK, là c'est des produits qui sont un peu chers, même si
+3:01
+c'est des produits qui fonctionnent, c'est une boutique qui fonctionne mais bon là le produit est un peu cher. J'aurais bien quelque chose d'un peu plus simple. Ça c'est quoi ? OK, ce site
+3:07
+là en soit pas mal. Pas mal du tout. Euh après bon, il est un peu simpliste là.
+3:12
+L'idée c'est vraiment que je puisse bon, même si le site il fonctionne, regardez, ils ont bossé avec des grands athlètes.
+3:17
+Oui, après plus c'est simple et mieux c'est hein, mais on va continuer à chercher d'autres produits. Donc ça c'est une manière de trouver des produits gagnants. Vous pouvez le faire
+3:23
+aussi ici en cliquant sur [musique] trending product en recherchant vraiment un produit ou une niche particulière.
+3:29
+D'accord ? Donc ça c'est un produit d'ailleurs qui est tendance aussi. Je regarde un peu les ads. Il y a beaucoup de gens qui veulent ce produit là en ce moment. Après là c'est un produit plus
+3:35
+par rapport à TikTok. Ouais ce produit là franchement il est super intéressant parce qu'il y a une hype actuellement. Donc ceux qui sont sur TikTok, bon je vais continuer la je vais continuer la
+3:41
+recherche de produits et je vais essayer de vous trouver un site qui est super intéressant. Après avoir effectué ma recherche de produits, donc je suis tombé sur ce site en vrai qui a de très
+3:48
+bons résultats actuellement. Donc c'est confortco.com. C'est un site qui vend différents types de sandales. Voilà, le site, il est
+Boutique de référence : confortco.com
+3:54
+exactement comme ceci. Donc il y a des sandales pour hiver, des sandales pour été. Ils ont vendu plus de 250000 sandales dans le marché anglophone, je
+4:00
+pense. Donc franchement, regardez comment le site il est super stylé. Et là, l'idée c'est avec l'autre code, je peux exactement recopier ce site. Donc
+4:06
+là, voici la fiche produit. Allez, exactement comme ceci. Mais franchement le site il est propre hein. Everyd craft
+4:11
+for your confort. Voilà. Non franchement c'est un bon site hein. En vrai de vrai c'est un bon site. Sils ont mis des avis. Ça c'est une application d'avis
+4:17
+client euh assez classique. Mais en tout cas voilà l'idée c'est que je puisse recopier cette boutique. [musique] Donc pourquoi cette boutique ? Parce que si
+4:23
+vous regardez les publicités donc je vais regarder il y a combien de publicités qui tournent actuellement sur cette boutique et ça on le fait via la
+4:28
+bibliothèque publicitaire. Voilà confort.co. Donc ils sont plus de 100000 abonnés sur Facebook. Là en terme de
+4:33
+publicité ils ont combien de publicités qui tournent actuellement ? Voilà, ils ont 930 publicités qui tournent
+4:38
+actuellement, d'accord ? 930 publicités, donc c'est impossible qu'il ne soit pas rentable. Donc ils on ils ont des publicités de toutes sortes, des vidéos
+4:45
+comme ceci. Donc non, ça c'est une vraie marque e-commerce. Ça c'est une vraie vraie vraie marque e-commerce. Il y a pas de sujet, il y a pas de débat. Ça
+4:51
+fait un petit moment qu'ils sont là. Ils ont aussi de très bonnes photos. [musique] On va tout reprendre. On va tout reprendre. On va pas se prendre la tête. Même avec Lia, je peux même la
+4:57
+reprendre les publicités, tout changer, tout modifier. Donc non, non, ils ont 930 publicités. Donc je pense que c'est vraiment une bonne base pour qu'on
+Étape 2 : Analyse et structure avec Claude Code
+5:04
+puisse bosser correctement. et ben commencer directement à mettre en place une boutique justement avec cette
+5:10
+marque, avec ce produit. On va maintenant commencer par la toute première étape pratique concernant Cloud
+5:15
+Code. L'idée c'est que j'ai mis en place un prompt et que vous puissiez donc le retrouver en description et mettre
+5:21
+exactement ce prompt sur cloud code afin que vous puissiez mettre en place tout simplement votre boutique en e-commerce.
+5:26
+Là, ce qu'on va faire, c'est que via le prom que vous allez avoir en description, il va falloir qu'on puisse fournir le lien de la boutique à analyser. Donc nous, on va analyser la
+5:32
+boutique Confort juste précédemment. On va indiquer le nom de notre marque, d'accord ? Parce que l'idée c'est pas euh bah de reprendre la marque encore
+5:38
+confort, ça pas de sens. Euh je peux mettre ma propre marque derrière, d'accord ? Et euh Claude va reconstruire entièrement toute la structure de la
+5:44
+boutique. Donc les titres, bullet point, FAQ, témoignage, section. Donc là, le but, c'est de reprendre exactement la
+5:49
+structure de ce site et on va se retrouver exactement sur cloud code. Donc vous allez copier le prompt, vous
+5:55
+allez le mettre juste ici. Et je vais mettre exécute le prompt. Voilà, vous mettez exactement ça. Voilà, il est en train de lire le prompt. Donc je précise
+Intégration du prompt et variables à renseigner
+6:01
+que le prompt est en description. D'accord ? Je répète, il est gratuit, il est pas payant. Certains ils font payer mais ce n'est pas mon cas. Donc ce
+6:08
+fichier est un prompt templates. Il a besoin que tu remplisses trois variables avant que je puisse l'exécuter. Là quand
+6:13
+vous allez prendre donc le prompt qui est en description, on va vous demander exactement donc l'URL de la boutique concurrente, le nom de mon produit et le
+6:20
+nom de ma marque. Et aussi, il faut que je puisse joindre un screenshot full de la page produit concurrente notamment
+6:25
+via Go sur Chrome. Voilà ce que j'ai déjà perdu, vous inquiétez pas, je vais tout vous montrer calmement en pratique.
+6:31
+Donc là étape 1, qu'est-ce que je fais ? URL de la boutique concurrente. OK, j'y vais. Voilà, URL de la boutique
+6:36
+concurrente. Je vais prendre l'exemple de ce produit. OK, donc je vais copier l'URL juste ici. En de donc ton nom de
+6:42
+produit. Ce que je peux faire c'est que Claudia, un nom de marque. Si vous savez pas par exemple quel nom de marque vous voulez
+6:48
+mettre en place, je vais demander à Claudia, trouve-moi un nom de marque pour ma boutique en 5 let et sans
+6:55
+signification. OK. Donc là, je peux prendre par exemple, j'ess d'en trouver un bien. Ouais, Miron, c'est bien. Miron, Miron, comme ça, c'est bien. Nom
+7:01
+de marque, je vais mettre ça. Mon nom de produit, donc le nom du produit, c'est ce produit là. Bon, ils ont bloqué les
+7:08
+clics. Donc si vous avez des boutiques qui bloquent les clics, vous pouvez utiliser exactement cette application. Donc right click. Voilà, parce que ça me
+7:13
+permettait pas de pouvoir copier le titre. Donc, juste mettre mais le titre en français. Voilà, si je veux copier
+7:18
+exactement cette boutique, mais la mettre en français. Donc, c'est Sabo. OK. Et je vais mettre donc je vais pas mettre par confort mais je vais mettre
+7:25
+par Miro. OK. Et il faut aussi joindre un screenshot full page de la page produit concurrente. Donc ce que vous
+7:30
+allez faire, vous allez copier ici donc go full page juste ici. Donc c'est une extension qui est gratuite qui va vous permettre de pouvoir faire un
+7:36
+enregistrement écran de l'entièreté de la page. Donc moi, on est d'accord que je l'avais déjà mis sur mon PC. Je le supprime pour vous et je le refais.
+7:42
+Ajouter une extension. Voilà. Là je vais cliquer juste ici sur extension. Et donc l'extension, alors où est-ce qu'elle est
+7:49
+? Il est ici, c'est l'appareil photo juste ici, on est d'accord ? Donc là, ce que je vais faire, c'est que je vais sur la boutique ici et je vais pouvoir donc
+7:56
+cliquer sur go full page et voici exactement ce qu'elle est en train de me faire. Parfait. Ce que je vais faire, c'est que je vais télécharger donc l'image en format PNG et pas en format
+8:03
+PDF, d'accord ? Format PNG, juste ici. S'il vous plaît, faites bien toutes les étapes que je dis parce que sinon, il y
+8:08
+aura des bugs, il y aura des problèmes et après on va dire "Ouais, non, mais ça marche pas." Si ça marche. D'accord ? Donc faites bien attention à respecter tout ce que je dis. Donc là, je vais
+Étape 3 : Intégration sur Shopify
+8:14
+mettre ça juste ici. Hop là, je mets le screenshot. Et maintenant, je vais cliquer sur enregistrer juste ici. Et on
+8:21
+est parti. Je clique sur envoyer et on laisse Claude Code tout simplement faire son travail. Donc là, ça va prendre un petit peu de temps, hein. C'est normal
+8:26
+le temps qu'il puisse mettre en place le code. Euh le code, il est assez long et donc l'idée, c'est que euh on puisse le mettre directement comme ça euh vers
+8:33
+clut code. Et là, on aura déjà donc toute la structure, toute l'ossature de la boutique qu'on pourra directement euh dupliquer donc sur la boutique Shopify
+8:39
+euh qu'on va créer ensuite. J'ai transmis toutes les informations à Cloud Code et donc là, il m'a bien généré exactement la structure de confort, donc
+8:46
+sous format code, on est bien d'accord. Donc la section de l'ordre du screenshot, donc la barre d'annonce, héros, chaque détail est conçu pour
+8:51
+votre confort, la valeur 1, la valeur 2, la section impact pour installer. Donc tu vas sur Shopify, dossier section et
+8:57
+cetera. On en est pas encore là mais donc ça c'est la première étape que je vous invite à mettre en place. Maintenant ce qu'on va faire c'est que
+9:02
+je vais vous afficher et valider le modèle créé par Cloud pour que vous puissiez voir exactement donc qu'est-ce qu'il a mis en place. Je vais lui dire
+9:08
+montre-moi le format HTML. J'ai demandé à Cloud Code de mettre en place le site en format HTML. Là, oui, on voit du
+9:15
+code. Donc on n'a pas forcément la visibilité sur ce qu'il a fait exactement, à quel point il a repris vraiment la structure donc de la
+9:20
+boutique. Donc je peux vous montrer exactement ici. Donc ça, c'est vraiment la structure que j'ai copié euh venant justement de cette boutique euh juste
+9:27
+ici. D'accord ? Donc ça c'est la boutique confort et là c'est uniquement la première étape à quel point en fait vous pouvez voir que j'ai recopié la
+9:32
+structure exacte de cette boutique. Donc c'est complètement normal qu'on ne voit pas les images principales pour l'instant, d'accord ? Parce que le
+9:38
+prompt que j'ai mis en place ne permet pas de voir les images dans l'immédiat. Ça, on va les mettre en place par la suite. D'accord ? Donc là juste regarder
+9:44
+ce qui a été mis en place si on compare par rapport à ce site actuel. Voilà et vu détail craft. Ici chaque détail conçu
+9:50
+pour votre confort. Il a même traduit en français directement. Donc là il y a même pas de sujet. Voilà donc là vous avez des images produits. Return with
+Étape 4 : Copywriting avec Claude Code
+9:57
+impact. Voilà tout ce qui a été mis en place. Acheter avec impact. Donc c'est ce qu'ils ont fait. Choisissez votre paire. Les questions fréquentes juste
+10:03
+ici. Frequently question. Voilà il a directement traduit. Comme ça on est bon. les avis clients juste ici. Voilà,
+10:08
+vous pouvez voir exactement ce qui a été fait en l'espace de un seul prompt à nouveau. Donc c'est complètement normal qu'on ne voit pas les images. Ça c'est
+10:14
+ce qu'on va mettre en place dans un second temps. Et là quand je clique ici, vous voyez que je peux vraiment modifier. On est bien d'accord he c'est pas juste une image à la volée. Euh
+10:20
+couleur noire, sable taupe, crème. Je peux modifier une paire de pair ajouter au panier. Là les images, je les
+10:26
+rajouter ensuite parce que là pour l'instant j'ai pas encore créé ma boutique Shopify. Donc en tout cas ça c'était la première étape concrète avec
+10:31
+Clodia qu'on devait mettre en place. L'étape 4B sera bien évidemment donc de créer notre boutique Shopify. Maintenant
+10:37
+que je vous ai montré le lien HTML, vous avez une visibilité concernant ce qui a été copié au niveau de la page. On est bien d'accord qu'il faut qu'on puisse
+10:42
+mettre ça directement sur notre boutique Shopify et qu'on puisse poursuivre la boutique parce qu'on va pas la poursuivre via un lien HTML. Pour ça en
+10:49
+description vous avez un lien Shopify pour créer votre première boutique. Donc on va le faire ensemble juste ici. Je
+10:54
+vais créer ma boutique directement avec vous. Il faut savoir que là, pour les personnes qui vont commencer l'e-commerce ou qui reprennent l'e-commerce via ce lien Shopify, vous
+11:01
+avez donc accès à 3 jours gratuits, d'accord ? Et ensuite, vous allez payer uniquement 1 € par mois durant les trois
+11:06
+prochains mois. Donc ça vous permet de vous lancer calmement, progressivement, il y a pas d'urgence en soi. Et ensuite donc l'abonnement en Shopify est environ
+11:12
+à 36 € par mois. Vous payerez ça que au bout du 4e mois. Donc vous avez largement de quoi vous lancer calmement.
+11:18
+Donc là, vous allez mettre votre email juste ici. Donc gmail.com. Donc je vais créer un mot de passe. On est bon.
+11:24
+Ensuite, il vont nous demander de pouvoir valider notre période d'essai. Donc, on a 3 jours offerts et ensuite, on payera donc uniquement 1 € par mois
+11:29
+durant les trois prochains mois. On peut annuler quand est-ce qu'on le souhaite, mais dans tous les cas, c'est pas le but, hein. Le but, c'est d'avoir [musique] des résultats sur le long
+Variante copywriting produit différent
+11:35
+terme en e-commerce. Donc là, je vais mettre mes informations bancaires juste ici et je vais pouvoir donc m'inscrire pour uniquement 1 € par mois uniquement
+11:41
+dans 3 jours. Donc, je vous invite à respecter absolument cette étape là parce que dans tous les cas, sinon vous pouvez pas accéder à toutes les fonctionnalités de Shopify. Donc, mettez
+11:47
+vos informations bancaires juste ici. Inscrivez-vous à Shopify. Dans tous les cas, vous êtes pas prélevés dans l'immédiat. Ils vont vous demander différentes informations. Vous pouvez
+11:53
+juste skip. Votre boutique Shopify a bien été créée. On est bon à ce niveau-là. Ce que vous allez faire maintenant, c'est qu'on va cliquer sur
+11:59
+boutique en ligne, juste ici. Et là, ce que vous pouvez faire, donc c'est visiter le thème store par exemple. Vous pouvez prendre n'importe quel modèle
+12:05
+gratuit, le thème down, par exemple. Voilà, vous prenez le thème down, juste ici. Ajouter une nouvelle copie. Donc
+12:11
+faites exactement comme moi, il y a rien de compliqué. Suivez les instructions, prenez votre temps, il y a pas d'urgence. Parfait. Donc le thème down,
+12:17
+je vais le publier comme thème actuel. Parfait. Ce qui va nous rester à faire pour vérifier que la boutique soit bien fonctionnelle, c'est aller directement
+12:23
+donc sur la partie paramétrage. Bien évidemment, une boutique, même si elle est créée par Claudia, il faut bien être vigilant notamment au niveau du nom de
+12:29
+domaine que vous allez mettre en place, au niveau de vos pages de vente, les mentions légales. Ça c'est des choses que vous devez absolument mettre en place si vous souhaitez mettre en place
+12:35
+une livraison payante ou pas, c'est ces différents points qu'on va voir ensemble dès maintenant. Donc là, si on va sur la partie paramétrage, on a accès donc à
+12:40
+mon nom de boutique, le nom de domaine qui est juste ici, la partie générale. Donc là, nous on cible la France. Si par exemple vous souhaitez cibler un autre
+12:46
+marché que la France, vous pouvez cliquer donc directement ici sur modifier et mettre un autre marché que la France. Donc ça c'est une [musique]
+12:52
+possibilité. Maintenant là vous avez accès donc aux coordonnées de la boutique. Donc ça c'est obligatoire. Il faut absolument que vous ayez un nom de
+12:57
+boutique, un email et un numéro de téléphone. Donc l'email, vous pouvez le créer indépendamment, d'accord ? Vous mettez pas votre adresse email
+13:03
+personnelle. Au niveau du numéro de téléphone, si vous voulez pas mettre votre numéro de téléphone personnel, vous allez sur on off et vous pouvez
+13:09
+créer directement un numéro de téléphone. Ça coûte quelques euros par mois. Comme ça, ça vous évite de donner directement votre numéro de téléphone
+13:14
+personnel. Ensuite, la partie forfait juste ici. Normalement, vous avez déjà sélectionné un forfait. Moi, comme vous le voyez juste ici, j'ai pris le forfait
+13:21
+advance qui a 384 € normalement, mais vu queon a la période d'essai donc des 3 jours plus 1 € par mois durant les trois
+13:27
+prochains mois, ça me permet d'utiliser donc la meilleure fonctionnalité de Shopify uniquement pour 1 € par mois. Donc moi, je vous invite vivement à
+13:32
+prendre aussi ce forfait là au début parce que dans tous les cas, vous allez accéder à toutes les meilleures fonctionnalités de Shopify. Vous allez payer moins cher les frais par commande
+Étape 5 : Génération des visuels produits
+13:38
+et dans tous les cas, voilà, ça fait complètement sens parce que ça revient au même en terme de prix. Donc là, sur le côté facturation euh juste ici là
+13:45
+vous aurez accès donc à toutes les facturations qui vont concerner par exemple votre abonnement Shopify ou si vous avez des applications. Sur la
+13:50
+partie utilisateur juste ici, vous allez pouvoir ajouter notamment vos associés, vos collaborateurs. Là, je peux cliquer
+13:56
+ici sur ajouter des utilisateurs. Je vais transmettre un email juste ici par exemple gmail.com. Et là, je peux
+14:02
+maintenant attribuer des rôles. Donc par exemple, si j'ai mon associé, je peux lui donner les accès administrateur. Si j'ai une personne qui va gérer le
+14:08
+service client, je peux lui donner je peux lui donner par exemple le service à la clientèle. Donc c'est une personne qui peut traiter les commandes, modifier
+14:13
+les articles du panier, traiter les paiements et les retours. C'est tout ce qu'elle peut faire. Elle peut pas vraiment voir vos chiffres et cetera.
+14:18
+Donc ça c'est important que vous puissiez le comprendre. Ici vous avez la partie paiement. Soit vous pouvez ajouter Shopify Payment, vous pouvez
+14:23
+ajouter Stripe, vous pouvez ajouter PayPal. Ça faut voir avec quoi vous êtes à l'aise bien évidemment. Là vous avez la partie configuration de votre page de
+14:29
+paiement. Là les comptes clients juste ici si vous en avez mis en place. Ici maintenant faut toujours faire attention au niveau de l'expédition et la
+14:35
+livraison. Vérifiez bien parce que au début quand vous allez créer une boutique, normalement vous allez avoir une livraison payante qui est mise en place. Donc ça, faut quand même vérifier
+14:40
+si vous souhaitez la mettre en place ou pas. Euh vous pouvez le modifier euh directement ici. Donc là, vous avez la partie donc des taxes et douanes.
+14:46
+Ensuite, vous avez la rubrique taxe et droit de douane. Là, vérifiez bien euh que si vous vendez pour l'Union européenne, vous avez bien mis euh
+14:51
+l'Union européenne juste ici. L'emplacement, c'est concernant où sont stockés donc vos différents produits. Là, vous pouvez intégrer différentes
+14:58
+applications, notamment euh Facebook Ads. Vous pouvez avoir des applications de bundle, tout ce que vous voulez. Vous le ferez directement ici euh via Shopify
+15:04
+Store. Par exemple, Omniscen pour les adresses email, Autods sur toute la partie fournisseur aussi. Euh voilà,
+15:10
+vous avez toutes les applications, même si vous voulez faire de la publicité sur TikTok, bah il faut que vous ayez aussi cette plateforme qui soit intégrée. Là,
+15:15
+vous avez donc les canaux de vente. Est-ce que vous faites la publicité sur Facebook, TikTok, Instagram ? Ensuite,
+15:21
+le nom de domaine juste ici. Donc faites bien attention. Moi, vous pouvez voir que là, j'ai un nom de domaine professionnel, donc liroa.com. Au début,
+15:26
+quand vous allez commencer à créer votre boutique Shopify, vous allez pas avoir de nom de domaine professionnel. Donc là, vous pouvez directement acheter un nom de domaine. Juste ici. Vous cliquez
+15:32
+sur acheter un nom de domaine comme ça, vous pouvez le mettre en place directement. Vous avez la partie événement client juste ici. Si vous
+15:38
+souhaitez relier votre pixel Facebook par exemple directement sur votre boutique, vous pouvez le faire exactement comme ceci. Ensuite là vous
+15:43
+avez l'onglet notification. Donc là rien de particulier, le champ méta et méta objet. Si vous voulez ajouter une donnée personnalisée à une partie spécifique de
+15:50
+votre boutique, ça vous pouvez le faire. Là la langue donc c'est juste ici. Moi je vais viser le marché français. D'ailleurs, je vous recommande de le faire aussi. Et après, si vous souhaitez
+15:56
+un si vous souhaitez viser un autre marché, vous pouvez ajouter une langue juste ici. La confidentialité euh des
+16:01
+clients, donc tout ce qui est politique de confidentialité, bannière concernant les cookies, page d'opposition au partage des données, ça c'est des
+16:07
+informations qui sont obligatoires légalement. Si vous avez pas des politiques de confidentialité, vous avez pas des mentions légales, vous avez pas
+16:13
+déclaré que vous avez une société et que vous vendez en France, vous pouvez avoir un contrôle fiscal, vous pouvez vous faire vous pouvez avoir un contrôle
+16:19
+fiscal, vous pouvez vous faire réprimander par la DGCRF s'il voit que vous commencez à mettre en place un site alors qu'il n'y a même pas de mention
+16:25
+légale. C'est pour ça que comme précédemment j'ai expliqué, il faut absolument que c'est créé une société notamment avec Legal Place. Et si vous
+16:30
+voulez pas avoir votre adresse personnelle sur votre site, ben je vous invite aussi à prendre la domiciliation. Donc ça faites bien attention à le
+16:35
+faire, c'est super important. C'est c'est les règles tout simplement au niveau de la France et même au niveau de l'Union européenne. Donc ça dépasse même
+16:40
+la France. Et là, vous avez donc toutes les politiques écrites, donc politique de retour et remboursement, politique de confidentialité, conditions de service,
+16:47
+politique d'expédition, les coordonnées, les mentions légal et les conditions de vente. Là, tout simplement, vous pouvez copier juste ici et vous demandez à
+16:53
+Claude de mettre en place ces différentes informations. Mets-moi en place ces pages sur la base de mes
+17:00
+informations. Donc là par exemple, vous allez donner vos informations, nom, prénom, numéro de téléphone, email, adresse, adresse de domiciliation, vous
+17:06
+allez tout donner et vous allez dire donc sur la base de mes informations, mets-moi en place ces pages. OK ? Donc il va vous mettre en place les
+Higgsfield + Adobe Premiere Pro
+17:12
+politiques de confidentialité, il va vous mettre en place les mentions légales sur la base de ce que vous lui avez donné. Comme ça, vous serez complètement en règle auprès de l'État
+17:18
+français et aussi auprès de l'Union européenne. Donc faites bien attention à faire ça. Ne lancez pas de publicité sans avoir des mentions légales parce
+17:24
+que comme je vous ai dit, c'est possible d'avoir des amendes ou avoir des problèmes à ce niveau-là. Donc là, vous le faites hein, c'est très simple he
+17:29
+politique de remboursement et cetera, vous le transmettez et il va vous créer directement ces différentes pages. Concernant la partie paramétrage,
+17:34
+globalement c'est ça. C'est important que vous puissiez vérifier donc ces paramètres là bien évidemment et commencer à dépenser des publicités sur
+17:40
+votre boutique et commencer à accueillir les premiers visiteurs. Ensuite, concernant les coordonnées de la boutique, vous avez ici donc l'adresse
+17:45
+de la boutique. Ça c'est des informations que les clients sont obligés d'avoir. D'accord ? Vous pouvez pas lancer une boutique Shopify sans
+17:51
+avoir une entreprise qui est très clairement mise en place. Donc là, vous devez mettre le nom de votre entreprise et aussi avoir une adresse. Donc tous
+17:57
+les clients qui vont passer sur votre boutique, ils sont obligés de pouvoir voir une adresse, que ça soit votre adresse personnelle, celle que vous avez
+18:02
+à la maison ou sinon si vous prenez une adresse de domiciliation. Au niveau du nom de l'entreprise et de l'adresse, vous pouvez le mettre en place notamment
+18:08
+avec Legalplace. Vous pouvez le mettre en place notamment vers Legalplace comme je l'avais montré dans ma formation gratuite de 40h. Vous pouvez cliquer sur
+18:13
+le lien en description, donc créer ta micro-entreprise avant d'avoir fait ta première vente. Donc ça c'est quelque chose qui est vraiment complètement
+18:19
+obligatoire et légal. sans ça, vous pouvez même pas commencer à générer des ventes. Et le but de cette vidéo, c'est de vous montrer comment créer une
+18:24
+boutique mais pour générer des ventes, c'est pas juste pour que vous soyez web designer. Donc euh là, le but, c'est que vous soyez entrepreneur et être entrepreneur encore plus sur le sol
+18:30
+français, ça passera par le fait d'avoir euh une micro-entreprise notamment si vous démarrez. Donc là, quand vous cliquez sur le lien en description, vous
+18:35
+allez arriver ici sur créer votre micro-entreprise. Donc là, je vais créer une micro-entreprise juste ici. Quand
+18:40
+souhaitez-vous démarrer votre activité ? Donc je vais mettre dès que possible. Avez-vous déjà été auto-entrepreneur ? Je vais mettre non. Êtes-vous sûr de
+18:46
+vouloir créer une micro-entreprise ? Donc je vais mettre créer une micro-entreprise ou sera fixé le siège social de la micro-entreprise. C'est ça
+18:52
+que je disais précédemment. Donc faut savoir que tous vos clients auront accès à l'adresse qui sera indiquée ici. Donc
+18:57
+si vous mettez une fausse adresse et que demain vous avez un contrôle au niveau de la DGCRF, vous allez avoir des soucis et des problèmes. Donc pour éviter ça,
+19:03
+si vous êtes mal à l'aise de mettre votre adresse personnelle sur votre boutique Shopify, vous pouvez justement avoir une adresse de domiciliation comme
+19:09
+ceci. Donc domiciliation avec lesplace. Donc là je n'ai pas besoin de mettre mon adresse personnelle, je le mets directement avec les GALPlace.
+19:15
+Personnellement, moi c'est ce que je vous invite à faire pour éviter d'être mal à l'aise à ce sujet. Ça fait 8 ans que je suis l'ecommerce. Je sais qu'il y
+19:20
+a plein de personnes qui veulent surtout pas mettre leur adresse personnelle. Pas parce queils font des mauvaises choses ou et cetera, mais c'est juste une tranquillité d'esprit et d'être à l'aise
+19:27
+dans ce qu'on fait. Donc là, je vais pouvoir cliquer sur domiciliation avec les place. Quel est votre domaine d'activité ? Je vais mettre vente en
+19:33
+ligne juste ici. Quelle est votre identité ? Vous mettez monsieur ou madame. Moi, je vais mettre Jonathan. Icom. Continuez. Là, vous mettrez votre
+19:39
+adresse email. Continuez votre numéro de téléphone. Alors, félicitation. Souitez-vous être contacté ? Je je
+19:45
+mettre nom pour l'instant. Que recherchez-vous ? Lancez-moi mon activité, une solution tout en un du conseil juridique. Continuez. Donc là,
+19:51
+on est bon. Donc pour lancer correctement votre activité en e-commerce, il faut absolument que vous soyez déclaré, d'accord ? Même si là, on
+19:56
+peut s'amuser avec Claudia, c'est très bien, mais il faut absolument que vous mettez en place votre société et aussi votre adresse de domiciliation. Donc là,
+20:02
+pour lancer notre activité, soit vous avez le plan standard à 59 € hors taxe ou soit le plan express en 24 heures. Donc là, il s'occupe de créer votre
+20:08
+société en l'espace de 24 heures et suite à ça, vous pouvez commencer à avoir PayPal, Stripe très rapidement et pouvoir commencer à faire votre travail
+20:14
+tranquillement. Donc là, par exemple, je vais mettre le choisir le pack express. Je vais héberger ma micro-entreprise à Paris avec une adresse de domiciliation.
+20:21
+Donc, j'ai une réduction d'impôts jusqu'à 1000 € par an en ayant ça. Je protège l'anonymat en évitant de mettre mon adresse personnelle, la flexibilité
+20:27
+et gestion du courrier et j'ai une adresse prestigieuse du fait que voilà, il y a même des clients qui vont regarder l'adresse et quand ils vont
+20:33
+voir que c'est à Paris, que c'est carré, que c'est clair, ça peut aussi les pousser justement à acheter sur votre boutique. Donc là, je vais cliquer sur
+Upload et mapping des images
+20:38
+ajouter et continuer. Votre compte Pro 100 % sécurisé pour gérer votre finance. Bah, si vous voulez être vraiment carré
+20:43
+jusqu'au bout de A à Z, je vous invite aussi à avoir un compte pro pour séparer votre activité professionnelle et votre activité personnelle. Donc voilà, tout
+20:50
+ça pour dire si vous souhaitez lancer correctement votre activité, je vous conseille de respecter l'ensemble de ces étapes-là. Euh là, vous avez ajouter un
+20:56
+code de réduction juste ici. Ajouter un code de réduction. Donc si vous mettez le code de réduction Joecom, donc vous
+21:02
+avez 14 € en moins. Donc ça fait voilà 100 € pour gérer justement toute la partie société, adresse domiciliation,
+21:08
+éviter d'avoir des problèmes. Voilà, je peu importe les moyens financiers que vous avez, dans tous les cas, vaut mieux faire ça et le mettre en place plutôt
+21:14
+que de ne pas le faire et après payer des conséquences plus grandes quand vous allez commencer à avoir des résultats. Donc ça c'est le minimum que vous devez faire. pour vous lancer correctement. Et
+21:20
+donc là, ce qui va se passer que l'adresse de domiciliation que j'ai pris via Legal Place, je vais la mettre juste ici. Donc c'est 47 rue Vivienne 75002
+21:28
+Paris. Donc voilà, je pourrais mettre ça. Même si les clients ils voient cette adresse, dans tous les cas, c'est pas mon adresse personnelle, c'est pas très
+21:33
+grave. Tu peux être à l'aise avec ça. Et là, je mets le nom de l'entreprise. Donc, Jonathan et comme j'ai créé ma micro-entreprise et là, je peux cliquer
+21:39
+sur enregistrer. Donc, je précise à nouveau que ça c'est des informations qui sont publiques ou que ça soit le nom d'entreprise et l'adresse. Ça c'est ça
+21:45
+c'est des données publiques et obligatoires. Maintenant que ça c'est fait, là on est bien sur boutique en ligne. On est bien d'accord avec [musique] le thème down que je viens de
+21:51
+télécharger devant vous. On est bien d'accord que la boutique, elle ressemble à ça dans l'immédiat. Donc rien de spécial hein. Là, c'est une fiche
+21:56
+produit que j'avais déjà mis en place, mais regardez à quoi ressemble la boutique. Donc il y a rien de fou, il y a rien de spécial. Donc là, ce qu'on va faire, c'est qu'on va cliquer ici sur
+22:02
+les trois petits points et on va cliquer sur modifier le code. Ensuite, vous allez cliquer ici sur section et on va
+22:08
+cliquer ici sur une page en plus et vous pouvez donc euh nommer par exemple cette section marque ecom par exemple. Voilà,
+22:14
+marque pointliquide. Faites bien attention à bien mettre le point liquide ici sinon ça ne fonctionnera pas.
+22:19
+D'accord ? Donc je vais cliquer sur entrer. Ils vont me donner la possibilité de pouvoir donc copier le lien HTML que j'ai mis en place
+22:25
+précédemment. Je reviens sur Cloud juste ici. Je vais copier le lien juste ici. Je viens ici, je copie colle d'accord.
+22:32
+Et je clique sur entrer. On est bon à ce niveau-là. Et là, je vais cliquer sur save juste ici. Et là, il va me mettre
+22:37
+donc invalide schéma setting ID color 5. Donc ça peut arriver que parfois vous puissiez avoir un problème de ce type ou
+22:44
+en fonction du site que vous allez sélectionner et que vous allez sauvegarder et faire exactement ce que je vous dis, il va vous mettre erreur parce que il peut avoir ceci au niveau
+22:50
+de la page, au niveau du thème et cetera et cetera. Dans ce cas-là, vous pouvez copier directement l'erreur qui est mis
+22:55
+juste ici. D'accord ? Et je vais mettre par exemple, il me dit ça et je copie exactement l'erreur. Ce qui va se passer, c'est que Cloud code, il va
+Étape 6 : Finalisation et publication
+23:01
+pouvoir directement corriger l'erreur. D'accord ? C'està dire peu importe l'erreur que vous avez, Cloud code, il peut la corriger. Donc vous dites, vous
+23:06
+dites juste il me dit ça, save et ensuite il corrige ça. Donc Shopify n'accepte pas le défaut dans le schéma. J'ai simplement supprimé la clé pour les
+23:12
+couleurs 5 et 6. Réinstalle le fichier et ça devrait passer. Donc là, ce que je vais faire, c'est que je vais cliquer sur copier à nouveau et je vais cliquer
+23:18
+sur coller. Donc je vais save. Voilà, cette fois-ci on est good. Donc il y a pas eu d'erreur d'affichage ou quoi que ce soit. Donc ça c'est des choses qui
+23:24
+peuvent arriver. Je fais volontairement exprès de vous montrer ça au cas où si vous avez une erreur, vous demandez à Cloud Code de faire la modification,
+23:30
+d'accord ? Parce que les sites sont très différents et il peut avoir un site qui est très spécifique qui fait que le prome de base ne pourra peut-être pas
+23:36
+être accepté par rapport à la boutique que vous allez sélectionner. D'accord ? Faites bien attention à ça si vous avez un souci de ce type. Donc là on est bon.
+23:42
+J'ai cliqué sur save, c'est sauvegardé, il y a pas de problème. Donc là le prompt fonctionne correctement. Maintenant, ce qu'on va faire, c'est que
+23:48
+je vais rafraîchir donc la page Shopify, juste ici et je vais aller directement donc sur modifier le thème. Vous voyez
+23:54
+ici où il y a écrit page d'accueil. Donc je vais cliquer juste ici. Je vais aller au niveau de la page et ensuite je vais cliquer sur créer un modèle. D'accord ?
+24:02
+Donc là, je vais mettre le nom, je vais mettre marque e-commerce par exemple, marque e-com basé sur page de défaut, pas de souci. Donc là, je vais créer un
+24:08
+modèle juste ici. Parfait. Ce qu'on va faire, c'est que je vais cliquer ici, donc sur l'œil là, pour enlever la page,
+24:13
+et je vais cliquer sur ajouter une section, juste ici. Et quand je vais ajouter une section, je vais descendre
+24:18
+en bas et là, je tombe exactement donc sur ma page euh que j'ai mis en place précédemment. D'accord ? Donc répéter
+24:24
+cette action, il y a rien de compliqué. Je vais cliquer juste ici et vous voyez le site qui apparaît par magie sur ma
+24:29
+boutique. Voilà. Donc là, c'est exactement comme ça que je peux directement intégrer la structure d'un concurrent. Là, c'est directement sur ma
+24:36
+boutique Shopify. Donc, vous voyez exactement l'exemple. Et on est bien d'accord que euh ici, on peut tout modifier, hein. On peut modifier toutes
+24:41
+les images, on peut modifier toutes les couleurs et euh on est bien d'accord que le site n'est pas encore terminé mais en tout cas, j'ai mis toute la structure
+24:47
+directement sur ma boutique Shopify. Donc là, ce que je vais faire, c'est que je vais aussi enlever ça. Voilà. Et je vais enlever la barre d'annonce comme
+24:53
+ça. Voilà, j'ai directement cette barre d'annonce juste ici. Et je vais cliquer sur enregistrer. Ça c'est la toute première étape qui nous permet de
+24:58
+commencer à faire les choses sérieusement. Donc [musique] là, je vais cliquer sur afficher et vous voyez donc la structure de la boutique exactement
+25:04
+comme ceci. Voilà. Donc là, c'est directement depuis ma boutique Shopify. Vous voyez ? Exactement. comme ceci. Donc là, ce qui va manquer
+Résultat final de la boutique
+25:09
+principalement, c'est les images qu'on a pas. Il y a le copywriting aussi qu'on doit améliorer sur la base de ce que eux ont fait. Donc, il y a quand même pas
+25:14
+mal de modifications encore à faire, mais vous voyez que là, je peux vraiment cliquer ici, he une paire, deux paires, 37, 38, 39, 40, 41. Je peux tout
+25:22
+modifier et reprendre exactement ce que eux ont fait. Donc là, vous avez ici le modèle, vous avez toutes les caractéristiques que vous pouvez modifier, les questions, les FAQ, les
+25:28
+AV, les avis clients, vous pouvez tout modifier directement juste ici. Donc voilà, n'ayez pas peur en tout cas si
+25:34
+vous voyez du code un petit peu comme ça, il y a rien de compliqué. exécuter exactement les étapes. S'il y a un côté, s'il y a écrit erreur quelque part, vous
+25:40
+transmettez donc cette information à cloud code. Moi, j'ai mis que il me dit ça erreur, il a modifier et là vous avez vu que j'ai pu bien l'intégrer sur ma
+25:46
+boutique Shopify. Pour l'instant, on a réalisé donc l'étape une 2 3 4B. L'étape
+25:52
+5 sera de demander à Claude d'écrire tous les textes persuasifs. Donc je vous ai mis à nouveau en place un prompt,
+25:57
+d'accord, qui est en description. Vous avez juste à copier et coller ce prompt là. Et justement sur la base de ce
+26:02
+prompt là, on va pouvoir modifier et améliorer donc le copywriting par rapport justement au nom du produit qu'on a sélectionné, par rapport à la
+26:08
+thématique exacte du produit. Peut-être que vous avez pas exactement le même produit que le concurrent. Donc euh vous pouvez faire toutes les modifications
+26:13
+juste ici. Donc vous avez à nouveau le prompt en description. Donc ça c'est le prompt 2 au niveau du copywriting que vous pouvez mettre dès maintenant sur
+26:20
+Claudia. D'accord ? Donc là c'est le prompt au niveau du copywriting. Ceux qui savent pas ce que c'est le copywriting. C'est tout ce qui va
+26:25
+concerner l'écriture sur notre site. D'accord ? Donc chaque détail conçu pour votre confort, ça je peux le modifier comme ça. Support de votre plantaire.
+26:32
+Comme se définit concrètement le copywriting, c'est le fait de écrire pour vendre. Donc c'est ce qu'on va pouvoir modifier dès maintenant avec le
+26:37
+prompt qui est en description. Je vais copier le prompt exactement comme ceci et on va cliquer sur entrer. Dès lors
+26:42
+que vous avez collé le prompt qui est en description, vous avez deux options. Donc soit vous allez utiliser donc le fichier liquide qui est généré. Donc
+26:48
+envoie-moi juste les informations de ton produit directement, c'est-à-dire nom, prix, bénéfices, audience, témoignage qui peut être différente bien évidemment
+26:54
+de la boutique exemple afin qu'il puisse générer une copie complète pour remplir notre landing page euh Myrun. Ou sinon
+26:59
+ou sinon vous avez une option de euh si tu as un autre ficer HTML avec les PL order à remplir, colle ici. Donc là,
+27:05
+nous c'est pas ça. Prennous l'option 1, c'est la plus rapide. On a déjà le fichier liquide qui est juste ici. Il suffit de me donner les informations et
+27:10
+j'écris toute la copie section par section. donne-moi tout en une seule réponse. Donc le produit, le nom exact,
+27:15
+si vous pouvez le mettre juste ici. La transformation avant et après en une seule phase, le prix est variante, ce qui rend les sabots uniques via les
+27:22
+grandes marques. Trois à cin bénéfices clés, l'audience pour qui, la douleur principale, ceux qui ont déjà essayé, la
+27:27
+preuve, témoignage disponible, vous pouvez les coller, les stats, certification, la garantie, livraison. Là, on est bien d'accord que on part du
+27:33
+principe que vous allez pas reprendre exactement mot à mot la boutique du concurrent. D'accord ? On a déjà bien
+27:38
+pris sa structure, on est bien d'accord hein. La structure là, elle est déjà reprise. Et voilà, on peut demander à à Claudia de faire des modifications. Vous
+27:44
+pouvez lui demander de remplir ça ou si vous voulez vraiment aller au bout des choses, ben je peux faire vraiment
+27:49
+coller le site juste ici et je dis je veux pareil que ce site. D'accord ? En tout cas, ça vous laisse l'opportunité
+27:55
+de choisir si vous voulez ou pas faire exactement pareil que le concurrent. Claudia est en train de bosser. Donc là,
+28:00
+ce qu'il me dit, c'est que la page bloque l'extraction. Ça peut arriver qu'il y a des marques qui font exprès justement qu'on ne puisse pas faire ça.
+28:06
+Mais j'ai tout ce qu'il me faut. le screenshot complet que tu m'as envoyé puis la structure déjà analysée. Voici la stratégie copie basée sur l'angle
+28:11
+confort. Voici le copie stratégie qui a été mis en place. L'approche globale antilogo taxe, matière honnête, confort
+28:16
+réel, même structure que confort, copie adaptée au marché français. Donc l'audience donc c'est des femmes de 30 à 55 ans fatigué de payer 100 à 250 €.
+28:24
+D'accord. D'accord. D'accord. D'accord. Copie section par section. Donc vente limitée jusqu'à 50 % off. Titre numéro
+28:30
+1, les étoiles, le prix, les trusts, colonne 1, colonne 2, colonne 3, valeur 1, valeur 2, valeur 3, les impacts, la
+28:37
+FAQ. Voilà, on a tout le copyriting qui a été mis en place par Cloud Code donc qui est différentiel donc de confort. On a quand même repris la même base, mais
+28:42
+si par exemple vous êtes sur un produit qui est vraiment différent et que vous aimez que la structure donc de cette boutique mais que vous voulez pas reprendre par exemple le produit, là
+28:49
+dans ce cas-là, vous allez vraiment donner en détail toutes les informations à Claudia concernant le produit, le prix et cetera et cetera. Lorsque ça c'est
+28:55
+fait, je vais lui demander, "Montre-moi le nouveau copywriting en format HTML
+29:01
+que je vois la réalité." Voilà. Donc là, il va me faire ça et je vais pouvoir vous montrer donc le nouveau copyright. Je précise à nouveau euh si vous voulez
+29:07
+par exemple avoir une autre variante, vous pouvez réellement répondre aux questions de cloud code afin de pouvoir avoir une variante bien différente. Donc
+29:13
+ça, je peux vous je peux je vais le faire aussi pour vous montrer l'exemple. Et en principe, vous allez plus aller dans cette direction là parce que l'idée
+29:18
+c'est pas de copier copiercoller exactement la boutique du concurrent. Donc là, c'est exactement ce qu'il est en train de me faire. C'est le nouveau
+29:24
+copyriting qui m'a mis en place. D'accord. Donc il a pas modifié la forme, il a plus modifié le fond au niveau du copywriting. Sabo en DM
+29:30
+véritable par Mirand. Chaque détail conçu pour votre confort. Vous payez pour de la DM, pas pour nos pubs. La même qualité, la moitié du prix. Voilà,
+29:37
+vous avez vraiment le tout qui est directement ici. Vous avez les avis clients et donc là, je peux directement le copier à nouveau et le mettre
+29:43
+directement sur Shopify. Si vous êtes sur un produit qui est bien différent de votre concurrent, répondez tout simplement aux questions qui sont juste
+29:49
+ici. Donc par exemple là, je peux coller, je peux copier. Je vais aller sur Claudia, je vais lui dire "Réponds à ces questions sur la base de ce
+29:56
+produit." Je peux aller sur Amazon et je peux lui donner n'importe quel produit, hein. Euh, je peux lui donner des
+30:01
+baskets pour femmes pour l'exemple. Je peux même lui donner ce produit-là et je vais lui donner ces informations là. Je
+30:07
+lui je vais télécharger aussi l'image. Là, c'est vraiment si vous voulez aller sur un autre copywriting, on est bien d'accord, ou si vous voulez aller sur un
+30:12
+autre produit. Donc là, je lui envoie le lien Amazon. Je vais sur bureau, je lui envoie l'image et donc là, je lui envoie
+30:18
+tout ça. Et là, il va pouvoir donc directement répondre à l'ensemble des questions euh juste ici. Et je vais recevoir un nouveau code qui me
+30:23
+permettra de pouvoir changer directement le copywriting. Donc là, c'est exactement ce qu'il est en train de me faire. Donc à nouveau la page Amazon
+30:29
+bloque l'extraction. Euh pour éviter justement ces problèmes là, montrer toujours la photo du produit. D'accord ? Envoyez toujours une photo du produit.
+30:35
+Comme ça, ça évite les problèmes. Donc l'audience, la preuve, tu veux que j'attaque directement le copywriting. Donc là, ce que je vais lui dire, c'est
+30:41
+ça. Hop là, je vais copier ça ici. Je reviens ici. Euh, mets-moi le copy
+30:46
+writing pour ce produit. Et finalement, voici exactement ce que Cloud Code m'a mis en place, notamment sur la base d'un
+30:52
+changement de produit, mais en gardant la même structure. Vous voyez que là, il a mis en place du rose, du blanc, du noir. Donc là, c'est normal que les
+30:58
+images, elles sont comme ça parce qu'on peut les modifier par la suite. Une paire, deux paires, ce que vos pieds vous demandent depuis longtemps. Donc la
+31:03
+mis en place le copyriting avant le produit, après le produit. Nike le fait pour 150 € on le fait pour 39,99 €.
+31:09
+Elles vont essayer. Voilà. Donc là, c'est exactement la même structure. C'est juste que le produit, il est différent. Et donc là, ce que je peux faire, c'est je lui dis euh donne-moi le
+31:16
+lien HTML. que je vois la réalité du produit du site plutôt. Hop, là, je fais
+31:22
+ça vraiment pour vous montrer tous les cas possibles. Vous pouvez recopier [musique] directement la boutique, le copywriting, euh juste Claudia va un peu
+31:28
+modifier les choses et vous pouvez faire vraiment quelque chose de bien différent mais toujours sur la base de la structure euh du concurrent. Donc là,
+31:33
+c'est exactement ce qu'elle est en train de me faire. Je précise que là, ce n'est absolument pas fini euh parce qu'on va s'occuper justement de toute la partie image structure euh par la suite. Donc
+31:40
+là, je vais cliquer sur afficher dans le dossier et je vais vous montrer exactement le site. Donc voilà, le site il ressemble exactement à ça. Donc c'est
+31:46
+la même structure mais le produit il est différent. Voilà, donc on est parti euh sur [musique] une base de cette boutique
+31:51
+juste ici et j'ai juste demandé de changer le copywriting et c'est ce qui m'a fait. Donc voilà, vous pouvez retrouver ça. Là, il a un petit peu
+31:57
+changé le tout. Donc il y en a plus trois. Là, il y en a six. Les questions fréquentes, il les a mis aussi. Donc juste en bas, la même chose, les avis
+32:04
+clients, tout est pareil que le produit il est différent. Maintenant qu'on a validé le fait de demander à Claude d'écrire tous les textes persuasif, on
+32:10
+peut tout simplement donc générer des visuels produits professionnels avec Lia. Donc je précise à nouveau que vous
+32:16
+avez les liens, vous avez juste à copier le lien HTML juste ici. Vous allez à nouveau sur la boutique en ligne, on est
+32:21
+bien d'accord ? Ensuite, vous cliquez ici, vous modifiez le code, c'est exactement le même principe. D'accord ? Donc là par exemple, je vais sur
+32:27
+modifier le code à nouveau. Voilà, je peux aller à nouveau dans section et là je vais mettre marque Nike. Allez, je
+32:34
+pas mettre Nike pour pas avoir de problème. Je vais mettre marque basket.liquid. OK, je clique sur entrée
+32:39
+et je vais copier le HTML. Je vais le sauvegarder. Voilà, en principe il devrait pas avoir de problème. Marque de
+32:45
+basket liquide, on est bon. Donc je vais retourner sur ma boutique Shopify, juste ici. Et ce que je vais faire, c'est que
+32:51
+je peux revenir ici donc pour cliquer sur modifier un thème. Vous avez le thème marqu que j'ai fait juste avant. Ensuite là, je vais sur page à nouveau.
+32:57
+Là, je vais cliquer ici sur ajouter une section. Soit je retrouve à nouveau le HTML que j'ai mis en place. Et si je le retrouve pas, ce n'est pas grave. Donc
+33:04
+ce que je peux faire c'est bah allez en fait juste ici hein, je mets liquide personnalisé et je copie exactement le
+33:09
+lien HTML juste ici. Je clique sur enregistrer. Et donc là, vous voyez, j'ai le site à nouveau exactement ici. Donc voilà, format téléphone, ça rend
+33:15
+bien aussi parce qu'il faut savoir que [musique] la plupart des boutiques, elles seront faites format téléphone. Donc là, vous voyez le rendu. Là, c'est
+33:20
+concernant donc le copywriting qui a été mis en place pour justement la boutique que je vous ai montré sur Amazon. Voilà,
+33:26
+la boutique elle est exactement comme ceci. Maintenant, il va nous rester euh de modifier certaines choses, donc des images notamment, modifier encore deux
+33:31
+trois choses euh histoire que la boutique euh soit parfaite. Donc c'était vraiment pour vous montrer l'exemple de comment les choses se font. Maintenant,
+33:36
+l'étape suivante sera donc de générer des visuels produits professionnels avec l'IA. Donc là, ce qu'on va faire, c'est
+33:42
+que on peut reprendre justement les images des concurrents et directement les insérer sur notre site. Ou sinon, on
+33:47
+peut créer des images notamment via Claudia ou via d'autres plateformes pour pouvoir mettre tout cela en place. Donc là, ce qu'on va faire, c'est qu'on va uploader donc pas mal de photos,
+33:53
+notamment celles des fournisseurs et celle des concurrents. Et on va générer donc chaque image une par une avec un prompt bien précis. Maintenant, je vous
+34:00
+ai mis en place un prompt qui va nous permettre de pouvoir mettre en place les images directement sur notre site à 100
+34:05
+% avec l'IA. Je précise à nouveau, il est en description, vous avez juste à reprendre le prompt et à faire exactement ce que je vais vous montrer.
+34:12
+Donc le wifame, donc le catalogue de tous les placeorders, images, dimension, priorité. Le prompte que j'ai mis en
+34:17
+place, il connaît parfaitement votre site et il pourra parfaitement analyser. Donc quel type d'image va avec votre site. En deux, on va screenshot le site
+34:24
+du concurrent. Donc ça permettra donc d'analyser le style visuel complet, donc l'archétype, les palettes, les photographies. En trois, image produit
+34:30
+du fournisseur. Donc si vous avez un produit qui est différent ou autre, ça verrouillera donc l'identité visuelle de ton produit, la forme, la couleur, le
+34:35
+texte. Ça différenciera celle du concurrent bien évidemment. Et ensuite pour chaque image dans l'ordre, donc vous aurez donc l'image, la référence et
+34:42
+ton image produit à uploader. Et donc là, vous avez le prompt qui est complet et donc ça sera compatible avec chat GPT, ich nano banana, tout ce que vous
+34:48
+voulez. Dans tous les cas, je vous montre le tout en pratique dès maintenant. Donc le prompt, il est en description et je vais vous laisser
+34:54
+copier exactement ce prompt juste ici. Entrer. Dès lors que vous avez copié le prompt en description, vous allez
+34:59
+arriver donc sur la stratégie Jonathan ecom image designer chargé. Donc là, il nous demande donc envoie-moi ton whipframe HTML. Comme ça, il va nous
+35:06
+donner donc les différentes étapes pour qu'on puisse avoir directement les images liées liées sur notre boutique. Le lien HTML, il y a différentes
+35:12
+possibilités. Soit vous revenez sur vos discussions avec l'autre code ou soit vous retournez donc sur votre boutique par exemple. Moi, j'ai envie de le faire
+35:18
+spécialement euh pour justement cette variante-là. Donc dans ce cas-là, euh je vais pas dans marque de basket. Attends,
+35:23
+il s'appelait comment celui-là ? Je crois c'était Jonathan. Alors, laisse-moi rafraîchir la page comme ça
+35:28
+je vais donner le bon lien HTML. Donc, mon lien HTML, c'est bien celui-là en principe. Je vais copier. Je vais copier
+35:34
+et je reviens ici. Donc, ça c'est mon lien HTML. Parfait. Donc là, bien reçu. Archétype lifestyle premium accessible.
+35:41
+Il a accès à toutes les informations. Là, il voit donc le catalogue complet des images à créer. Donc il y a l'image
+35:47
+héros image 1, héros image 2, image 3, héros image 4, héros image 5. Là, quand
+35:52
+on parle de héros, je reviens sur la boutique du concurrent. C'est les images qui sont juste ici, on est d'accord ? Donc là, faut qu'on refasse des images
+35:58
+comme ceci. Il y a les futures images caractéristiques. Donc il y en a trois. Là, on parle de celle-ci. OK. Euh
+36:04
+ensuite, donc value, image, valeur 1, confort. Là, on doit parler de ça doit être celle-là. Euh, value 2, impact.
+36:11
+image section impact, c'est celle-là. Voilà, la section impact, elle est juste ici. Donc ça va falloir que on le modifie. Le Bbox image, ça je sais pas
+36:18
+il parle duquel. Et ensuite l'image donc review image avec client. Donc il y en a 6 avatar client. Voilà, donc ça c'est
+36:24
+les images qui viennent directement de ce site là et on va pouvoir donc les modifier notamment via ce prompt. Donc vous avez à faire exactement la même
+36:30
+chose. Donc au total donc il y a 20 images. Proité haute donc c'est ces images juste ici et les priorités moyennes c'est celle-ci. On exclut de la
+36:36
+génération les icônes de paiement. Le logo a créé séparément et l'étoile. OK, l'audit est complet. Envoie-moi
+36:42
+maintenant un screenshot pleine page du site concurrent confort. Bon là, ce qu'on va faire, c'est que je vais cliquer à nouveau ici, donc sur go full
+36:48
+page normalement. En plus, je l'ai déjà en vrai le screenshot, mais je vais me le je vais le refaire au cas où si on a sauter les étapes. Alors qu'il ne faut
+36:54
+surtout pas sauter les étapes de cette vidéo. Je vais cliquer ici sur PNG. J'ai donc l'image PNG qui est juste ici et je
+37:00
+transmets donc à Cloud le screen juste ici. Comme ça, il va pouvoir analyser l'ensemble des visuels et on va pouvoir
+37:05
+faire quelque chose d'assez similaire. On va pas copier euh exactement les images, mais on va pouvoir justement les modifier. Mais au moins, il y a un
+37:11
+aperçu euh de ce qui se fait. Le style visuel identifié. Là, tout ce que vous avez à faire, c'est copier les prompts et faire en fonction de vous. D'accord ?
+37:17
+Les promptes, son ils sont en description. Bien sûr que si vous avez pas les promptes, vous pouvez pas faire ce que je suis en train de faire, mais les promptes seront bien en description.
+37:23
+Et je vais pas vous sortir des trucs de oui. S'il faut des likes et cetera, il y a pas de like, mettez les likes si vous voulez en mettre. Mais en tout cas, là,
+37:28
+vous avez accès à tout. Alors, style visuel verrouillé. Donc ça c'est good. Voilà, il a vérifié, il a regardé bien
+37:34
+le site. Donc il sait à peu près quel type d'image il va pouvoir reproduire et mettre en place. D'accord ? Là, le but c'est de pouvoir faire des images
+37:39
+différenciantes par rapport au concurrent ou si par exemple je suis sur un autre produit et je peux justement demander à Lia de faire justement des
+37:45
+photos dédiées à mon produit. Donc là, elle va demander "Envoie-moi maintenant tes images produit fournisseur, d'accord ?" Vous pouvez donner soit le lien
+37:51
+AliExpress ou soit le lien Amazon, d'accord ? Si vous êtes pas exactement donc sur des photos de sabot comme ceci,
+37:56
+d'accord ? Le but là, c'est de vous montrer que vous pouvez copier vraiment la boutique du concurrent. Donc le but
+38:01
+de cette vidéo, c'est ça. Mais de vous montrer aussi que vous êtes pas obligé de copier vraiment la boutique aussi. Donc vous pouvez reprendre la structure
+38:07
+et après si vous avez un produit qui est différent, ben vous suivez quand même les étapes. Juste vous donner un produit différent. D'accord ? Donc ça c'est
+38:13
+quelque chose qui est possible. Maintenant euh je peux aller donc sur Amazon euh le produit eux il s'appelle
+38:19
+c'est confort. C'est ça hein. Je vais regarder. Peut-être il y a une meilleure variante hein. Je vais peut-être pas changer le copywriting mais euh alors
+38:24
+attends je vais trouver peut-être une meilleure variante pour vous montrer. Mais je répète si vous avez un produit qui est différent du concurrent, il y a
+38:30
+aucun souci. Vous transmettrez directement le lien à Lia et va s'occuper de faire le travail. Donc là par exemple je vais voilà, je vais
+38:37
+prendre cette variante là par exemple pour vous montrer que on peut faire vraiment quelque chose de différent. Bon là, c'est la même thématique mais c'est
+38:43
+pas vraiment le même produit. Donc là, ce qu' me dit, envoie-moi maintenant tes images fournisseurs. Donc là, je lui envoie tout. Voilà, je lui envoie ça.
+38:50
+Comme ça, il a accès à tout ça. Donc là, c'est bien ce qu'il est en train de me faire. Donc image reçu, analyse de produits. Il est en train de tout
+38:56
+analyser pour justement ensuite qu'on puisse mettre en place donc les bonnes images. Donc là, c'est exactement ce qu'il est en train de me faire.
+39:01
+Catalogue produit verrouillé. Donc là, le but, on est bien d'accord hein, c'est de mettre en place les images de mon site. D'accord ? Parce que là, mon site,
+39:07
+il est comme ça. Il y a pas d'image. OK ? Il y a pas d'imag et le but là justement de ce prom c'est de pouvoir mettre en place des images notamment via
+39:13
+LIA. Donc là ce qu' me dit la semelle blanche chunky la boule métal sont des visuels mirons. Chaque image générée
+39:19
+doit les montrer très clairement. D'accord ? C'est pour montrer que j'ai pas la même variante que mon concurrent. Catalogue produit verrouillé réponse
+39:25
+start et je génère les 20 promptes dans l'ordre 1 par un. Donc je clique et je mets start juste ici. Donc là ce qui va
+39:30
+me faire c'est qu'il va me mettre en place un prompt [musique] pour chacune des images que je dois mettre sur mon site. D'accord ? où je pourrais aller
+39:35
+directement sur Hfield par exemple ou des plateformes similaires pour pouvoir justement avoir des images sur la base [musique] des prompts qui m'a fait juste
+39:41
+ici. Donc ça c'est sur puissant. Il me crée la boutique, il me fait l'HTML, il me fait le copyriting. Même là les
+39:47
+images, il me fait un prompt pour les images. Je vais vous montrer en pratique ce que ça rend. En vrai, cette vidéo pour moi, elle est tout simplement
+39:53
+incroyable parce que en vrai, moi j'ai démarré l'comis tout ça, ça n'existe pas. personne fait
+39:59
+ça. Tuas tu as jamais vu une vidéo comme ça avec autant de valeurs qui te montre par A + B comment tu peux créer une boutique avec Lia sans toucher une seule
+40:05
+ligne de code mais juste en utilisant des prompts qui sont en description et tu suis les étapes en fonction de tes problématiques tout simplement. Donc là
+40:11
+il y a 20 images à mettre sur mon site et c'est ce qu'il est en train de me faire. Il me met en place des prompts et ensuite je vais les transmettre justement à des générateurs d'images
+40:17
+pour avoir des images qui sont bien précises au niveau détails et au niveau de mes demandes. On se retrouve quelques minutes plus tard. Donc, j'ai bien pu
+40:23
+générer l'ensemble des photos qui m'ont été mis en place notamment vers Echeld sur la base des prompts de Claudia. Donc
+40:29
+ça c'est la photo une 2 3 4 5. Vous voyez tout ça ça a été mis en place via Lia et même les avatars juste ici. Là
+40:36
+faut juste que je les sépare en individuel mais en tout cas c'est tout ce qui m'a mis en place. Ça m'a pris quand même une bonne demi-heure le temps
+40:41
+de tout mettre en place pour être transparent avec vous. Donc c'est un petit peu ça. Et donc là normalement on est bon. Donc 20 promes générés miron
+40:47
+landing. OK donc là on est bon. upload sur Shopify Fields. Ce que j'ai fait, c'est que j'ai créé au niveau du bureau
+40:54
+donc image important et là j'ai mis en place donc toutes les photos que j'ai pu mettre en place via les promptes de Claudia. Bon par contre la seule chose
+41:00
+là que je suis en train de lui demander, c'est de bien séparer chacune des images. Donc sur le prompt, quand je
+41:05
+mets le prompt ici, il y a bien écrit generate separation mais mais je pense que là is field là il capte pas
+41:11
+vraiment. Donc là, au niveau juste de ce prompte là, si vous avez un truc comme ça, donc
+41:17
+générer six variantes, il faudra vraiment faire la séparation. Donc là, par exemple, je peux lui dire sur le sur
+41:24
+l'avatar review, il ne comprend pas que c'est six images différents. Donc
+41:30
+fais-moi un prompt par avatar. Voilà, ça c'est des choses que vous pouvez faire. Donc faut quand même un petit peu de logique, un petit peu de raisonnement.
+41:36
+Si vous voyez qu'il y a quelque chose qui ne fonctionne pas comme prévu, euh ben de toute façon, demander à Claudia parce qu'il est là pour ça. Donc là, je
+41:41
+lui ai demandé euh six avatars. À chaque fois, il me met les six photos. Donc euh là, je vais demander de faire un un prompte séparé systématiquement et euh
+41:48
+comme ça, on sera bon. Donc là, je vais supprimer tout ça. Donc voilà, là il va me mettre en place un prompt pour chacune des six photos. Je vais les
+41:53
+mettre directement sur ich field comme ça j'aurai bien six photos séparées comme prévu. Donc nickel, c'est ce qu'il est en train de me faire. Donc image 13
+42:00
+14 15 16 17 [musique] 18. Voilà, il y a six prompts bien distinctes. OK. Donc
+42:06
+là, je colle le premier pron par exemple. Voilà. Et je mets bien aussi taille recommandée. Donc on est bon. Et
+42:11
+là, je remets bien un juste ici. Comme ça, il va s'occuper de me générer un avatar un par un. Si vous avez une chose
+42:16
+comme ça qui vous arrive, un peu de logique. Voilà, faites en sorte de pouvoir bah lui demander simplement de faire un prompt individuel s'il comprend
+42:22
+pas le principe d'avoir six avatars différents. Là, il m'en a fait un autre. Je vais le sauvegarder. Voilà. Donc en
+42:28
+attendant, je vais continuer. Donc là, 14, je continue de récupérer tous les avatars. Image 14. Donc là, qu'est-ce
+42:34
+qu'il m'a dit ? J'ai toutes les 12 URL directs. Voici le mapping par nom de fichier. Puis je les upload sur Shopify.
+42:40
+URL récupéré. D'accord. Good. Good. Good. Donc là, il a tout. Les 12 images sont uploadées sur Shopify sans erreur.
+42:47
+Maving complet sur le thème editor. Tu retrouveras donc d'accord installer la section liquide dans ton thème et
+42:52
+assigner les images. Je veux dire oui, je le veux. Alors, d'abord je vérifie tes thèmes disponibles pour savoir où installer la section. Tu as cinq thèmes.
+42:59
+Ton thème live est down main. Je peux écrire directement sur les thèmes non publiés mais pas sur le thème en live.
+43:04
+OK. Bah, je vais lui dire en vrai, fais-le directement sur le TM en live. Je lis le fichier liquide puis je l'installe via le code editor Shopify
+43:10
+dans Chrome. Donc là, il est en train de faire le travail. Après, on va vérifier si c'est bon. Dans tous les cas, soit on le fera comme ça, soit tout simplement
+43:16
+je vais recopier à nouveau donc le code liquide et je vais je vais l'intégrer directement sur Shopify. Donc là, je lui
+43:21
+laisse la main. Est-ce qu'il va y arriver ? Oui ou non. Parfois sur certaines boutiques, il y arrive, parfois il y arrive pas. D'accord ? Il y a des fois c'est très variable. OK. Donc
+43:28
+là, il est bien connecté à ma boutique. Je l'invite vers le code éditor du thème live. En fait, c'est limite ça fait peur en fait. À chaque fois que je vois euh
+43:34
+que Claude Code il a il prend possession de mon orgénateur, ça fait toujours un petit peu peur. Genre j'ai trop peur qu'il fasse une dinguerie. Euh alors,
+43:40
+laissez-moi continuer juste les images. Cloud souhaite utiliser Google Chrome autorisé pour cette session. Je vais le
+43:46
+laisser faire. Cloud using your computer. C'est ça qui me fait peur à chaque fois que je vois ça. Donc là, il prend une capture d'écran
+43:53
+mais il prend pas la bonne capture d'écran. Hop là, on va retourner sur ma boutique. Tu as besoin d'aller sur ma
+43:59
+boutique mon ami. OK, il est en train de faire des modifications ici là. OK, donc là Claude fait des modit. Alors, ce qu'il me dit, c'est qu'il est en train
+44:05
+d'installer donc le code sur un thème qui est non publié parce que sur un thème qui est en live, il peut en gros
+44:10
+il a pas les autorisations pour le faire. C'est pas très grave s'il le fait sur un thème qui est non publié. Dans tous les cas, après je peux juste le
+44:16
+publier. OK. Alors, qu'est-ce qu'il me dit ? OK, dans tous les cas, là, il m'a transmis euh le code liquide juste ici.
+44:21
+Je peux juste le copier. Ce que je peux faire, c'est très simple, c'est faire exactement ce que j'ai fait en début de vidéo, c'est copier le code directement
+44:27
+ici et le mettre sur Shopify en éditant le code et cetera. Là, jee lui demander euh montre-moi le site en HTML, juste
+44:35
+pour voir à quoi ça ressemble, s'il a bien mis les images ou pas. On va voir tout ça ensemble directement avant que je puisse importer ça sur Shopify.
+44:41
+Franchement, les images, elles sont plus que bien. Merci Isfield, merci Lia pour tout ce qu'ils font. Voilà, ça c'est des
+44:46
+images qui sont professionnelles. Personne peut dire que ce n'est pas des bonnes images et c'est pas moi qui ai eu besoin d'aller sur Canva ou quoi que ce
+44:52
+soit. J'ai pas eu besoin de toucher une seule ligne de code, ça se met automatiquement via LIA. OK, donc après faut savoir que vous pouvez encore faire
+44:58
+des modifications, on est bien d'accord. Là voy a il y a mes différents avatars que j'ai mis en place. Donc non,
+45:03
+franchement ces images là après, je les mets sur mon site. Franchement, c'est une bonne chose. Maintenant, pour les personnes qui sont après pour les personnes qui sont plus pointux et à
+45:09
+l'aise justement avec l'informatique, faut savoir que justement Efield, ils ont mis en place un nouveau plugging. Donc ça fait que vous pouvez connecter
+45:15
+directement Adobe Première Pro à Isfield. Donc ça c'est surpuissant. Ça vous permet de pouvoir créer donc des images encore plus qualitatives et
+45:21
+mettre en place des vidéos, faire des petits montages si vous voulez mettre ça en place. Donc là, vous allez sur plugin, juste ici, Adob Première Pro et
+45:27
+vous allez arriver exactement sur cette page. Donc regardez ce que ça vous permet de faire.
+45:32
+Pe dessiner directement sur la vidéo, supprimer supprimer par exemple des acteurs d'une vidéo.
+45:42
+Non, ils sont ils sont forts. Tu peux changer le background.
+45:49
+Donc non, ils sont chauds, ils sont chauds. Non non, vraiment ce qu'ils ont fait c'est très fort. Donc je vais vous montrer un petit peu comment on peut faire ça si vous voulez mettre en place
+45:55
+donc de très bonnes images ou même de bonnes vidéos. Là, vous allez cliquer ici donc sur Mac OS si vous avez un Mac et vous mettez Windows si vous avez un
+46:01
+Windows pour que je vous montre un petit peu. Donc moi, je vais cliquer sur Mac OS. Vous allez cliquer juste ici. Donc Field Universal, programme
+46:06
+d'installation du logiciel Ich. Donc je vais cliquer sur continuer, installer. Je vais mettre mot de passe juste ici.
+46:12
+Installer le logiciel. L'installation, elle a bien été réalisée. Donc là, je peux placer ça dans la corbeille sans souci. Maintenant, ce que je vais faire,
+46:18
+c'est que si vous avez pas encore Adobe Première Pro, vous pouvez le télécharger facilement juste ici. Voilà, Adobe
+46:23
+Première Pro. Donc c'est un outil qui vous permet de faire tout types de montages, d'accord ? Que ce soit des montages photos ou des montages vidéos,
+46:29
+euh il y a aucun souci à ce niveau-là. Ça vous permet très facilement de pouvoir le faire. Ça que vous avez une période d'ess qui est gratuite. Là, vous
+46:34
+mettez free trial. Vous pouvez essayer pour voir comment ça rend. Ceux qui ont déjà cet outil là euh ils savent combien il peut être très puissant. On se
+46:40
+retrouve maintenant sur Adobe Première Pro, juste ici. Là, vous voyez, il y a l'image de mon produit. Et là, je peux aller au niveau de la fenêtre juste ici
+46:47
+et je vais cliquer sur extension. Et là, vous voyez que au niveau des extensions, je peux connecter directement Field. À
+46:52
+cette extension, je peux connecter directement Field, donc à ma plateforme de Adobe Première Pro. Donc là, je vais vous montrer un petit peu quelle magie
+46:59
+on peut faire, quel type de choses incroyable on peut faire. Donc là, je vais aller sur Hfield juste ici. Et là, vous voyez que c'est directement
+47:04
+intégré. Donc là, je vais lui demander par exemple, crée-moi une vidéo concernant ce produit en format 11. Là,
+47:10
+je lui transmets bien le produit pour bien qu'il comprenne en campagne. Donc là, par exemple, c'est ce qu'il va me faire. Là, je vais vous montrer
+47:15
+l'exemple d'une vidéo. Et ce qui est bien, c'est que ce qu'on va pouvoir faire entre Adobe et Hfield, c'est que par exemple, je vais pouvoir modifier
+47:20
+directement le fond d'écran en un seul clic et je vais pouvoir directement intégrer donc les différentes modifications directement sur Adobe et
+47:26
+pouvoir télécharger donc cette vidéo là ou cette photo et l'intégrer directement sur ma boutique. Le fait qu'ils ont mis en placefield et Adob ensemble, ça fait
+47:33
+que voilà, c'est encore plus simple, c'est surpuissant. Au final, encore une fois, vous avez pas besoin de toucher une seule ligne de code. Là, je vais demander à Isfiel, voilà, crée-moi une
+47:39
+vidéo sur la base de mon produit. Et ensuite ben je vais pouvoir directement euh je vais pouvoir le mettre en place directement sur l'application de Adob
+47:45
+Pro. Donc là, c'est exactement ce qu'il viennent de me faire. Regardez-moi la petite vidéo incroyable field. Franchement, c'est bien fait hein. Là,
+47:50
+qui va venir dire "Ouais, il y a pas il a à un moment donné, il faut arrêter. Faut juste donner les bons outils I utiliser Adob Première Pro aussi, ça
+47:56
+peut être pas mal." OK, donc là on est bon. Ce que je peux faire maintenant c'est mettre directement ça sur Adobe
+48:01
+Première Pro. Quand vous cliquez ici, ça se connecte directement donc sur Adobe. Voilà, je mettre ça exactement ici.
+48:09
+[musique] Voilà, ça c'est pas mal. C'est une
+48:15
+première partie. Euh maintenant, je peux lui demander euh est-ce que tu peux changer d'arrière lanc et qu'elle soit
+48:23
+dans le centre-ville à Paris. Je demande à Hfield de pouvoir changer d'arrière-plan et ensuite je peux faire un très léger montage en commençant donc
+48:29
+sur la partie campagne comme vous l'avez vu juste ici. Et ensuite je peux varier en montrant qu'elle est par exemple en ville ou ailleurs. Donc ça c'est tout
+48:35
+simplement incroyable. Voilà.
+48:41
+Et là je peux automatiquement donc supprimer le background. Je peux enlever voilà si je veux vraiment enlever ce tableau là je peux le faire. Tout est
+48:47
+possible. Voilà quand je fais ich field Adob Pro, tout est littéralement possible. Donc là je le laisse mettre en place l'image et ensuite je vous montre
+48:53
+qu'est-ce que je peux mettre en place. Voici la vidéo que m'a mis en place. Donc là, on voit la fille, la femme directement à Paris. Voilà, on voit la
+49:00
+tourfel juste ici. Bon là, ils ont mis les sous titre mais je peux les enlever he si je souhaite. Je peux télécharger
+49:05
+la vidéo et là je vais cliquer juste ici. Je vais cliquer et je peux mettre la vidéo ici. Donc là, on a une première
+49:10
+partie. Là, je peux faire ça. Je vais cetter.
+49:17
+Hop. Hop. Là, je peux faire comme ça.
+49:26
+Là, je vais pas changer je pas mettre la musique. Attends là, cette musique là, je vais l'enlever.
+49:32
+Là, je vais enlever la musique juste ici. Là, je vais cliquer ici. Comprend le lien. Parfait. Et là, le son. Voilà
+49:38
+le son, je peux le laisser là comme ça. Attends, j'espère que ce soit un peu fort là. Voilà, ça va être un peu fort. Je diminue un peu le son. Voilà.
+49:47
+Là, je peux faire ça et après si je veux je reprends ici et je montre la fin mettre.
+49:53
+Donc au final, [musique]
+50:01
+au final là c'est un exemple de ce que je peux faire. Ensuite, je peux remettre une troisième partie. Je peux lui demander encore de faire des modifications, que ça soit au niveau de
+50:07
+cette première vidéo, au niveau de cette deuxième vidéo. Là, je lui ai demandé de supprimer les sous-titres. Donc là, pareil, il peut le faire. Mais tout ça pour vous dire que si vous combinez donc
+50:13
+each Field et Adob Première Pro, vous pouvez faire de vraies modifications que ça soit au niveau donc des vidéos et au niveau des images. Donc euh ceux qui
+50:20
+sont un petit peu pointueilleux dans leur travail et je sais qu'il y en a, dans ce cas-là, vous pouvez bosser directement avec Hfield et Adob Première Pro. Euh notamment là si euh sur des
+50:26
+photos vous voulez modifier le fond d'écran, ben on peut le faire très facilement avec ces plateformes là. La prochaine étape, ça sera donc de
+50:32
+uploader toutes les images sur imgb.com. Donc c'est gratuit, il y a pas besoin d'un compte professionnel. Ensuite, on
+50:38
+va copier le lien direct de chacune des images. Adresse terminant par JPG ou PNG et envoyer tous les liens à Cloud. Il
+50:44
+sait maintenant où placer chacune des images. Donc là, je vais copier exactement ça ici. D'accord ? Donc rien
+50:49
+de compliqué. Euh je vais commencer l'envoi et là je viens donc sur l'archive et là je reviens donc au niveau de mon bureau. Et je vais prendre
+50:56
+toutes les photos. Je vais cliquer sur ouvrir. Parfait. Et je vais cliquer sur envoyer. Donc voilà les 18 images, elles
+51:01
+vont avoir un lien dédié. Comme ça, Claude saura exactement donc où mettre telle image à telle place tout
+51:07
+simplement. Donc là pareil, je vous invite à suivre exactement ce que je suis en train de vous montrer à l'instant. Rien de compliqué, vous allez sur le site imgb.com.
+51:14
+Voilà. Donc là, j'ai tous les liens qui sont juste ici. D'accord ? Je vais copier ça juste ici. Et maintenant, ce
+51:19
+qu'il va falloir faire donc c'est copier tout simplement ces liens directement sur cloud code. Donc là, c'est ce que je vais faire. Je récupère les URL des
+51:26
+direct des 18 liens. Donc là, c'est exactement ce qu'elle est en train de me faire. Donc ça charge. Donc je récupère l'URL direct des 18 liens. Donc c'est
+51:32
+exactement ce qu'elle est en train de me faire. Donc là, vous allez faire exactement ce que j'ai mis. Vous allez tout simplement suivre la suite de ce
+51:37
+brief. Voici ce qui vient de se passer. Donc là, il a pris en compte l'ensemble des liens que je lui ai transmis et les a upload sur Shopify CDN. Guide mise à
+51:44
+jour, barre de progression à 100 %. Donc on est bon. Et enfin, je mis en place un brief, donc cloud design qui a été créé
+51:49
+donc dans le but que toutes les 20 images que j'ai mis en place soient mappé avec leur URL. D'accord ? C'est exactement le but. Donc maintenant
+51:55
+l'étape 5, ça sera d'aller donc sur Claudia, d'accord ? Et on va aller sur une nouvelle conversation. On va attacher donc le frame qui est juste
+52:01
+ici. On va copier-coller donc tout le contenu juste ici. Et on va cliquer sur envoi donc cl génère le HTML final avec
+52:07
+toutes les images. Ça c'est la finalité afin que toutes les images euh soient bien présentes sur le site. Donc là ce
+52:12
+qu'on va faire c'est que je vais aller calmement sur Claudia. Hop là là vous pouvez suivre les étapes calmement. Donc
+52:18
+là je me retrouve sur Claudia. Donc qu'est-ce qu'il me dit ? Nouvelle conversation. Attache my run frame. Donc
+52:23
+c'est ça. Afficher dans le dossier. OK. Donc je vais attacher ça juste ici. Ensuite, qu'est-ce qu' me dit ? Copyc
+52:30
+tout le contenu de Miro Cloud Design. Donc ça c'est le brief qui sera en description. D'accord ? Il y aura un brief en description à nouveau
+52:36
+concernant Cloud Design. Donc un brief que j'ai mis en place. Et enfin, qu'est-ce qu'il dit ? Envoie cloud génère automatiquement donc le HTML
+52:43
+final avec toutes les images. OK. Et donc ouais, c'est tout ce qui reste. Après, on sera good. Alors, je vais cliquer juste ici. Je précise que le
+52:50
+brief, il est en description, d'accord ? pour pouvoir mettre en place là ce que je suis en train de finaliser juste ici.
+52:55
+Donc là, le but c'est de pouvoir finaliser le site tout simplement. J'ai tout ce qu'il faut. Je vais générer maintenant le fichier final avec toutes
+53:01
+les images réelles. Donc en principe, on devrait être bon après ça et avoir enfin le site complet avec les images, avec
+53:07
+tout qui est modifié, qui est structuré. Euh donc là, ça validerait vraiment le fait que en 2026 2027, il est possible
+53:14
+de pouvoir créer une boutique sans avoir un thème payant, sans avoir des s qui n'ont aucun sens. Euh c'est vraiment le
+53:20
+but de cette vidéo. Je vais vous montrer le résultat dans un instant. En attendant que le HTML est en train de charger, dernier point qui est aussi
+53:26
+super important, c'est tout ce qui concerne donc l'email marketing. Ça, je l'avais déjà présenté justement dans ma vidéo précédente concernant Claudia,
+53:32
+comment construire une boutique Shopify à 200 K par mois. Donc là, c'était bien évidemment les bases, mais là dans cette vidéo, je suis vraiment allé de manière
+53:39
+avancée sur ce que je veux montrer. Donc automatis emails et SMS en 5 minutes avec Omniscènent. Donc je vais cliquer
+53:45
+sur le lien juste ici. Et l'idée justement de la plateforme de Omicen, c'est de pouvoir gérer toute la partie email marketing. On est bien d'accord.
+53:50
+Mettre en place une boutique comme là je suis en train de le montrer, c'est très bien. Si vous mettez pas en place des séquences d'email marketing dès le
+53:56
+départ lorsque vous mettez en place votre boutique, vous vous aurez des résultats qui sont plus faibles, d'accord ? que je vous invite vivement à
+54:01
+utiliser Omniscend notamment au niveau de la gestion de votre email marketing. Donc là, vous pouvez cliquer sur start
+54:06
+free juste ici. Ce que vous pouvez faire, c'est cliquer directement ici sur Signup with Shopify et donc ça va vous connecter directement sur votre boutique
+54:13
+Shopify. Je vais revenir sur ma boutique Shopify pour choper l'URL juste ici. Voilà, je prends l'URL exactement ici et
+54:20
+l'URL de ma boutique, elle est ici. Là, je vais juste enlever admin et je vais cliquer sur connexion. Donc là, on
+54:25
+arrive exactement sur l'interface de Omnisc. Donc, on a la possibilité de mettre en place différentes choses. Vous pouvez notamment euh mettre en place des
+54:32
+campagnes. Si par exemple, vous avez une liste email de 500, 1000 personnes, 5000, 10000, peu importe. Euh on peut
+54:37
+mettre en place directement des campagnes exactement comme ceci. Là, par exemple, il y a la période d'été. Si vous avez déjà fait des publicités et
+54:42
+que vous avez une base email, vous pouvez tout simplement retargetter justement votre audience afin de leur proposer justement un bon de réduction
+54:48
+par exemple uniquement utilisable durant la période d'été. Vous pouvez faire la même chose par exemple pour le Black Friday, pour Noël, tout ce que vous voulez. Donc ça c'est des campagnes qui
+54:54
+sont bien précises pour un élément précis. Maintenant vous avez aussi les automatisations. Donc ça c'est super important. S'il vous plaît mettez-le en
+54:59
+place dès le début. Euh c'est le fait que faut savoir que la majorité des personnes qui vont venir sur votre site même s'il est mis en place par Claudia
+55:05
+comme je le montre dans cette vidéo, euh ils vont venir sur votre site il y a peut-être 100 personnes qui vont venir sur votre boutique et il y a peut-être
+55:10
+entre une et 5 personnes qui vont acheter sur votre boutique. D'accord ? Ça c'est en moyenne ce qui se fait en e-commerce. Maintenant faut savoir que
+55:15
+il y a beaucoup de personnes qui devaient acheter de base sur votre boutique. Donc ils ont par exemple ajouté au panier. Au final ils ont pas acheté parce que peut-être qu'il
+55:21
+prenaient le métro. Peut-être qu'ils étaient au travail, peut-être qu'ils étaient dans une discussion très sérieuse et au final maintenant ils ont oublié d'acheter sur votre boutique et
+55:28
+vous vous pensez que les gens n'ont pas acheté parce qu'ils veulent pas ou parce qu'ils sont pas assez intéressés ? Non, c'est parce que ils avaient oublié. C'est des personnes comme vous.
+55:34
+Peut-être que voilà, vous étiez déjà au travail, vous pensiez faire une commande Amazon, au final vous l'avez jamais faite. Donc là, c'est justement le
+55:39
+principe même de la mise en place justement de l'email marketing. Donc ça, je vous invite vivement à le faire et à le mettre en place. Là, par exemple,
+55:45
+j'ai mis en place une séquence d'abandon de panier. J'ai aussi des prompts d'email marketing que je vous mets en description. D'accord ? Je vous invite
+55:52
+très vivement à les utiliser et à bosser directement avec Omniscend. Là par exemple, j'ai une séquence d'abandon de panier qui est juste ici. Donc on envoie
+55:57
+un premier email pour leur expliquer que voilà, vous avez oublié votre panier. Donc faites bien attention, prenez votre
+56:02
+commande. Ensuite 11h après, on renvoie un nouveau email et ensuite 12h après, on envoie un dernier email en général
+56:08
+avec un code de réduction. Donc ça c'est ce qu'on peut faire notamment au niveau des paniers abandonnés. Donc ça c'est pour vous montrer un exemple. Il y a des
+56:14
+personnes qui ont ajouté au panier, qui ont même mis leur carte bancaire et au final ils ont pas acheté. Donc pour ces personnes-là, même principe, on leur met
+56:20
+en place une séquence d'email. Comme je vous ai dit, en description, vous aurez accès à différentes séquences que vous pourrez utiliser. Donc pareil là, après
+56:25
+11h 2e séquence et après 12h 2e séquence encore. Donc ça c'est concernant euh les
+56:30
+abandons de checkout. Et au niveau des campagnes, donc là par exemple, je peux lancer une campagne précise hein, je vais créer euh ici une campagne. Je peux
+56:37
+créer un email juste ici et mettre en place donc toutes les informations juste ici et trouver un objectif de campagne.
+56:43
+Donc là par exemple, je vais mettre lancement de mon offre. Je vais choisir un template. Et là par exemple, je peux
+56:49
+mettre en place une campagne par rapport à l'été. Summer is here. Et je peux mettre en place donc tout types de
+56:54
+modification. Donc comme j'ai dit, vous avez un prompt en description pour mettre en place donc vos premières séquences email et même vos campagnes.
+57:00
+Là c'est un email que par exemple je peux modifier directement avant de pouvoir envoyer directement tout ça à mon audience. Le lien il est en
+57:06
+description si vous souhaitez utiliser Omniscend. Maintenant revenons à Cloud Design. Où est-ce qu'on en est ? Donc là
+57:12
+il m'a dit "J'ai tout ce qu'il faut. Je vais maintenant générer le fichier final." Donc, j'ai transmis le prompt qui est en description. Il y a beaucoup
+57:17
+de choses en description. Et j'ai aussi transmis le frame donc que j'ai reçu précédemment. Donc il me dit "C'est fait, toutes les images ont été
+57:23
+remplacées. Cinq images héros, trois images futures, deux images." OK, il y a tout. Euh je vais télécharger. Je vais télécharger ça pour vous montrer. Et je
+57:29
+vais cliquer juste ici. Et vous voyez donc les images qui ont été mis en place. Voilà, le site, il est exactement comme ceci. Incroyable, franchement.
+57:35
+Voilà, incroyable. Là, il y a juste Marie où il y a une chaussure à la place. Donc ça c'est une petite erreur.
+57:40
+Euh faudrait peut-être changer ça, mais sinon en dehors de ça, ben en vrai c'est tout simplement incroyable. Là vous avez la finalité du site. Voilà, le site il
+57:47
+est exactement comme ça. On est parti sur une base de ce site. Je sais pas ce que vous en pensez mais entre mon site
+57:53
+et celui sur je m'inspire, honnêtement le mien il est mieux franchement si on parle sérieusement. Donc franchement
+57:58
+c'est incroyable. Euh j'ai aucun mot franchement pour pour dire vraiment la force de Claudia. Euh c'est vraiment
+58:05
+super puissant. Mettez en application ce que j'ai montré dans cette vidéo. Franchement là, vous avez tout
+58:10
+maintenant pour vous lancer. Il y a plus besoin de quoi que ce soit. Donc non, là vous avez tout effectivement.
+58:15
+Maintenant, ce que je peux faire vraiment pour aller au bout des choses, donc je vais revenir ici sur Claudia, je vais prendre le HTML, je vais copier, je
+58:23
+vais revenir ici sur boutique en ligne, modifier le thème, je vais aller dans page, [musique] je vais créer un modèle
+58:28
+et je vais mettre modèle final. Donc je vais enlever la page juste ici. Je vais et je vais ajouter une section liquide
+58:34
+personnalisé. En principe, ça devrait le faire. Parfait. Enregistrer. On est bon.
+58:39
+Version mobile, on est bon. Voilà. Nickel, nickel, nickel, nickel. Donc les amis, ben je pense qu'on est bon, hein.
+58:46
+Je pense qu'on est plus que bon. Je vais afficher le site. Voilà. Donc voici le site. Là, c'est la version finale. Vous
+58:53
+avez tout vu de A à Z. Je peux faire encore plein de modifications, il y a plein de choses qui sont possibles, mais
+58:59
+là, vous avez déjà une visibilité sur ce qui est possible de faire. Maintenant, c'est qu'une question de code et euh d'information que vous transmettez. Là,
+59:05
+par exemple, je peux changer euh ben je peux lui demander de changer les avis. Ici, je peux changer la couleur, je peux changer les avis, je peux changer les
+59:10
+images, je peux encore tout changer. Euh, tout est question de lui transmettre les bonnes informations, euh les bons prompts. Et euh voilà, là vous
+59:16
+avez l'exemple vraiment de ce qui est possible de faire. Euh, vous avez plus besoin d'acheter des thèmes, vous avez plus besoin euh d'avoir des des applications qui n'ont aucun sens.
+59:22
+Mettez en application ce que j'ai dit dans cette vidéo. Si vous avez la moindre question, n'hésitez pas à me la poser. Moi, très clairement, je suis
+59:29
+super hypé. Ça relance très clairement l'e-commerce, tout ce qui se passe avec Claudia, Isfield, toutes ces choses-là.
+59:34
+Franchement, je vous invite très vivement à vous lancer en e-commerce, mais moi là, ça me fait trop du bien de pouvoir utiliser tous ces outils là pour
+59:40
+avoir encore des meilleurs résultats en e-commerce. J'espère vraiment que cette vidéo, elle vous a plu. J'ai fait le maximum pour vous apporter de la valeur
+59:45
+là. Vraiment, j'espère que ça pourra vous aider, qu'il y a des personnes qui pourront changer leur vie à travers ce type de vidéo. N'hésitez pas à la liker
+59:51
+si ça vous a plu. Et il y a tout le temps tous les jours des personnes qui me demandent voilà si j'ai un accompagnement, je confirme que j'en ai
+59:57
+un. Vous voyez que au final c'est plus une complication de créer une boutique. Donc vous avez un lien en description, vous avez accès à un formulaire qui vous
+1:00:03
+permettra tout simplement de pouvoir candidater à notre accompagnement afin que vous puissiez tout simplement vous lancer avec l'odia et avec tous nos
+1:00:08
+conseils. Donc j'espère que cette vidéo elle vous a plu et on se dit à très vite pour une prochaine vidéo.

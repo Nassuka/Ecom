@@ -1,0 +1,151 @@
+Video 40 : Chapitre 1 : Introduction to strategy
+0:000 secondeAll righty, guys. Welcome to another YouTube video. And in this video, I'm going to be showing you how to speedrun Shopify websites that do over 100K per month extremely fast and efficient using
+0:088 secondesAI. This is the exact process that I use to build the stores of my winning products, which literally did $197,000 in 50 days, and my other store did
+0:1717 secondes$143,000 in 30 days. So, not only are you guys going to be making a website in literally 10 minutes, what's most important is that it actually converts.
+0:2525 secondesBefore we get into anything, I just want to say thank you so much for 3K subs.
+0:2828 secondesYou guys have been showing so much love and support and I'm just extremely grateful for each and every single one of you guys. I'm so glad that my content has provided y'all with a lot of value
+0:3636 secondesand I'm just going to keep on giving you guys so much free sauce. I'm not charging guys a single dime to be sharing any of this. So, I'm really glad that you guys are finding it helpful.
+0:4545 secondesAnd as always, for the people who are new here, who am I? My name is Perry Sha. I am 21 years old and I've done multiple seven figures in ecom. I am a
+0:5353 secondessevenfigure brand owner. This is my brand over here and I've done over $3 million in this brand alone. And in this YouTube channel, I'm basically
+1:001 minutedocumenting my entire drop shipping journey. Everything that I learned, I'm passing it on to you guys for free. So, that is basically the whole point of this YouTube channel. So, without
+1:081 minute et 8 secondesfurther ado, let's get straight into the video. So, just like my other videos, I've been using Trend Track to basically do everything from product research, um, running the ads, creating the website.
+Chapitre 2 : Product and site research
+1:171 minute et 17 secondesSo, same thing here. You guys are going to go onto your Trend account and you're going to integrate it with Claude. For those of you guys who don't know, I'll just show you very quick. So, this is
+1:251 minute et 25 secondesbasically trend track. And there's going to be a popup here on the bottom right that says connect your Claude to your trend track. Very simple. Just click
+1:321 minute et 32 secondesthrough it. It's like literally three steps, super quick, and then you'll have your Claude integrated. So, for the sake of this video, I've already selected a product, but you would have found your
+1:411 minute et 41 secondesproduct through the ads part on Trend Track, which is literally right here.
+1:451 minute et 45 secondesand basically using my filters, uh, the native ad filter because, uh, if you guys haven't seen my last video after this, be sure to check it out because I go through exactly how I find a product.
+1:551 minute et 55 secondesBut yeah, we basically going to use the same thing. Find use the filter, use the filter, find your product, and then once you have your product, you're good to go. So, in this video, I'm going to be
+2:042 minutes et 4 secondesusing a product from Melo, which is basically this like cloud pillow that is supposed to help with your neck pain. So once you have your product, if you go to
+2:122 minutes et 12 secondesshops and type in your store or let's say let's say you're selling pillows, right? And you search up cloud pillow, you'll be able to find all the stores
+2:202 minutes et 20 secondesthat are running that exact product. And doesn't matter if you've clicked onto one store or another, but let's say we clicked on this, which happens to be the
+2:272 minutes et 27 secondesbiggest one in this uh for this product, but you can go on trend track and see every single similar shop like right
+2:342 minutes et 34 secondeshere. So, and it's not just u random small shops. They basically only show uh the biggest shops selling your product.
+2:412 minutes et 41 secondesThis is very important because let's say we go on Melo and we got to their website. So this is their product page.
+2:462 minutes et 46 secondesLet's say we just don't like the vibe of it, which we do and we're going to use this to reference later. But let's just say we don't like it. On Trend Track, you can literally see all the similar
+2:542 minutes et 54 secondesshops and then you can click onto it, look at their product page, and see if that vibes with you more and you think that one looks better. So in this case,
+3:023 minutes et 2 secondesMelo is the biggest fish for this product. So we're going to be using this as reference. That's essentially step one. You connected your trend track to your clot. You have your product. You
+3:103 minutes et 10 secondesbasically looked through the uh ad section. Apply my native ad filter and scroll and look through a product. I will be creating a very extensive deep
+3:183 minutes et 18 secondesvideo going over only this. So my last video a lot of you guys all saw we did a speedrun which I basically went as in-depth as possible for that type of
+3:263 minutes et 26 secondesvideo. But I will be creating a very in-depth video for that of course. So stay tuned. So you have your top competitor website that you are going to be referencing their u product page. The
+Chapitre 3 : Claude prompt setup
+3:353 minutes et 35 secondesnext step is to use an extension called Go Fold Page. It's completely free and you can download it. You guys will see it's up here in my extension up there.
+3:423 minutes et 42 secondesYou're going to go to your competitor's product page. Click on go full page here. And what it's going to do is just again take a whole screenshot of the
+3:503 minutes et 50 secondesentire page itself. You can use this on homepage, you can use this on product page, whatever it is that you want to design. But you can see we literally
+3:573 minutes et 57 secondeshave like the entire thing which is so time efficient. And then you're going to simply just go up here, download as a PNG or a PDF, whichever is fine.
+4:054 minutes et 5 secondesProbably the PNG is better. And now we're simply going to go onto our Claude. The first thing you want to do on Claude is create a new project for your brand new store. So in this case,
+4:144 minutes et 14 secondesI'm going just to do Cloud Mellow [music] and we're going to create the project from here. I'm going to then take my image that we took on Go full
+4:224 minutes et 22 secondespage and I'm going to attach it here. So now that the whole product page is on here, we are going to then take my master prompt that I created for you
+4:304 minutes et 30 secondesguys. And essentially what it's going to do is going to analyze your competitor's entire site. So, every single section that they have, why it's even there in
+4:384 minutes et 38 secondesthe first place, like what does it actually do in terms of conversion and it's going to just digest all of it so that when we go and recreate the page,
+4:464 minutes et 46 secondeswe it'll be so much quicker and Claude will be able to give us really good custom code to then basically create recreate these sections. And by the way,
+4:544 minutes et 54 secondesthis prompt is absolutely free and can be found in my free Discord, which is going to be in the description. Copy the yellow part here. Scroll all the way down and copy this. bring it over to
+5:045 minutes et 4 secondesClaude, paste it, and then all you have to do is insert your competitor website URL right here. Uh, Melo's product web page. So, we'll go here, paste it, and
+5:135 minutes et 13 secondesthen you're going to prompt. And by the way, if you're wondering what model to use, I always use Opus 5. Obviously, you guys can use like a lower model like 4.8
+5:215 minutes et 21 secondesor something lower. But if you guys want the best output for this type of um prompting, you basically want to use Opus 5 or Fable 5, which honestly is a
+5:305 minutes et 30 secondeslittle bit overkill. So, Opus 5 is great. So, we're going to be very efficient. While this is prompting, we're going to go to the next step, which is step three. Create the website
+Chapitre 4 : Building the foundation
+5:375 minutes et 37 secondesstructure with Atlas. I've mentioned Atlas in my previous video. Why? Because this was the exact software that I used when I hit my first winning product and
+5:465 minutes et 46 secondesall my other products that I tested with afterwards. This is an app that you can download on Shopify. So, once you have it, you'll basically just go here, click
+5:545 minutes et 54 secondescreate new. You're going to click create the full store. And so, you have it here. Make sure by the way guys you need to have obviously your product already
+6:016 minutes et 1 secondecreated in your Shopify so up here. So for the sake of the video I've already included it. You're if you're wondering what are these images and like can I rip my competitor's images one to one?
+6:116 minutes et 11 secondesAbsolutely not. I'm just doing it for the sake of this video. But essentially, you guys need to use uh Gemini Pro, Nano Banana Pro, or Chachib Image 2 to
+6:206 minutes et 20 secondesbasically feed, you can download all the images from your competitor's website like I did, and you're going to feed it to uh one of your image generation AIS
+6:286 minutes et 28 secondesto then recreate the photo. It can be very similar. It just can't be identical. So, where we left off was we went here, create a full store, and then
+6:356 minutes et 35 secondeswe're going to select a new project, and I'm going to call this Cloud Mellow.
+6:406 minutes et 40 secondesCreate. And then from here, I'm going to select my hero product. So, we're going to do continue setup and we're going to
+6:476 minutes et 47 secondesuse the Atlas default. You guys can definitely go check out these other ones. For example, if you're doing supplements, the Grun supplement
+6:546 minutes et 54 secondestemplate is amazing, but for this video, we're just going to do the Atlas default. Continue setup. And from here, this is your market research, which
+7:027 minutes et 2 secondesagain, I go through this in my other video. It's very simple. Same thing with Claude is essentially you're going to go, it's on the same dock, by the way.
+7:097 minutes et 9 secondesYou would literally go step by step. I made it so simple and I told you exactly what does yellow mean, what does green mean. You copy paste every single prompt
+7:177 minutes et 17 secondesstep by step. And the only things you need to insert are anything that's highlighted in green. So in this case, we would do the product name, which is going to be our cloud pillow or whatever
+7:267 minutes et 26 secondesour product name is called. And then the product URL. The product URL you would basically take it from Alibaba, AliExpress, 1688, wherever you found the
+7:347 minutes et 34 secondesproduct. or you can even literally take your competitor's website product page and paste it into here. So, you'll do that and you'll go through prompt one,
+7:427 minutes et 42 secondesprompt two, prompt three, prompt four, uh prompt five, and then essentially everything is going to be complete. And then once you've basically finished the
+7:497 minutes et 49 secondesentire six prompts here, it'll give you a master PDF. Your quad will give you one PDF that you'll go here onto your atlas here and you're going to simply
+7:577 minutes et 57 secondespaste it into this section. So, you'll upload it here and then you'll press continue setup. If you're wondering, can you do this without putting it in? You
+8:048 minutes et 4 secondescan. is just that the the copy so that any text that you see on your website is just going to be more vague. If you want your conversions to be higher, you
+8:128 minutes et 12 secondesobviously need to match the market research that Claude has done because that is literally what like it's the data from the actual market that you're
+8:198 minutes et 19 secondestrying to sell to. Oh, and just like that, as I was saying it, the entire website is created. It [music] literally takes like 1 minute. I'm not even
+8:278 minutes et 27 secondesjoking. So, we have an entire website basically built in 1 minute. And you guys can see this is the mobile view.
+8:338 minutes et 33 secondesvery strong. There are some sections that we're going to tweak, but we'll get into that in a second. But yeah, you guys can literally see in one minute,
+8:418 minutes et 41 secondesyou basically have a store that is 60 70% done. And the final touches we will do manually. So, you're going to go ahead and press publish page. Now, make
+8:498 minutes et 49 secondessure you just publish it to whatever [music] your if you have a new Shopify store, just leave it how it is here and then publish. As this is publishing, I like to just go here, check that
+8:578 minutes et 57 secondeseverything's fine. See how sometimes Claude is not going to continue until you allow it. Oh, you guys can't see, but um right here, you basically have to
+9:059 minutes et 5 secondesalways make sure that they're you're clicking on the allow permissions. So, sometimes it'll pop up. It's good to always check back and forth. We'll exit out. And then if you go to your online
+9:149 minutes et 14 secondesstore on the left side here, you'll basically go and see that you have your website. There we go. We have the entire
+9:229 minutes et 22 secondessite that's already live on your account. This will already be linked to your main hero product. And then there we go. We have the entire product page
+9:309 minutes et 30 secondesalready built here from Atlas in literally a minute. The next step is to create the most important part of your product page, which is going to be your
+Chapitre 5 : Creating bundle offers
+9:379 minutes et 37 secondesoffer. I found an app that rivals and completely destroys Kitchening Bundles for those of you guys probably using Kitchening Bundles. I used it for the
+9:449 minutes et 44 secondeslongest time. This Why does this destroy it? One simple feature. You can take a screenshot of any single offer and it'll build it out to for you with AI in
+9:549 minutes et 54 secondesliterally like 30 seconds. All you're going to do is you're going to take I don't know if you're on Mac or in your Windows, but you're going to screenshot your section, right? So, you're going to
+10:0210 minutes et 2 secondesscreenshot it and then make sure you get everything. Okay? So, you this is the whole offer and you're going to download it. So, save it and then once it's saved, same like Atlas, you can download
+10:1010 minutes et 10 secondesthis app directly on Shopify. So, if you go to your app section, click on all recommended apps and then go down here, Shopify app store, you can go ahead search up uh Rapid Bundles.
+10:2110 minutes et 21 secondesThere you go, Rapid Bundles. And it's going to be this one right here.
+10:2410 minutes et 24 secondesdownload it, open it up, and so it'll bring you back here. I've already built an offer for a cloud pillow, but I'll show you guys live in action how it works. So, you'll literally go here and
+10:3310 minutes et 33 secondesthen you'll screenshot the entire bundle section. Make sure you guys get the the whole thing. So, you want it to be like this, right? And you're going to
+10:4010 minutes et 40 secondesdownload it to your device, and from there, you're going to simply go here, create bundle from screenshot, go here, upload it, and then it'll literally
+10:4810 minutes et 48 secondesbuild out something that is 99% if not 100% identical to your competitor. This ensures you can get an offer done in in
+10:5610 minutes et 56 secondes30 seconds, guys. And if you need to tweak some stuff manually, that'll take maybe a couple more minutes. So, you can literally have your entire offer done in 5 minutes. I'm putting you guys on sauce
+11:0511 minutes et 5 secondeshere. For example, I brought up Kitty Subs because I do like this style of offer. Let's say I do the exact same thing, right? I'm going to take the screenshot.
+11:1411 minutes et 14 secondesI'm going to take a screenshot like this, right, with the free gift um animation stuff on the bottom. I'm going to download this and then I'm going to go back to Rapid Bundles. So, right here, create a bundle from screenshot.
+11:2311 minutes et 23 secondesI'm going to upload it. Generate bundle with AI. And there you go. You have the exact identical offer created in 30 seconds. And it literally functions the exact same with the free gift unlock on
+11:3111 minutes et 31 secondesthe different variants. Always what I like to do is add our own sticky addart.
+11:3511 minutes et 35 secondesSo in this case, we're going to add this. So we are down to literally our last step, which is going to be taking what Claude gave us. And now it's just a
+Chapitre 6 : Customizing with liquid code
+11:4211 minutes et 42 secondessimple process that you just repeat over and over until the site is done. Now all we have to do is screenshot whatever section you want to recreate with Claude because Claude is essentially prepared.
+11:5211 minutes et 52 secondesSo, let's say I want to take on this section here, right? I'm going to screenshot this entire block.
+11:5811 minutes et 58 secondesI'm going to paste it and I'm going to just say the cloud recreate this section.
+12:0612 minutes et 6 secondesAnd once you have the section, you can copy it all. You're going to go to your product page and let's say I want to insert it right here because this is
+12:1412 minutes et 14 secondeswhere Melo has inserted right underneath this uh sliding horizontal section. I'm going to go here. I'm going to hover right in between the two sections. Or
+12:2112 minutes et 21 secondesyou can go on the left side and just click on like same thing. Hover in between a section, click on the plus sign. So in this case, I'm just going to hover here, add a section. You're going to search up custom liquid.
+12:3212 minutes et 32 secondesOnce that's loaded, you're going to see on the right side here, uh, the section pop out, and you're going to go and paste your section. Sometimes Claude will do this. And basically, if it says
+12:4112 minutes et 41 secondesthis code has errors, all you got to do is really just copy this, go back to Claude, and give it. Claude obviously can make mistakes here and there, but
+12:4912 minutes et 49 secondesit's very simple. All you got to do is feed the error code back to Claude and it's going to fix it. And a little pro tip, like if you guys want to be extremely efficient while that's going, might as well go to your next section
+12:5812 minutes et 58 secondesthat you want to recreate. Okay, let's do this section, right? I'm going to copy this. Now, Claude should be done with this first prompt. Yep. I'm going to paste it and
+13:0613 minutes et 6 secondesI'm going to just have Claude work on it while I go copy this code and then I'm going to go back to our product website and go here and insert the correct code.
+13:1613 minutes et 16 secondesNow, you see no errors. There you go, guys. Literally the exact same thing you guys can see, right? Image, headline,
+13:2513 minutes et 25 secondesbody text, drop down, menu, headline, body, text, drop down menu. Image is the only thing that isn't there. So, what do you have to do when you guys have your
+13:3313 minutes et 33 secondesimage for that section? All you got to do is tell Claude to add it to this code. So, you'll literally upload your image into Claude. So, for example, I'm
+13:4013 minutes et 40 secondesgoing to take this picture and I'm going to put it exactly here. So, you're just going to take the code again and you're going to go to Claude and say add this
+13:4813 minutes et 48 secondesimage into this code for the image section, right? Something like that. Boom. We have our next section. So, while that's
+13:5613 minutes et 56 secondesworking, I would just come here and I will go to add another, let's say, another section. And I'm going to add a custom liquid.
+14:0614 minutes et 6 secondesThere we go. It's added. We're going to go here, paste the code, and boom. Just like that, Claude one shot this entire
+14:1314 minutes et 13 secondessection. It even added an animation. I'm not sure if you guys saw that. Now, I showed you guys how to recreate pretty much any section down here. Now, what's more important is the called above the
+14:2214 minutes et 22 secondesfold. So, this section up here before anyone even just like begins to scroll down is what's most important. So, all of this part here from like these parts
+14:3114 minutes et 31 secondeshere, uh, all the little bullet points are very important. So, same thing, you're going to just take a screenshot of it.
+14:4014 minutes et 40 secondesLet's say I want to screenshot and take this part, right? So, I'm going to paste it in claw exact same way and I'm going to get the custom code and add it into that part of the above fold section. I'm going to do the same exact same thing.
+14:5014 minutes et 50 secondesI'm going to hover exactly where I want it to be. I'm going to add a custom liquid, right? And then from here, I'm going to paste a code.
+15:0115 minutes et 1 secondeBoom. And claude pretty much. So, this is 99% done. Why is it slightly different? Well, if we look here, we can see that the text is quite small and the
+15:0915 minutes et 9 secondesicons are a lot smaller. So, what you do is then you go back to claw and you be like, "Hey, um, the text the text is a lot smaller on the reference.
+15:2215 minutes et 22 secondesPlease make sure the size is identical, right? So, all you're going to do is
+15:2915 minutes et 29 secondestroubleshoot it like that." So, whatever you spot that's wrong and you want to tweak, you literally just type it to Claude and be like, "Hey, it's not perfect. You need to fix this." And then
+15:3815 minutes et 38 secondesyou're going to go and copy and paste it into the section and see if it works there. So, it's a lot smaller. Now, if I wanted to be very like nitty-gritty
+15:4615 minutes et 46 secondesabout this, I would go here and go uh tell it basically the line spacing in between seems a little bit too big, but that's very nitpicky. Also, you could
+15:5415 minutes et 54 secondessay like, for example, the icons here are pink and then the letter the actual [music] text is black. So, in this case, it's actually a big deal. So, I'm going to say keep u change the text color to be black.
+16:0816 minutes et 8 secondesOkay, let's paste it. And the text should be black. There we go. And then for this section, the little slider um testimonial section, you can go ahead
+16:1616 minutes et 16 secondesand also update the color. So, you'll click onto it or click on the left side here, product reviews. And when you click product reviews, you can then adjust the color manually. So, review
+16:2416 minutes et 24 secondescard background would be this dark color here. I can change it to the purple, right? And then you for the avatar image, you can add the image here. This
+16:3216 minutes et 32 secondesis all built from Atlas. So let's say if I wanted if I had an avatar or like an actual person's profile picture, I could
+16:3816 minutes et 38 secondesput it there and I can add their review right here, right? For example, review example and it will pop up right there.
+16:4616 minutes et 46 secondesSo yeah, this is very self-explanatory.
+16:4816 minutes et 48 secondesAll you got to do is literally copy your sections, give it to Claude and create custom liquid section here and then paste it in. That's it. And if it's not
+16:5616 minutes et 56 secondes100% what you like, you just troubleshoot it with Claude. And then for your header section, I like to keep the logo guys to the center, not on the left side. So make sure you guys go
+17:0417 minutes et 4 secondeshere, click header, put the logo in the center. The announcement bar, this is something like you can copy from your competitor. So in this case, they have a
+17:1117 minutes et 11 secondessliding uh announcement bar. You can have Claude code that, but a lot of sites will just have a very simple thing like let's say Labor Day sale, right? So
+17:2017 minutes et 20 secondesyou go to your site and you click on this, click on this part here, Labor Day sale. And just like that, you guys can see it's literally starting to come
+17:2717 minutes et 27 secondestogether and feel very branded. One very important note, always make sure your mobile view is optimized. Sometimes when Claude uh creates the custom code, it
+17:3617 minutes et 36 secondeswill look good on Windows, but mobile it won't. So, same thing. If on mobile something looks funky, make sure you guys go onto Claude, tell it, hey, on
+17:4417 minutes et 44 secondesmobile it looks like this or even send it a screenshot would be better. And yeah, this is our website, guys. Very clean. This is exactly like the level of
+17:5217 minutes et 52 secondesyour what your website should be for when you test. You don't need it to be any fancier. If you guys again want to spend extra time uh tweaking things even
+18:0018 minutesmore, you can go ahead and do that. For your homepage, it really doesn't matter guys when you're first trying to validate your product. No one goes to
+18:0618 minutes et 6 secondeshomepage. Like fun fact, 90% of people don't scroll past the offer. So they will literally get to add a cart and
+18:1418 minutes et 14 secondesthey will not go down here. So think of it, 10% of people will go down here. and even 10% of people won't even make it all the way down to the bottom. So, it does not really matter too much down
+18:2218 minutes et 22 secondeshere. Just make it polished enough down here um for [music] for the product testing, but up here is really important. So, your product images need
+18:3018 minutes et 30 secondesto be super sharp. So, the above the fold and your bundle. That's it for the video. I hope you enjoyed this video and found it valuable for those of you guys
+Chapitre 7 : Final tips and conclusion
+18:3718 minutes et 37 secondeswho are like stuck on basically creating a website because I know a lot of you guys are. And if you have any further questions, make sure to comment it down below or you can ask me in my free
+18:4618 minutes et 46 secondesDiscord, which there's a ton of active people in there that are also helping each other out. So, it's a great community. All the prompts are also going to be there for free, so you can
+18:5318 minutes et 53 secondesfind it there. And for those of you guys who don't have Trend Track, you can get 20% off using the link in my description. And for Atlas and Rapid Bundles, it'll also be linked in the description. Let me know what you guys
+19:0119 minutes et 1 secondewant to see in my next videos. I always keep an eye on what you guys want. So, feel free to let me know in the comments. And I hope you guys have a blessed day. See you guys in next.

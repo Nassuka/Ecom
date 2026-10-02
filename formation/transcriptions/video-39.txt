@@ -1,0 +1,719 @@
+Video 39 : What's going on y'all? I'm going to show
+0:01
+you how you're going to be able to use
+0:02
+AI to blow up your clothing brand. My
+0:04
+name is Malik. I'm 21 years old. I'm a
+0:06
+seven figureure brand owner. Used to
+0:07
+work fast food. Uh absolutely hated it
+0:10
+despite the smile on my face in these
+0:11
+pictures. But if we fast forward to
+0:13
+today, I've shipped over 35,000 orders
+0:15
+with my brand. As you guys can see,
+0:17
+there's some pictures of me inside of my
+0:19
+warehouse. Got some inventory right
+0:20
+here. But a big contributing factor for
+0:23
+me to be able to get to this point to
+0:24
+begin with is by utilizing AI and
+0:27
+specifically utilizing these two apps
+0:29
+right here, which is going to be Claude
+0:30
+and Hicksfield. I'm going to tell you
+0:32
+guys right now, Claude and Hickfield are
+0:33
+the only two apps you need to blow up
+0:35
+your brand despite all the apps out
+0:37
+there. It could be overwhelming, but I'm
+0:39
+going to show you guys the key points to
+0:40
+actually focus on when it comes to both
+0:42
+apps and what they're good for. So,
+0:44
+yeah, let's jump right into it. Now,
+0:46
+what's actually going to move the needle
+0:47
+and allow our clothing brand to blow up
+0:48
+is market research. I see a lot of
+0:50
+people skip this step and you guys are
+0:52
+wondering why your products aren't
+0:54
+selling after you launch. One of the
+0:55
+worst things you can do as a brand owner
+0:57
+is operate based off how you feel and
+0:59
+what you think is going to work. Like
+1:01
+you should never be guessing in this
+1:02
+game. I don't care what niche you're in,
+1:05
+there's someone out there that's already
+1:06
+done what you're trying to do and
+1:08
+whatever has worked for them. There's a
+1:10
+high chance it can work for you. So
+1:12
+market research allows us to look at
+1:13
+competitor data, looks at different
+1:15
+prices, different products that are
+1:16
+already selling and working within your
+1:18
+niche. and then different marketing
+1:20
+strategies as well. And that's what
+1:21
+makes this so important because we're
+1:23
+not just going to be guessing, throwing
+1:24
+up random shots, hoping stuff's going to
+1:25
+work, hoping stuff's going to sell.
+1:27
+We're working off the guidelines and
+1:29
+market research is the only thing that's
+1:30
+going to allow us to do so. To do this
+1:32
+effectively, you don't just want to be
+1:33
+vague and type in, hey, what's trending
+1:34
+in streetear? What's trending in my
+1:36
+niche? Claude needs more information
+1:37
+about your brand. And if you give it
+1:39
+trash prompts, you're going to get trash
+1:41
+responses. So, I have this document
+1:42
+right here where it just goes over brand
+1:44
+fundamentals, your audience, competitive
+1:46
+market context. So, it knows what
+1:48
+exactly to look for and it's accurate
+1:50
+data that pertains to your brand. I
+1:52
+already have a brand profile saved in my
+1:54
+files that was created with Claude.
+1:56
+That's what this file is right here. But
+1:58
+this is my prompt. Using my brand's
+2:00
+profile, find my top five competitors in
+2:02
+my niche with my similar pricing and
+2:03
+angles that pertain to my ICP. You're an
+2:06
+expert data analyst who specializes in
+2:08
+deep market research for DTOC streetear
+2:10
+brands. We're going to run this and
+2:11
+we're going to see all the data it gives
+2:12
+back to us. So, after about a minute of
+2:14
+waiting, this is what we have. We have
+2:16
+five different competitors and then it
+2:17
+gives us a breakdown on each individual
+2:19
+competitor as far as like their pricing,
+2:21
+if they're running free shipping, and it
+2:23
+also links directly to their website.
+2:25
+So, you can see how they're operating
+2:26
+and it gives you a brief at the bottom
+2:28
+of what this actually tells you
+2:30
+pertaining to your brand specifically.
+2:32
+What I like to do when I'm doing market
+2:33
+research for even my one-on-one clients
+2:35
+is I'll go through and look at their
+2:37
+competitor's websites and see how they
+2:39
+have it set up. I mean, I don't know
+2:40
+what's going on up here. This is
+2:42
+obviously broken. Um, but I'll go in and
+2:44
+just see like how they have their popup
+2:46
+set up. I'll enter my phone number, my
+2:47
+email, see what type of emails they're
+2:49
+sending out, see what type of text
+2:50
+messages they're sending out, what's
+2:52
+their actual offer. It looks like
+2:53
+they're doing 10% off here. And then
+2:55
+I'll just browse through and see like
+2:57
+how they have their actual product page
+2:59
+set up. I mean, this brand is honestly
+3:01
+crushing it, but their whole entire
+3:03
+operation is just like very mid. It
+3:05
+could be so much better, so much more
+3:06
+bespoke. But if it's if it's not broke,
+3:09
+don't fix it, I guess. But it doesn't
+3:11
+look like they're running any specific
+3:12
+offer as far as like buy one get one or
+3:14
+anything like that. And these are all
+3:16
+things you should be looking for when it
+3:18
+comes to doing market research and just
+3:19
+like trying to see what your competitors
+3:21
+are doing. And then you want to
+3:22
+implement that into your own brand and
+3:24
+try to make it better and seem more
+3:26
+appealing to your customers. Before we
+3:27
+jump into the real money maker, which is
+3:29
+Hicksfield, uh I got some honorable
+3:31
+mentions for Claude, right? And it's the
+3:32
+fact that it's an elite level
+3:34
+copywriter. So, all your product
+3:35
+descriptions, all your emails, your ad
+3:37
+copy, your Instagram captions, Claude
+3:40
+can do it 10 times better than you and
+3:41
+it can do it 10 times faster. I'm going
+3:43
+to show you guys real quick. If I just
+3:44
+type in, you know, write me five
+3:46
+different emails, each having different
+3:47
+angles promoting my offer. Watch how
+3:50
+good these email copies are going to be.
+3:51
+It's going to have a subject line. It's
+3:52
+going to have the actual email itself.
+3:55
+And it's going to do it in literally
+3:56
+like 30 minutes, 30 seconds. What am I
+3:58
+talking about? Just like that. As you
+4:00
+guys can see, we got five different
+4:01
+emails. I mean, this first one is more,
+4:03
+let's see, bundle math, offer lead,
+4:05
+value framing, uh, subject line. Do the
+4:07
+math on this. Has a preview text here.
+4:09
+And then the actual copy itself is
+4:11
+really good. Like, real quick, because
+4:13
+this isn't complicated. One hat, $60.
+4:15
+Two hats, $90. You weren't going to stop
+4:17
+at one anyway. You never do. Like, you
+4:19
+guys can see how good this actually is.
+4:21
+And you can only imagine how long it
+4:22
+would take you to come up with five
+4:24
+different emails off the dome and have
+4:26
+the copy be like this sharp. And it's
+4:28
+just something I had to throw in here as
+4:29
+like honorable mention. And Claude is
+4:31
+really good at doing anything copywriter
+4:34
+wise. It's also really good at playing
+4:35
+like the data analyst bookkeeper role
+4:37
+just for tracking business expenses and
+4:39
+then calculating your numbers. So like
+4:40
+your cost of goods, your profit margin,
+4:42
+break even roaz. Really good for that.
+4:44
+And it's also really good for being a
+4:46
+content specialist, photographer,
+4:47
+videographer. That's exactly where we're
+4:49
+about to jump into with Higsfield. As
+4:51
+you guys can see on the homepage, it's
+4:52
+actually trending right here to be able
+4:54
+to turn Claude into a creative engine.
+4:56
+And you do that by connecting Higsfield
+4:58
+into Claude natively. So, you never have
+4:59
+to actually leave Claude to begin with.
+5:02
+And you can just start generating a
+5:03
+bunch of content through there.
+5:04
+Everything I'm about to show you guys
+5:05
+right now is all completely 100% AI
+5:08
+generated content. And I use this
+5:10
+content to run his ads. And I just want
+5:12
+to explain why this is so beneficial.
+5:14
+Because before, one, you would have to
+5:16
+set up a studio shot to create something
+5:18
+like this, right? And then you would
+5:19
+have to pay a model, pay a creator to
+5:21
+take, you know, UGC style content and
+5:24
+send it over to you and then you run it
+5:26
+as ads. Uh, this isn't the move anymore.
+5:28
+All you have to do is just connect
+5:29
+Claude to Higsfield, learn how to prompt
+5:32
+and make really good images, and then
+5:34
+you can quickly test ads and scale your
+5:36
+winners, and rinse and repeat. And
+5:38
+that's how I blew up my brand. This
+5:39
+right here allows us to profit way more
+5:42
+because we're able to cut our content
+5:44
+budget in half. And this is what I truly
+5:46
+mean by blowing up your clothing brand
+5:48
+is increasing your profit margins and
+5:50
+obviously getting more sales because
+5:52
+you're able to test so many different
+5:54
+ads and generate so much content, right?
+5:56
+like this would be a whole entire studio
+5:59
+shot. You have to get the lighting
+6:00
+right, guys. I kid you not. It took me
+6:02
+at least 2 minutes to make something
+6:04
+like this within Claude. You guys can
+6:06
+see how flawless the text is. I have the
+6:08
+feed placement and the story placement
+6:10
+as well. And Claude will generate them
+6:12
+simultaneously. So, at the exact same
+6:14
+time, it comes out with the exact same
+6:16
+image. I'm able to have both. So, I can
+6:17
+go ahead and upload them into Meta and
+6:19
+start running them as ads. This is a
+6:20
+whole entire different angle that was
+6:22
+also generated with AI. And it's just
+6:24
+rinse and repeat. Like everything you
+6:26
+guys are seeing right now, all AI
+6:28
+generated. Not one of these are real
+6:30
+photos. It's relatively cheap to get
+6:32
+started on Hicksfield. There's like a
+6:33
+$50 a month plan. I'm not sponsored by
+6:35
+any means possible. I pay like $2,000 a
+6:38
+year for my specific plan on Hickfield.
+6:40
+That gets me around 6,500 credits and
+6:42
+I'm able to generate like a lot of
+6:44
+content. Sometimes I don't even use all
+6:46
+my credits for the month. You guys can
+6:48
+see up here like I'm not even a quarter
+6:49
+of the way through my credits and it's
+6:51
+I'm recording this on the 15th. But for
+6:54
+you guys, I want you to watch this video
+6:55
+and watch my other videos on actual
+6:57
+content creation when it takes field. So
+6:59
+that way when you are starting out,
+7:01
+you're on the basic plan. You're not
+7:02
+burning through your credits and you
+7:04
+know what you're doing when it comes to
+7:05
+prompting because you can't just type in
+7:07
+anything. You can't just say whatever
+7:08
+and expect like a crazy image. There's
+7:10
+an actual strategy and you have to be
+7:12
+strategic behind it. And I'm going to
+7:13
+just give you guys a quick overview. I
+7:14
+have three rules when it comes to
+7:16
+generating images. And that's having a
+7:18
+good reference image, having an in-depth
+7:20
+prompt, and choosing the right image
+7:22
+model. And what this means is Higsfield
+7:24
+is essentially a hub for a bunch of
+7:27
+different AI platforms all in one place
+7:29
+for you to be able to generate images,
+7:31
+but you only need to focus on two and
+7:33
+those are Nano Banana Pro and Chat GBT
+7:36
+image too. And the difference is Nano
+7:38
+Banana is like really good for product
+7:40
+shots and just creating scenery, nice
+7:42
+background. GBT2 is good for like text,
+7:45
+like having any crispy text, no spelling
+7:48
+errors. It's really good for that. And
+7:50
+it's also really good for inserting your
+7:52
+product into a pre-existing image like
+7:54
+this one right here. To get Hicksfield
+7:56
+connected to Claude, you're going to
+7:57
+click MCP and CLI. You're just going to
+7:59
+go ahead and copy this link right here.
+8:01
+And then you're going to jump into
+8:03
+Claude, click Customize, go down to
+8:05
+connectors, and then you'll see right
+8:07
+here, I already have it connected, but
+8:09
+it says Higsfield AI. All you have to do
+8:11
+is just click add, add custom connector,
+8:14
+type in HField, and then copy that link
+8:17
+into the remote MCP, you know, section
+8:19
+right here, and then just click add.
+8:21
+Now, we should be all good to go inside.
+8:23
+As y'all can see, this is the reference
+8:24
+image I dropped into Claude. We're going
+8:26
+to be recreating something like this.
+8:27
+And we're actually going to have Claude
+8:29
+make a prompt for us. We're not going to
+8:30
+sit here spending hours typing, you
+8:32
+know, multiple paragraphs trying to come
+8:34
+up with some strategic prompt. Claude is
+8:36
+going to do it for us. It's going to do
+8:37
+it in the best way possible because it
+8:39
+knows what works best when it comes to
+8:41
+image generation. It's generating the
+8:42
+prompt right here. And it's going into
+8:45
+like extreme detail. So, what we're
+8:47
+going to do is we're going to copy all
+8:48
+of this. And then we're going to go
+8:50
+ahead and just drop it right back in
+8:52
+here. And now we have these two
+8:54
+beautifully generated images. It took
+8:55
+about 40 seconds for the both of these.
+8:57
+And you guys can see right here
+8:58
+underneath the prompt, it tells you
+9:00
+which model it used. And for these, it
+9:02
+used Nano Banana Pro. So, like I was
+9:04
+saying earlier in the beginning, super
+9:05
+good for creating that scenery. So, we
+9:06
+have that dark aesthetic in the back
+9:08
+seat of the car. You can see the texture
+9:09
+on the jeans is very, very realistic.
+9:11
+Same with the actual product itself. And
+9:13
+these are honestly good to go. You have
+9:15
+the feed placement right here. We have
+9:16
+the story placement on the bottom. Um,
+9:18
+you don't even need text on these. You
+9:20
+can just run these as top ofunnel ads. I
+9:22
+wanted to show you guys one trick that I
+9:24
+use just to be more efficient with my
+9:25
+workflow. And that's by having this
+9:27
+right here, which is a element box.
+9:29
+Essentially, what this is, all these
+9:30
+different squares you guys are seeing
+9:32
+are individual products and the actual
+9:33
+angle of the products. So what I did was
+9:35
+I went through all my files, all my
+9:37
+product photos. I individually renamed
+9:39
+each one to be the name of the product
+9:41
+and then the angle. So like product
+9:43
+front shot, product side, product
+9:46
+bottom. And then I uploaded all them
+9:48
+into Higsfield as a reference element.
+9:50
+And now every time Claude goes to
+9:52
+generate an image, it gives me this box
+9:54
+to select which product I actually want
+9:57
+to use. And it'll even recommend which
+9:59
+product it thinks is the best fit. So
+10:01
+you guys can see down here it says City
+10:02
+of Angel's Front. So that's why I went
+10:04
+ahead and did City of Angel's Front and
+10:06
+then it gave me these phenomenal photos.
+10:08
+So definitely recommend you guys take
+10:10
+the time, rename all your product
+10:11
+photos, upload them into Hakesfield, and
+10:13
+then just ask Claude, "Hey, every time I
+10:15
+go and generate an image, prompt me my
+10:18
+reference elements and that way I can
+10:19
+select the product I want to use for the
+10:21
+photos we're going to generate." By now,
+10:23
+you guys should see why Claude and
+10:24
+Hfield are so powerful when you pair
+10:26
+them together. And I mean, honestly,
+10:27
+it's just super beneficial when it comes
+10:29
+to growing your brand. And this is just
+10:31
+the tip of the iceberg. So, if you guys
+10:32
+want to learn more about using Claude,
+10:34
+using Hickfield to grow your brand, it's
+10:36
+something I offer inside of my
+10:37
+one-on-one mentorship. There's a link
+10:39
+down below you can apply to work with
+10:40
+me. I also have a marketing agency as
+10:42
+well if you're looking for paid ads. But
+10:43
+guys, as always, I hope you enjoyed the
+10:45
+video. Leave a like. Let me know if it
+10:46
+was helpful in the comments. and I'll
+10:47
+see you in the next one.
