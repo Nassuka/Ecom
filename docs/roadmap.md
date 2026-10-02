@@ -5,7 +5,7 @@ Dates clés : **Black Friday 27/11** · Cyber Monday 30/11 · **dernières comma
 ## Semaine 1 — 2 au 9 octobre : cadrage et recherche produit
 - [x] Structure du projet et mémoire partagée (ce dépôt)
 - [x] Grille de notation des produits
-- [ ] Liste des produits qui ont cartonné aux Q4 2023, 2024 et 2025, et des tendances US 2026
+- [x] Liste des produits qui ont cartonné aux Q4 2023, 2024 et 2025, et des tendances US 2026 → short-list de 10 candidats pré-notés
 - [ ] Résumé des vidéos de formation → méthode retenue
 - [ ] Ajouter l'activité « vente à distance » à la micro-entreprise (voir `entreprise-juridique.md`)
 - [ ] Créer le Meta Business Manager et le compte publicitaire (pour qu'il prenne de l'ancienneté)
