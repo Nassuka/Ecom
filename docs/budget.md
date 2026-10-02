@@ -23,12 +23,17 @@
 - Environ **30-40 €/jour par produit pendant 5 à 7 jours**.
 - 1 000 € est un budget **serré** : la recherche produit doit être très rigoureuse pour ne pas gaspiller les tests. Chaque euro de marge réalisé doit être **réinvesti** dans la pub du produit qui fonctionne.
 
-## Règles de décision pour les pubs (à affiner avec les vidéos de formation)
+## Règles de décision pour les pubs (affinées avec les vidéos de formation, voir `formation/synthese.md` §2.5)
+
+- **ROAS d'équilibre** = 1 ÷ taux de marge brute (ex. 40 % de marge → ROAS 2,5). À calculer avant chaque lancement.
+- **Structure de test** : 1 campagne Ventes, 1 ensemble de pubs par angle à 10-15 €/jour, 3 créas par ensemble ; on ne touche à rien pendant 48-72 h.
+- **Couper une pub** si le CTR est sous 1 % ou si le hook rate est sous 25 %.
+- **Budget par produit** : environ **200 €** (test de 4 à 6 jours). Avec ~650 € de pub, cela fait 2 à 3 tests ; il faut s'attendre à rater 1 ou 2 produits.
 
 - **CPA cible** (coût d'acquisition d'une commande) = marge brute par commande, avant pub.
 - **Couper** une pub qui a dépensé environ **1 à 1,5 fois le CPA cible** sans vente.
-- **Couper** un produit dont aucune créa ne génère de ventes après environ **100-150 €** de dépense.
-- **Augmenter progressivement** (+20 à 30 % par jour) le budget d'une pub rentable sur 2-3 jours.
+- **Couper** un produit (stop-loss) qui n'est pas rentable après environ **150-200 €** de dépense, tous angles confondus.
+- **Augmenter progressivement** (+15 à 20 % par jour) le budget de ce qui est rentable sur 3 jours glissants ; ensuite 80 % du budget sur ce qui marche, 20 % en test.
 
 ## Suivi des dépenses
 
