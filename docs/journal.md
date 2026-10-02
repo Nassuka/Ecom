@@ -37,6 +37,14 @@
 
 Sources dans `formation/synthese.md` §5.
 
+**Suite de la session 2 : fournisseurs et noms**
+- Compte bancaire : le compte pro de la micro Decoscale suffit (même entité). Un sous-compte dédié à la boutique est recommandé, pas obligatoire. Case cochée dans la roadmap.
+- Fournisseurs stock UE pour les 5 premiers candidats : `fournisseurs/stock-ue-top5.md`. **Aucune fiche CJ/AliExpress n'a pu être ouverte** (proxy) : les coûts « entrepôt UE » sont des estimations à vérifier par le porteur.
+  - Le prix de vente FR est déjà bas, donc le ×3 est tendu sur 3 produits sur 5.
+  - Ordre conseillé : anneau fascia, masseur yeux, cascade sapin, appareil Y2K, collier chien (à rétrograder).
+- Noms de boutique : `docs/nom-boutique.md`, top 5 Nidette, Douce Pause, Rubanie, Cocon Malin, Jolie Pioche. Domaines vérifiés par DNS, pas par RDAP : à confirmer à l'achat. INPI/EUIPO à vérifier par le porteur.
+- Le porteur fera demain les formalités (activité à la micro, Meta Business Manager).
+
 **Prochaines étapes (urgentes vu le nouveau calendrier)**
 - **Porteur de projet** :
   - données SEMrush US/FR, avec le score de niche prix ÷ CPC ;
