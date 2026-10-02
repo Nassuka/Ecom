@@ -66,3 +66,22 @@ Recherche : "lampe chauffe-bougie" (phrase exacte), France, toutes les publicit�
 - À 31,42 € de coût la marge est nulle ; il faut un **coût rendu de 17 à 20 €** (fournisseur dropshipping UE).
 - Idée du porteur à retenir : **coffret lampe + bougie ou huile parfumée + carte** (panier plus élevé, angle cadeau).
 - À vérifier : lampe 230 V (CE, basse tension), ampoule remplaçable, verre, instructions en français.
+
+## Châle chauffant (captures du porteur, 02/10/2026)
+
+**États-Unis, "heated shawl" (phrase exacte, Actives) : 1 000 résultats** (le compteur semble plafonné à 1 000).
+- Les 3 pubs vues ont démarré **entre le 24 et le 28/09/2026** : Stomgikecard Grijapli (« Always Cold? Wear Your Warmth », châle chauffant porté sur le dos et les épaules), McKie Rae (« Always cold… even when everyone else feels fine? », vidéo « Send this to a cold-aholic »), Puppycomfy (« Always the cold one? », châle USB sur batterie externe, 3 niveaux de chaleur jusqu'à 149 °F, à enfiler ou à draper, lavable en machine).
+- Noms d'annonceurs de petites boutiques, vidéos UGC (voyage, déballage). Angle : « toujours froid », cadeau par partage (« send this to… »).
+- Lecture : un grand nombre de pubs actives, plusieurs lancées la semaine dernière : la vague de saison démarre aux US maintenant. Les 1 000 pubs ne prouvent pas les ventes, et la date commune peut aussi être le redémarrage saisonnier de campagnes existantes.
+
+**France, "châle chauffant" : 21 résultats**
+- **Middo** (2 pubs, début 28 et 29/09/2026, « Nombre faible d'impressions », moins de 100) : « Ce châle, je le garde sur moi, même quand je vais à la cuisine. Châle chauffant de 150 sur 80 cm avec un noyau chauffant en graphène dans un tissu synthétique doux. Il fonctionne en USB… » Aucune allégation de santé : bon exemple de texte conforme.
+- Komoder (fauteuils de massage) : hors sujet.
+- Concurrence française sur Meta : un annonceur qui démarre à peine.
+
+**Lecture produit**
+- Châle USB de 150 × 80 cm, chauffage graphène, **sans batterie fournie** (il faut une batterie externe USB) : pas de lithium dans le colis, donc pas de UN38.3 pour le châle seul ; mais risque de clients qui n'ont pas de batterie externe : à dire clairement sur la page, ou vendre en lot avec une batterie (coût et règles batterie en plus).
+- Points à vérifier avec le fournisseur : CE (basse tension, CEM), protection contre la surchauffe, GPSR, lavage, notice en français.
+
+**Marge cible** (3 % de frais de paiement, 12,3 % de cotisations, à vérifier) : vendu 44,90 €, coût par commande ≤ 20 € (seuil de rentabilité pub 2,5) ; vendu 39,90 €, coût ≤ 17 € environ.
+**Reste à faire** : prix de Middo et des annonceurs US, variantes FR, SEMrush FR/US, fournisseurs (AliExpress filtre UE, CJ entrepôt UE).
