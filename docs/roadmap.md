@@ -11,7 +11,7 @@ Dates clés : **Black Friday 27/11** · Cyber Monday 30/11 · **dernières comma
 - [x] Résumé des vidéos de formation → méthode retenue (39 vidéos, `formation/synthese.md`)
 - [ ] Ajouter l'activité « vente à distance » à la micro-entreprise (voir `entreprise-juridique.md`)
 - [ ] Créer le Meta Business Manager et le compte publicitaire (pour qu'il prenne de l'ancienneté)
-- [ ] Ouvrir un compte ou sous-compte bancaire dédié
+- [x] Compte bancaire : le compte pro de la micro-entreprise Decoscale sert (même entité). Option : sous-compte ou carte dédiée à la boutique pour suivre la rentabilité
 - [ ] TrendTrack : prendre 1 mois, analyser les boutiques US qui montent en ce moment
 - [ ] SEMrush : comparer les volumes de recherche US et FR des candidats
 - [ ] Noter 10 candidats dans la grille → en garder 3 (**au plus tard le 07-08/10**) ; ajouter Google Trends sur 5 ans et le score de niche SEMrush (prix ÷ CPC > 150)
