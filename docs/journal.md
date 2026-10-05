@@ -4,6 +4,23 @@
 
 ---
 
+## 2026-10-05 — Session 2 (suite) : nouvelle recherche produit avec TrendTrack
+
+**Décidé**
+- Le porteur demande d'**oublier tous les produits trouvés jusqu'ici** et de repartir sur une recherche automatisée avec **TrendTrack connecté à Claude (MCP)**. Les anciens fichiers sont gardés comme historique, marqués archivés (`CLAUDE.md`, `recherche-produit/produits-q4-historiques.md`).
+- Critères conservés : grille de notation, marge (coût par commande ≤ environ 40 % du prix, seuil de rentabilité pub réaliste), conformité (CE/GPSR, pas d'allégation santé), dropshipping pur avec stock fournisseur en UE.
+
+**Connexion TrendTrack** : pas de connecteur dans l'annuaire officiel ; d'après les vidéos 32, 37 et 40, TrendTrack propose dans son interface une fenêtre « connecter Claude » (3 étapes) qui donne l'URL MCP à coller dans Claude → Connecteurs → Ajouter un connecteur personnalisé. Compte TrendTrack requis (prix à vérifier sur leur site).
+
+**Calendrier** : 3 jours se sont écoulés depuis le 02/10. Objectif révisé : produit choisi avant le **08-09/10**, page en ligne vers le 16/10, 1er test Meta vers le **20-23/10**.
+
+**Prochaines étapes**
+- Porteur : créer le compte TrendTrack, connecter Claude, vérifier que le connecteur apparaît.
+- Claude : lancer la recherche (prompt adapté, voir la conversation), croiser avec SEMrush FR, bibliothèque Meta FR et fournisseurs UE.
+- Formalités restantes du porteur : activité à ajouter à la micro, Meta Business Manager.
+
+---
+
 ## 2026-10-02 — Session 2 : résumé des 39 vidéos de formation
 
 **Fait**

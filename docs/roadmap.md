@@ -12,7 +12,7 @@ Dates clés : **Black Friday 27/11** · Cyber Monday 30/11 · **dernières comma
 - [ ] Ajouter l'activité « vente à distance » à la micro-entreprise (voir `entreprise-juridique.md`)
 - [ ] Créer le Meta Business Manager et le compte publicitaire (pour qu'il prenne de l'ancienneté)
 - [x] Compte bancaire : le compte pro de la micro-entreprise Decoscale sert (même entité). Option : sous-compte ou carte dédiée à la boutique pour suivre la rentabilité
-- [ ] TrendTrack : prendre 1 mois, analyser les boutiques US qui montent en ce moment
+- [ ] TrendTrack : prendre 1 mois, connecter à Claude (MCP) et relancer la recherche produit (décision du 05/10 : on repart de zéro, anciens produits archivés)
 - [ ] SEMrush : comparer les volumes de recherche US et FR des candidats (fait le 02/10 pour 6 produits sur 10, voir `recherche-produit/releve-semrush-2026-10-02.md` ; reste masseur yeux, guirlande sapin, pare-brise, appareil photo)
 - [ ] Noter 10 candidats dans la grille → en garder 3 (**au plus tard le 07-08/10**) ; ajouter Google Trends sur 5 ans et le score de niche SEMrush (prix ÷ CPC > 150)
 - [ ] Pour chaque produit retenu : calculer le prix de vente, la marge, le **ROAS d'équilibre (1 ÷ taux de marge)** et le CPA maximum

@@ -1,3 +1,5 @@
+> **ARCHIVÉ le 05/10/2026** : décision du porteur de repartir d'une recherche produit automatisée avec TrendTrack. Cette short-list, les relevés SEMrush / Meta et les fichiers niche / vérification sont conservés comme historique uniquement, pas comme candidats. Les critères et méthodes de calcul restent valables.
+
 # Produits qui ont cartonné aux Q4 précédents + tendances US 2026
 
 > Synthèse du 2026-10-02 à partir de deux recherches web (65 produits au total). Détails et sources :

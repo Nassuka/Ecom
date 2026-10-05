@@ -17,6 +17,7 @@ Ce dépôt est la **mémoire du projet** : chaque session doit commencer par lir
 - Objectif : boutique Shopify pour le **Q4 2026** (Black Friday 27/11/2026, Noël), marché **francophone** (FR, BE, CH, MC, AD).
 - Méthode : repérer ce qui marche aux **US** (TrendTrack, SEMrush) et qui n'est pas encore saturé en France ; produits des Q4 passés.
 - Outils : SEMrush (abonnement actif), TrendTrack et AutoDS (pas encore), Meta Ads en priorité, Google Ads en test, IA pour les créas (Higgsfield, Seedance, Nano Banana).
+- **Depuis le 05/10/2026, les produits cherchés avant sont archivés** (short-list de 10, niches 40+, masque chauffant yeux, lampe chauffe-bougie, châle chauffant). Ne pas les reproposer comme candidats. Nouvelle méthode : recherche automatisée avec **TrendTrack connecté à Claude** (connecteur MCP). Les fichiers restent dans le dépôt comme historique, et les critères (grille, marges, conformité) sont conservés.
 - Contraintes produit : petit colis, effet waouh, résout un problème ou fort côté émotionnel/cadeau, fournisseur avec stock UE (≤ 3 j idéal, 9 j max).
 - Modèle : **dropshipping pur**. Aucun stock acheté : le client commande sur la boutique, la commande est transmise au fournisseur, qui expédie directement au client. « Stock UE » = stock du fournisseur dans un entrepôt européen. Le coût à comparer est ce que le fournisseur facture par commande (produit + livraison vers le client). Les 1 000 € servent à la pub, aux outils et aux échantillons.
 - Budget de départ : **1 000 €** (voir `docs/budget.md`).
