@@ -22,6 +22,9 @@
 
 **Mise à jour (05/10, plus tard)** : TrendTrack **connecté** (connecteur actif dans la session ; forfait Professional, 10 000 crédits, 0 utilisé). Le porteur a donné un **protocole de recherche produit** autonome, enregistré dans `docs/protocole-recherche-produit.md` (branche « Minea » remplacée par TrendTrack). Il demande de piloter son Chrome ; cette session cloud n'a pas d'outil de navigation : l'extension Claude in Chrome doit être activée dans une session locale (application desktop).
 
+
+**Recherche TrendTrack (05/10, fin de journée)** : première passe faite sans Chrome, résultats dans `recherche-produit/trendtrack-2026-10-05.md` (6 pistes ; **aucun produit validé** : coût fournisseur, Google Trends, TikTok et concurrence FR non vérifiés). Chrome ne s'active pas dans cette session cloud ; le porteur a le connecteur `claude-in-chrome` dans **Claude Desktop** : lancer le protocole là-bas (conversation Claude Desktop avec TrendTrack + Chrome) et coller le livrable ici pour l'enregistrer.
+
 ---
 
 ## 2026-10-02 — Session 2 : résumé des 39 vidéos de formation
