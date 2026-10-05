@@ -19,6 +19,9 @@
 - Claude : lancer la recherche (prompt adapté, voir la conversation), croiser avec SEMrush FR, bibliothèque Meta FR et fournisseurs UE.
 - Formalités restantes du porteur : activité à ajouter à la micro, Meta Business Manager.
 
+
+**Mise à jour (05/10, plus tard)** : TrendTrack **connecté** (connecteur actif dans la session ; forfait Professional, 10 000 crédits, 0 utilisé). Le porteur a donné un **protocole de recherche produit** autonome, enregistré dans `docs/protocole-recherche-produit.md` (branche « Minea » remplacée par TrendTrack). Il demande de piloter son Chrome ; cette session cloud n'a pas d'outil de navigation : l'extension Claude in Chrome doit être activée dans une session locale (application desktop).
+
 ---
 
 ## 2026-10-02 — Session 2 : résumé des 39 vidéos de formation
